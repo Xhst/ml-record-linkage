@@ -1,11 +1,10 @@
 # linkage-project
 
 ---
-##Assignment specification
-[View PDF](./assignment_specs.pdf)
+##Assignment specification ([Open PDF](./assignment_specs.pdf))
 
-##Overleaf report
+##Overleaf report  
 *insert final PDF here*
 
-##Description
+##Description  
 Very cool record linkage repo
