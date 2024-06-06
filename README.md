@@ -1,6 +1,5 @@
 # linkage-project
 
----
 ### Assignment specification ([Open PDF](assignment-specs.pdf))
 
 ### Overleaf report  
