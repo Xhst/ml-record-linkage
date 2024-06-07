@@ -1,6 +1,7 @@
 import argparse
 import os
 import json
+import time
 from transformers import AutoTokenizer, AutoModel
 import torch
 
@@ -68,7 +69,7 @@ def assign_device(device_name):
             device = torch.device("cpu")
     
     # Display available devices
-    print(f"Device: {device}")
+    print(f"Device: {device_name}")
     print(f"CUDA Available: {torch.cuda.is_available()}")
     if torch.cuda.is_available():
         print(f"CUDA Device Count: {torch.cuda.device_count()}")
@@ -90,23 +91,36 @@ def save_embedding_dictionary(filepath2embedding, output_dir, output_file_name):
 def main():
     # Set up argument parsing
     parser = argparse.ArgumentParser(description="Process a directory of JSON files to extract and embed page titles.")
-    parser.add_argument("directory", type=str, help="Path to the directory containing JSON files")
+    parser.add_argument("--dir", type=str, help="Path to the directory containing JSON files")
     parser.add_argument("--device", type=str, choices=["cpu", "cuda"], default="cpu", help="Computing device to use (cpu or cuda)")
     args = parser.parse_args()
+
+    # Determine the directory to process
+    if args.dir:
+        ds_dir = args.dir
+    else:
+        ds_dir = "dataset/2013_monitor_specs"
+        print(f"No directory specified. Using default directory: \"{ds_dir}\"")
 
     # Determine the device to use
     device = assign_device(args.device)
 
     # Process the specified directory into a dictionary of embeddings
-    embeddings = process_directory(args.directory, device)
-    
-    print("Embedded " + str(len(embeddings)) + " jsons out of " + str(count_files(args.directory)) + " total. \n" + 
-          str(count_files(args.directory) - len(embeddings)) + " missing") # 16627
+    start = time.time()
+
+    embeddings = process_directory(ds_dir, device)
+
+    end = time.time()
+    print(f"Processing time (using {device}): {end - start:.2f} seconds")
+    print("Embedded " + str(len(embeddings)) + " jsons out of " + str(count_files(ds_dir)) + " total. \n" + 
+          str(count_files(ds_dir) - len(embeddings)) + " missing") # 16627
     
     print("Saving to json...")
     
     output_dir = "embeddings"
-    save_embedding_dictionary(embeddings, output_dir, "embeddings_distilbert_base_uncased.json")
+    file_name = "embeddings_distilbert_base_uncased.json"
+    
+    save_embedding_dictionary(embeddings, output_dir, file_name)
     
     print("Embeddings saved to " + output_dir + "/embeddings_distilbert_base_uncased.json")
 
