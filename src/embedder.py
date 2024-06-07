@@ -4,10 +4,12 @@ import json
 from transformers import AutoTokenizer, AutoModel
 import torch
 
+
 # Initialize the model and tokenizer
 model_name = "distilbert-base-uncased"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModel.from_pretrained(model_name)
+
 
 def embed_text(text, device):
     """Embed the given text using a pre-trained transformer model."""
@@ -21,6 +23,7 @@ def embed_text(text, device):
     embedding_list = embedding.tolist()
     return embedding_list
 
+
 def process_json_file(file_path, device):
     """Extract the page title from the JSON file and return its embedding."""
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -29,6 +32,7 @@ def process_json_file(file_path, device):
         if page_title:
             return embed_text(page_title, device)
     return None
+
 
 def process_directory(directory_path, device):
     """Process all JSON files in the directory and return a list of embeddings."""
@@ -42,6 +46,7 @@ def process_directory(directory_path, device):
                     relative_path = os.path.relpath(file_path, directory_path)
                     filepath2embedding[relative_path] = embedding
     return filepath2embedding
+
 
 def count_files(directory_path):
     """Count the number of JSON files in the directory."""
@@ -104,6 +109,7 @@ def main():
     save_embedding_dictionary(embeddings, output_dir, "embeddings_distilbert_base_uncased.json")
     
     print("Embeddings saved to " + output_dir + "/embeddings_distilbert_base_uncased.json")
+
 
 if __name__ == "__main__":
     main()
