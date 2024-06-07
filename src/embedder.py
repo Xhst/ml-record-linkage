@@ -64,6 +64,9 @@ def assign_device(device_name):
     if device_name == "cuda":
         if torch.cuda.is_available():
             print("CUDA is available. Using GPU.")
+            print(f"CUDA Device Count: {torch.cuda.device_count()}")
+        for i in range(torch.cuda.device_count()):
+            print(f"Device {i}: {torch.cuda.get_device_name(i)}")
         else:
             print("CUDA is not available. Falling back to CPU.")
             device = torch.device("cpu")
@@ -71,11 +74,7 @@ def assign_device(device_name):
     # Display available devices
     print(f"Device: {device_name}")
     print(f"CUDA Available: {torch.cuda.is_available()}")
-    if torch.cuda.is_available():
-        print(f"CUDA Device Count: {torch.cuda.device_count()}")
-        for i in range(torch.cuda.device_count()):
-            print(f"Device {i}: {torch.cuda.get_device_name(i)}")
-    
+   
     return device
             
 
