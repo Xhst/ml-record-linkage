@@ -1,0 +1,113 @@
+{
+    "<page title>": "HP A1X76AA#ABA L6010 Retail Monitor LED Monitor - 10.4\" - Vology",
+    "aspect ratio": [
+        "4:3",
+        "4:3"
+    ],
+    "audio": "Type Speakers - stereo - integrated",
+    "backlight technology": "WLED",
+    "brightness": [
+        "300 cd/m2",
+        "300 cd/m2"
+    ],
+    "builtin devices": [
+        "USB hub",
+        "USB hub"
+    ],
+    "cables included": "1 x VGA cable - 6 ft \u00a6 1 x DisplayPort cable - 6 ft \u00a6 2 x DVI cable - 6 ft \u00a6 1 x USB cable - 6 ft \u00a6 1 x audio cable - 6 ft",
+    "color": [
+        "HP jack black",
+        "HP jack black"
+    ],
+    "color temperature": "6500K",
+    "compliant standards": [
+        "Plug and Play, CSA, UL, VCCI, C-Tick, BSMI, CCC, FCC, ICES, S Mark, CECP, BFR",
+        "Plug and Play, CSA, UL, VCCI, C-Tick, BSMI, CCC, FCC, ICES, S Mark, CECP, BFR"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DisplayPort ( HDCP ) \u00a6 DVI-D ( HDCP ) \u00a6 USB 2.0 \u00a6 USB upstream \u00a6 Audio line-in",
+    "contrast ratio": [
+        "1000:1",
+        "1000:1"
+    ],
+    "controls  adjustments": "Brightness, contrast, color temperature",
+    "device type": "LED-backlit LCD monitor - 10.4\"",
+    "diagonal size": "10.4\"",
+    "dimensions wxdxh": [
+        "7.6 in x 6.6 in x 8.9 in",
+        "7.6 in x 6.6 in x 8.9 in"
+    ],
+    "display position adjustments": [
+        "Height, tilt",
+        "Height, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental parameters": "Humidity Range Operating 20 - 80% (non-condensing)\nMax Operating Temperature 104 \u00b0F\nMin Operating Temperature 41 \u00b0F",
+    "environmental standards": [
+        "ENERGY STAR Qualified Yes\nEPEAT Compliant EPEAT Gold",
+        "ENERGY STAR Qualified , EPEAT Gold"
+    ],
+    "epeat compliant": "EPEAT Gold",
+    "features": [
+        "Security lock slot (cable lock sold separately)",
+        "57% color gamut"
+    ],
+    "flat panel mount interface": "75 x 75 mm",
+    "general": "Color HP jack black\nBuilt-in Devices USB hub\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nNative Resolution 1024 x 768 at 60 Hz\nFeatures 57% color gamut\nWeight 2.2 lbs\nHorizontal Viewing Angle 176\nContrast Ratio 1000:1\nControls & Adjustments Brightness, contrast, color temperature\nVertical Viewing Angle 176\nPanel Type TN\nScreen Coating Anti-glare, anti-static\nBacklight Technology WLED\nHorizontal Refresh Rate 24 - 83 kHz\nVertical Refresh Rate 50 - 76 Hz\nAspect Ratio 4:3\nBrightness 300 cd/m2\nDimensions (WxDxH) 7.6 in x 6.6 in x 8.9 in\nColor Temperature 6500K\nOSD Languages Chinese (traditional), Chinese (simplified), English, German, French, Italian, Portuguese, Spanish, Japanese\nPixel Pitch 0.206 mm\nVideo Bandwidth 140 MHz\nDiagonal Size 10.4\"\nViewable Size 10.4\"",
+    "height adjustment": "2.7 in",
+    "horizontal refresh rate": "24 - 83 kHz",
+    "horizontal viewing angle": "176",
+    "humidity range operating": "20 - 80% (non-condensing)",
+    "input connectors": "DVI-D, VGA, DisplayPort",
+    "interfaces": "VGA \u00a6 DisplayPort ( HDCP ) \u00a6 DVI-D ( HDCP ) \u00a6 USB 2.0 \u00a6 USB upstream \u00a6 Audio line-in",
+    "localization": [
+        "English / United States",
+        "English / United States"
+    ],
+    "mainspecs": "Screen Coating Anti-glare, anti-static\nPanel Type TN\nContrast Ratio 1000:1\nBrightness 300 cd/m2\nDisplay Position Adjustments Height, tilt\nInput Connectors DVI-D, VGA, DisplayPort\nPixel Pitch 0.206 mm\nSpeakers Integrated\nDevice Type LED-backlit LCD monitor - 10.4\"\nLocalization English / United States\nCompliant Standards Plug and Play, CSA, UL, VCCI, C-Tick, BSMI, CCC, FCC, ICES, S Mark, CECP, BFR\nWeight 2.2 lbs\nDimensions (WxDxH) 7.6 in x 6.6 in x 8.9 in\nManufacturer Warranty 3 years warranty\nProduct Description HP L6010 Retail Monitor - LED monitor - 10.4\"\nAspect Ratio 4:3\nEnvironmental Standards ENERGY STAR Qualified , EPEAT Gold\nColor HP jack black\nNative Resolution 1024 x 768 at 60 Hz\nBuilt-in Devices USB hub",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support 3 years warranty\nService & Support Details Limited warranty - parts and labor - 3 years"
+    ],
+    "max operating temperature": "104 \u00b0F",
+    "mechanical": "Height Adjustment 2.7 in\nTilt Angle -5/+35\nDisplay Position Adjustments Height, tilt\nFlat Panel Mount Interface 75 x 75 mm",
+    "min operating temperature": "41 \u00b0F",
+    "miscellaneous": "Features Security lock slot (cable lock sold separately)\nCompliant Standards Plug and Play, CSA, UL, VCCI, C-Tick, BSMI, CCC, FCC, ICES, S Mark, CECP, BFR\nLocalization English / United States\nCables Included 1 x VGA cable - 6 ft \u00a6 1 x DisplayPort cable - 6 ft \u00a6 2 x DVI cable - 6 ft \u00a6 1 x USB cable - 6 ft \u00a6 1 x audio cable - 6 ft",
+    "native resolution": [
+        "1024 x 768 at 60 Hz",
+        "1024 x 768 at 60 Hz"
+    ],
+    "os required": "Microsoft Windows XP Professional, Microsoft Windows Embedded for Point of Service, Microsoft Windows 7 Professional (32/64 bits), Microsoft Windows Embedded POSReady, Microsoft Windows Vista Business 32-bit Edition",
+    "osd languages": "Chinese (traditional), Chinese (simplified), English, German, French, Italian, Portuguese, Spanish, Japanese",
+    "panel type": [
+        "TN",
+        "TN"
+    ],
+    "pixel pitch": [
+        "0.206 mm",
+        "0.206 mm"
+    ],
+    "power": "Voltage Required AC 120/230 V ( 50/60 Hz )\nPower Consumption Operational 11 Watt\nPower Consumption Stand by / Sleep 1 Watt",
+    "power consumption operational": "11 Watt",
+    "power consumption stand by  sleep": "1 Watt",
+    "product description": "HP L6010 Retail Monitor - LED monitor - 10.4\"",
+    "screen coating": [
+        "Anti-glare, anti-static",
+        "Anti-glare, anti-static"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labor - 3 years",
+    "software  system requirements": "OS Required Microsoft Windows XP Professional, Microsoft Windows Embedded for Point of Service, Microsoft Windows 7 Professional (32/64 bits), Microsoft Windows Embedded POSReady, Microsoft Windows Vista Business 32-bit Edition",
+    "speakers": "Integrated",
+    "tilt angle": "-5/+35",
+    "type": "Speakers - stereo - integrated",
+    "vertical refresh rate": "50 - 76 Hz",
+    "vertical viewing angle": "176",
+    "video bandwidth": "140 MHz",
+    "viewable size": "10.4\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "2.2 lbs",
+        "2.2 lbs"
+    ]
+}

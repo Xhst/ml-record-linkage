@@ -1,0 +1,78 @@
+{
+    "<page title>": "ACER UM.IG6AA.001 - Vology",
+    "aspect ratio": [
+        "Widescreen",
+        "Widescreen"
+    ],
+    "backlight technology": "LED backlight",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI ( HDCP )",
+    "contrast ratio": [
+        "1000:1 / 100000000:1 (dynamic)",
+        "1000:1 / 100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 19.5\"",
+    "diagonal size": "19.5\"",
+    "dimensions  weight": "Dimensions & Weight Details Without stand - width: 18.3 in - depth: 1.3 in - height: 11.1 in - weight: 4.9 lbs",
+    "dimensions  weight details": "Without stand - width: 18.3 in - depth: 1.3 in - height: 11.1 in - weight: 4.9 lbs",
+    "dimensions wxdxh": [
+        "18.3 in x 6.6 in x 13.1 in",
+        "18.3 in x 6.6 in x 13.1 in"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified",
+        "ENERGY STAR Qualified Yes"
+    ],
+    "features": "HDCP, 72% NTSC color gamut",
+    "general": "Response Time 5 ms\nDiagonal Size 19.5\"\nNative Resolution 1600 x 900 at 60 Hz\nPanel Type TN\nVertical Viewing Angle 170\nHorizontal Viewing Angle 178\nContrast Ratio 1000:1 / 100000000:1 (dynamic)\nBacklight Technology LED backlight\nHorizontal Refresh Rate 80 kHz\nVertical Refresh Rate 75 Hz\nBrightness 250 cd/m2\nAspect Ratio Widescreen\nFeatures HDCP, 72% NTSC color gamut\nWeight 5.1 lbs\nDimensions (WxDxH) 18.3 in x 6.6 in x 13.1 in\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nPixel Pitch 0.27 mm",
+    "horizontal refresh rate": "80 kHz",
+    "horizontal viewing angle": "178",
+    "input connectors": "DVI, VGA",
+    "interfaces": "VGA \u00a6 DVI ( HDCP )",
+    "mainspecs": "Panel Type TN\nPixel Pitch 0.27 mm\nInput Connectors DVI, VGA\nDisplay Position Adjustments Tilt\nBrightness 250 cd/m2\nContrast Ratio 1000:1 / 100000000:1 (dynamic)\nDimensions (WxDxH) 18.3 in x 6.6 in x 13.1 in\nWeight 5.1 lbs\nProduct Description Acer G206HQL bd - LED monitor - 19.5\"\nAspect Ratio Widescreen\nColor Support 16.7 million colors\nDevice Type LED-backlit LCD monitor - 19.5\"\nEnvironmental Standards ENERGY STAR Qualified\nResponse Time 5 ms\nNative Resolution 1600 x 900 at 60 Hz",
+    "mechanical": "Tilt Angle -5/+15\nDisplay Position Adjustments Tilt",
+    "miscellaneous": "MTBF 30,000 hours",
+    "mtbf": "30,000 hours",
+    "native resolution": [
+        "1600 x 900 at 60 Hz",
+        "1600 x 900 at 60 Hz"
+    ],
+    "panel type": [
+        "TN",
+        "TN"
+    ],
+    "pixel pitch": [
+        "0.27 mm",
+        "0.27 mm"
+    ],
+    "power": "Power Consumption Sleep 0.49 Watt\nPower Consumption Operational 14 Watt\nVoltage Required AC 120/230 V\nPower Supply External",
+    "power consumption operational": "14 Watt",
+    "power consumption sleep": "0.49 Watt",
+    "power supply": "External",
+    "product description": "Acer G206HQL bd - LED monitor - 19.5\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "tilt angle": "-5/+15",
+    "vertical refresh rate": "75 Hz",
+    "vertical viewing angle": "170",
+    "voltage required": "AC 120/230 V",
+    "weight": [
+        "5.1 lbs",
+        "5.1 lbs"
+    ]
+}

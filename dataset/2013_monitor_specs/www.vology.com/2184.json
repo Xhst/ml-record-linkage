@@ -1,0 +1,74 @@
+{
+    "3d capable": [
+        "Yes",
+        "Yes"
+    ],
+    "<page title>": "ACER UM.FG6AA.B01 - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "LED backlight",
+    "brightness": [
+        "350 cd/m2",
+        "350 cd/m2"
+    ],
+    "cables included": "1 x VGA cable \u00a6 1 x DVI cable",
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI \u00a6 HDMI",
+    "contrast ratio": [
+        "100000000:1 (dynamic)",
+        "100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 24\"",
+    "diagonal size": "24\"",
+    "dimensions  weight": "Dimensions & Weight Details With stand - width: 22.2 in - depth: 7 in - height: 15.8 in \u00a6 Without stand - width: 22.2 in - depth: 0.9 in - height: 13.5 in",
+    "dimensions  weight details": "With stand - width: 22.2 in - depth: 7 in - height: 15.8 in \u00a6 Without stand - width: 22.2 in - depth: 0.9 in - height: 13.5 in",
+    "dimensions wxdxh": [
+        "22.2 in x 7 in x 15.8 in",
+        "22.2 in x 7 in x 15.8 in"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "features": "Acer EcoDisplay, nVidia 3D Vision 2 Ready, NVIDIA 3D LightBoost technology",
+    "flat panel mount interface": "100 x 100 mm",
+    "general": "Native Resolution FullHD 1920 x 1080 at 144 Hz\nAspect Ratio Widescreen - 16:9\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nBacklight Technology LED backlight\nVertical Viewing Angle 160\nContrast Ratio 100000000:1 (dynamic)\nHorizontal Viewing Angle 170\n3D Capable Yes\nDimensions (WxDxH) 22.2 in x 7 in x 15.8 in\nResponse Time 1 ms\nPixel Pitch 0.276 mm\nDiagonal Size 24\"\nBrightness 350 cd/m2\nFeatures Acer EcoDisplay, nVidia 3D Vision 2 Ready, NVIDIA 3D LightBoost technology",
+    "horizontal viewing angle": "170",
+    "input connectors": "HDMI, DVI, VGA",
+    "interfaces": "VGA \u00a6 DVI \u00a6 HDMI",
+    "mainspecs": "Aspect Ratio Widescreen - 16:9\nResponse Time 1 ms\nNative Resolution FullHD 1920 x 1080 at 144 Hz\nPixel Pitch 0.276 mm\nContrast Ratio 100000000:1 (dynamic)\nBrightness 350 cd/m2\nDisplay Position Adjustments Tilt\nInput Connectors HDMI, DVI, VGA\nColor Support 16.7 million colors\n3D Capable Yes\nDevice Type LED-backlit LCD monitor - 24\"\nManufacturer Warranty 3 years warranty\nProduct Description Acer GN246HL - 3D LED monitor - 24\"\nDimensions (WxDxH) 22.2 in x 7 in x 15.8 in",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support 3 years warranty\nService & Support Details Limited warranty - 3 years"
+    ],
+    "mechanical": "Display Position Adjustments Tilt\nTilt Angle -5/+15\nFlat Panel Mount Interface 100 x 100 mm",
+    "miscellaneous": "Cables Included 1 x VGA cable \u00a6 1 x DVI cable",
+    "native resolution": [
+        "FullHD 1920 x 1080 at 144 Hz",
+        "FullHD 1920 x 1080 at 144 Hz"
+    ],
+    "pixel pitch": [
+        "0.276 mm",
+        "0.276 mm"
+    ],
+    "power": "Power Supply External\nPower Consumption Sleep 0.49 Watt\nPower Consumption Stand by 0.45 Watt\nPower Consumption Operational 23 Watt",
+    "power consumption operational": "23 Watt",
+    "power consumption sleep": "0.49 Watt",
+    "power consumption stand by": "0.45 Watt",
+    "power supply": "External",
+    "product description": "Acer GN246HL - 3D LED monitor - 24\"",
+    "response time": [
+        "1 ms",
+        "1 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "tilt angle": "-5/+15",
+    "vertical viewing angle": "160"
+}

@@ -1,0 +1,88 @@
+{
+    "<page title>": "HP XN374AA Compaq LA2006x - LED Monitor - 20\" - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "builtin devices": [
+        "USB hub",
+        "USB hub"
+    ],
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "compatible with windows 7": "\"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "compliant standards": [
+        "Plug and Play",
+        "Plug and Play"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DisplayPort \u00a6 DVI-D \u00a6 USB upstream ( Type B ) \u00a6 2 x USB downstream",
+    "contrast ratio": [
+        "1000:1 / 1000000:1 (dynamic)",
+        "1000:1 / 1000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 20\"",
+    "diagonal size": "20\"",
+    "dimensions  weight": "Dimensions & Weight Details Without stand - width: 19.1 in - depth: 1.9 in - height: 11.7 in - weight: 12.1 lbs \u00a6 With stand - width: 19.1 in - depth: 8.3 in - height: 12.4 in weight:",
+    "dimensions  weight details": "Without stand - width: 19.1 in - depth: 1.9 in - height: 11.7 in - weight: 12.1 lbs \u00a6 With stand - width: 19.1 in - depth: 8.3 in - height: 12.4 in weight:",
+    "dimensions wxdxh": [
+        "19.1 in x 1.9 in x 11.7 in - without stand",
+        "19.1 in x 1.9 in x 11.7 in - without stand"
+    ],
+    "display position adjustments": [
+        "Swivel, tilt",
+        "Swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental parameters": "Max Operating Temperature 95 \u00b0F\nMin Operating Temperature 41 \u00b0F\nHumidity Range Operating 20 - 80%",
+    "environmental standards": [
+        "EPEAT Compliant EPEAT Gold\nENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified , EPEAT Gold"
+    ],
+    "epeat compliant": "EPEAT Gold",
+    "features": [
+        "AssetControl, anti-glare, anti-static",
+        "Security lock slot (cable lock sold separately)"
+    ],
+    "general": "Display Type LED-backlit LCD monitor / TFT active matrix\nBacklight Technology WLED\nContrast Ratio 1000:1 / 1000000:1 (dynamic)\nVertical Viewing Angle 160\nHorizontal Viewing Angle 170\nColor Black\nBuilt-in Devices USB hub\nPixel Pitch 0.277 mm\nNative Resolution 1600 x 900\nResponse Time 5 ms\nDiagonal Size 20\"\nDimensions (WxDxH) 19.1 in x 1.9 in x 11.7 in - without stand\nAspect Ratio Widescreen - 16:9\nBrightness 250 cd/m2\nWeight 12.1 lbs\nFeatures AssetControl, anti-glare, anti-static",
+    "horizontal viewing angle": "170",
+    "humidity range operating": "20 - 80%",
+    "input connectors": "DVI-D, VGA, DisplayPort",
+    "interfaces": "VGA \u00a6 DisplayPort \u00a6 DVI-D \u00a6 USB upstream ( Type B ) \u00a6 2 x USB downstream",
+    "mainspecs": "Display Position Adjustments Swivel, tilt\nContrast Ratio 1000:1 / 1000000:1 (dynamic)\nInput Connectors DVI-D, VGA, DisplayPort\nPixel Pitch 0.277 mm\nBrightness 250 cd/m2\nMicrosoft Certification Compatible with Windows 7\nNative Resolution 1600 x 900\nEnvironmental Standards ENERGY STAR Qualified , EPEAT Gold\nColor Black\nResponse Time 5 ms\nBuilt-in Devices USB hub\nAspect Ratio Widescreen - 16:9\nCompliant Standards Plug and Play\nDevice Type LED-backlit LCD monitor - 20\"\nWeight 12.1 lbs\nDimensions (WxDxH) 19.1 in x 1.9 in x 11.7 in - without stand\nProduct Description HP Compaq LA2006x - LED monitor - 20\"",
+    "max operating temperature": "95 \u00b0F",
+    "mechanical": "Display Position Adjustments Swivel, tilt\nTilt Angle 35",
+    "microsoft certification": "Compatible with Windows 7",
+    "min operating temperature": "41 \u00b0F",
+    "miscellaneous": "Compatible with Windows 7 \"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.\nCompliant Standards Plug and Play\nFeatures Security lock slot (cable lock sold separately)",
+    "native resolution": [
+        "1600 x 900",
+        "1600 x 900"
+    ],
+    "pixel pitch": [
+        "0.277 mm",
+        "0.277 mm"
+    ],
+    "power": "Power Consumption Stand by / Sleep 0.5 Watt\nVoltage Required AC 120/230 V\nPower Consumption Operational 26 Watt",
+    "power consumption operational": "26 Watt",
+    "power consumption stand by  sleep": "0.5 Watt",
+    "product description": "HP Compaq LA2006x - LED monitor - 20\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "tilt angle": "35",
+    "vertical viewing angle": "160",
+    "voltage required": "AC 120/230 V",
+    "weight": [
+        "12.1 lbs",
+        "12.1 lbs"
+    ]
+}

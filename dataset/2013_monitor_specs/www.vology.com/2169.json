@@ -1,0 +1,80 @@
+{
+    "<page title>": "HP LL543A8#ABA L1506x LED Monitor - 15\" - Smart Buy - Vology",
+    "backlight technology": "LED backlight",
+    "brightness": [
+        "400 cd/m2",
+        "400 cd/m2"
+    ],
+    "compliant standards": [
+        "Plug and Play",
+        "Plug and Play"
+    ],
+    "connectivity": "Interfaces VGA",
+    "contrast ratio": [
+        "700:1 / 1000000:1 (dynamic)",
+        "700:1 / 1000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 15\"",
+    "diagonal size": "15\"",
+    "dimensions wxdxh": [
+        "13.4 in x 2.4 in x 11.4 in",
+        "13.4 in x 2.4 in x 11.4 in"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental parameters": "Humidity Range Operating 5 - 90%\nMin Operating Temperature 32 \u00b0F\nMax Operating Temperature 122 \u00b0F",
+    "environmental standards": [
+        "ENERGY STAR Qualified",
+        "ENERGY STAR Qualified Yes"
+    ],
+    "features": "Security lock slot (cable lock sold separately)",
+    "general": "Weight 6.8 lbs\nNative Resolution 1024 x 768\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nPixel Pitch 0.297 mm\nResponse Time 8 ms\nDiagonal Size 15\"\nVertical Viewing Angle 140\nHorizontal Viewing Angle 160\nContrast Ratio 700:1 / 1000000:1 (dynamic)\nBacklight Technology LED backlight\nScreen Coating Anti-glare\nBrightness 400 cd/m2\nDimensions (WxDxH) 13.4 in x 2.4 in x 11.4 in",
+    "horizontal viewing angle": "160",
+    "humidity range operating": "5 - 90%",
+    "input connectors": "VGA",
+    "interfaces": "VGA",
+    "localization": [
+        "English / United States",
+        "English / United States"
+    ],
+    "mainspecs": "Environmental Standards ENERGY STAR Qualified\nInput Connectors VGA\nContrast Ratio 700:1 / 1000000:1 (dynamic)\nBrightness 400 cd/m2\nPixel Pitch 0.297 mm\nScreen Coating Anti-glare\nManufacturer Selling Program HP Smart Buy\nNative Resolution 1024 x 768\nManufacturer Warranty 3 years warranty\nProduct Description HP L1506x - LED monitor - 15\" - Smart Buy\nWeight 6.8 lbs\nDimensions (WxDxH) 13.4 in x 2.4 in x 11.4 in\nDevice Type LED-backlit LCD monitor - 15\"\nLocalization English / United States\nCompliant Standards Plug and Play\nResponse Time 8 ms",
+    "manufacturer selling program": [
+        "HP Smart Buy",
+        "HP Smart Buy"
+    ],
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support Details Limited warranty - parts and labor - 3 years - on-site\nService & Support 3 years warranty"
+    ],
+    "max operating temperature": "122 \u00b0F",
+    "min operating temperature": "32 \u00b0F",
+    "miscellaneous": "Localization English / United States\nFeatures Security lock slot (cable lock sold separately)\nCompliant Standards Plug and Play\nManufacturer Selling Program HP Smart Buy",
+    "native resolution": [
+        "1024 x 768",
+        "1024 x 768"
+    ],
+    "pixel pitch": [
+        "0.297 mm",
+        "0.297 mm"
+    ],
+    "power": "Voltage Required AC 120/230 V ( 50/60 Hz )\nPower Consumption Operational 15 Watt\nPower Consumption Stand by / Sleep 1 Watt",
+    "power consumption operational": "15 Watt",
+    "power consumption stand by  sleep": "1 Watt",
+    "product description": "HP L1506x - LED monitor - 15\" - Smart Buy",
+    "response time": [
+        "8 ms",
+        "8 ms"
+    ],
+    "screen coating": [
+        "Anti-glare",
+        "Anti-glare"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labor - 3 years - on-site",
+    "vertical viewing angle": "140",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "6.8 lbs",
+        "6.8 lbs"
+    ]
+}

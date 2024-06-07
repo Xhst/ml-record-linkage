@@ -1,0 +1,79 @@
+{
+    "<page title>": "ACER UM.JB6AA.001 - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "audio": "Type Speakers - stereo - internal\nOutput Power / Channel 2 Watt",
+    "backlight technology": "WLED",
+    "brightness": [
+        "300 cd/m2",
+        "300 cd/m2"
+    ],
+    "builtin devices": [
+        "USB 3.0 hub",
+        "USB 3.0 hub"
+    ],
+    "cables included": "1 x VGA cable \u00a6 1 x DVI cable \u00a6 1 x DisplayPort cable \u00a6 1 x USB cable",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "compliant standards": [
+        "TCO Displays 6.0",
+        "TCO Displays 6.0"
+    ],
+    "connectivity": "Interfaces DVI \u00a6 2 x HDMI \u00a6 DisplayPort \u00a6 USB 3.0 upstream \u00a6 4 x USB 3.0 downstream",
+    "contrast ratio": [
+        "100000000:1 (dynamic)",
+        "100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 32\"",
+    "diagonal size": "32\"",
+    "display position adjustments": [
+        "Swivel, tilt",
+        "Swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified , EPEAT Gold",
+        "EPEAT Compliant EPEAT Gold\nENERGY STAR Qualified Yes"
+    ],
+    "epeat compliant": "EPEAT Gold",
+    "features": "Acer Adaptive Contrast Management (ACM)",
+    "flat panel mount interface": "Yes",
+    "general": "Backlight Technology WLED\nContrast Ratio 100000000:1 (dynamic)\nHorizontal Viewing Angle 178\nVertical Viewing Angle 178\nNative Resolution 2560 x 1440\nFeatures Acer Adaptive Contrast Management (ACM)\nBrightness 300 cd/m2\nAspect Ratio Widescreen - 16:9\nColor Black\nBuilt-in Devices USB 3.0 hub\nDiagonal Size 32\"\nResponse Time 6 ms\nDisplay Type LED-backlit LCD monitor / TFT active matrix",
+    "height adjustment": "0.2 in",
+    "horizontal viewing angle": "178",
+    "input connectors": "HDMI, DVI, DisplayPort",
+    "interfaces": "DVI \u00a6 2 x HDMI \u00a6 DisplayPort \u00a6 USB 3.0 upstream \u00a6 4 x USB 3.0 downstream",
+    "localization": [
+        "United States",
+        "United States"
+    ],
+    "mainspecs": "Product Description Acer B326HUL ymiidphz - LED monitor - 32\"\nManufacturer Warranty 3 years warranty\nSpeakers Internal\nLocalization United States\nDevice Type LED-backlit LCD monitor - 32\"\nNative Resolution 2560 x 1440\nDisplay Position Adjustments Swivel, tilt\nInput Connectors HDMI, DVI, DisplayPort\nContrast Ratio 100000000:1 (dynamic)\nCompliant Standards TCO Displays 6.0\nBrightness 300 cd/m2\nEnvironmental Standards ENERGY STAR Qualified , EPEAT Gold\nColor Black\nAspect Ratio Widescreen - 16:9\nResponse Time 6 ms\nBuilt-in Devices USB 3.0 hub",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support 3 years warranty\nService & Support Details Limited warranty - 3 years"
+    ],
+    "mechanical": "Display Position Adjustments Swivel, tilt\nSwivel Angle 60\nTilt Angle -5/+25\nHeight Adjustment 0.2 in\nFlat Panel Mount Interface Yes",
+    "miscellaneous": "Compliant Standards TCO Displays 6.0\nLocalization United States\nCables Included 1 x VGA cable \u00a6 1 x DVI cable \u00a6 1 x DisplayPort cable \u00a6 1 x USB cable",
+    "native resolution": [
+        "2560 x 1440",
+        "2560 x 1440"
+    ],
+    "output power  channel": "2 Watt",
+    "product description": "Acer B326HUL ymiidphz - LED monitor - 32\"",
+    "response time": [
+        "6 ms",
+        "6 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "speakers": "Internal",
+    "swivel angle": "60",
+    "tilt angle": "-5/+25",
+    "type": "Speakers - stereo - internal",
+    "vertical viewing angle": "178"
+}

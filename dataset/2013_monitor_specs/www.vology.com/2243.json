@@ -1,0 +1,103 @@
+{
+    "<page title>": "ACER ET.HS3HP.001 - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "audio": "Type Speakers - mono\nOutput Power / Channel 2 Watt",
+    "backlight technology": "WLED",
+    "brightness": [
+        "300 cd/m2",
+        "300 cd/m2"
+    ],
+    "builtin devices": [
+        "Speaker",
+        "Speaker"
+    ],
+    "cables included": "1 x VGA cable \u00a6 1 x speaker cable",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "compatible with windows 7": "\"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "compliant standards": [
+        "UL, GS, CB, FCC, RoHS, ISO 9241-307, WEEE",
+        "UL, GS, CB, FCC, RoHS, ISO 9241-307, WEEE"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 2 x HDMI",
+    "contrast ratio": [
+        "12000000:1 (dynamic)",
+        "12000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 27\"",
+    "diagonal size": "27\"",
+    "dimensions wxdxh": [
+        "25.4 in x 7.5 in x 18.5 in",
+        "25.4 in x 7.5 in x 18.5 in"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified"
+    ],
+    "features": "HDCP, Acer Adaptive Contrast Management (ACM), 70% NTSC color gamut",
+    "general": "Pixel Pitch 0.3114 mm\nBuilt-in Devices Speaker\nColor Black\nColor Support 16.7 million colors\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nWeight 12.8 lbs\nFeatures HDCP, Acer Adaptive Contrast Management (ACM), 70% NTSC color gamut\nAspect Ratio Widescreen - 16:9\nBrightness 300 cd/m2\nNative Resolution 1920 x 1080 at 60 Hz\nHorizontal Refresh Rate 80 kHz\nVertical Refresh Rate 75 Hz\nContrast Ratio 12000000:1 (dynamic)\nHorizontal Viewing Angle 178\nVertical Viewing Angle 170\nBacklight Technology WLED\nPanel Type TN\nDimensions (WxDxH) 25.4 in x 7.5 in x 18.5 in\nDiagonal Size 27\"\nResponse Time 2 ms",
+    "horizontal refresh rate": "80 kHz",
+    "horizontal viewing angle": "178",
+    "input connectors": "2xHDMI, VGA",
+    "interfaces": "VGA \u00a6 2 x HDMI",
+    "localization": [
+        "Switzerland, United Kingdom, Europe",
+        "Switzerland, United Kingdom, Europe"
+    ],
+    "mainspecs": "Dimensions (WxDxH) 25.4 in x 7.5 in x 18.5 in\nWeight 12.8 lbs\nProduct Description Acer S273HLbmii - LED monitor - 27\"\nManufacturer Warranty 3 years warranty\nCompliant Standards UL, GS, CB, FCC, RoHS, ISO 9241-307, WEEE\nDevice Type LED-backlit LCD monitor - 27\"\nLocalization Switzerland, United Kingdom, Europe\nColor Support 16.7 million colors\nMicrosoft Certification Compatible with Windows 7\nEnvironmental Standards ENERGY STAR Qualified\nAspect Ratio Widescreen - 16:9\nResponse Time 2 ms\nColor Black\nBuilt-in Devices Speaker\nBrightness 300 cd/m2\nPixel Pitch 0.3114 mm\nPanel Type TN\nDisplay Position Adjustments Tilt\nInput Connectors 2xHDMI, VGA\nContrast Ratio 12000000:1 (dynamic)\nNative Resolution 1920 x 1080 at 60 Hz",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support Details Limited warranty - 3 years - carry-in\nService & Support 3 years warranty"
+    ],
+    "mechanical": "Display Position Adjustments Tilt\nTilt Angle 20",
+    "microsoft certification": "Compatible with Windows 7",
+    "miscellaneous": "Compatible with Windows 7 \"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.\nCompliant Standards UL, GS, CB, FCC, RoHS, ISO 9241-307, WEEE\nCables Included 1 x VGA cable \u00a6 1 x speaker cable\nLocalization Switzerland, United Kingdom, Europe\nMTBF 30,000 hour(s)",
+    "mtbf": "30,000 hour(s)",
+    "native resolution": [
+        "1920 x 1080 at 60 Hz",
+        "1920 x 1080 at 60 Hz"
+    ],
+    "output power  channel": "2 Watt",
+    "panel type": [
+        "TN",
+        "TN"
+    ],
+    "pixel pitch": [
+        "0.3114 mm",
+        "0.3114 mm"
+    ],
+    "power": "Power Supply External\nPower Consumption Stand by / Sleep 0.75 Watt\nPower Consumption Operational 22 Watt",
+    "power consumption operational": "22 Watt",
+    "power consumption stand by  sleep": "0.75 Watt",
+    "power supply": "External",
+    "product description": "Acer S273HLbmii - LED monitor - 27\"",
+    "response time": [
+        "2 ms",
+        "2 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years - carry-in",
+    "tilt angle": "20",
+    "type": "Speakers - mono",
+    "vertical refresh rate": "75 Hz",
+    "vertical viewing angle": "170",
+    "weight": [
+        "12.8 lbs",
+        "12.8 lbs"
+    ]
+}

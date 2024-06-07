@@ -1,0 +1,83 @@
+{
+    "<page title>": "ACER UM.WV6AA.A05 - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "audio": "Type Speakers - integrated",
+    "backlight technology": "LED backlight",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "cables included": "1 x VGA cable \u00a6 1 x DVI cable \u00a6 1 x HDMI cable",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "compliant standards": [
+        "TCO Displays 6.0",
+        "TCO Displays 6.0"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI \u00a6 HDMI",
+    "contrast ratio": [
+        "100000000:1 (dynamic)",
+        "100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 21.5\"",
+    "diagonal size": "21.5\"",
+    "dimensions wxdxh": [
+        "20 in x 8.1 in x 15.3 in - with stand",
+        "20 in x 8.1 in x 15.3 in - with stand"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified"
+    ],
+    "features": "Acer EcoDisplay, eColor Management, Acer Adaptive Contrast Management (ACM), High Frame Rate Control (Hi-FRC), ComfyView",
+    "flat panel mount interface": "100 x 100 mm",
+    "general": "Display Type LED-backlit LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nAspect Ratio Widescreen - 16:9\nColor Black\nNative Resolution 1920 x 1080 at 60 Hz\nContrast Ratio 100000000:1 (dynamic)\nVertical Viewing Angle 178\nHorizontal Viewing Angle 178\nResponse Time 8 ms\nDiagonal Size 21.5\"\nDimensions (WxDxH) 20 in x 8.1 in x 15.3 in - with stand\nFeatures Acer EcoDisplay, eColor Management, Acer Adaptive Contrast Management (ACM), High Frame Rate Control (Hi-FRC), ComfyView\nBacklight Technology LED backlight\nPanel Type VA\nBrightness 250 cd/m2",
+    "horizontal viewing angle": "178",
+    "input connectors": "HDMI, DVI, VGA",
+    "interfaces": "VGA \u00a6 DVI \u00a6 HDMI",
+    "localization": [
+        "United States",
+        "United States"
+    ],
+    "mainspecs": "Aspect Ratio Widescreen - 16:9\nEnvironmental Standards ENERGY STAR Qualified\nColor Black\nResponse Time 8 ms\nCompliant Standards TCO Displays 6.0\nNative Resolution 1920 x 1080 at 60 Hz\nColor Support 16.7 million colors\nDimensions (WxDxH) 20 in x 8.1 in x 15.3 in - with stand\nLocalization United States\nDevice Type LED-backlit LCD monitor - 21.5\"\nProduct Description Acer V226HQL Abmid - LED monitor - 21.5\"\nSpeakers Integrated\nContrast Ratio 100000000:1 (dynamic)\nInput Connectors HDMI, DVI, VGA\nDisplay Position Adjustments Tilt\nPanel Type VA\nBrightness 250 cd/m2",
+    "mechanical": "Tilt Angle -5/+25\nFlat Panel Mount Interface 100 x 100 mm\nDisplay Position Adjustments Tilt",
+    "miscellaneous": "Compliant Standards TCO Displays 6.0\nLocalization United States\nCables Included 1 x VGA cable \u00a6 1 x DVI cable \u00a6 1 x HDMI cable",
+    "native resolution": [
+        "1920 x 1080 at 60 Hz",
+        "1920 x 1080 at 60 Hz"
+    ],
+    "panel type": [
+        "VA",
+        "VA"
+    ],
+    "power": "Power Consumption Stand by 250 mW\nPower Supply Internal\nVoltage Required AC 120/230 V\nPower Consumption Operational 19.5 Watt\nPower Consumption Sleep 350 Watt",
+    "power consumption operational": "19.5 Watt",
+    "power consumption sleep": "350 Watt",
+    "power consumption stand by": "250 mW",
+    "power supply": "Internal",
+    "product description": "Acer V226HQL Abmid - LED monitor - 21.5\"",
+    "response time": [
+        "8 ms",
+        "8 ms"
+    ],
+    "speakers": "Integrated",
+    "tilt angle": "-5/+25",
+    "type": "Speakers - integrated",
+    "vertical viewing angle": "178",
+    "voltage required": "AC 120/230 V"
+}

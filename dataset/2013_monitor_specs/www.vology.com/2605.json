@@ -1,0 +1,74 @@
+{
+    "<page title>": "ACER UM.IV6AA.A01 - Vology",
+    "aspect ratio": [
+        "Widescreen",
+        "Widescreen"
+    ],
+    "audio": "Type Speakers",
+    "backlight technology": "WLED",
+    "brightness": [
+        "200 cd/m2",
+        "200 cd/m2"
+    ],
+    "cables included": "1 x VGA cable \u00a6 1 x DVI cable",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "compliant standards": [
+        "MPR II",
+        "MPR II"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI",
+    "contrast ratio": [
+        "100000000:1 (dynamic)",
+        "100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 20\"",
+    "diagonal size": "20\"",
+    "dimensions  weight": "Dimensions & Weight Details Without stand - width: 18.2 in - height: 10.9 in",
+    "dimensions  weight details": "Without stand - width: 18.2 in - height: 10.9 in",
+    "dimensions wxdxh": [
+        "18.2 in x 7.5 in x 14.3 in - with stand",
+        "18.2 in x 7.5 in x 14.3 in - with stand"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "general": "Response Time 5 ms\nDimensions (WxDxH) 18.2 in x 7.5 in x 14.3 in - with stand\nAspect Ratio Widescreen\nViewable Size 19.5\"\nDiagonal Size 20\"\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nBacklight Technology WLED\nContrast Ratio 100000000:1 (dynamic)\nHorizontal Viewing Angle 90\nVertical Viewing Angle 65\nColor Black\nNative Resolution 1600 x 900\nBrightness 200 cd/m2",
+    "horizontal viewing angle": "90",
+    "input connectors": "DVI, VGA",
+    "interfaces": "VGA \u00a6 DVI",
+    "mainspecs": "Response Time 5 ms\nColor Black\nAspect Ratio Widescreen\nManufacturer Warranty 3 years warranty\nProduct Description Acer V206HQ - LED monitor - 20\"\nDimensions (WxDxH) 18.2 in x 7.5 in x 14.3 in - with stand\nCompliant Standards MPR II\nDevice Type LED-backlit LCD monitor - 20\"\nColor Support 16.7 million colors\nNative Resolution 1600 x 900\nBrightness 200 cd/m2\nInput Connectors DVI, VGA\nContrast Ratio 100000000:1 (dynamic)\nDisplay Position Adjustments Tilt",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support 3 years warranty\nService & Support Details Limited warranty - 3 years"
+    ],
+    "mechanical": "Display Position Adjustments Tilt",
+    "miscellaneous": "Cables Included 1 x VGA cable \u00a6 1 x DVI cable\nCompliant Standards MPR II",
+    "native resolution": [
+        "1600 x 900",
+        "1600 x 900"
+    ],
+    "power": "Power Consumption Stand by 450 mW\nPower Consumption Sleep 350 mW\nPower Consumption Operational 16.2 Watt\nVoltage Required AC 120/230 V",
+    "power consumption operational": "16.2 Watt",
+    "power consumption sleep": "350 mW",
+    "power consumption stand by": "450 mW",
+    "product description": "Acer V206HQ - LED monitor - 20\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "type": "Speakers",
+    "vertical viewing angle": "65",
+    "viewable size": "19.5\"",
+    "voltage required": "AC 120/230 V"
+}

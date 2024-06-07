@@ -1,0 +1,102 @@
+{
+    "<page title>": "HP A5V72AA Lv1911 - LED Monitor - 18.5\" - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight life": "30,000 hours",
+    "backlight technology": "WLED",
+    "brightness": [
+        "200 cd/m2",
+        "200 cd/m2"
+    ],
+    "cables included": "1 x VGA cable - 6 ft",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "color temperature": "6500K",
+    "compliant standards": [
+        "Plug and Play, FCC Class B certified, UL, BSMI, cUL, NOM, TUV S, WHQL, CCC, PSB, ICES, China Energy Label Level II",
+        "Plug and Play, FCC Class B certified, UL, BSMI, cUL, NOM, TUV S, WHQL, CCC, PSB, ICES, China Energy Label Level II"
+    ],
+    "contrast ratio": [
+        "600:1 / 3000000:1 (dynamic)",
+        "600:1 / 3000000:1 (dynamic)"
+    ],
+    "controls  adjustments": "Brightness, contrast",
+    "device type": "LED-backlit LCD monitor - 18.5\"",
+    "diagonal size": "18.5\"",
+    "dimensions  weight": "Dimensions & Weight Details With stand - width: 17.6 in - depth: 6.7 in - height: 13.4 in - weight: 5.5 lbs \u00a6 Without stand - width: 17.6 in - depth: 1.9 in - height: 11.1 in - weight: 4.9 lbs",
+    "dimensions  weight details": "With stand - width: 17.6 in - depth: 6.7 in - height: 13.4 in - weight: 5.5 lbs \u00a6 Without stand - width: 17.6 in - depth: 1.9 in - height: 11.1 in - weight: 4.9 lbs",
+    "dimensions wxdxh": [
+        "17.6 in x 6.7 in x 13.4 in - with stand",
+        "17.6 in x 6.7 in x 13.4 in - with stand"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental parameters": "Min Operating Temperature 41 \u00b0F\nMax Operating Temperature 95 \u00b0F\nHumidity Range Operating 20 - 80% (non-condensing)",
+    "environmental standards": [
+        "EPEAT Compliant EPEAT Silver\nENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified , EPEAT Silver"
+    ],
+    "epeat compliant": "EPEAT Silver",
+    "features": [
+        "68% color gamut",
+        "Security lock slot (cable lock sold separately)"
+    ],
+    "general": "Color Temperature 6500K\nOSD Languages Chinese (simplified), English, German, French, Italian, Portuguese, Spanish, Dutch, Japanese\nResponse Time 5 ms\nVideo Bandwidth 140 MHz\nViewable Size 18.5\"\nDiagonal Size 18.5\"\nPixel Pitch 0.3 mm\nVertical Refresh Rate 77 Hz\nHorizontal Refresh Rate 83 kHz\nBacklight Technology WLED\nVertical Viewing Angle 50\nControls & Adjustments Brightness, contrast\nContrast Ratio 600:1 / 3000000:1 (dynamic)\nHorizontal Viewing Angle 90\nPanel Type TN\nScreen Coating Anti-glare\nNative Resolution 1366 x 768 at 60 Hz\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nColor Black\nFeatures 68% color gamut\nWeight 5.5 lbs\nAspect Ratio Widescreen - 16:9\nBrightness 200 cd/m2\nDimensions (WxDxH) 17.6 in x 6.7 in x 13.4 in - with stand",
+    "horizontal refresh rate": "83 kHz",
+    "horizontal viewing angle": "90",
+    "humidity range operating": "20 - 80% (non-condensing)",
+    "input connectors": "VGA",
+    "mainspecs": "Color Black\nEnvironmental Standards ENERGY STAR Qualified , EPEAT Silver\nResponse Time 5 ms\nAspect Ratio Widescreen - 16:9\nNative Resolution 1366 x 768 at 60 Hz\nDevice Type LED-backlit LCD monitor - 18.5\"\nCompliant Standards Plug and Play, FCC Class B certified, UL, BSMI, cUL, NOM, TUV S, WHQL, CCC, PSB, ICES, China Energy Label Level II\nDimensions (WxDxH) 17.6 in x 6.7 in x 13.4 in - with stand\nWeight 5.5 lbs\nProduct Description HP LV1911 - LED monitor - 18.5\"\nPanel Type TN\nScreen Coating Anti-glare\nBrightness 200 cd/m2\nContrast Ratio 600:1 / 3000000:1 (dynamic)\nInput Connectors VGA\nDisplay Position Adjustments Tilt\nPixel Pitch 0.3 mm\nColor Support 16.7 million colors",
+    "max operating temperature": "95 \u00b0F",
+    "mechanical": "Tilt Angle -5/+19\nDisplay Position Adjustments Tilt",
+    "min operating temperature": "41 \u00b0F",
+    "miscellaneous": "Backlight Life 30,000 hours\nCables Included 1 x VGA cable - 6 ft\nFeatures Security lock slot (cable lock sold separately)\nCompliant Standards Plug and Play, FCC Class B certified, UL, BSMI, cUL, NOM, TUV S, WHQL, CCC, PSB, ICES, China Energy Label Level II",
+    "native resolution": [
+        "1366 x 768 at 60 Hz",
+        "1366 x 768 at 60 Hz"
+    ],
+    "osd languages": "Chinese (simplified), English, German, French, Italian, Portuguese, Spanish, Dutch, Japanese",
+    "panel type": [
+        "TN",
+        "TN"
+    ],
+    "pixel pitch": [
+        "0.3 mm",
+        "0.3 mm"
+    ],
+    "power": "Power Supply Internal\nVoltage Required AC 120/230 V ( 50/60 Hz )\nPower Consumption Operational 17 Watt\nPower Consumption Stand by / Sleep 0.5 Watt",
+    "power consumption operational": "17 Watt",
+    "power consumption stand by  sleep": "0.5 Watt",
+    "power supply": "Internal",
+    "product description": "HP LV1911 - LED monitor - 18.5\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "screen coating": [
+        "Anti-glare",
+        "Anti-glare"
+    ],
+    "tilt angle": "-5/+19",
+    "vertical refresh rate": "77 Hz",
+    "vertical viewing angle": "50",
+    "video bandwidth": "140 MHz",
+    "viewable size": "18.5\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "5.5 lbs",
+        "5.5 lbs"
+    ]
+}

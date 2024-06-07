@@ -1,0 +1,97 @@
+{
+    "<page title>": "HP E2T08AA#ABA V221 LED Monitor - 21.5\" - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight life": "30,000 hours",
+    "backlight technology": "WLED",
+    "brightness": [
+        "200 cd/m2",
+        "200 cd/m2"
+    ],
+    "cables included": "1 x VGA cable",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "compliant standards": [
+        "Plug and Play, VCCI, BSMI, NOM, TUV S, CB, CCC, PSB, FCC, KCC, KC, CECP, CEL Grade 1, ISC",
+        "Plug and Play, VCCI, BSMI, NOM, TUV S, CB, CCC, PSB, FCC, KCC, KC, CECP, CEL Grade 1, ISC"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI-D ( HDCP )",
+    "contrast ratio": [
+        "600:1 / 1000000:1 (dynamic)",
+        "600:1 / 1000000:1 (dynamic)"
+    ],
+    "controls  adjustments": "Brightness, contrast, color balance",
+    "device type": "LED-backlit LCD monitor - 21.5\"",
+    "diagonal size": "21.5\"",
+    "dimensions  weight": "Dimensions & Weight Details Without stand - width: 20.4 in - depth: 1.9 in - height: 12.6 in - weight: 6.8 lbs \u00a6 With stand - width: 20.4 in - depth: 7.3 in - height: 14.8 in - weight: 7.5 lbs",
+    "dimensions  weight details": "Without stand - width: 20.4 in - depth: 1.9 in - height: 12.6 in - weight: 6.8 lbs \u00a6 With stand - width: 20.4 in - depth: 7.3 in - height: 14.8 in - weight: 7.5 lbs",
+    "dimensions wxdxh": [
+        "20.4 in x 7.3 in x 14.8 in - with stand",
+        "20.4 in x 7.3 in x 14.8 in - with stand"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "environmental parameters": "Humidity Range Operating 15 - 90% (non-condensing)\nMin Operating Temperature 41 \u00b0F\nMax Operating Temperature 95 \u00b0F",
+    "features": "HDCP, 72% color gamut",
+    "flat panel mount interface": "75 x 75 mm",
+    "general": "Horizontal Viewing Angle 90\nContrast Ratio 600:1 / 1000000:1 (dynamic)\nControls & Adjustments Brightness, contrast, color balance\nVertical Viewing Angle 50\nBacklight Technology WLED\nHorizontal Refresh Rate 24 - 94 kHz\nVertical Refresh Rate 50 - 76 Hz\nNative Resolution 1920 x 1080 at 60 Hz\nColor Black\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nVideo Bandwidth 170 MHz\nPixel Pitch 0.248 mm\nViewable Size 21.5\"\nDiagonal Size 21.5\"\nOSD Languages Indonesian, Chinese (traditional), Chinese (simplified), Brazilian Portuguese, English, French, Spanish, Japanese, Korean\nResponse Time 5 ms\nDimensions (WxDxH) 20.4 in x 7.3 in x 14.8 in - with stand\nBrightness 200 cd/m2\nFeatures HDCP, 72% color gamut\nWeight 7.5 lbs\nAspect Ratio Widescreen - 16:9",
+    "horizontal refresh rate": "24 - 94 kHz",
+    "horizontal viewing angle": "90",
+    "humidity range operating": "15 - 90% (non-condensing)",
+    "input connectors": "DVI-D, VGA",
+    "interfaces": "VGA \u00a6 DVI-D ( HDCP )",
+    "localization": [
+        "English / United States",
+        "English / United States"
+    ],
+    "mainspecs": "Input Connectors DVI-D, VGA\nDisplay Position Adjustments Tilt\nContrast Ratio 600:1 / 1000000:1 (dynamic)\nBrightness 200 cd/m2\nPixel Pitch 0.248 mm\nManufacturer Warranty 3 years warranty\nWeight 7.5 lbs\nDimensions (WxDxH) 20.4 in x 7.3 in x 14.8 in - with stand\nProduct Description HP V221 - LED monitor - 21.5\"\nColor Support 16.7 million colors\nLocalization English / United States\nDevice Type LED-backlit LCD monitor - 21.5\"\nCompliant Standards Plug and Play, VCCI, BSMI, NOM, TUV S, CB, CCC, PSB, FCC, KCC, KC, CECP, CEL Grade 1, ISC\nNative Resolution 1920 x 1080 at 60 Hz\nAspect Ratio Widescreen - 16:9\nResponse Time 5 ms\nColor Black",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support 3 years warranty\nService & Support Details Limited warranty - parts and labor - 3 years"
+    ],
+    "max operating temperature": "95 \u00b0F",
+    "mechanical": "Flat Panel Mount Interface 75 x 75 mm\nTilt Angle -5/+19\nDisplay Position Adjustments Tilt",
+    "min operating temperature": "41 \u00b0F",
+    "miscellaneous": "Backlight Life 30,000 hours\nCompliant Standards Plug and Play, VCCI, BSMI, NOM, TUV S, CB, CCC, PSB, FCC, KCC, KC, CECP, CEL Grade 1, ISC\nCables Included 1 x VGA cable\nLocalization English / United States",
+    "native resolution": [
+        "1920 x 1080 at 60 Hz",
+        "1920 x 1080 at 60 Hz"
+    ],
+    "osd languages": "Indonesian, Chinese (traditional), Chinese (simplified), Brazilian Portuguese, English, French, Spanish, Japanese, Korean",
+    "pixel pitch": [
+        "0.248 mm",
+        "0.248 mm"
+    ],
+    "power": "Power Consumption Stand by 0.5 Watt\nPower Consumption Operational 23 Watt\nVoltage Required AC 120/230 V ( 50/60 Hz )\nPower Supply Internal",
+    "power consumption operational": "23 Watt",
+    "power consumption stand by": "0.5 Watt",
+    "power supply": "Internal",
+    "product description": "HP V221 - LED monitor - 21.5\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labor - 3 years",
+    "tilt angle": "-5/+19",
+    "vertical refresh rate": "50 - 76 Hz",
+    "vertical viewing angle": "50",
+    "video bandwidth": "170 MHz",
+    "viewable size": "21.5\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "7.5 lbs",
+        "7.5 lbs"
+    ]
+}

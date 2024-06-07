@@ -1,0 +1,100 @@
+{
+    "<page title>": "Lenovo 60AFHAR1US - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "200 cd/m2",
+        "200 cd/m2"
+    ],
+    "cables included": "1 x VGA cable - 6 ft \u00a6 1 x DVI cable - 6 ft",
+    "color": [
+        "Raven black",
+        "Raven black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "color temperature": "9300K, 7200K, 6500K",
+    "compliant standards": [
+        "RoHS, ISO 9241-307",
+        "RoHS, ISO 9241-307"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI",
+    "contrast ratio": [
+        "600:1",
+        "600:1"
+    ],
+    "controls  adjustments": "Brightness, contrast, H/V position, color balance, input select",
+    "device type": "LED-backlit LCD monitor - 21.5\"",
+    "diagonal size": "21.5\"",
+    "dimensions wxdxh": [
+        "20.3 in x 6.6 in x 14.9 in",
+        "20.3 in x 6.6 in x 14.9 in"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified , EPEAT Silver",
+        "EPEAT Compliant EPEAT Silver\nENERGY STAR Qualified Yes"
+    ],
+    "epeat compliant": "EPEAT Silver",
+    "features": [
+        "100% (CIE 1931) color gamut, 72% NTSC (CIE 1931) color gamut",
+        "Security lock slot (cable lock sold separately)"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "general": "Display Type LED-backlit LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nNative Resolution 1920 x 1080 at 60 Hz\nColor Raven black\nContrast Ratio 600:1\nHorizontal Viewing Angle 90\nVertical Viewing Angle 50\nControls & Adjustments Brightness, contrast, H/V position, color balance, input select\nPanel Type TN\nVertical Refresh Rate 50 - 75 Hz\nHorizontal Refresh Rate 30 - 83 kHz\nBacklight Technology WLED\nAspect Ratio Widescreen - 16:9\nFeatures 100% (CIE 1931) color gamut, 72% NTSC (CIE 1931) color gamut\nWeight 7.5 lbs\nColor Temperature 9300K, 7200K, 6500K\nBrightness 200 cd/m2\nDimensions (WxDxH) 20.3 in x 6.6 in x 14.9 in\nPixel Pitch 0.248 mm\nVideo Bandwidth 205 MHz\nDiagonal Size 21.5\"\nViewable Size 21.5\"\nOSD Languages Chinese (simplified), English, German, French, Italian, Russian, Spanish, Japanese\nResponse Time 5 ms",
+    "horizontal refresh rate": "30 - 83 kHz",
+    "horizontal viewing angle": "90",
+    "input connectors": "DVI, VGA",
+    "interfaces": "VGA \u00a6 DVI",
+    "localization": [
+        "English",
+        "English"
+    ],
+    "mainspecs": "Localization English\nDevice Type LED-backlit LCD monitor - 21.5\"\nCompliant Standards RoHS, ISO 9241-307\nColor Support 16.7 million colors\nProduct Description Lenovo ThinkVision E2223s - LED monitor - 21.5\"\nWeight 7.5 lbs\nDimensions (WxDxH) 20.3 in x 6.6 in x 14.9 in\nAspect Ratio Widescreen - 16:9\nPanel Type TN\nContrast Ratio 600:1\nBrightness 200 cd/m2\nDisplay Position Adjustments Tilt\nInput Connectors DVI, VGA\nPixel Pitch 0.248 mm\nColor Raven black\nResponse Time 5 ms\nNative Resolution 1920 x 1080 at 60 Hz\nEnvironmental Standards ENERGY STAR Qualified , EPEAT Silver",
+    "mechanical": "Tilt Angle -5/+22\nFlat Panel Mount Interface 100 x 100 mm\nDisplay Position Adjustments Tilt",
+    "miscellaneous": "Features Security lock slot (cable lock sold separately)\nMounting Kit Optional\nLocalization English\nCables Included 1 x VGA cable - 6 ft \u00a6 1 x DVI cable - 6 ft\nCompliant Standards RoHS, ISO 9241-307",
+    "mounting kit": "Optional",
+    "native resolution": [
+        "1920 x 1080 at 60 Hz",
+        "1920 x 1080 at 60 Hz"
+    ],
+    "osd languages": "Chinese (simplified), English, German, French, Italian, Russian, Spanish, Japanese",
+    "panel type": [
+        "TN",
+        "TN"
+    ],
+    "pixel pitch": [
+        "0.248 mm",
+        "0.248 mm"
+    ],
+    "power": "Power Consumption Sleep 0.5 Watt\nPower Consumption Operational 19 Watt\nVoltage Required AC 120/230 V ( 50/60 Hz )\nPower Consumption Stand by 0.5 Watt\nPower Supply Internal",
+    "power consumption operational": "19 Watt",
+    "power consumption sleep": "0.5 Watt",
+    "power consumption stand by": "0.5 Watt",
+    "power supply": "Internal",
+    "product description": "Lenovo ThinkVision E2223s - LED monitor - 21.5\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "tilt angle": "-5/+22",
+    "vertical refresh rate": "50 - 75 Hz",
+    "vertical viewing angle": "50",
+    "video bandwidth": "205 MHz",
+    "viewable size": "21.5\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "7.5 lbs",
+        "7.5 lbs"
+    ]
+}

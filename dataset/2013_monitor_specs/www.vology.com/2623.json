@@ -1,0 +1,89 @@
+{
+    "<page title>": "ACER UM.FB3AA.A01 - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:10",
+        "Widescreen - 16:10"
+    ],
+    "audio": "Type Speakers - stereo - integrated\nOutput Power / Channel 1 Watt",
+    "backlight technology": "LED backlight",
+    "brightness": [
+        "300 cd/m2",
+        "300 cd/m2"
+    ],
+    "cables included": "1 x VGA cable \u00a6 1 x DVI cable \u00a6 1 x DisplayPort cable",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "compliant standards": [
+        "TCO Displays 5.0",
+        "TCO Displays 5.0"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI ( HDCP ) \u00a6 DisplayPort \u00a6 USB",
+    "contrast ratio": [
+        "1000:1 / 100000000:1 (dynamic)",
+        "1000:1 / 100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 24\"",
+    "diagonal size": "24\"",
+    "dimensions wxdxh": [
+        "22.2 in x 9.3 in x 20.5 in",
+        "22.2 in x 9.3 in x 20.5 in"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "EPEAT Compliant EPEAT Silver\nENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified , EPEAT Silver"
+    ],
+    "epeat compliant": "EPEAT Silver",
+    "features": "HDCP",
+    "flat panel mount interface": "100 x 100 mm",
+    "general": "Weight 17 lbs\nFeatures HDCP\nNative Resolution 1920 x 1200 at 60 Hz\nHorizontal Viewing Angle 178\nVertical Viewing Angle 178\nContrast Ratio 1000:1 / 100000000:1 (dynamic)\nPanel Type IPS\nBacklight Technology LED backlight\nBrightness 300 cd/m2\nDiagonal Size 24\"\nResponse Time 14 ms\nDimensions (WxDxH) 22.2 in x 9.3 in x 20.5 in\nAspect Ratio Widescreen - 16:10\nPixel Pitch 0.27 mm\nColor Black\nColor Support 16.7 million colors\nDisplay Type LED-backlit LCD monitor / TFT active matrix",
+    "horizontal viewing angle": "178",
+    "input connectors": "DVI, VGA, DisplayPort",
+    "interfaces": "VGA \u00a6 DVI ( HDCP ) \u00a6 DisplayPort \u00a6 USB",
+    "mainspecs": "Color Support 16.7 million colors\nCompliant Standards TCO Displays 5.0\nDevice Type LED-backlit LCD monitor - 24\"\nSpeakers Integrated\nPanel Type IPS\nInput Connectors DVI, VGA, DisplayPort\nContrast Ratio 1000:1 / 100000000:1 (dynamic)\nBrightness 300 cd/m2\nPixel Pitch 0.27 mm\nProduct Description Acer B243PWL AJbmdrz - LED monitor - 24\"\nManufacturer Warranty 3 years warranty\nWeight 17 lbs\nDimensions (WxDxH) 22.2 in x 9.3 in x 20.5 in\nEnvironmental Standards ENERGY STAR Qualified , EPEAT Silver\nNative Resolution 1920 x 1200 at 60 Hz\nResponse Time 14 ms\nColor Black\nAspect Ratio Widescreen - 16:10",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support 3 years warranty\nService & Support Details Limited warranty - 3 years"
+    ],
+    "mechanical": "Flat Panel Mount Interface 100 x 100 mm",
+    "miscellaneous": "Cables Included 1 x VGA cable \u00a6 1 x DVI cable \u00a6 1 x DisplayPort cable\nCompliant Standards TCO Displays 5.0",
+    "native resolution": [
+        "1920 x 1200 at 60 Hz",
+        "1920 x 1200 at 60 Hz"
+    ],
+    "output power  channel": "1 Watt",
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.27 mm",
+        "0.27 mm"
+    ],
+    "power": "Voltage Required AC 120/230 V\nPower Consumption Operational 29.6 Watt\nPower Consumption Stand by 490 mW\nPower Consumption Sleep 450 mW",
+    "power consumption operational": "29.6 Watt",
+    "power consumption sleep": "450 mW",
+    "power consumption stand by": "490 mW",
+    "product description": "Acer B243PWL AJbmdrz - LED monitor - 24\"",
+    "response time": [
+        "14 ms",
+        "14 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "speakers": "Integrated",
+    "type": "Speakers - stereo - integrated",
+    "vertical viewing angle": "178",
+    "voltage required": "AC 120/230 V",
+    "weight": [
+        "17 lbs",
+        "17 lbs"
+    ]
+}

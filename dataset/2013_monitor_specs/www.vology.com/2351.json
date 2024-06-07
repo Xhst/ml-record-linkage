@@ -1,0 +1,78 @@
+{
+    "<page title>": "ACER UM.HT2AA.001 - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "audio": "Output Power / Channel 2 Watt\nType Speakers - stereo - integrated",
+    "backlight technology": "LED backlight",
+    "brightness": [
+        "300 cd/m2",
+        "300 cd/m2"
+    ],
+    "builtin devices": [
+        "USB 3.0 hub",
+        "USB 3.0 hub"
+    ],
+    "compatible with windows 7": "\"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "connectivity": "Interfaces VGA \u00a6 DVI \u00a6 USB 3.0 upstream \u00a6 3 x USB 3.0 downstream \u00a6 HDMI",
+    "contrast ratio": [
+        "100000000:1 (dynamic)",
+        "100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 27\" - Multi-Touch",
+    "diagonal size": "27\"",
+    "dimensions wxdxh": [
+        "26 in x 1.5 in x 18.5 in",
+        "26 in x 1.5 in x 18.5 in"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "features": "Edge-to-edge glass",
+    "general": "Brightness 300 cd/m2\nFeatures Edge-to-edge glass\nNative Resolution FullHD 1920 x 1080 at 60 Hz\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nDimensions (WxDxH) 26 in x 1.5 in x 18.5 in\nPixel Pitch 0.3114 mm\nResponse Time 5 ms\nDiagonal Size 27\"\nHorizontal Viewing Angle 178\nContrast Ratio 100000000:1 (dynamic)\nBacklight Technology LED backlight\nPanel Type IPS\nVertical Viewing Angle 178\nAspect Ratio Widescreen - 16:9\nBuilt-in Devices USB 3.0 hub",
+    "horizontal viewing angle": "178",
+    "input": "Type Multi-Touch",
+    "input connectors": "HDMI, DVI, VGA",
+    "interfaces": "VGA \u00a6 DVI \u00a6 USB 3.0 upstream \u00a6 3 x USB 3.0 downstream \u00a6 HDMI",
+    "mainspecs": "Microsoft Certification Compatible with Windows 7\nNative Resolution FullHD 1920 x 1080 at 60 Hz\nDevice Type LED-backlit LCD monitor - 27\" - Multi-Touch\nProduct Description Acer T272HLbmidz - LED monitor - 27\"\nManufacturer Warranty 3 years warranty\nDimensions (WxDxH) 26 in x 1.5 in x 18.5 in\nDisplay Position Adjustments Tilt\nInput Connectors HDMI, DVI, VGA\nPanel Type IPS\nPixel Pitch 0.3114 mm\nContrast Ratio 100000000:1 (dynamic)\nBrightness 300 cd/m2\nSpeakers Integrated\nBuilt-in Devices USB 3.0 hub\nAspect Ratio Widescreen - 16:9\nResponse Time 5 ms",
+    "manufacturer warranty": [
+        "Service & Support Details Limited warranty - 3 years\nService & Support 3 years warranty",
+        "3 years warranty"
+    ],
+    "mechanical": "Display Position Adjustments Tilt",
+    "microsoft certification": "Compatible with Windows 7",
+    "miscellaneous": "Compatible with Windows 7 \"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "native resolution": [
+        "FullHD 1920 x 1080 at 60 Hz",
+        "FullHD 1920 x 1080 at 60 Hz"
+    ],
+    "output power  channel": "2 Watt",
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.3114 mm",
+        "0.3114 mm"
+    ],
+    "power": "Power Consumption Operational 65 Watt\nVoltage Required AC 120/230 V\nPower Supply External",
+    "power consumption operational": "65 Watt",
+    "power supply": "External",
+    "product description": "Acer T272HLbmidz - LED monitor - 27\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "speakers": "Integrated",
+    "type": [
+        "Multi-Touch",
+        "Speakers - stereo - integrated"
+    ],
+    "vertical viewing angle": "178",
+    "voltage required": "AC 120/230 V"
+}

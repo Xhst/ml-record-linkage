@@ -1,0 +1,98 @@
+{
+    "<page title>": "HP E1K96AA#ABA - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "LED backlight",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "color": [
+        "Iridium silver, black jack",
+        "Iridium silver, black jack"
+    ],
+    "compliant standards": [
+        "Plug and Play, CSA, UL, C-Tick, GOST, cUL, NOM, SABS, SASO, WHQL, CB, CCC, PSB, FCC, ISO 9241-307, KCC, ICES, KC, ERP, NOM-019-SCFI-1998",
+        "Plug and Play, CSA, UL, C-Tick, GOST, cUL, NOM, SABS, SASO, WHQL, CB, CCC, PSB, FCC, ISO 9241-307, KCC, ICES, KC, ERP, NOM-019-SCFI-1998"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 HDMI ( HDCP ) \u00a6 Headphones \u00a6 Audio line-in",
+    "contrast ratio": [
+        "1000:1 / 10000000:1 (dynamic)",
+        "1000:1 / 10000000:1 (dynamic)"
+    ],
+    "controls  adjustments": "Brightness, contrast",
+    "device type": "LED-backlit LCD monitor - 23\"",
+    "diagonal size": "23\"",
+    "dimensions wxdxh": [
+        "20.9 in x 6.8 in x 15.9 in",
+        "20.9 in x 6.8 in x 15.9 in"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental parameters": "Humidity Range Operating 20 - 70% (non-condensing)\nMin Operating Temperature 41 \u00b0F\nMax Operating Temperature 95 \u00b0F",
+    "environmental standards": [
+        "ENERGY STAR Qualified , EPEAT Silver",
+        "ENERGY STAR Qualified Yes\nEPEAT Compliant EPEAT Silver"
+    ],
+    "epeat compliant": "EPEAT Silver",
+    "features": [
+        "Security lock slot (cable lock sold separately)",
+        "BrightView, HDCP"
+    ],
+    "general": "Dimensions (WxDxH) 20.9 in x 6.8 in x 15.9 in\nBrightness 250 cd/m2\nResponse Time 7 ms (gray-to-gray)\nAspect Ratio Widescreen - 16:9\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nPixel Pitch 0.265 mm\nDiagonal Size 23\"\nViewable Size 23\"\nNative Resolution 1920 x 1080 at 60 Hz\nWeight 7.8 lbs\nFeatures BrightView, HDCP\nVertical Refresh Rate 76 Hz\nHorizontal Refresh Rate 94 kHz\nBacklight Technology LED backlight\nControls & Adjustments Brightness, contrast\nPanel Type IPS\nContrast Ratio 1000:1 / 10000000:1 (dynamic)\nVertical Viewing Angle 178\nHorizontal Viewing Angle 178\nColor Iridium silver, black jack",
+    "horizontal refresh rate": "94 kHz",
+    "horizontal viewing angle": "178",
+    "humidity range operating": "20 - 70% (non-condensing)",
+    "input connectors": "HDMI, VGA",
+    "interfaces": "VGA \u00a6 HDMI ( HDCP ) \u00a6 Headphones \u00a6 Audio line-in",
+    "localization": [
+        "English / United States",
+        "English / United States"
+    ],
+    "mainspecs": "Environmental Standards ENERGY STAR Qualified , EPEAT Silver\nAspect Ratio Widescreen - 16:9\nColor Iridium silver, black jack\nResponse Time 7 ms (gray-to-gray)\nCompliant Standards Plug and Play, CSA, UL, C-Tick, GOST, cUL, NOM, SABS, SASO, WHQL, CB, CCC, PSB, FCC, ISO 9241-307, KCC, ICES, KC, ERP, NOM-019-SCFI-1998\nDevice Type LED-backlit LCD monitor - 23\"\nLocalization English / United States\nManufacturer Warranty 1 year warranty\nProduct Description HP Envy 23 - LED monitor - 23\"\nWeight 7.8 lbs\nDimensions (WxDxH) 20.9 in x 6.8 in x 15.9 in\nNative Resolution 1920 x 1080 at 60 Hz\nDisplay Position Adjustments Tilt\nPanel Type IPS\nContrast Ratio 1000:1 / 10000000:1 (dynamic)\nInput Connectors HDMI, VGA\nPixel Pitch 0.265 mm\nBrightness 250 cd/m2",
+    "manufacturer warranty": [
+        "1 year warranty",
+        "Service & Support Details Limited warranty - parts and labor - 1 year\nService & Support 1 year warranty"
+    ],
+    "max operating temperature": "95 \u00b0F",
+    "mechanical": "Display Position Adjustments Tilt\nTilt Angle -5/+25",
+    "min operating temperature": "41 \u00b0F",
+    "miscellaneous": "Localization English / United States\nFeatures Security lock slot (cable lock sold separately)\nCompliant Standards Plug and Play, CSA, UL, C-Tick, GOST, cUL, NOM, SABS, SASO, WHQL, CB, CCC, PSB, FCC, ISO 9241-307, KCC, ICES, KC, ERP, NOM-019-SCFI-1998",
+    "native resolution": [
+        "1920 x 1080 at 60 Hz",
+        "1920 x 1080 at 60 Hz"
+    ],
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.265 mm",
+        "0.265 mm"
+    ],
+    "power": "Power Consumption Stand by 0.5 Watt\nPower Supply External\nPower Consumption Operational 26.5 Watt",
+    "power consumption operational": "26.5 Watt",
+    "power consumption stand by": "0.5 Watt",
+    "power supply": "External",
+    "product description": "HP Envy 23 - LED monitor - 23\"",
+    "response time": [
+        "7 ms (gray-to-gray)",
+        "7 ms (gray-to-gray)"
+    ],
+    "service  support": "1 year warranty",
+    "service  support details": "Limited warranty - parts and labor - 1 year",
+    "tilt angle": "-5/+25",
+    "vertical refresh rate": "76 Hz",
+    "vertical viewing angle": "178",
+    "viewable size": "23\"",
+    "weight": [
+        "7.8 lbs",
+        "7.8 lbs"
+    ]
+}

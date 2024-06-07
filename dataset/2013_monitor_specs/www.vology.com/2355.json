@@ -1,0 +1,101 @@
+{
+    "<page title>": "ACER UM.VT2AA.001 - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "audio": "Type Speakers - stereo - integrated\nOutput Power / Channel 1.5 Watt",
+    "backlight technology": "LED backlight",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "builtin devices": [
+        "USB hub",
+        "USB hub"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "compliant standards": [
+        "MPR II",
+        "MPR II"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI \u00a6 USB 3.0 upstream \u00a6 3 x USB 3.0 downstream \u00a6 HDMI",
+    "contrast ratio": [
+        "1000:1 / 100000000:1 (dynamic)",
+        "1000:1 / 100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 23\" - Multi-Touch",
+    "diagonal size": "23\"",
+    "dimensions wxdxh": [
+        "22.6 in x 2 in x 17.9 in",
+        "22.6 in x 2 in x 17.9 in"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified"
+    ],
+    "features": [
+        "Acer Adaptive Contrast Management (ACM), 72% NTSC color gamut, High Frame Rate Control (Hi-FRC), Zero Frame",
+        "Security lock slot (cable lock sold separately)"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "general": "Built-in Devices USB hub\nColor Support 16.7 million colors\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nAspect Ratio Widescreen - 16:9\nWeight 12.6 lbs\nFeatures Acer Adaptive Contrast Management (ACM), 72% NTSC color gamut, High Frame Rate Control (Hi-FRC), Zero Frame\nDimensions (WxDxH) 22.6 in x 2 in x 17.9 in\nVertical Viewing Angle 178\nHorizontal Viewing Angle 178\nContrast Ratio 1000:1 / 100000000:1 (dynamic)\nBacklight Technology LED backlight\nPanel Type E-IPS\nHorizontal Refresh Rate 83.8 kHz\nVertical Refresh Rate 75 Hz\nNative Resolution FullHD 1920 x 1080 at 60 Hz\nBrightness 250 cd/m2\nResponse Time 5 ms\nDiagonal Size 23\"\nPixel Pitch 0.265 mm",
+    "horizontal refresh rate": "83.8 kHz",
+    "horizontal viewing angle": "178",
+    "input": "Type Multi-Touch",
+    "input connectors": "HDMI, DVI, VGA",
+    "interfaces": "VGA \u00a6 DVI \u00a6 USB 3.0 upstream \u00a6 3 x USB 3.0 downstream \u00a6 HDMI",
+    "mainspecs": "Input Connectors HDMI, DVI, VGA\nDisplay Position Adjustments Tilt\nPanel Type E-IPS\nPixel Pitch 0.265 mm\nBrightness 250 cd/m2\nContrast Ratio 1000:1 / 100000000:1 (dynamic)\nBuilt-in Devices USB hub\nNative Resolution FullHD 1920 x 1080 at 60 Hz\nSpeakers Integrated\nResponse Time 5 ms\nAspect Ratio Widescreen - 16:9\nEnvironmental Standards ENERGY STAR Qualified\nWeight 12.6 lbs\nDimensions (WxDxH) 22.6 in x 2 in x 17.9 in\nProduct Description Acer T232HLbmidz - LED monitor - 23\"\nManufacturer Warranty 3 years warranty\nCompliant Standards MPR II\nDevice Type LED-backlit LCD monitor - 23\" - Multi-Touch\nColor Support 16.7 million colors",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support Details Limited warranty - 3 years\nService & Support 3 years warranty"
+    ],
+    "mechanical": "Display Position Adjustments Tilt\nFlat Panel Mount Interface 100 x 100 mm\nTilt Angle 52",
+    "miscellaneous": "Compliant Standards MPR II\nFeatures Security lock slot (cable lock sold separately)",
+    "native resolution": [
+        "FullHD 1920 x 1080 at 60 Hz",
+        "FullHD 1920 x 1080 at 60 Hz"
+    ],
+    "output power  channel": "1.5 Watt",
+    "panel type": [
+        "E-IPS",
+        "E-IPS"
+    ],
+    "pixel pitch": [
+        "0.265 mm",
+        "0.265 mm"
+    ],
+    "power": "Power Supply External\nPower Consumption Stand by / Sleep 0.48 Watt\nPower Consumption Operational 25.4 Watt\nVoltage Required AC 120/230 V",
+    "power consumption operational": "25.4 Watt",
+    "power consumption stand by  sleep": "0.48 Watt",
+    "power supply": "External",
+    "product description": "Acer T232HLbmidz - LED monitor - 23\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "speakers": "Integrated",
+    "tilt angle": "52",
+    "type": [
+        "Multi-Touch",
+        "Speakers - stereo - integrated"
+    ],
+    "vertical refresh rate": "75 Hz",
+    "vertical viewing angle": "178",
+    "voltage required": "AC 120/230 V",
+    "weight": [
+        "12.6 lbs",
+        "12.6 lbs"
+    ]
+}

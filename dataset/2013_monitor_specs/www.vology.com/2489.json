@@ -1,0 +1,73 @@
+{
+    "<page title>": "HP PF996AA - Vology",
+    "cables included": "1 x VGA cable - 5 ft",
+    "color": [
+        "Silver, carbon",
+        "Silver, carbon"
+    ],
+    "compatibility information": "Designed For HP Compaq Thin Client t5125, t5520, t5525",
+    "compliant standards": [
+        "Plug and Play, TCO '03, MPR II, CSA, UL, TUV, ISO 9241-3, ISO 9241-8, ISO 9241-7, cUL, DHHS, FCC",
+        "Plug and Play, TCO '03, MPR II, CSA, UL, TUV, ISO 9241-3, ISO 9241-8, ISO 9241-7, cUL, DHHS, FCC"
+    ],
+    "connectivity": "Interfaces 1 x VGA - 15 pin HD D-Sub (HD-15)",
+    "controls  adjustments": "Brightness, contrast, H/V moire, H/V position, H/V size, tilt, trapezoid, degauss, color temperature, parallelogram, pincushion",
+    "designed for": [
+        "HP Compaq Thin Client t5125, t5520, t5525",
+        "Thin Client t5125, t5520, t5525"
+    ],
+    "device type": "CRT monitor - 17\"",
+    "diagonal size": "17\"",
+    "dimensions wxdxh": [
+        "16.1 in x 16.9 in x 16.1 in",
+        "16.1 in x 16.9 in x 16.1 in"
+    ],
+    "display type": "CRT monitor / CRT",
+    "energy star qualified": "Yes",
+    "environmental parameters": "Max Operating Temperature 95 \u00b0F\nMin Operating Temperature 50 \u00b0F\nHumidity Range Operating 20 - 80%",
+    "environmental standards": [
+        "ENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified"
+    ],
+    "features": "AssetControl",
+    "general": "Weight 35.3 lbs\nFeatures AssetControl\nNative Resolution 1600 x 1200 at 65 Hz\nScreen Coating Anti-glare, anti-static\nControls & Adjustments Brightness, contrast, H/V moire, H/V position, H/V size, tilt, trapezoid, degauss, color temperature, parallelogram, pincushion\nVertical Refresh Rate 160 Hz\nHorizontal Refresh Rate 86 kHz\nDisplay Type CRT monitor / CRT\nColor Silver, carbon\nCRT Type Shadow mask\nVideo Bandwidth 180 MHz\nPixel Pitch 0.22 mm\nViewable Size 16\"\nDiagonal Size 17\"\nDimensions (WxDxH) 16.1 in x 16.9 in x 16.1 in",
+    "horizontal refresh rate": "86 kHz",
+    "humidity range operating": "20 - 80%",
+    "input connectors": "VGA",
+    "interfaces": "1 x VGA - 15 pin HD D-Sub (HD-15)",
+    "mainspecs": "Screen Coating Anti-glare, anti-static\nPixel Pitch 0.22 mm\nInput Connectors VGA\nDesigned For Thin Client t5125, t5520, t5525\nCompliant Standards Plug and Play, TCO '03, MPR II, CSA, UL, TUV, ISO 9241-3, ISO 9241-8, ISO 9241-7, cUL, DHHS, FCC\nDevice Type CRT monitor - 17\"\nDimensions (WxDxH) 16.1 in x 16.9 in x 16.1 in\nWeight 35.3 lbs\nManufacturer Warranty 3 years warranty\nProduct Description HP V7650 - CRT monitor - 17\"\nEnvironmental Standards ENERGY STAR Qualified\nNative Resolution 1600 x 1200 at 65 Hz\nColor Silver, carbon",
+    "manufacturer warranty": [
+        "Service & Support Details Limited warranty - parts and labor - 3 years - on-site\nService & Support 3 years warranty",
+        "3 years warranty"
+    ],
+    "max operating temperature": "95 \u00b0F",
+    "min operating temperature": "50 \u00b0F",
+    "miscellaneous": "Compliant Standards Plug and Play, TCO '03, MPR II, CSA, UL, TUV, ISO 9241-3, ISO 9241-8, ISO 9241-7, cUL, DHHS, FCC\nCables Included 1 x VGA cable - 5 ft",
+    "native resolution": [
+        "1600 x 1200 at 65 Hz",
+        "1600 x 1200 at 65 Hz"
+    ],
+    "pixel pitch": [
+        "0.22 mm",
+        "0.22 mm"
+    ],
+    "power": "Power Supply Internal\nPower Consumption Operational 61 Watt\nVoltage Required AC 120/230 V ( 50/60 Hz )\nPower Consumption Stand by / Sleep 3 Watt",
+    "power consumption operational": "61 Watt",
+    "power consumption stand by  sleep": "3 Watt",
+    "power supply": "Internal",
+    "product description": "HP V7650 - CRT monitor - 17\"",
+    "screen coating": [
+        "Anti-glare, anti-static",
+        "Anti-glare, anti-static"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labor - 3 years - on-site",
+    "vertical refresh rate": "160 Hz",
+    "video bandwidth": "180 MHz",
+    "viewable size": "16\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "35.3 lbs",
+        "35.3 lbs"
+    ]
+}

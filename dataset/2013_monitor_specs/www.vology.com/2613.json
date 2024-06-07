@@ -1,0 +1,104 @@
+{
+    "<page title>": "ACER UM.VT2AA.A01 - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "audio": "Output Power / Channel 1.5 Watt\nType Speakers - stereo - integrated",
+    "backlight technology": "LED backlight",
+    "brightness": [
+        "300 cd/m2",
+        "300 cd/m2"
+    ],
+    "builtin devices": [
+        "USB 3.0 hub",
+        "USB 3.0 hub"
+    ],
+    "cables included": "1 x HDMI cable \u00a6 1 x VGA cable \u00a6 1 x USB cable",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "compliant standards": [
+        "MPR II",
+        "MPR II"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI \u00a6 USB 3.0 upstream \u00a6 3 x USB 3.0 downstream \u00a6 HDMI ( HDCP )",
+    "contrast ratio": [
+        "100000000:1 (dynamic)",
+        "100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 23\" - Multi-Touch",
+    "diagonal size": "23\"",
+    "dimensions  weight": "Dimensions & Weight Details With stand - width: 22.6 in - depth: 2 in - height: 17.9 in - weight: 12.6 lbs",
+    "dimensions  weight details": "With stand - width: 22.6 in - depth: 2 in - height: 17.9 in - weight: 12.6 lbs",
+    "dimensions wxdxh": [
+        "22.6 in x 1.5 in x 16.5 in - without stand",
+        "22.6 in x 1.5 in x 16.5 in - without stand"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified"
+    ],
+    "features": "HDCP, eColor Management, Acer Adaptive Contrast Management (ACM), Mobile High-Definition Link (MHL)",
+    "flat panel mount interface": "Yes",
+    "general": "Features HDCP, eColor Management, Acer Adaptive Contrast Management (ACM), Mobile High-Definition Link (MHL)\nWeight 11.4 lbs\nAspect Ratio Widescreen - 16:9\nDimensions (WxDxH) 22.6 in x 1.5 in x 16.5 in - without stand\nBuilt-in Devices USB 3.0 hub\nColor Black\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nDiagonal Size 23\"\nPixel Pitch 0.265 mm\nResponse Time 5 ms\nNative Resolution FullHD 1920 x 1080 at 60 Hz\nBrightness 300 cd/m2\nContrast Ratio 100000000:1 (dynamic)\nVertical Viewing Angle 178\nHorizontal Viewing Angle 178\nPanel Type E-IPS\nBacklight Technology LED backlight",
+    "horizontal viewing angle": "178",
+    "input": "Type Multi-Touch",
+    "input connectors": "HDMI, DVI, VGA",
+    "interfaces": "VGA \u00a6 DVI \u00a6 USB 3.0 upstream \u00a6 3 x USB 3.0 downstream \u00a6 HDMI ( HDCP )",
+    "mainspecs": "Color Black\nResponse Time 5 ms\nEnvironmental Standards ENERGY STAR Qualified\nBuilt-in Devices USB 3.0 hub\nNative Resolution FullHD 1920 x 1080 at 60 Hz\nCompliant Standards MPR II\nDevice Type LED-backlit LCD monitor - 23\" - Multi-Touch\nDimensions (WxDxH) 22.6 in x 1.5 in x 16.5 in - without stand\nWeight 11.4 lbs\nManufacturer Warranty 3 years warranty\nProduct Description Acer T232HL - LED monitor - 23\"\nPixel Pitch 0.265 mm\nBrightness 300 cd/m2\nInput Connectors HDMI, DVI, VGA\nContrast Ratio 100000000:1 (dynamic)\nPanel Type E-IPS\nDisplay Position Adjustments Tilt\nSpeakers Integrated\nColor Support 16.7 million colors\nAspect Ratio Widescreen - 16:9",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support Details Limited warranty - 3 years\nService & Support 3 years warranty"
+    ],
+    "mechanical": "Display Position Adjustments Tilt\nTilt Angle 60\nFlat Panel Mount Interface Yes",
+    "miscellaneous": "Cables Included 1 x HDMI cable \u00a6 1 x VGA cable \u00a6 1 x USB cable\nCompliant Standards MPR II",
+    "native resolution": [
+        "FullHD 1920 x 1080 at 60 Hz",
+        "FullHD 1920 x 1080 at 60 Hz"
+    ],
+    "output power  channel": "1.5 Watt",
+    "panel type": [
+        "E-IPS",
+        "E-IPS"
+    ],
+    "pixel pitch": [
+        "0.265 mm",
+        "0.265 mm"
+    ],
+    "power": "Power Consumption Stand by 490 mW\nPower Supply External\nPower Consumption Sleep 480 mW\nPower Consumption Operational 20.9 Watt\nVoltage Required AC 120/230 V",
+    "power consumption operational": "20.9 Watt",
+    "power consumption sleep": "480 mW",
+    "power consumption stand by": "490 mW",
+    "power supply": "External",
+    "product description": "Acer T232HL - LED monitor - 23\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "speakers": "Integrated",
+    "tilt angle": "60",
+    "type": [
+        "Multi-Touch",
+        "Speakers - stereo - integrated"
+    ],
+    "vertical viewing angle": "178",
+    "voltage required": "AC 120/230 V",
+    "weight": [
+        "11.4 lbs",
+        "11.4 lbs"
+    ]
+}

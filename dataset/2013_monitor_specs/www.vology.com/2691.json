@@ -1,0 +1,78 @@
+{
+    "<page title>": "ACER UM.HS5AA.001 - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "audio": "Output Power / Channel 1.5 Watt\nType Speakers - stereo - integrated",
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 2 x HDMI ( HDCP )",
+    "contrast ratio": [
+        "100000000:1 (dynamic)",
+        "100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 27\"",
+    "diagonal size": "27\"",
+    "dimensions wxdxh": [
+        "24.5 in x 5.6 in x 17.7 in - with stand",
+        "24.5 in x 5.6 in x 17.7 in - with stand"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified"
+    ],
+    "features": "Acer EcoDisplay, frameless, glare, Acer Adaptive Contrast Management (ACM), Zero Frame",
+    "general": "Features Acer EcoDisplay, frameless, glare, Acer Adaptive Contrast Management (ACM), Zero Frame\nBrightness 250 cd/m2\nNative Resolution FullHD 1920 x 1080 at 60 Hz\nResponse Time 6 ms\nDimensions (WxDxH) 24.5 in x 5.6 in x 17.7 in - with stand\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nDiagonal Size 27\"\nHorizontal Viewing Angle 178\nVertical Viewing Angle 178\nContrast Ratio 100000000:1 (dynamic)\nPanel Type IPS\nBacklight Technology WLED\nAspect Ratio Widescreen - 16:9\nColor Black",
+    "horizontal viewing angle": "178",
+    "input connectors": "2xHDMI, VGA",
+    "interfaces": "VGA \u00a6 2 x HDMI ( HDCP )",
+    "mainspecs": "Environmental Standards ENERGY STAR Qualified\nNative Resolution FullHD 1920 x 1080 at 60 Hz\nManufacturer Warranty 3 years warranty\nProduct Description Acer S275HLbmii - LED monitor - 27\"\nDimensions (WxDxH) 24.5 in x 5.6 in x 17.7 in - with stand\nColor Support 16.7 million colors\nDisplay Position Adjustments Tilt\nPanel Type IPS\nContrast Ratio 100000000:1 (dynamic)\nInput Connectors 2xHDMI, VGA\nBrightness 250 cd/m2\nSpeakers Integrated\nDevice Type LED-backlit LCD monitor - 27\"\nAspect Ratio Widescreen - 16:9\nResponse Time 6 ms\nColor Black",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support Details Limited warranty - 3 years\nService & Support 3 years warranty"
+    ],
+    "mechanical": "Tilt Angle -1/+15\nDisplay Position Adjustments Tilt",
+    "native resolution": [
+        "FullHD 1920 x 1080 at 60 Hz",
+        "FullHD 1920 x 1080 at 60 Hz"
+    ],
+    "output power  channel": "1.5 Watt",
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "power": "Power Consumption Stand by / Sleep 0.5 Watt\nPower Consumption Operational 36 Watt\nVoltage Required AC 120/230 V\nPower Supply External",
+    "power consumption operational": "36 Watt",
+    "power consumption stand by  sleep": "0.5 Watt",
+    "power supply": "External",
+    "product description": "Acer S275HLbmii - LED monitor - 27\"",
+    "response time": [
+        "6 ms",
+        "6 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "speakers": "Integrated",
+    "tilt angle": "-1/+15",
+    "type": "Speakers - stereo - integrated",
+    "vertical viewing angle": "178",
+    "voltage required": "AC 120/230 V"
+}

@@ -1,0 +1,101 @@
+{
+    "<page title>": "ACER ET.CB3RP.D02 - Vology",
+    "audio": "Type Speakers - stereo - integrated\nOutput Power / Channel 1 Watt",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "builtin devices": [
+        "Stereo speakers",
+        "Stereo speakers"
+    ],
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "compatible with windows 7": "\"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "compliant standards": [
+        "TCO '03",
+        "TCO '03"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI-D \u00a6 Audio line-in",
+    "contrast ratio": [
+        "50000:1 (dynamic)",
+        "50000:1 (dynamic)"
+    ],
+    "device type": "LCD monitor - 19\"",
+    "diagonal size": "19\"",
+    "dimensions wxdxh": [
+        "16.1 in x 7.8 in x 14.1 in",
+        "16.1 in x 7.8 in x 14.1 in"
+    ],
+    "display position adjustments": [
+        "Height, swivel, tilt",
+        "Height, swivel, tilt"
+    ],
+    "display type": "LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified , EPEAT Silver",
+        "EPEAT Compliant EPEAT Silver\nENERGY STAR Qualified Yes"
+    ],
+    "epeat compliant": "EPEAT Silver",
+    "features": [
+        "Security lock slot (cable lock sold separately), wall mountable",
+        "HDCP, Acer Adaptive Contrast Management (ACM), 72% NTSC color gamut"
+    ],
+    "flat panel mount interface": "Yes",
+    "general": "Pixel Pitch 0.294 mm\nColor Black\nBuilt-in Devices Stereo speakers\nDisplay Type LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nFeatures HDCP, Acer Adaptive Contrast Management (ACM), 72% NTSC color gamut\nWeight 11.5 lbs\nBrightness 250 cd/m2\nHorizontal Viewing Angle 160\nContrast Ratio 50000:1 (dynamic)\nVertical Viewing Angle 160\nPanel Type TN\nHorizontal Refresh Rate 80 kHz\nVertical Refresh Rate 75 Hz\nNative Resolution 1280 x 1024 at 75 Hz\nDimensions (WxDxH) 16.1 in x 7.8 in x 14.1 in\nDiagonal Size 19\"\nResponse Time 5 ms",
+    "height adjustment": "3.1 in",
+    "horizontal refresh rate": "80 kHz",
+    "horizontal viewing angle": "160",
+    "input connectors": "DVI-D, VGA",
+    "interfaces": "VGA \u00a6 DVI-D \u00a6 Audio line-in",
+    "mainspecs": "Weight 11.5 lbs\nDimensions (WxDxH) 16.1 in x 7.8 in x 14.1 in\nManufacturer Warranty 3 years warranty\nProduct Description Acer B193 DJbmdh - LCD monitor - 19\"\nDevice Type LCD monitor - 19\"\nCompliant Standards TCO '03\nColor Support 16.7 million colors\nMicrosoft Certification Compatible with Windows 7\nEnvironmental Standards ENERGY STAR Qualified , EPEAT Silver\nColor Black\nResponse Time 5 ms\nBuilt-in Devices Stereo speakers\nPanel Type TN\nBrightness 250 cd/m2\nContrast Ratio 50000:1 (dynamic)\nInput Connectors DVI-D, VGA\nDisplay Position Adjustments Height, swivel, tilt\nNative Resolution 1280 x 1024 at 75 Hz\nPixel Pitch 0.294 mm\nSpeakers Integrated",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support 3 years warranty\nService & Support Details Limited warranty - parts and labor - 3 years"
+    ],
+    "mechanical": "Height Adjustment 3.1 in\nFlat Panel Mount Interface Yes\nDisplay Position Adjustments Height, swivel, tilt\nTilt Angle 20\nRotation Angle 35",
+    "microsoft certification": "Compatible with Windows 7",
+    "miscellaneous": "Compatible with Windows 7 \"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.\nFeatures Security lock slot (cable lock sold separately), wall mountable\nCompliant Standards TCO '03",
+    "native resolution": [
+        "1280 x 1024 at 75 Hz",
+        "1280 x 1024 at 75 Hz"
+    ],
+    "output power  channel": "1 Watt",
+    "panel type": [
+        "TN",
+        "TN"
+    ],
+    "pixel pitch": [
+        "0.294 mm",
+        "0.294 mm"
+    ],
+    "power": "Power Supply Internal\nVoltage Required AC 120/230 V ( 50/60 Hz )\nPower Consumption Stand by / Sleep 0.53 Watt\nPower Consumption Operational 18.5 Watt",
+    "power consumption operational": "18.5 Watt",
+    "power consumption stand by  sleep": "0.53 Watt",
+    "power supply": "Internal",
+    "product description": "Acer B193 DJbmdh - LCD monitor - 19\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "rotation angle": "35",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labor - 3 years",
+    "speakers": "Integrated",
+    "tilt angle": "20",
+    "type": "Speakers - stereo - integrated",
+    "vertical refresh rate": "75 Hz",
+    "vertical viewing angle": "160",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "11.5 lbs",
+        "11.5 lbs"
+    ]
+}

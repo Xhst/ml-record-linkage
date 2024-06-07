@@ -1,0 +1,94 @@
+{
+    "<page title>": "HP RB146AT#ABA L5006tm Touchscreen LCD Monitor - 15\" - Vology",
+    "brightness": [
+        "230 cd/m2",
+        "230 cd/m2"
+    ],
+    "builtin devices": "Touch-screen",
+    "cables included": "1 x VGA cable - 6 ft",
+    "color support": [
+        "16.2 million colors",
+        "16.2 million colors"
+    ],
+    "compliant standards": [
+        "Plug and Play, TCO '03, MPR II, UL, ISO 9241-3, ISO 9241-8, GOST, ISO 9241-7, ISO 13406-2, TCO '99, FCC",
+        "Plug and Play, TCO '03, MPR II, UL, ISO 9241-3, ISO 9241-8, GOST, ISO 9241-7, ISO 13406-2, TCO '99, FCC"
+    ],
+    "connectivity": "Interfaces 1 x VGA - 15 pin HD D-Sub (HD-15) \u00a6 1 x serial RS-232 \u00a6 USB",
+    "contrast ratio": [
+        "400:1",
+        "400:1"
+    ],
+    "controls  adjustments": "Brightness, contrast, color temperature, phase, clock",
+    "device type": "LCD monitor - 15\"",
+    "diagonal size": "15\"",
+    "dimensions wxdxh": [
+        "13.8 in x 2.2 in x 11 in",
+        "13.8 in x 2.2 in x 11 in"
+    ],
+    "display type": "LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental parameters": "Humidity Range Operating 20 - 80%\nMin Operating Temperature 32 \u00b0F\nMax Operating Temperature 104 \u00b0F",
+    "environmental standards": [
+        "ENERGY STAR Qualified",
+        "ENERGY STAR Qualified Yes"
+    ],
+    "features": [
+        "Anti-static",
+        "Anti-glare"
+    ],
+    "flat panel mount interface": "75 x 75 mm",
+    "general": "Dimensions (WxDxH) 13.8 in x 2.2 in x 11 in\nFeatures Anti-glare\nBrightness 230 cd/m2\nWeight 10.6 lbs\nScreen Coating Anti-glare, anti-static\nVertical Viewing Angle 100\nHorizontal Viewing Angle 120\nContrast Ratio 400:1\nControls & Adjustments Brightness, contrast, color temperature, phase, clock\nVertical Refresh Rate 75 Hz\nHorizontal Refresh Rate 60.2 kHz\nDisplay Type LCD monitor / TFT active matrix\nColor Support 16.2 million colors\nNative Resolution 1024 x 768 at 75 Hz\nDiagonal Size 15\"\nViewable Size 15\"\nOSD Languages English, German, French, Spanish, Japanese\nResponse Time 17 ms\nPixel Pitch 0.297 mm",
+    "horizontal refresh rate": "60.2 kHz",
+    "horizontal viewing angle": "120",
+    "humidity range operating": "20 - 80%",
+    "input": "Movement Detection Technology Surface acoustic wave\nType Touch-screen",
+    "input connectors": "VGA",
+    "interfaces": "1 x VGA - 15 pin HD D-Sub (HD-15) \u00a6 1 x serial RS-232 \u00a6 USB",
+    "localization": [
+        "English / United States",
+        "English / United States"
+    ],
+    "mainspecs": "Response Time 17 ms\nBuilt-in Devices Touch-screen\nEnvironmental Standards ENERGY STAR Qualified\nMicrosoft Certification Works with Windows Vista\nProduct Description HP L5006tm Touchscreen - LCD monitor - 15\"\nManufacturer Warranty 3 years warranty\nScreen Coating Anti-glare, anti-static\nPixel Pitch 0.297 mm\nBrightness 230 cd/m2\nContrast Ratio 400:1\nInput Connectors VGA\nDimensions (WxDxH) 13.8 in x 2.2 in x 11 in\nWeight 10.6 lbs\nDevice Type LCD monitor - 15\"\nLocalization English / United States\nCompliant Standards Plug and Play, TCO '03, MPR II, UL, ISO 9241-3, ISO 9241-8, GOST, ISO 9241-7, ISO 13406-2, TCO '99, FCC\nNative Resolution 1024 x 768 at 75 Hz\nColor Support 16.2 million colors",
+    "manufacturer warranty": [
+        "Service & Support 3 years warranty\nService & Support Details Limited warranty - parts and labor - 3 years - on-site \u00a6 Limited warranty - parts and labor - backlight - 3 years - on-site",
+        "3 years warranty"
+    ],
+    "max operating temperature": "104 \u00b0F",
+    "mechanical": "Flat Panel Mount Interface 75 x 75 mm",
+    "microsoft certification": "Works with Windows Vista",
+    "min operating temperature": "32 \u00b0F",
+    "miscellaneous": "Works with Windows Vista Software and devices that carry the Works with Windows Vista logo have been tested for baseline compatibility with PC's running.\nLocalization English / United States\nCables Included 1 x VGA cable - 6 ft\nCompliant Standards Plug and Play, TCO '03, MPR II, UL, ISO 9241-3, ISO 9241-8, GOST, ISO 9241-7, ISO 13406-2, TCO '99, FCC\nFeatures Anti-static",
+    "movement detection technology": "Surface acoustic wave",
+    "native resolution": [
+        "1024 x 768 at 75 Hz",
+        "1024 x 768 at 75 Hz"
+    ],
+    "osd languages": "English, German, French, Spanish, Japanese",
+    "pixel pitch": [
+        "0.297 mm",
+        "0.297 mm"
+    ],
+    "power": "Power Consumption Operational 22 Watt",
+    "power consumption operational": "22 Watt",
+    "product description": "HP L5006tm Touchscreen - LCD monitor - 15\"",
+    "response time": [
+        "17 ms",
+        "17 ms"
+    ],
+    "screen coating": [
+        "Anti-glare, anti-static",
+        "Anti-glare, anti-static"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labor - 3 years - on-site \u00a6 Limited warranty - parts and labor - backlight - 3 years - on-site",
+    "type": "Touch-screen",
+    "vertical refresh rate": "75 Hz",
+    "vertical viewing angle": "100",
+    "viewable size": "15\"",
+    "weight": [
+        "10.6 lbs",
+        "10.6 lbs"
+    ],
+    "works with windows vista": "Software and devices that carry the Works with Windows Vista logo have been tested for baseline compatibility with PC's running."
+}

@@ -1,0 +1,92 @@
+{
+    "<page title>": "Lenovo 0A60995 Planar PT1745R LCD Monitor - 17\" - Vology",
+    "audio": "Output Power / Channel 1 Watt\nType Speakers - stereo - integrated",
+    "brightness": [
+        "200 cd/m2",
+        "200 cd/m2"
+    ],
+    "builtin devices": "Touch-screen",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "color temperature": "9300K, 6500K, 5500K, 7500K",
+    "compliant standards": [
+        "FCC Class B certified, UL, TUV, cUL, VESA FPMPMI, RoHS",
+        "FCC Class B certified, UL, TUV, cUL, VESA FPMPMI, RoHS"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 Audio line-in \u00a6 USB \u00a6 Serial",
+    "contrast ratio": [
+        "1000:1",
+        "1000:1"
+    ],
+    "controls  adjustments": "Mute, volume, brightness, contrast, H/V position, color temperature",
+    "device type": "LCD monitor - 17\"",
+    "diagonal size": "17\"",
+    "dimensions wxdxh": [
+        "15.2 in x 8 in x 13.5 in",
+        "15.2 in x 8 in x 13.5 in"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LCD monitor / TFT active matrix",
+    "environmental parameters": "Max Operating Temperature 104 \u00b0F\nMin Operating Temperature 32 \u00b0F",
+    "features": "Security lock slot (cable lock sold separately)",
+    "flat panel mount interface": "100 x 100 mm",
+    "general": "Brightness 200 cd/m2\nViewable Size 17\"\nDiagonal Size 17\"\nResponse Time 5 ms\nColor Temperature 9300K, 6500K, 5500K, 7500K\nDimensions (WxDxH) 15.2 in x 8 in x 13.5 in\nDisplay Type LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nColor Black\nPixel Pitch 0.264 mm\nNative Resolution 1280 x 1024 at 75 Hz\nWeight 12.6 lbs\nVertical Refresh Rate 75 Hz\nHorizontal Refresh Rate 80 kHz\nScreen Coating Anti-glare\nHorizontal Viewing Angle 170\nVertical Viewing Angle 160\nContrast Ratio 1000:1\nControls & Adjustments Mute, volume, brightness, contrast, H/V position, color temperature",
+    "horizontal refresh rate": "80 kHz",
+    "horizontal viewing angle": "170",
+    "input": "Movement Detection Technology Resistive\nType Touch-screen",
+    "input connectors": "VGA",
+    "interfaces": "VGA \u00a6 Audio line-in \u00a6 USB \u00a6 Serial",
+    "mainspecs": "Built-in Devices Touch-screen\nNative Resolution 1280 x 1024 at 75 Hz\nColor Black\nResponse Time 5 ms\nScreen Coating Anti-glare\nDisplay Position Adjustments Tilt\nInput Connectors VGA\nContrast Ratio 1000:1\nBrightness 200 cd/m2\nPixel Pitch 0.264 mm\nSpeakers Integrated\nColor Support 16.7 million colors\nDevice Type LCD monitor - 17\"\nCompliant Standards FCC Class B certified, UL, TUV, cUL, VESA FPMPMI, RoHS\nProduct Description Planar PT1745R - LCD monitor - 17\"\nDimensions (WxDxH) 15.2 in x 8 in x 13.5 in\nWeight 12.6 lbs",
+    "max operating temperature": "104 \u00b0F",
+    "mechanical": "Display Position Adjustments Tilt\nFlat Panel Mount Interface 100 x 100 mm\nTilt Angle 95",
+    "min operating temperature": "32 \u00b0F",
+    "miscellaneous": "Compliant Standards FCC Class B certified, UL, TUV, cUL, VESA FPMPMI, RoHS\nFeatures Security lock slot (cable lock sold separately)",
+    "movement detection technology": "Resistive",
+    "native resolution": [
+        "1280 x 1024 at 75 Hz",
+        "1280 x 1024 at 75 Hz"
+    ],
+    "os required": "Microsoft Windows NT 4.0, Apple MacOS, Microsoft Windows CE, Linux, Microsoft Windows XP Embedded, Microsoft Windows 98/2000/ME/XP/Vista/7",
+    "output power  channel": "1 Watt",
+    "pixel pitch": [
+        "0.264 mm",
+        "0.264 mm"
+    ],
+    "power": "Power Consumption Stand by / Sleep 4 Watt\nPower Consumption Operational 20 Watt\nVoltage Required AC 120/230 V ( 50/60 Hz )\nPower Supply Internal",
+    "power consumption operational": "20 Watt",
+    "power consumption stand by  sleep": "4 Watt",
+    "power supply": "Internal",
+    "product description": "Planar PT1745R - LCD monitor - 17\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "screen coating": [
+        "Anti-glare",
+        "Anti-glare"
+    ],
+    "software  system requirements": "OS Required Microsoft Windows NT 4.0, Apple MacOS, Microsoft Windows CE, Linux, Microsoft Windows XP Embedded, Microsoft Windows 98/2000/ME/XP/Vista/7",
+    "speakers": "Integrated",
+    "tilt angle": "95",
+    "type": [
+        "Touch-screen",
+        "Speakers - stereo - integrated"
+    ],
+    "vertical refresh rate": "75 Hz",
+    "vertical viewing angle": "160",
+    "viewable size": "17\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "12.6 lbs",
+        "12.6 lbs"
+    ]
+}

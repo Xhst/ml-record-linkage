@@ -1,0 +1,116 @@
+{
+    "<page title>": "HP F3J72AA#ABA - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight life": "30,000 hours",
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "builtin devices": [
+        "720p webcam",
+        "720p webcam"
+    ],
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "color temperature": "6500K",
+    "compliant standards": [
+        "Plug and Play, CSA, VCCI, C-Tick, BSMI, cUL, NOM, TUV S, WHQL, CB, CCC, PSB, FCC, S Mark, TCO Certified Edge, E-Standby, KC, CECP, EAC, CEL Grade 1, ISC",
+        "Plug and Play, CSA, VCCI, C-Tick, BSMI, cUL, NOM, TUV S, WHQL, CB, CCC, PSB, FCC, S Mark, TCO Certified Edge, E-Standby, KC, CECP, EAC, CEL Grade 1, ISC"
+    ],
+    "connectivity": "Interfaces DisplayPort \u00a6 VGA \u00a6 Headphones \u00a6 Audio line-in \u00a6 Network ( RJ-45 ) \u00a6 2 x USB 2.0 downstream \u00a6 2 x USB 3.0 downstream \u00a6 USB 3.0 upstream",
+    "contrast ratio": [
+        "1000:1 / 5000000:1 (dynamic)",
+        "1000:1 / 5000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 23\"",
+    "diagonal size": "23\"",
+    "dimensions  weight": "Dimensions & Weight Details Without stand - width: 21.4 in - depth: 2 in - height: 13 in - weight: 8.5 lbs",
+    "dimensions  weight details": "Without stand - width: 21.4 in - depth: 2 in - height: 13 in - weight: 8.5 lbs",
+    "dimensions wxdxh": [
+        "21.4 in x 9.5 in x 18.5 in - with stand",
+        "21.4 in x 9.5 in x 18.5 in - with stand"
+    ],
+    "display position adjustments": [
+        "Height, pivot (rotation), swivel, tilt",
+        "Height, pivot (rotation), swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental parameters": "Min Operating Temperature 41 \u00b0F\nMax Operating Temperature 95 \u00b0F\nHumidity Range Operating 20 - 80% (non-condensing)",
+    "environmental standards": [
+        "ENERGY STAR Qualified , EPEAT Gold",
+        "ENERGY STAR Qualified Yes\nEPEAT Compliant EPEAT Gold"
+    ],
+    "epeat compliant": "EPEAT Gold",
+    "features": "72% color gamut, On-screen Digital Controls",
+    "general": "Backlight Technology WLED\nScreen Coating Anti-glare\nPanel Type IPS\nContrast Ratio 1000:1 / 5000000:1 (dynamic)\nHorizontal Viewing Angle 178\nVertical Viewing Angle 178\nHorizontal Refresh Rate 24 - 80 kHz\nVertical Refresh Rate 50 - 60 Hz\nBuilt-in Devices 720p webcam\nColor Black\nNative Resolution 1920 x 1080 at 60 Hz\nColor Temperature 6500K\nAspect Ratio Widescreen - 16:9\nBrightness 250 cd/m2\nFeatures 72% color gamut, On-screen Digital Controls\nWeight 13.5 lbs\nDimensions (WxDxH) 21.4 in x 9.5 in x 18.5 in - with stand\nVideo Bandwidth 170 MHz\nDiagonal Size 23\"\nPixel Pitch 0.265 mm\nOSD Languages Chinese (traditional), Chinese (simplified), Brazilian Portuguese, English, German, French, Italian, Spanish, Japanese\nResponse Time 7 ms (gray-to-gray)\nColor Support 16.7 million colors\nDisplay Type LED-backlit LCD monitor / TFT active matrix",
+    "height adjustment": "5.9 in",
+    "horizontal refresh rate": "24 - 80 kHz",
+    "horizontal viewing angle": "178",
+    "humidity range operating": "20 - 80% (non-condensing)",
+    "input connectors": "VGA, DisplayPort",
+    "interfaces": "DisplayPort \u00a6 VGA \u00a6 Headphones \u00a6 Audio line-in \u00a6 Network ( RJ-45 ) \u00a6 2 x USB 2.0 downstream \u00a6 2 x USB 3.0 downstream \u00a6 USB 3.0 upstream",
+    "localization": [
+        "English / United States",
+        "English / United States"
+    ],
+    "mainspecs": "Color Black\nAspect Ratio Widescreen - 16:9\nResponse Time 7 ms (gray-to-gray)\nEnvironmental Standards ENERGY STAR Qualified , EPEAT Gold\nBuilt-in Devices 720p webcam\nCompliant Standards Plug and Play, CSA, VCCI, C-Tick, BSMI, cUL, NOM, TUV S, WHQL, CB, CCC, PSB, FCC, S Mark, TCO Certified Edge, E-Standby, KC, CECP, EAC, CEL Grade 1, ISC\nLocalization English / United States\nDevice Type LED-backlit LCD monitor - 23\"\nManufacturer Warranty 3 years warranty\nProduct Description HP EliteDisplay S231d - LED monitor - 23\"\nWeight 13.5 lbs\nDimensions (WxDxH) 21.4 in x 9.5 in x 18.5 in - with stand\nColor Support 16.7 million colors\nNative Resolution 1920 x 1080 at 60 Hz\nPixel Pitch 0.265 mm\nBrightness 250 cd/m2\nContrast Ratio 1000:1 / 5000000:1 (dynamic)\nInput Connectors VGA, DisplayPort\nDisplay Position Adjustments Height, pivot (rotation), swivel, tilt\nPanel Type IPS\nScreen Coating Anti-glare",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support 3 years warranty\nService & Support Details Limited warranty - 3 years"
+    ],
+    "max operating temperature": "95 \u00b0F",
+    "mechanical": "Display Position Adjustments Height, pivot (rotation), swivel, tilt\nHeight Adjustment 5.9 in\nSwivel Angle 360\nTilt Angle -5/+30",
+    "min operating temperature": "41 \u00b0F",
+    "miscellaneous": "Localization English / United States\nCompliant Standards Plug and Play, CSA, VCCI, C-Tick, BSMI, cUL, NOM, TUV S, WHQL, CB, CCC, PSB, FCC, S Mark, TCO Certified Edge, E-Standby, KC, CECP, EAC, CEL Grade 1, ISC\nBacklight Life 30,000 hours",
+    "native resolution": [
+        "1920 x 1080 at 60 Hz",
+        "1920 x 1080 at 60 Hz"
+    ],
+    "os required": "Microsoft Windows Vista (32/64 bits) SP1, Microsoft Windows Vista (32/64 bits) SP2, Microsoft Windows 7 Professional (32/64 bits), Windows 8 (32/64 bits), Windows 8 Pro (32/64 bits), Windows 8.1 (32/64 bits), Windows 8.1 Pro 64-bit Edition, Windows 8.1 Pro 32-bit Edition",
+    "osd languages": "Chinese (traditional), Chinese (simplified), Brazilian Portuguese, English, German, French, Italian, Spanish, Japanese",
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.265 mm",
+        "0.265 mm"
+    ],
+    "power": "Voltage Required AC 120/230 V ( 50/60 Hz )\nPower Consumption Operational 60 Watt\nPower Supply External\nPower Consumption Stand by 2.2 Watt",
+    "power consumption operational": "60 Watt",
+    "power consumption stand by": "2.2 Watt",
+    "power supply": "External",
+    "product description": "HP EliteDisplay S231d - LED monitor - 23\"",
+    "response time": [
+        "7 ms (gray-to-gray)",
+        "7 ms (gray-to-gray)"
+    ],
+    "screen coating": [
+        "Anti-glare",
+        "Anti-glare"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "software  system requirements": "OS Required Microsoft Windows Vista (32/64 bits) SP1, Microsoft Windows Vista (32/64 bits) SP2, Microsoft Windows 7 Professional (32/64 bits), Windows 8 (32/64 bits), Windows 8 Pro (32/64 bits), Windows 8.1 (32/64 bits), Windows 8.1 Pro 64-bit Edition, Windows 8.1 Pro 32-bit Edition",
+    "swivel angle": "360",
+    "tilt angle": "-5/+30",
+    "vertical refresh rate": "50 - 60 Hz",
+    "vertical viewing angle": "178",
+    "video bandwidth": "170 MHz",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "13.5 lbs",
+        "13.5 lbs"
+    ]
+}

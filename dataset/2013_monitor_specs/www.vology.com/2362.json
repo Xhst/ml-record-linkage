@@ -1,0 +1,97 @@
+{
+    "3d capable": [
+        "Yes",
+        "Yes"
+    ],
+    "3d technology": "Active",
+    "<page title>": "ACER ET.HH4HP.001 - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "audio": "Output Power / Channel 2 Watt\nType Speakers - stereo - integrated",
+    "backlight technology": "WLED",
+    "brightness": [
+        "300 cd/m2",
+        "300 cd/m2"
+    ],
+    "bundled with": [
+        "Active shutter 3D glasses",
+        "Active shutter 3D glasses"
+    ],
+    "cables included": "1 x HDMI cable \u00a6 1 x DVI cable \u00a6 1 x VGA cable",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "compatible with windows 7": "\"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "compliant standards": [
+        "MPR II",
+        "MPR II"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI-D \u00a6 3 x HDMI",
+    "contrast ratio": [
+        "1000:1 / 100000000:1 (dynamic)",
+        "1000:1 / 100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 27\"",
+    "diagonal size": "27\"",
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified"
+    ],
+    "features": [
+        "Wall mountable",
+        "HDCP"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "general": "Aspect Ratio Widescreen - 16:9\nResponse Time 2 ms\nColor Support 16.7 million colors\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nDiagonal Size 27\"\nPixel Pitch 0.311 mm\nBundled with Active shutter 3D glasses\n3D Technology Active\nPanel Type TN\nBacklight Technology WLED\nVertical Viewing Angle 160\nContrast Ratio 1000:1 / 100000000:1 (dynamic)\nHorizontal Viewing Angle 170\n3D Capable Yes\nNative Resolution FullHD 1920 x 1080 at 120 Hz\nFeatures HDCP\nColor Black\nBrightness 300 cd/m2",
+    "horizontal viewing angle": "170",
+    "input connectors": "3xHDMI, DVI-D, VGA",
+    "interfaces": "VGA \u00a6 DVI-D \u00a6 3 x HDMI",
+    "mainspecs": "Aspect Ratio Widescreen - 16:9\nColor Black\nResponse Time 2 ms\n3D Capable Yes\nSpeakers Integrated\nPixel Pitch 0.311 mm\nPanel Type TN\nContrast Ratio 1000:1 / 100000000:1 (dynamic)\nBrightness 300 cd/m2\nDisplay Position Adjustments Tilt\nInput Connectors 3xHDMI, DVI-D, VGA\nBundled with Active shutter 3D glasses\nColor Support 16.7 million colors\nNative Resolution FullHD 1920 x 1080 at 120 Hz\nProduct Description Acer HN274H bmiiid - 3D LED monitor - 27\" - with active shutter 3D glasses\nManufacturer Warranty 3 years warranty\nCompliant Standards MPR II\nDevice Type LED-backlit LCD monitor - 27\"\nMicrosoft Certification Compatible with Windows 7\nEnvironmental Standards ENERGY STAR Qualified",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support Details Limited warranty - 3 years\nService & Support 3 years warranty"
+    ],
+    "mechanical": "Flat Panel Mount Interface 100 x 100 mm\nDisplay Position Adjustments Tilt",
+    "microsoft certification": "Compatible with Windows 7",
+    "miscellaneous": "Compatible with Windows 7 \"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.\nCables Included 1 x HDMI cable \u00a6 1 x DVI cable \u00a6 1 x VGA cable\nFeatures Wall mountable\nCompliant Standards MPR II",
+    "native resolution": [
+        "FullHD 1920 x 1080 at 120 Hz",
+        "FullHD 1920 x 1080 at 120 Hz"
+    ],
+    "output power  channel": "2 Watt",
+    "panel type": [
+        "TN",
+        "TN"
+    ],
+    "pixel pitch": [
+        "0.311 mm",
+        "0.311 mm"
+    ],
+    "power": "Power Consumption Operational 45.5 Watt\nPower Consumption Stand by / Sleep 0.65 Watt\nPower Supply Internal",
+    "power consumption operational": "45.5 Watt",
+    "power consumption stand by  sleep": "0.65 Watt",
+    "power supply": "Internal",
+    "product description": "Acer HN274H bmiiid - 3D LED monitor - 27\" - with active shutter 3D glasses",
+    "response time": [
+        "2 ms",
+        "2 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "speakers": "Integrated",
+    "type": "Speakers - stereo - integrated",
+    "vertical viewing angle": "160"
+}

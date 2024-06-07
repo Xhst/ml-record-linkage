@@ -1,0 +1,120 @@
+{
+    "<page title>": "HP E3F38A8#ABA EliteDisplay E231 - Head Only LED Monitor - 23\" - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight life": "30,000 hours",
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "cables included": "1 x VGA cable - 6 ft \u00a6 1 x DisplayPort cable - 6 ft \u00a6 1 x USB cable - 6 ft",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "color temperature": "6500K",
+    "compatible with windows 7": "\"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "compliant standards": [
+        "VCCI, NOM, TUV S, ISO 14001, CB, CCC, PSB, FCC, RoHS, KCC, WEEE, TCO Certified Edge, KC, CECP, CEL, EPA",
+        "VCCI, NOM, TUV S, ISO 14001, CB, CCC, PSB, FCC, RoHS, KCC, WEEE, TCO Certified Edge, KC, CECP, CEL, EPA"
+    ],
+    "connectivity": "Interfaces USB 2.0 upstream ( Type B ) \u00a6 2 x USB 2.0 downstream ( Type A ) \u00a6 DVI-D ( HDCP ) \u00a6 DisplayPort ( HDCP ) \u00a6 VGA",
+    "contrast ratio": [
+        "1000:1 / 5000000:1 (dynamic)",
+        "1000:1 / 5000000:1 (dynamic)"
+    ],
+    "controls  adjustments": "Brightness, contrast, color temperature",
+    "device type": "LED-backlit LCD monitor - 23\"",
+    "diagonal size": "23\"",
+    "dimensions wxdxh": [
+        "21.4 in x 2 in x 13 in - without stand",
+        "21.4 in x 2 in x 13 in - without stand"
+    ],
+    "display position adjustments": [
+        "Height, pivot (rotation), swivel, tilt",
+        "Height, pivot (rotation), swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental parameters": "Humidity Range Operating 20 - 80% (non-condensing)\nMax Operating Temperature 95 \u00b0F\nMin Operating Temperature 41 \u00b0F",
+    "environmental standards": [
+        "ENERGY STAR Qualified Yes\nEPEAT Compliant EPEAT Gold",
+        "ENERGY STAR Qualified , EPEAT Gold"
+    ],
+    "epeat compliant": "EPEAT Gold",
+    "features": [
+        "Security lock slot (cable lock sold separately)",
+        "HDCP, detachable, 72% color gamut"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "general": "Native Resolution 1920 x 1080 at 60 Hz\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nColor Support 16.7 million colors\nColor Black\nVertical Refresh Rate 50 - 76 Hz\nHorizontal Refresh Rate 24 - 94 kHz\nBacklight Technology WLED\nPanel Type TN\nScreen Coating Anti-glare\nContrast Ratio 1000:1 / 5000000:1 (dynamic)\nHorizontal Viewing Angle 170\nVertical Viewing Angle 160\nControls & Adjustments Brightness, contrast, color temperature\nColor Temperature 6500K\nFeatures HDCP, detachable, 72% color gamut\nBrightness 250 cd/m2\nWeight 13.4 lbs\nAspect Ratio Widescreen - 16:9\nDimensions (WxDxH) 21.4 in x 2 in x 13 in - without stand\nDiagonal Size 23\"\nViewable Size 23\"\nOSD Languages Chinese (traditional), Chinese (simplified), English, German, French, Italian, Portuguese, Spanish, Dutch, Japanese\nResponse Time 5 ms\nVideo Bandwidth 200 MHz\nPixel Pitch 0.265 mm",
+    "height adjustment": "5.9 in",
+    "horizontal refresh rate": "24 - 94 kHz",
+    "horizontal viewing angle": "170",
+    "humidity range operating": "20 - 80% (non-condensing)",
+    "included software": "HP Display Assistant",
+    "input connectors": "DVI-D, VGA, DisplayPort",
+    "interfaces": "USB 2.0 upstream ( Type B ) \u00a6 2 x USB 2.0 downstream ( Type A ) \u00a6 DVI-D ( HDCP ) \u00a6 DisplayPort ( HDCP ) \u00a6 VGA",
+    "localization": [
+        "English / United States",
+        "English / United States"
+    ],
+    "mainspecs": "Screen Coating Anti-glare\nPanel Type TN\nDisplay Position Adjustments Height, pivot (rotation), swivel, tilt\nInput Connectors DVI-D, VGA, DisplayPort\nContrast Ratio 1000:1 / 5000000:1 (dynamic)\nBrightness 250 cd/m2\nPixel Pitch 0.265 mm\nProduct Description HP EliteDisplay E231 - Head Only - LED monitor - 23\"\nManufacturer Warranty 3 years warranty\nAspect Ratio Widescreen - 16:9\nEnvironmental Standards ENERGY STAR Qualified , EPEAT Gold\nMicrosoft Certification Compatible with Windows 7\nColor Black\nResponse Time 5 ms\nColor Support 16.7 million colors\nWeight 13.4 lbs\nDimensions (WxDxH) 21.4 in x 2 in x 13 in - without stand\nCompliant Standards VCCI, NOM, TUV S, ISO 14001, CB, CCC, PSB, FCC, RoHS, KCC, WEEE, TCO Certified Edge, KC, CECP, CEL, EPA\nLocalization English / United States\nDevice Type LED-backlit LCD monitor - 23\"\nNative Resolution 1920 x 1080 at 60 Hz",
+    "manufacturer warranty": [
+        "Service & Support 3 years warranty\nService & Support Details Limited warranty - 3 years",
+        "3 years warranty"
+    ],
+    "max operating temperature": "95 \u00b0F",
+    "mechanical": "Height Adjustment 5.9 in\nSwivel Angle 360\nTilt Angle -5/+30\nRotation Angle 90\nFlat Panel Mount Interface 100 x 100 mm\nDisplay Position Adjustments Height, pivot (rotation), swivel, tilt",
+    "microsoft certification": "Compatible with Windows 7",
+    "min operating temperature": "41 \u00b0F",
+    "miscellaneous": "Features Security lock slot (cable lock sold separately)\nCompliant Standards VCCI, NOM, TUV S, ISO 14001, CB, CCC, PSB, FCC, RoHS, KCC, WEEE, TCO Certified Edge, KC, CECP, CEL, EPA\nCompatible with Windows 7 \"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.\nCables Included 1 x VGA cable - 6 ft \u00a6 1 x DisplayPort cable - 6 ft \u00a6 1 x USB cable - 6 ft\nLocalization English / United States\nBacklight Life 30,000 hours",
+    "native resolution": [
+        "1920 x 1080 at 60 Hz",
+        "1920 x 1080 at 60 Hz"
+    ],
+    "osd languages": "Chinese (traditional), Chinese (simplified), English, German, French, Italian, Portuguese, Spanish, Dutch, Japanese",
+    "panel type": [
+        "TN",
+        "TN"
+    ],
+    "pixel pitch": [
+        "0.265 mm",
+        "0.265 mm"
+    ],
+    "power": "Power Supply Internal\nPower Consumption Stand by 0.5 Watt\nPower Consumption Operational 36 Watt\nVoltage Required AC 120/230 V ( 50/60 Hz )",
+    "power consumption operational": "36 Watt",
+    "power consumption stand by": "0.5 Watt",
+    "power supply": "Internal",
+    "product description": "HP EliteDisplay E231 - Head Only - LED monitor - 23\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "rotation angle": "90",
+    "screen coating": [
+        "Anti-glare",
+        "Anti-glare"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "software  system requirements": "Included Software HP Display Assistant",
+    "swivel angle": "360",
+    "tilt angle": "-5/+30",
+    "vertical refresh rate": "50 - 76 Hz",
+    "vertical viewing angle": "160",
+    "video bandwidth": "200 MHz",
+    "viewable size": "23\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "13.4 lbs",
+        "13.4 lbs"
+    ]
+}

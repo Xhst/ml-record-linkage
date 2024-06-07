@@ -1,0 +1,78 @@
+{
+    "<page title>": "ACER UM.RB6AA.001 - Vology",
+    "aspect ratio": [
+        "Widescreen - 21:9",
+        "Widescreen - 21:9"
+    ],
+    "audio": "Type Speakers",
+    "backlight technology": "WLED",
+    "brightness": [
+        "300 cd/m2",
+        "300 cd/m2"
+    ],
+    "builtin devices": [
+        "USB hub",
+        "USB hub"
+    ],
+    "cables included": "1 x HDMI cable \u00a6 1 x DVI cable \u00a6 1 x DisplayPort cable \u00a6 1 x USB cable",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "compliant standards": [
+        "TCO Displays 6.0",
+        "TCO Displays 6.0"
+    ],
+    "connectivity": "Interfaces USB 3.0 \u00a6 DVI \u00a6 2 x HDMI ( HDCP ) \u00a6 DisplayPort",
+    "contrast ratio": [
+        "100000000:1 (dynamic)",
+        "100000000:1 (dynamic)"
+    ],
+    "device type": "LCD monitor - 29\"",
+    "diagonal size": "29\"",
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "EPEAT Compliant EPEAT Gold\nENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified , EPEAT Gold"
+    ],
+    "epeat compliant": "EPEAT Gold",
+    "general": "Native Resolution FullHD 2560 x 1080\nHorizontal Viewing Angle 178\nContrast Ratio 100000000:1 (dynamic)\nVertical Viewing Angle 178\nBacklight Technology WLED\nPanel Type IPS\nBrightness 300 cd/m2\nDiagonal Size 29\"\nResponse Time 8 ms\nAspect Ratio Widescreen - 21:9\nBuilt-in Devices USB hub\nColor Black\nDisplay Type LCD monitor / TFT active matrix\nColor Support 16.7 million colors",
+    "horizontal viewing angle": "178",
+    "input connectors": "2xHDMI, DVI-D, DisplayPort",
+    "interfaces": "USB 3.0 \u00a6 DVI \u00a6 2 x HDMI ( HDCP ) \u00a6 DisplayPort",
+    "mainspecs": "Panel Type IPS\nDisplay Position Adjustments Tilt\nInput Connectors 2xHDMI, DVI-D, DisplayPort\nContrast Ratio 100000000:1 (dynamic)\nBrightness 300 cd/m2\nProduct Description Acer B296CLbmiidprz - LCD monitor - 29\"\nManufacturer Warranty 3 years warranty\nBuilt-in Devices USB hub\nNative Resolution FullHD 2560 x 1080\nColor Support 16.7 million colors\nDevice Type LCD monitor - 29\"\nCompliant Standards TCO Displays 6.0\nEnvironmental Standards ENERGY STAR Qualified , EPEAT Gold\nColor Black\nResponse Time 8 ms\nAspect Ratio Widescreen - 21:9",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support Details Limited warranty - 3 years\nService & Support 3 years warranty"
+    ],
+    "mechanical": "Display Position Adjustments Tilt",
+    "miscellaneous": "Cables Included 1 x HDMI cable \u00a6 1 x DVI cable \u00a6 1 x DisplayPort cable \u00a6 1 x USB cable\nCompliant Standards TCO Displays 6.0",
+    "native resolution": [
+        "FullHD 2560 x 1080",
+        "FullHD 2560 x 1080"
+    ],
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "power": "Voltage Required AC 120/230 V",
+    "product description": "Acer B296CLbmiidprz - LCD monitor - 29\"",
+    "response time": [
+        "8 ms",
+        "8 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "type": "Speakers",
+    "vertical viewing angle": "178",
+    "voltage required": "AC 120/230 V"
+}

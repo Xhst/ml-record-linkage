@@ -1,0 +1,89 @@
+{
+    "<page title>": "HP XP598AA#ABA - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "cables included": "1 x VGA cable - 6 ft \u00a6 1 x DVI cable - 6 ft",
+    "compatible with windows 7": "\"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "compliant standards": [
+        "CSA, GOST, NOM, FCC, ETL, Energy-using Products (EuP) Lot 6, WEEE, S Mark, TUV Bauart",
+        "CSA, GOST, NOM, FCC, ETL, Energy-using Products (EuP) Lot 6, WEEE, S Mark, TUV Bauart"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI-D \u00a6 HDMI",
+    "contrast ratio": [
+        "1000:1 / 3000000:1 (dynamic)",
+        "1000:1 / 3000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 23\"",
+    "diagonal size": "23\"",
+    "dimensions wxdxh": [
+        "22 in x 6.3 in x 16.4 in",
+        "22 in x 6.3 in x 16.4 in"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified Yes",
+        "ENERGY STAR Qualified"
+    ],
+    "features": "HDCP, 68% NTSC color gamut",
+    "general": "Brightness 250 cd/m2\nAspect Ratio Widescreen - 16:9\nNative Resolution FullHD 1920 x 1080 at 60 Hz\nPanel Type TN\nBacklight Technology WLED\nVertical Viewing Angle 160\nContrast Ratio 1000:1 / 3000000:1 (dynamic)\nHorizontal Viewing Angle 170\nDimensions (WxDxH) 22 in x 6.3 in x 16.4 in\nOSD Languages Chinese (traditional), Chinese (simplified), English, German, French, Italian, Portuguese, Spanish, Dutch, Japanese\nResponse Time 5 ms\nPixel Pitch 0.265 mm\nDiagonal Size 23\"\nDisplay Type LED-backlit LCD monitor / TFT active matrix\nWeight 8.6 lbs\nFeatures HDCP, 68% NTSC color gamut",
+    "horizontal viewing angle": "170",
+    "included accessories": "Cable management clip",
+    "included software": "Drivers & Utilities",
+    "input connectors": "HDMI, DVI-D, VGA",
+    "interfaces": "VGA \u00a6 DVI-D \u00a6 HDMI",
+    "localization": [
+        "English / United States",
+        "English / United States"
+    ],
+    "mainspecs": "Aspect Ratio Widescreen - 16:9\nCompliant Standards CSA, GOST, NOM, FCC, ETL, Energy-using Products (EuP) Lot 6, WEEE, S Mark, TUV Bauart\nDevice Type LED-backlit LCD monitor - 23\"\nLocalization English / United States\nWeight 8.6 lbs\nDimensions (WxDxH) 22 in x 6.3 in x 16.4 in\nProduct Description HP 2311x - LED monitor - 23\"\nManufacturer Warranty 1 year warranty\nPixel Pitch 0.265 mm\nBrightness 250 cd/m2\nContrast Ratio 1000:1 / 3000000:1 (dynamic)\nInput Connectors HDMI, DVI-D, VGA\nDisplay Position Adjustments Tilt\nPanel Type TN\nNative Resolution FullHD 1920 x 1080 at 60 Hz\nResponse Time 5 ms\nEnvironmental Standards ENERGY STAR Qualified\nMicrosoft Certification Compatible with Windows 7",
+    "manufacturer warranty": [
+        "1 year warranty",
+        "Service & Support Details Limited warranty - 1 year\nService & Support 1 year warranty"
+    ],
+    "mechanical": "Display Position Adjustments Tilt\nTilt Angle 25",
+    "microsoft certification": "Compatible with Windows 7",
+    "miscellaneous": "Cables Included 1 x VGA cable - 6 ft \u00a6 1 x DVI cable - 6 ft\nLocalization English / United States\nCompliant Standards CSA, GOST, NOM, FCC, ETL, Energy-using Products (EuP) Lot 6, WEEE, S Mark, TUV Bauart\nCompatible with Windows 7 \"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.\nIncluded Accessories Cable management clip",
+    "native resolution": [
+        "FullHD 1920 x 1080 at 60 Hz",
+        "FullHD 1920 x 1080 at 60 Hz"
+    ],
+    "osd languages": "Chinese (traditional), Chinese (simplified), English, German, French, Italian, Portuguese, Spanish, Dutch, Japanese",
+    "panel type": [
+        "TN",
+        "TN"
+    ],
+    "pixel pitch": [
+        "0.265 mm",
+        "0.265 mm"
+    ],
+    "power": "Power Consumption Stand by / Sleep 0.6 Watt\nPower Consumption Operational 33 Watt\nPower Supply External",
+    "power consumption operational": "33 Watt",
+    "power consumption stand by  sleep": "0.6 Watt",
+    "power supply": "External",
+    "product description": "HP 2311x - LED monitor - 23\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "service  support": "1 year warranty",
+    "service  support details": "Limited warranty - 1 year",
+    "software  system requirements": "Included Software Drivers & Utilities",
+    "tilt angle": "25",
+    "vertical viewing angle": "160",
+    "weight": [
+        "8.6 lbs",
+        "8.6 lbs"
+    ]
+}

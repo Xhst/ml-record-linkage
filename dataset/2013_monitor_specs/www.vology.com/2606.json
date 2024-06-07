@@ -1,0 +1,88 @@
+{
+    "<page title>": "ACER UM.IV6AA.A02 - Vology",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "200 cd/m2",
+        "200 cd/m2"
+    ],
+    "cables included": "1 x VGA cable \u00a6 1 x DVI cable",
+    "color": [
+        "Black",
+        "Black"
+    ],
+    "color support": [
+        "16.7 million colors",
+        "16.7 million colors"
+    ],
+    "compliant standards": [
+        "MPR II",
+        "MPR II"
+    ],
+    "connectivity": "Interfaces VGA \u00a6 DVI ( HDCP )",
+    "contrast ratio": [
+        "100000000:1 (dynamic)",
+        "100000000:1 (dynamic)"
+    ],
+    "device type": "LED-backlit LCD monitor - 20\"",
+    "diagonal size": "20\"",
+    "dimensions  weight": "Dimensions & Weight Details With stand - width: 18.2 in - depth: 7.5 in - height: 14.3 in \u00a6 Without stand - width: 18.2 in - depth: 2 in - height: 10.9 in",
+    "dimensions  weight details": "With stand - width: 18.2 in - depth: 7.5 in - height: 14.3 in \u00a6 Without stand - width: 18.2 in - depth: 2 in - height: 10.9 in",
+    "dimensions wxdxh": [
+        "18.2 in x 7.5 in x 14.3 in",
+        "18.2 in x 7.5 in x 14.3 in"
+    ],
+    "display position adjustments": [
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": [
+        "ENERGY STAR Qualified",
+        "ENERGY STAR Qualified Yes"
+    ],
+    "features": "HDCP, Acer EcoDisplay, eColor Management, ComfyView",
+    "flat panel mount interface": "100 x 100 mm",
+    "general": "Brightness 200 cd/m2\nFeatures HDCP, Acer EcoDisplay, eColor Management, ComfyView\nNative Resolution 1600 x 900 at 60 Hz\nHorizontal Viewing Angle 90\nContrast Ratio 100000000:1 (dynamic)\nVertical Viewing Angle 65\nPanel Type TN\nBacklight Technology WLED\nDimensions (WxDxH) 18.2 in x 7.5 in x 14.3 in\nViewable Size 19.5\"\nDiagonal Size 20\"\nResponse Time 5 ms (On/Off)\nAspect Ratio Widescreen - 16:9\nColor Black\nColor Support 16.7 million colors\nDisplay Type LED-backlit LCD monitor / TFT active matrix",
+    "horizontal viewing angle": "90",
+    "input connectors": "DVI, VGA",
+    "interfaces": "VGA \u00a6 DVI ( HDCP )",
+    "localization": [
+        "United States",
+        "United States"
+    ],
+    "mainspecs": "Panel Type TN\nInput Connectors DVI, VGA\nDisplay Position Adjustments Tilt\nBrightness 200 cd/m2\nContrast Ratio 100000000:1 (dynamic)\nDimensions (WxDxH) 18.2 in x 7.5 in x 14.3 in\nProduct Description Acer V206HQL - LED monitor - 20\"\nManufacturer Warranty 3 years warranty\nEnvironmental Standards ENERGY STAR Qualified\nNative Resolution 1600 x 900 at 60 Hz\nColor Support 16.7 million colors\nLocalization United States\nDevice Type LED-backlit LCD monitor - 20\"\nCompliant Standards MPR II\nColor Black\nResponse Time 5 ms (On/Off)\nAspect Ratio Widescreen - 16:9",
+    "manufacturer warranty": [
+        "3 years warranty",
+        "Service & Support Details Limited warranty - 3 years\nService & Support 3 years warranty"
+    ],
+    "mechanical": "Flat Panel Mount Interface 100 x 100 mm\nTilt Angle -5/+25\nDisplay Position Adjustments Tilt",
+    "miscellaneous": "Cables Included 1 x VGA cable \u00a6 1 x DVI cable\nLocalization United States\nCompliant Standards MPR II",
+    "native resolution": [
+        "1600 x 900 at 60 Hz",
+        "1600 x 900 at 60 Hz"
+    ],
+    "panel type": [
+        "TN",
+        "TN"
+    ],
+    "power": "Voltage Required AC 120/230 V ( 50/60 Hz )\nPower Consumption Operational 16.2 Watt\nPower Supply Internal\nPower Consumption Stand by 0.45 Watt",
+    "power consumption operational": "16.2 Watt",
+    "power consumption stand by": "0.45 Watt",
+    "power supply": "Internal",
+    "product description": "Acer V206HQL - LED monitor - 20\"",
+    "response time": [
+        "5 ms (On/Off)",
+        "5 ms (On/Off)"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "tilt angle": "-5/+25",
+    "vertical viewing angle": "65",
+    "viewable size": "19.5\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )"
+}
