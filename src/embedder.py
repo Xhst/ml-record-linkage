@@ -60,7 +60,7 @@ def count_files(directory_path):
 
 
 def assign_device(device_name):
-    torch.device(device_name if torch.cuda.is_available() else "cpu")
+    device = torch.device(device_name if torch.cuda.is_available() else "cpu")
     if device_name == "cuda":
         if torch.cuda.is_available():
             print("CUDA is available. Using GPU.")
@@ -75,6 +75,8 @@ def assign_device(device_name):
         print(f"CUDA Device Count: {torch.cuda.device_count()}")
         for i in range(torch.cuda.device_count()):
             print(f"Device {i}: {torch.cuda.get_device_name(i)}")
+    
+    return device
             
 
 def save_embedding_dictionary(filepath2embedding, output_dir, output_file_name):
@@ -107,7 +109,7 @@ def main():
 
     # Process the specified directory into a dictionary of embeddings
     start = time.time()
-
+    
     embeddings = process_directory(ds_dir, device)
 
     end = time.time()
