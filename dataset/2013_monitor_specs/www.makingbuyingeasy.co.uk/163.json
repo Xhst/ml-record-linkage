@@ -1,0 +1,83 @@
+{
+    "<page title>": "LG 24MP55HQ-P LED display - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "certification": "TCO 6.0, UL(cUL), TUV, FCC-B, CE, EPA",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "depth": "6.2 cm",
+    "depth with stand": "18.8 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.45 cm (23.8\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display surface": "Matt",
+    "display technology": "IPS",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "34.4 cm",
+    "height adjustment": "No",
+    "height with stand": "44.8 cm",
+    "input voltage": "100 - 240V",
+    "package weight": [
+        "4.9 kg",
+        "4.9 kg"
+    ],
+    "packaging depth": [
+        "12.4 cm",
+        "12.4 cm"
+    ],
+    "packaging height": [
+        "41.1 cm",
+        "41.1 cm"
+    ],
+    "packaging width": [
+        "63.5 cm",
+        "63.5 cm"
+    ],
+    "pivot": "No",
+    "pixel pitch": "0.2745 x 0.2745 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.3W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "22W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-3 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3 kg",
+    "weight with stand": "3.3 kg",
+    "width": "56.7 cm",
+    "width with stand": "56.7 cm"
+}

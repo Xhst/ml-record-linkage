@@ -1,0 +1,149 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Hanns.G HE247DPB LED display - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable length": "1.5m",
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "CE, TCO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "40000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "22 cm",
+    "digital horizontal frequency": "24 - 83 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "59.94 cm (23.6\")",
+    "display diagonal metric": "60 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "39.9 cm",
+    "height adjustment": "No",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "12",
+        "12"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "DEU, DUT, ENG, ESP, FRE, HEB, ITA, KOR, POL, RUS, SCR, TUR",
+        "DEU, DUT, ENG, ESP, FRE, HEB, ITA, KOR, POL, RUS, SCR, TUR"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "package weight": [
+        "5.4 kg",
+        "5.4 kg"
+    ],
+    "packaging depth": [
+        "10.9 cm",
+        "10.9 cm"
+    ],
+    "packaging height": [
+        "46.5 cm",
+        "46.5 cm"
+    ],
+    "packaging width": [
+        "61.4 cm",
+        "61.4 cm"
+    ],
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pivot": "No",
+    "pixel pitch": "0.2715 x 0.2715 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "28W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "relative humidity": "20 - 85%",
+    "response time": "5 ms",
+    "rms rated power": [
+        "3W",
+        "3W",
+        "3W"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivelling": "No",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.5 kg",
+    "width": "56.1 cm",
+    "wifi": "No"
+}

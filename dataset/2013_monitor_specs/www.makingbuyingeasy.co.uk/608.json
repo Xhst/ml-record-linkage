@@ -1,0 +1,104 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Samsung LS22C45KBWV LED display - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "DVI, VGA",
+        "DVI, VGA"
+    ],
+    "certification": "TCO, UL, CSA, TUV, GB, IEC",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "Mega Contrast",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.55 cm",
+    "depth with stand": "21 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1680 x 1050 pixels",
+    "display technology": "TN+Film",
+    "display viewable area hxv": [
+        "473.7 x 296.1 mm",
+        "473.7 x 296.1 mm"
+    ],
+    "dvid ports quantity": "1",
+    "electromagnetic compatibility": "FCC, ACE, KCC, CCC, GB",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "No",
+    "hdcp": "No",
+    "height": "32.98 cm",
+    "height adjustment": [
+        "Yes",
+        "10 cm"
+    ],
+    "height with stand": "45.35 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "10 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "6.4 kg",
+        "6.4 kg"
+    ],
+    "packaging depth": [
+        "41.6 cm",
+        "41.6 cm"
+    ],
+    "packaging height": [
+        "18.8 cm",
+        "18.8 cm"
+    ],
+    "packaging width": [
+        "57.8 cm",
+        "57.8 cm"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "-1 - 95\u00c2\u00b0",
+    "pixel pitch": "0.282 x 0.282 mm",
+    "power consumption standby": "0.1W",
+    "power consumption typical": "24W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "supported graphics resolutions": "1680 x 1050 (WSXGA+)",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-3 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.5 kg",
+    "weight with stand": "5 kg",
+    "width": "50.24 cm",
+    "width with stand": "50.24 cm"
+}

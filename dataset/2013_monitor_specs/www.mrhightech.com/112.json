@@ -1,0 +1,58 @@
+{
+    "<page title>": "DELL E2210 - MrHighTech Shop",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "163.9 mm",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "558.8 mm (22 \")",
+    "display resolution": "1680 x 1050 pixels",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "height": "406.7 mm",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80 %",
+    "operating temperature tt": "32 - 104 \u00b0F",
+    "package weight": "7.03 kg (15.5 lbs)",
+    "pixel pitch": "0.282 x 0.282 mm",
+    "power consumption typical": "28 W",
+    "power requirements": "100 - 240 V, AC",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "tv tuner integrated": "No",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "weight": [
+        "4.4 kg (9.7 lbs)",
+        "4.4 kg (9.7 lbs)",
+        "4.4 kg"
+    ],
+    "width": "511.2 mm"
+}

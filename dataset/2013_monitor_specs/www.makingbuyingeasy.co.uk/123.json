@@ -1,0 +1,69 @@
+{
+    "<page title>": "HP DreamColor Z24x - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6.65 cm",
+    "depth with stand": "23.8 cm",
+    "display": "LCD",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "61 cm",
+    "display number of colours": "1070M",
+    "display resolution": "1920 x 1200 pixels",
+    "displayports quantity": "2",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "36.5 cm",
+    "height adjustment": [
+        "12 cm",
+        "Yes"
+    ],
+    "height with stand": "52.5 cm",
+    "pivot": "Yes",
+    "pixel pitch": "0.27 x 0.27 mm",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "58W",
+    "response time": "12 ms",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "usb 30 ports quantity": "4",
+    "viewable size horizontal": "52 cm",
+    "viewable size vertical": "32.56 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.98 kg",
+    "width": "55.94 cm",
+    "width with stand": "55.94 cm"
+}

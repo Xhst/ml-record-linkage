@@ -1,0 +1,85 @@
+{
+    "<page title>": "3M 15  BLK TOUCH LCD CAP USB 11-81375-225 Microtouch",
+    "analogue video signal": "RGB",
+    "backlight life": [
+        "50,000 hours",
+        "50,000 hour(s)",
+        "50,000 hour(s)"
+    ],
+    "brightness": "215 cd/m2",
+    "builtin devices": "Microphone, stereo speakers",
+    "colour": "Black",
+    "compliant standards": [
+        "FCC Class B certified, CE, UL, VCCI, C-Tick, cUL, VESA DPMS, CCC, RoHS",
+        "FCC Class B certified, UL, VCCI, C-Tick, cUL, VESA DPMS, CCC, RoHS"
+    ],
+    "contrast ratio": "350:1",
+    "controls  adjustments": "Brightness, contrast, H/V position, colour balance, phase, clock",
+    "depth": "25.9 cm",
+    "description technical detail": "3M MicroTouch M150 Touchscreen Display\n3M Touch Systems envisioned a touch monitor that would set a new standard of excellence. By combining its current and future touch technologies with a monitor form factor that is a breakthrough in display design, a new benchmark for touch displays has been created. This new design combines patent-pending features with the quality, accuracy and durability of 3M touch screen technology to create an innovative touch display solution. Its what youd expect from a leader in innovation. Its what youd expect from 3M.\n3M Touch Systems knows each touch monitor application has a unique set of requirements. Thats why the MicroTouch M150 FPD monitor is offered with a choice of capacitive or resistive touch technology.",
+    "diagonal size": [
+        "15\"",
+        "15\""
+    ],
+    "dimensions wxdxh": "40.8 cm x 25.9 cm x 39.8 cm",
+    "display position adjustments": "Tilt",
+    "display positions adjustments": "Tilt",
+    "display type": [
+        "LCD display / TFT active matrix",
+        "LCD monitor / TFT active matrix"
+    ],
+    "dot pitch  pixel pitch": "0.297 mm",
+    "enclosure colour": "Black",
+    "features": [
+        "Wall mountable",
+        "ClearTek capacitive touch technology",
+        "ClearTek capacitive touch technology"
+    ],
+    "flat panel mount interface": [
+        "75 x 75 mm",
+        "75 x 75 mm"
+    ],
+    "form factor": "External",
+    "height": "39.8 cm",
+    "horizontal viewing angle": "150",
+    "humidity range operating": "0 - 85%",
+    "image brightness": "215 cd/m2",
+    "image contrast ratio": "350:1",
+    "image max hview angle": "150",
+    "image max vview angle": "135",
+    "included software": "Drivers & Utilities",
+    "interfaces": [
+        "1 x USB - 4 PIN USB Type B \u00c2\u00a6 1 x VGA - 15 pin HD D-Sub (HD-15) \u00c2\u00a6 1 x microphone - mini-phone 3.5mm \u00c2\u00a6 1 x audio line-in - mini-phone stereo 3.5 mm",
+        "1 x USB - 4 PIN USB Type B \u00c2\u00a6 1 x VGA - 15 pin HD D-Sub (HD-15) \u00c2\u00a6 1 x microphone - mini-phone 3.5mm \u00c2\u00a6 1 x audio line-in - mini-phone stereo 3.5 mm"
+    ],
+    "manufacturer": "Microtouch",
+    "manufacturer part ": "11-81375-225",
+    "max operating temperature": "50 \u00c2\u00b0C",
+    "max resolution": "1024 x 768 / 75 Hz",
+    "max sync rate v x h": "75 Hz",
+    "min operating temperature": "0 \u00c2\u00b0C",
+    "movement detection technology": [
+        "Capacitive",
+        "Capacitive"
+    ],
+    "native resolution": "1024 x 768 at 75 Hz",
+    "pixel pitch": "0.297 mm",
+    "power consumption operational": "28 Watt",
+    "power supply": "External",
+    "response time": [
+        "16 ms",
+        "16 ms"
+    ],
+    "signal input": "VGA",
+    "type": [
+        "Touch-screen",
+        "Touch-screen",
+        "Speakers - stereo - integrated",
+        "Speaker(s) - stereo - integrated",
+        "Speaker(s) - stereo - integrated"
+    ],
+    "vertical refresh rate": "75 Hz",
+    "vertical viewing angle": "135",
+    "weight": "7.4 kg",
+    "width": "40.8 cm"
+}

@@ -1,0 +1,71 @@
+{
+    "<page title>": "Elo TouchSystems 2243L - MBE",
+    "backlight type": "LED",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": [
+        "109.22 cm (43\")",
+        "109.22 cm (43\")"
+    ],
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display number of colours": [
+        "16.77M",
+        "16.77M"
+    ],
+    "display resolution": "1920 x 1080 pixels",
+    "display type": "LCD",
+    "dvid ports quantity": "1",
+    "full hd": "Yes",
+    "height": [
+        "7.5692m (298\")",
+        "7.5692m (298\")"
+    ],
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led backlight": "Yes",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": [
+        "0 - 40 \u00c2\u00b0F",
+        "0 - 40 \u00c2\u00b0C",
+        "0 - 40 \u00c2\u00b0F"
+    ],
+    "package dimensions wxdxh": [
+        "200 x 620 x 430 mm",
+        "200 x 620 x 430 mm"
+    ],
+    "package weight": [
+        "7 kg",
+        "7 kg"
+    ],
+    "power supply type": [
+        "DC",
+        "DC"
+    ],
+    "response time": "5 ms",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": [
+        "720 x 576, 1280 x 960, 1366 x 768, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1440 x 900 (WXGA+), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)",
+        "720 x 576, 1280 x 960, 1366 x 768, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1440 x 900 (WXGA+), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)"
+    ],
+    "touchscreen technology": "Capacitive",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "wall mountable": "Yes",
+    "width": [
+        "13.0048m (512\")",
+        "13.0048m (512\")"
+    ]
+}

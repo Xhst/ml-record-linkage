@@ -1,0 +1,121 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL UltraSharp UP3214Q - MBE",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DisplayPort, USB",
+        "AC, DisplayPort, USB"
+    ],
+    "card reader integrated": [
+        "Yes",
+        "Yes"
+    ],
+    "certification": "TCO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "2000000:1",
+    "contrast ratio typical": "1000:1",
+    "current rating": "1.8A",
+    "depth": "5.15 cm",
+    "depth with stand": "21.4 cm",
+    "display": "LCD",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "80.01 cm (31.5\")",
+    "display diagonal metric": "80.1 cm",
+    "display number of colours": "1073.7M",
+    "display resolution": "3840 x 2160 pixels",
+    "display technology": "IGZO",
+    "displayports quantity": "1",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "feet colour": [
+        "Silver",
+        "Silver"
+    ],
+    "hd type": "4K Ultra HD",
+    "hdcp": "No",
+    "hdmi ports quantity": "1",
+    "height": "44.46 cm",
+    "height adjustment": [
+        "9 cm",
+        "Yes"
+    ],
+    "height with stand": "57.24 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "mini displayport quantity": "1",
+    "nonoperating altitude": "0 - 12192m",
+    "operating altitude": "0 - 5000m",
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 35 \u00c2\u00b0C",
+    "package weight": [
+        "16050g",
+        "16050g"
+    ],
+    "pixel pitch": "0.182 x 0.182 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "170W",
+    "power consumption standby": "1.2W",
+    "power consumption typical": "100W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "8 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "3840 x 2160",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 30 ports quantity": "4",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "viewing angle horizontal": "176\u00c2\u00b0",
+    "viewing angle vertical": "176\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "9.22 kg",
+    "width": "74.99 cm",
+    "width with stand": "74.99 cm",
+    "wifi": "No"
+}

@@ -1,0 +1,69 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Iiyama ProLite GB2773HS-1 - MBE",
+    "aspect ratio": "16:9",
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "1000:1",
+    "depth": "23 cm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "52.25 cm",
+    "height adjustment": [
+        "10.7 cm",
+        "Yes"
+    ],
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "power consumption standby": "0.5W",
+    "power consumption typical": "35W",
+    "response time": "1 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "7.4 kg",
+    "width": "64.7 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

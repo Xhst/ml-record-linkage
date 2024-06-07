@@ -1,0 +1,128 @@
+{
+    "<page title>": "Philips 273V5LHAB - MediaShopUK",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS, Lead-free, Mercury Free",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compliance industry standards": "BSMI, CE Mark, FCC Class B, GOST, PSB, SASO, SEMKO, TCO certified, TUV/ISO9241-307, cETLus, WEEE",
+    "contrast ratio dynamic": "10000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "57 mm",
+    "depth with stand": "240 mm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00b2",
+    "display diagonal": "685.8 mm (27 \")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "display technology": "LCD/TFT",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "Full HD",
+    "hdmi ports quantity": "1",
+    "headphone out": "1",
+    "height": "398 mm",
+    "height with stand": "471 mm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "led indicators": [
+        "Operation, Stand-by",
+        "Operation, Stand-by"
+    ],
+    "mean time between failures mtbf": [
+        "30.000 h",
+        "30.000 h"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), CHI (TR), CZE, DEU, DUT, ENG, ESP, FIN, FRE, GRE, HUN, ITA, JPN, KOR, POL, POR, RUS, SWE, TUR, UKR",
+        "CHI (SIMPL), CHI (TR), CZE, DEU, DUT, ENG, ESP, FIN, FRE, GRE, HUN, ITA, JPN, KOR, POL, POR, RUS, SWE, TUR, UKR"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package weight": [
+        "6.17 kg",
+        "6.17 kg"
+    ],
+    "packaging depth": [
+        "139 mm",
+        "139 mm"
+    ],
+    "packaging height": [
+        "482 mm",
+        "482 mm"
+    ],
+    "packaging width": [
+        "698 mm",
+        "698 mm"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.311 x 0.311 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.3 W",
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "19.65 W",
+    "quantity": [
+        "1",
+        "1"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "4 W",
+        "4 W",
+        "4 W"
+    ],
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "syncongreen sog": "Yes",
+    "tilt adjustment": "Yes",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "597.88 mm",
+    "viewable size vertical": "336.31 mm",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "4 kg",
+    "weight with stand": "4.53 kg",
+    "width": "646 mm",
+    "width with stand": "646 mm"
+}

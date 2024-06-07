@@ -1,0 +1,96 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Apple Thunderbolt Display 27 - MBE",
+    "aspect ratio": "16:9",
+    "audio system": [
+        "2.1",
+        "2.1",
+        "2.1"
+    ],
+    "builtin camera": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin microphone": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "White",
+        "White"
+    ],
+    "compatibility": [
+        "MacBook Air, MacBook Pro, Mac mini, iMac\nOS X v10.6.8 +",
+        "MacBook Air, MacBook Pro, Mac mini, iMac\nOS X v10.6.8 +"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "20.7 cm",
+    "display": "LED",
+    "display brightness": "375 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display number of colours": "16.77M",
+    "display resolution": "2560 x 1440 pixels",
+    "display technology": "IPS",
+    "energy star certified": "Yes",
+    "ethernet lan": "Yes",
+    "ethernet lan data rates": "10, 100, 1000 Mbit/s",
+    "ethernet lan rj45 ports": "1",
+    "hd type": "No",
+    "hdmi": [
+        "No",
+        "No"
+    ],
+    "height": "49.1 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 3000m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": [
+        "50 - 95 \u00c2\u00b0F",
+        "10 - 35 \u00c2\u00b0C"
+    ],
+    "power consumption standby": "2W",
+    "power consumption typical": "250W",
+    "response time": "12 ms",
+    "rms rated power": [
+        "49W",
+        "49W",
+        "49W"
+    ],
+    "storage temperature tt": "-20 - 47 \u00c2\u00b0C",
+    "supported graphics resolutions": "2560 x 1440",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "3",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "10800g",
+    "width": "65 cm"
+}

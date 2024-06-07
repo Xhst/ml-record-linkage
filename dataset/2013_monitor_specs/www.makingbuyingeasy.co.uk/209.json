@@ -1,0 +1,74 @@
+{
+    "<page title>": "Acer CB280HK - MBE",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DVI",
+        "AC, DVI"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "6.45 cm",
+    "depth with stand": "24.47 cm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "71.12 cm (28\")",
+    "display diagonal metric": "71.1 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "3840 x 2160 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "4K Ultra HD",
+    "hdmi ports quantity": "1",
+    "height": "38.18 cm",
+    "height adjustment": "Yes",
+    "height with stand": "55.85 cm",
+    "input voltage": "120 - 230V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "1 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "3840 x 2160",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 35\u00c2\u00b0",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "width": "65.87 cm",
+    "width with stand": "65.87 cm",
+    "wifi": "No"
+}

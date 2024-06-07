@@ -1,0 +1,73 @@
+{
+    "<page title>": "Elo TouchSystems 1215L - MBE",
+    "aspect ratio": "4:3",
+    "camera included": [
+        "No",
+        "No"
+    ],
+    "certification": [
+        "UL/cUL, T\u00c3\u0153V-GS, CE, FCC/IC/VCCI/C-Tick Class B",
+        "UL/cUL, T\u00c3\u0153V-GS, CE, FCC/IC/VCCI/C-Tick Class B"
+    ],
+    "colour of product": [
+        "Grey",
+        "Grey"
+    ],
+    "contrast ratio typical": "500:1",
+    "dimensions w x d x h with stand": "301 x 260 x 365 mm",
+    "display brightness": "184 cd/m\u00c2\u00b2",
+    "display diagonal": "30.73 cm (12.1\")",
+    "display number of colours": [
+        "0.262000M",
+        "0.262000M"
+    ],
+    "display resolution": "800 x 600 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "246 x 185 mm",
+    "full hd": "No",
+    "hdready": "No",
+    "horizontal scan range": "31.5 - 48 kHz",
+    "maximum analog resolution": [
+        "800 x 600 pixels",
+        "800 x 600 pixels"
+    ],
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "native resolution": [
+        "800 x 600",
+        "800 x 600"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "375 x 260 x 365 mm",
+        "375 x 260 x 365 mm"
+    ],
+    "package weight": [
+        "6.2 kg",
+        "6.2 kg"
+    ],
+    "power consumption typical": "16W",
+    "power requirements": [
+        "85 - 265 VAC, 47 \u00e2\u20ac\u201c 63 Hz",
+        "85 - 265 VAC, 47 \u00e2\u20ac\u201c 63 Hz"
+    ],
+    "response time": "35 ms",
+    "rs232 ports": "1",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "56.3 - 75 Hz",
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "140\u00c2\u00b0",
+    "viewing angle vertical": "100\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.7 kg"
+}

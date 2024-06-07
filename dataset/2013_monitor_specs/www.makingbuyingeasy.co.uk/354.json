@@ -1,0 +1,83 @@
+{
+    "<page title>": "Elo TouchSystems 1939L - MBE",
+    "aspect ratio": "5:4",
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "camera included": [
+        "No",
+        "No"
+    ],
+    "certification": [
+        "UL, cUL, T\u00c3\u0153V-T, Argentina S, CE, FCC, VCCI, IC, C-Tick Class B, BSMI, MIC, CCC, China RoHS",
+        "UL, cUL, T\u00c3\u0153V-T, Argentina S, CE, FCC, VCCI, IC, C-Tick Class B, BSMI, MIC, CCC, China RoHS"
+    ],
+    "contrast ratio typical": "1300:1",
+    "dimensions wxdxh": [
+        "415 x 51 x 343 mm",
+        "415 x 51 x 343 mm"
+    ],
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display resolution": "1280 x 1024 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "376 x 301 mm",
+    "full hd": "No",
+    "hdcp": [
+        "No",
+        "No"
+    ],
+    "hdready": "No",
+    "horizontal scan range": "31.5 - 80 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "maximum analog resolution": [
+        "1280 x 1024 pixels",
+        "1280 x 1024 pixels"
+    ],
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "native resolution": [
+        "1280 x 1024",
+        "1280 x 1024"
+    ],
+    "number of colours": "16.7M",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "515 x 175 x 450 mm",
+        "515 x 175 x 450 mm"
+    ],
+    "package weight": [
+        "7.3 kg",
+        "7.3 kg"
+    ],
+    "power consumption typical": "38W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "25 ms",
+    "rs232 ports": "1",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "touch screen type": [
+        "Totem",
+        "Totem"
+    ],
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "56.3 - 75 Hz",
+    "vesa mounting interfaces compatibility": "75 x 75, 100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.2 kg"
+}

@@ -1,0 +1,55 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Professional 226WLymdr - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "certification": "TCO 6.0",
+    "colour of product": [
+        "Grey",
+        "Grey"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "22.12 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display diagonal metric": "55.9 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1680 x 1050 pixels",
+    "energy efficiency class": "Unspecified",
+    "epeat compliance": "Gold",
+    "hd type": "HD-ready",
+    "hdcp": "Yes",
+    "height": "50.57 cm",
+    "height adjustment": "Yes",
+    "input voltage": "110 - 220V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "power consumption standby": "17.2W",
+    "power consumption typical": "24.2W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1680 x 1050 (WSXGA+)",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "weight": "3.09 kg",
+    "weight with stand": "5.75 kg",
+    "width": "53.42 cm"
+}

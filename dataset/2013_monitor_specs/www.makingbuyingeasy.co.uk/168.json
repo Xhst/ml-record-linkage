@@ -1,0 +1,80 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS VW199TL PROFESSIONAL RANGE  19 INCH  LED  TN  1440 X 900  5MS  MULTIMEDIA  VGA  DVI  TILT  SWIVEL  P - MBE",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "TCO 5.2",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "digital horizontal frequency": "30 - 80 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "dimensions w x d x h with stand": "444 x 214 x 364.4 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1440 x 900 pixels",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "height adjustment": "Yes",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "package weight": [
+        "6.4 kg",
+        "6.4 kg"
+    ],
+    "packaging depth": [
+        "21 cm",
+        "21 cm"
+    ],
+    "packaging height": [
+        "36.8 cm",
+        "36.8 cm"
+    ],
+    "packaging width": [
+        "60.2 cm",
+        "60.2 cm"
+    ],
+    "pixel pitch": "0.2835 x 0.2835 mm",
+    "power consumption standby": "0.2W",
+    "power consumption typical": "27W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "supported graphics resolutions": "1440 x 900 (WXGA+)",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes"
+}

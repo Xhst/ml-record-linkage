@@ -1,0 +1,154 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 22EA53VQ-P LED display - MrHighTech Shop",
+    "aspect ratio": "4:3, 16:9",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "certification": "TCO6.0, CE, T\u00dcV, FCC, UL, cUL, RoHS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "composite sync": "Yes",
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "dcin jack": "Yes",
+    "depth": "55 mm",
+    "depth with stand": "181 mm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "546.1 mm (21.5 \")",
+    "display diagonal metric": "54.61 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "display viewable area hxv": [
+        "475.97 x 267.73 mm",
+        "475.97 x 267.73 mm"
+    ],
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height": "312 mm",
+    "height adjustment": "No",
+    "height with stand": "385 mm",
+    "input voltage": "100 - 240 V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "50000 h",
+        "50000 h"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "DEU, ESP, FIN, FRE, GRE, ITA, JPN, KOR, POL, POR, RUS, SER, UKR",
+        "DEU, ESP, FIN, FRE, GRE, ITA, JPN, KOR, POL, POR, RUS, SER, UKR"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80 %",
+    "operating temperature tt": "10 - 35 \u00b0C",
+    "package weight": [
+        "3.8 kg",
+        "3.8 kg"
+    ],
+    "packaging depth": [
+        "116 mm",
+        "116 mm"
+    ],
+    "packaging height": [
+        "381 mm",
+        "381 mm"
+    ],
+    "packaging width": [
+        "577 mm",
+        "577 mm"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "25 W",
+    "power consumption off": "0.3 W",
+    "power consumption standby": "0.3 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "5 - 90 %",
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.58 kg",
+    "weight with stand": "2.8 kg",
+    "width": "508 mm",
+    "width with stand": "508 mm",
+    "windows operating systems supported": [
+        "Windows 8",
+        "Windows 8"
+    ]
+}

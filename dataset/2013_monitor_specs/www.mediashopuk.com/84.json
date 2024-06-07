@@ -1,0 +1,54 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "HP ZR2740w - MediaShopUK",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "68 mm",
+    "depth with stand": "235 mm",
+    "display": "LED",
+    "display brightness": "380 cd/m\u00b2",
+    "display diagonal": "685.8 mm (27 \")",
+    "display number of colours": "1070 M",
+    "display resolution": "2560 x 1440 pixels",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "height": "392 mm",
+    "height with stand": "540 mm",
+    "operating relative humidity hh": "20 - 80 %",
+    "operating temperature tt": "5 - 35 \u00b0C",
+    "pixel pitch": "0.233 x 0.233 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "2 W",
+    "power consumption typical": "120 W",
+    "response time": "12 ms",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "swivel angle range": "-45 - 45 \u00b0",
+    "tilt angle": "-5 - 35 \u00b0",
+    "usb 20 ports quantity": "4",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "weight with stand": "10.5 kg",
+    "width": "646 mm",
+    "width with stand": "646 mm"
+}

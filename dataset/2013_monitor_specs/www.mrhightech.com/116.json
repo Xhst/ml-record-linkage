@@ -1,0 +1,118 @@
+{
+    "3d compatibility": "Yes",
+    "<page title>": "ASUS VG278HR - MrHighTech Shop",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, VGA",
+        "AC, Audio (3.5mm), DVI, VGA"
+    ],
+    "certification": "BSMI, CB, CCC, CE, C-Tick, ErP, FCC, Gost-R, J-MOSS, PSB, RoHS, UL/cUL, VCCI, WEEE",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "depth with stand": "249.7 mm",
+    "digital horizontal frequency": "28 - 160 kHz",
+    "digital vertical frequency": "50 - 144 Hz",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00b2",
+    "display diagonal": "685.8 mm (27 \")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height adjustment": "Yes",
+    "height with stand": "437.8 mm",
+    "horizontal scan range": "24 - 83 kHz",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": "12.1 kg",
+    "packaging depth": "176 mm",
+    "packaging height": "560 mm",
+    "packaging width": "732 mm",
+    "pc audio in": "Yes",
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pivot": "No",
+    "pixel pitch": "0.311 x 0.311 mm",
+    "power consumption off": "0.6 W",
+    "power consumption standby": "1 W",
+    "power consumption typical": "65 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "2 ms",
+    "rms rated power": [
+        "6 W",
+        "6 W"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15 \u00b0",
+    "tv tuner integrated": "No",
+    "vertical scan range": "55 - 85 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "8.3 kg",
+    "width with stand": "643 mm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "<page title>": "NEC 60003419 MultiSync P242W-BK - 24\" - LCD Monitor",
+    "aspect ratio": [
+        "Widescreen",
+        "Widescreen"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "350 cd/m2",
+        "350 cd/m2"
+    ],
+    "builtin devices": [
+        "USB Hub",
+        "USB Hub"
+    ],
+    "cables included": "1 x DisplayPort cable \u00a6 1 x VGA cable \u00a6 1 x DVI cable - DVI-D to DVI-D",
+    "colour": [
+        "Black",
+        "Black"
+    ],
+    "colour support": [
+        "16.8 million colours",
+        "16.8 million colours"
+    ],
+    "compliant standards": [
+        "FCC Class B certified, MPR II, CSA, UL, TUV GS, C-Tick, GOST, cUL, DDC-2B, MPR III, PCBC, PCT, VESA EDID, CCC, TUV Ergo, PSB, DDC/CI, RoHS, ISO 9241-307, WEEE, ERP, TCO Displays 6.0",
+        "FCC Class B certified, MPR II, CSA, UL, TUV GS, C-Tick, GOST, cUL, DDC-2B, MPR III, PCBC, PCT, VESA EDID, CCC, TUV Ergo, PSB, DDC/CI, RoHS, ISO 9241-307, WEEE, ERP, TCO Displays 6.0"
+    ],
+    "contrast ratio": [
+        "1000:1",
+        "1000:1"
+    ],
+    "controls  adjustments": "Brightness, contrast, sharpness, colour temperature, black level",
+    "description technical detail": "NEC MultiSync P242W-BK - 24\" - LCD Monitor\nTackle your graphics projects with confidence using the LED-backlit P242W, a 24\u00c2\u0094 widescreen monitor that is ideal for web, high-end desktop and photography applications. This model utilizes an AH-IPS panel for great imaging performance.\nOffering 99.6% coverage of sRGB color gamut and 75.2% of NTSC, the P242W provides professional-grade benefits, such as an internal 14-bit 3D programmable lookup tables (LUTs), DisplayPort connectivity and built-in USB hub, at a budget-friendly price.\nAH-IPS LCD panel with 99.6% coverage of sRGB color space\nSuperior screen performance (1000:1 contrast ratio, 1920 x 1200 native resolution, 350 cd/m\u00c2\u00b2 brightness)\nSupports internal programmable 14-bit 3D lookup tables (LUTs) for calibration\n3-port USB hub with DisplaySync ProTM controls two computers with only one keyboard and mouse\nFive programmable Picture Mode profiles for quick access to multiple color spaces\nPicture in Picture and Picture by Picturemodes increase productivity by displaying two sources simultaneously\nWide connectivity includes DisplayPort, VGA, HDMI and DVI-D inputs\nNaViSet Administrator 2: Free software solution that greatly eases administration and management of larger display device installations",
+    "device type": "LED-backlit LCD monitor - 24.1\"",
+    "diagonal size": "24.1\"",
+    "dimensions  weight details": "Without stand - width: 55.68 cm - depth: 8.5 cm - height: 36.24 cm - weight: 7.4 kg \u00a6 With stand - width: 55.68 cm - depth: 22.76 cm - height: 37.8 cm - weight: 10.1 kg",
+    "dimensions wxdxh": [
+        "55.68 cm x 22.76 cm x 37.8 cm - with stand",
+        "55.68 cm x 22.76 cm x 37.8 cm - with stand"
+    ],
+    "display position adjustments": [
+        "Height, pivot (rotation), swivel, tilt",
+        "Height, pivot (rotation), swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "features": [
+        "Security lock slot (cable lock sold separately), cable organizer",
+        "Ambient light sensor, OmniColor, CableComp, Rapid Response, Advanced No Touch Auto Adjust, Intelligent Power Manager (IPM), sRGB colour management, TileMatrix, NaViSet, ColorComp, AmbiBright, Eco-Mode, Overdrive technology, DICOM calibrated, TileComp, RapidMotion, OSD lock, 75% Adobe RGB colour gamut, NaViSet Administrator, automatic black level adjustment, Carbon Footprint Meter, TORO Design"
+    ],
+    "flat panel mount interface": "100 x 100 mm, 200 x 100 mm",
+    "height adjustment": "150 mm",
+    "horizontal refresh rate": "31.5 - 118.4 kHz",
+    "horizontal viewing angle": "178",
+    "humidity range operating": "30 - 80%",
+    "input connectors": "HDMI, DVI-D, VGA, DisplayPort",
+    "interfaces": "DVI-D \u00a6 HDMI \u00a6 DisplayPort \u00a6 VGA \u00a6 2 x USB 2.0 upstream \u00a6 3 x USB 2.0 downstream",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003419",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "35 \u00b0C",
+    "min operating temperature": "5 \u00b0C",
+    "native resolution": [
+        "1920 x 1200 at 60 Hz",
+        "1920 x 1200 at 60 Hz"
+    ],
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.27 mm",
+        "0.27 mm"
+    ],
+    "power consumption stand by": "1 Watt",
+    "power supply": "Internal",
+    "product description": "NEC MultiSync P242W - LED monitor - 24.1\"",
+    "response time": [
+        "16 ms (tr - tf); 8 ms (grey-to-grey)",
+        "16 ms (tr - tf); 8 ms (grey-to-grey)"
+    ],
+    "rotation angle": "90",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "swivel angle": "90",
+    "tilt angle": "-5/+35",
+    "vertical refresh rate": "50 - 85 Hz",
+    "vertical viewing angle": "178",
+    "voltage required": "AC 120/230 V",
+    "weight": [
+        "10.1 kg",
+        "10.1 kg"
+    ]
+}

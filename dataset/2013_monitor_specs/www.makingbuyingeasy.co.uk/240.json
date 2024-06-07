@@ -1,0 +1,96 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq BL2410PT - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC",
+        "AC"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "3000:1",
+    "depth": "25.9 cm",
+    "depth with stand": "6.6 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "hdcp": "Yes",
+    "headphone outputs": "1",
+    "height": "35.4 cm",
+    "height with stand": "33.9 cm",
+    "input voltage": "90 - 264V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "8.1 kg",
+        "8.1 kg"
+    ],
+    "packaging depth": [
+        "19.5 cm",
+        "19.5 cm"
+    ],
+    "packaging height": [
+        "50.5 cm",
+        "50.5 cm"
+    ],
+    "packaging width": [
+        "64.1 cm",
+        "64.1 cm"
+    ],
+    "power consumption powersave": "0.2W",
+    "power consumption typical": "23W",
+    "response time": "4 ms",
+    "rms rated power": [
+        "1W",
+        "1W",
+        "1W"
+    ],
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "3",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.7 kg",
+    "width": "56.5 cm",
+    "width with stand": "56.5 cm"
+}

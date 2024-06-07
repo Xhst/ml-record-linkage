@@ -1,0 +1,112 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Samsung S23C650D - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "USB, VGA",
+        "USB, VGA"
+    ],
+    "certification": "TCO, UL, CSA, TUV, NEMKO, KC, CCC, PSB, GOST, SIQ, PCBC, NOM, IRAM, SASO, FCC, C-Tick, VCCI",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "Mega Contrast",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.54 cm",
+    "depth with stand": "22.4 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "AD-PLS",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "No",
+    "height": "32.14 cm",
+    "height adjustment": [
+        "13 cm",
+        "Yes"
+    ],
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating temperature tt": "10 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "6.95 kg",
+        "6.95 kg"
+    ],
+    "packaging depth": [
+        "39.7 cm",
+        "39.7 cm"
+    ],
+    "packaging height": [
+        "18.6 cm",
+        "18.6 cm"
+    ],
+    "packaging width": [
+        "62 cm",
+        "62 cm"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "-1 - 95\u00c2\u00b0",
+    "pixel pitch": "0.2655 x 0.2655 mm",
+    "power consumption powersave": "21W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "25W",
+    "power cord included": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "relative humidity": "10 - 80%",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-3 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "50.976 cm",
+    "viewable size vertical": "28.674 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.8 kg",
+    "weight with stand": "5.45 kg",
+    "width": "54.29 cm",
+    "width with stand": "54.29 cm"
+}

@@ -1,0 +1,63 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Professional B196WLymdh - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "certification": "TCO",
+    "colour of product": [
+        "Grey",
+        "Grey"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display diagonal metric": "48.3 cm",
+    "display resolution": "1440 x 900 pixels",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "HD-ready",
+    "hdcp": "Yes",
+    "height adjustment": "Yes",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1440 x 900",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1"
+}

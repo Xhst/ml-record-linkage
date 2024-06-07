@@ -1,0 +1,54 @@
+{
+    "<page title>": "Acer TV T272HLbmidz - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "5 cm",
+    "display": "LCD",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "69 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "MVA",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdmi ports quantity": "1",
+    "height": "49.3 cm",
+    "height adjustment": "No",
+    "horizontal scan range": "30 - 80 kHz",
+    "pixel pitch": "0.311 x 0.311 mm",
+    "response time": "5 ms",
+    "thin client installed": "No",
+    "tilt angle": "-10 - 60\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "55 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "width": "66 cm"
+}

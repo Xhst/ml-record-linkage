@@ -1,0 +1,89 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS VW22ATL - MrHighTech Shop",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, DVI, VGA",
+        "AC, DVI, VGA"
+    ],
+    "certification": "BSMI, CB, CCC, CE, C-Tick, ErP, FCC, Gost-R, J-MOSS, RoHS, TCO5.2, TUV-Ergo, TUV-GS, UL/cUL, VCCI, WEEE, WHQL (Windows 7)",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "depth": "63.34 mm",
+    "depth with stand": "213.93 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "558.8 mm (22 \")",
+    "display diagonal metric": "55.9 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1680 x 1050 pixels",
+    "display technology": "TN+Film",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "handheld remote control": [
+        "Yes",
+        "Yes"
+    ],
+    "hd type": "HD-ready",
+    "hdcp": "Yes",
+    "headphone connectivity": "3.5 mm",
+    "height": "340.79 mm",
+    "height adjustment": "Yes",
+    "height with stand": "364.33 mm",
+    "horizontal scan range": "31 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "packaging depth": "212 mm",
+    "packaging height": "412 mm",
+    "packaging width": "640 mm",
+    "pc audio in": "Yes",
+    "pivot": "Yes",
+    "power consumption standby": "0.3 W",
+    "power consumption typical": "33 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "2 W",
+        "2 W"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1680 x 1050 (WSXGA+)",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 15 \u00b0",
+    "tv tuner integrated": "No",
+    "vertical scan range": "56 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "6 kg",
+    "width": "513.95 mm",
+    "width with stand": "513.95 mm"
+}

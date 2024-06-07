@@ -1,0 +1,77 @@
+{
+    "<page title>": "Elo TouchSystems 2200L - MBE",
+    "aspect ratio": "16:10",
+    "audio input": "1",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "camera included": [
+        "No",
+        "No"
+    ],
+    "certification": [
+        "C-Tick, CCC, VCCI, EK, MIC, BSMI, S-mark, UL, cUL, FCC, NOM, CE, PCT, China RoHS, WEEE, IMERC, EU RoHS",
+        "C-Tick, CCC, VCCI, EK, MIC, BSMI, S-mark, UL, cUL, FCC, NOM, CE, PCT, China RoHS, WEEE, IMERC, EU RoHS"
+    ],
+    "colour of product": [
+        "Grey",
+        "Grey"
+    ],
+    "contrast ratio typical": "1000:1",
+    "display brightness": "270 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display resolution": "1680 x 1050 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "474 x 296 mm",
+    "dvid ports quantity": "1",
+    "full hd": "No",
+    "hdready": "Yes",
+    "headphone outputs": "1",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "native resolution": [
+        "1680 x 1050",
+        "1680 x 1050"
+    ],
+    "nonoperating altitude": "0 - 12192m",
+    "number of colours": "16.7M",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 3658m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "525 x 680 x 255 mm",
+        "525 x 680 x 255 mm"
+    ],
+    "package weight": [
+        "13.6 kg",
+        "13.6 kg"
+    ],
+    "power consumption typical": "75W",
+    "response time": "5 ms",
+    "rs232 ports": "1",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "53 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.8 kg",
+    "weight with stand": "10.1 kg"
+}

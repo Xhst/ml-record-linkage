@@ -1,0 +1,82 @@
+{
+    "<page title>": "NEC MultiSync E171M - MBE",
+    "ac adapter included": [
+        "Yes",
+        "Yes"
+    ],
+    "aspect ratio": "5:4",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "VGA",
+        "VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "6.1 cm",
+    "depth with stand": "23 cm",
+    "digital horizontal frequency": "31.5 - 81.1 kHz",
+    "digital vertical frequency": "56 - 76 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "43.18 cm (17\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "display technology": "TN",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "height": "32.05 cm",
+    "height adjustment": "Yes",
+    "height with stand": "40.85 cm",
+    "input voltage": "100 - 240V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pixel pitch": "0.26 x 0.26 mm",
+    "power consumption max": "19W",
+    "power consumption powersave": "9W",
+    "power consumption standby": "0.4W",
+    "power consumption typical": "12W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "storage relative humidity hh": "10 - 85%",
+    "storage temperature tt": "-10 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "170\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3 kg",
+    "weight with stand": "4.2 kg",
+    "width": "36.8 cm",
+    "width with stand": "36.8 cm"
+}

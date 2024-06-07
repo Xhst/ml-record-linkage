@@ -1,0 +1,103 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL S2240T - MBE",
+    "aspect ratio": "16:9",
+    "audio output": "1",
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cables included": "AC, HDMI, USB",
+    "certification": [
+        "EPEAT Silver",
+        "EPEAT Silver"
+    ],
+    "colour of product": [
+        "Black, Silver",
+        "Black, Silver"
+    ],
+    "contrast ratio dynamic": "8000000:1",
+    "contrast ratio typical": "3000:1",
+    "dimensions w x d x h with stand": "522.5 x 77.4 x 382.9 mm",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": [
+        "16.77M",
+        "16.77M"
+    ],
+    "display resolution": "1920 x 1080 pixels",
+    "display type": "LED",
+    "display viewable area hxv": "476.64 x 268.11 mm",
+    "dvid ports quantity": "1",
+    "energy star certified": [
+        "Yes",
+        "Yes"
+    ],
+    "full hd": "Yes",
+    "hdcp": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "number of simultaneous touchpoints windows 7": [
+        "10",
+        "10"
+    ],
+    "package weight": [
+        "6.62 kg",
+        "6.62 kg"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "placement supported": "Horizontal",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "20W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "12 ms",
+    "screen saving functions": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": [
+        "1920 x 1080 (HD 1080)",
+        "1920 x 1080 (HD 1080)"
+    ],
+    "supported video modes": [
+        "1080p",
+        "1080p"
+    ],
+    "tilt angle": [
+        "0 - 60\u00c2\u00b0",
+        "0 - 60\u00c2\u00b0"
+    ],
+    "touch screen type": [
+        "Tabletop",
+        "Tabletop"
+    ],
+    "touchscreen technology": "Capacitive",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "1",
+    "vesa mounting interfaces compatibility": "Yes",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.4 kg",
+    "weight with stand": "5.8 kg",
+    "windows operating systems supported": [
+        "Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64",
+        "Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64"
+    ]
+}

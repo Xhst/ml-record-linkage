@@ -1,0 +1,67 @@
+{
+    "<page title>": "NEC E201W - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "EPEAT Gold; CE; ErP; TCO 5.0; T\u00c3\u0153V Ergonomics; T\u00c3\u0153V GS; GEEA/Energy Label; Energy Star 5.0; FCC Class B; PCT/Gost; UL/C-UL or CSA; CCC; ISO 9241-307 (pixel failure class I); MPR II/ MPR III",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "25000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.5 cm",
+    "depth with stand": "21.39 cm",
+    "digital horizontal frequency": "31.5 - 82.3 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "50.8 cm (20\")",
+    "display resolution": "1600 x 900 pixels",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hdcp": "Yes",
+    "height": "28.56 cm",
+    "height adjustment": "11 cm",
+    "height with stand": "35.93 cm",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "maximum resolution": [
+        "1920 x 1080 pixels",
+        "1920 x 1080 pixels"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pixel pitch": "0.267 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.34W",
+    "power consumption typical": "25W",
+    "power requirements": "100-120 V/220-240 V; 0.6 A/0.35 A",
+    "response time": "5 ms",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "weight": "5.4 kg",
+    "width": "47.7 cm",
+    "width with stand": "44.7 cm"
+}

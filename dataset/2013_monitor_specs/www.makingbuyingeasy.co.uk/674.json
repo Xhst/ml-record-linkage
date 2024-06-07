@@ -1,0 +1,139 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips LCD monitor with SmartControl Lite 193V5LSB2 - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "BSMI, CE Mark, cETLus, FCC B, GOST, PSB, SASO, SEMKO, TUV/ISO9241-307",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "10000000:1",
+    "contrast ratio typical": "700:1",
+    "depth": "4.8 cm",
+    "depth with stand": "17 cm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "46.99 cm (18.5\")",
+    "display diagonal metric": "47 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1366 x 768 pixels",
+    "display srgb": "Yes",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "ethernet lan": "No",
+    "hd type": "HD-ready",
+    "hdcp": "No",
+    "height": "27.3 cm",
+    "height with stand": "33.8 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "linux operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "nonoperating altitude": "0 - 12192m",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 3658m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "3 kg",
+        "3 kg"
+    ],
+    "packaging depth": [
+        "10.3 cm",
+        "10.3 cm"
+    ],
+    "packaging height": [
+        "35 cm",
+        "35 cm"
+    ],
+    "packaging width": [
+        "48.1 cm",
+        "48.1 cm"
+    ],
+    "pixel pitch": "0.30 x 0.30 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "8.76W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "safety": "RoHS, WEEE",
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1366 \u00d1\u2026 768",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-3 - 10\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "40.98 cm",
+    "viewable size vertical": "23.04 cm",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "65\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "1.94 kg",
+    "weight with stand": "2.15 kg",
+    "width": "43.7 cm",
+    "width with stand": "43.7 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "<page title>": "Philips 220P4LPYEB - MrHighTech Shop",
+    "aspect ratio": "16:10",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin microphone": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "BSMI, CE, FCC, GOST, SASO, SEMKO, TUV Ergo, TUV/GS, TCO 5.2, UL/cUL, WEEE",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compatible memory cards": [
+        "No",
+        "No"
+    ],
+    "compliance industry standards": "RoHS",
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "59 mm",
+    "depth with stand": "220 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "558.8 mm (22 \")",
+    "display diagonal metric": "55.9 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1680 x 1050 pixels",
+    "display srgb": "Yes",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "HD-Ready",
+    "hdcp": "Yes",
+    "hdmi": [
+        "No",
+        "No"
+    ],
+    "headphone out": "1",
+    "height": "349 mm",
+    "height adjustment": "No",
+    "height with stand": "517 mm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000 h",
+        "30000 h"
+    ],
+    "nonoperating altitude": "0 - 12192 m",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "8",
+        "8"
+    ],
+    "number of products included": [
+        "1 pcs",
+        "1 pcs"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 3658 m",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package weight": "7.5 kg",
+    "packaging depth": "263 mm",
+    "packaging height": "395 mm",
+    "packaging width": "565 mm",
+    "pc audio in": "Yes",
+    "pivot": "Yes",
+    "pivot angle": "0 - 90 \u00b0",
+    "pixel pitch": "0.282 x 0.282 mm",
+    "placement supported": [
+        "Horizontal/Vertical",
+        "Horizontal/Vertical"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.3 W",
+    "power consumption typical": "16.8 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "relative humidity": "20 - 80 %",
+    "response time": "5 ms",
+    "rms rated power": [
+        "3 W",
+        "3 W"
+    ],
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1680 x 1050 (WSXGA+)",
+    "swivel angle range": "-65 - 65 \u00b0",
+    "swivelling": "Yes",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "usb 20 ports quantity": "4",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "473.76 mm",
+    "viewable size vertical": "296.1 mm",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.38 kg",
+    "weight with stand": "5.5 kg",
+    "width": "504 mm",
+    "width with stand": "504 mm"
+}

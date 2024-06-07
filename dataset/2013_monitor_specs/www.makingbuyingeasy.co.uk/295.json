@@ -1,0 +1,75 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq BL2201PT - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "certification": "RoHS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "23.3 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display diagonal metric": "55.8 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1680 x 1050 pixels",
+    "display viewable area hxv": [
+        "473.7 x 296.1 mm",
+        "473.7 x 296.1 mm"
+    ],
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "height": "44.5 cm",
+    "height adjustment": [
+        "Yes",
+        "13 cm"
+    ],
+    "input voltage": "100 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "package weight": [
+        "8.9 kg",
+        "8.9 kg"
+    ],
+    "pixel pitch": "0.282 x 0.282 mm",
+    "power consumption powersave": "0.3W",
+    "power consumption typical": "34.5W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "supported graphics resolutions": "1680 x 1050 (WSXGA+)",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.1 kg",
+    "width": "58.9 cm"
+}

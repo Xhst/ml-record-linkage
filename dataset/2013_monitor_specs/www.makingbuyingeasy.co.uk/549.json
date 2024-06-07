@@ -1,0 +1,82 @@
+{
+    "<page title>": "Benq BL2211TM - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "certification": "ecoFACTS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "21.4 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display diagonal metric": "55.88 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1680 x 1050 pixels",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "hdcp": "Yes",
+    "headphone outputs": "1",
+    "height": "43.3 cm",
+    "height adjustment": [
+        "Yes",
+        "11 cm"
+    ],
+    "input voltage": "90 - 264V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.28 x 0.28 mm",
+    "power consumption powersave": "0.3W",
+    "power consumption typical": "26W",
+    "quantity": [
+        "1",
+        "1"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "supported graphics resolutions": "1680 x 1050 (WSXGA+)",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.5 kg",
+    "weight with stand": "7.1 kg",
+    "width": "65.5 cm",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8"
+    ]
+}

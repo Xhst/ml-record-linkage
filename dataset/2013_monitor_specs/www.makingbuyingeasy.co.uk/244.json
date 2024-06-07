@@ -1,0 +1,102 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "AOC 24 L e2460Pda          LED A+D S T5 - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, VGA",
+        "AC, Audio (3.5mm), DVI, VGA"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "CE, EuP, FCC, GOST, ISO 9241-307, NRTL, RoHS, TCO 5.0, T\u00c3\u0153V-GS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "24.458 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "61 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "52.36 cm",
+    "height adjustment": [
+        "13 cm",
+        "Yes"
+    ],
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "90 - 240V",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "8.55 kg",
+        "8.55 kg"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.276 x 0.276 mm",
+    "placement supported": [
+        "Horizontal/Vertical",
+        "Horizontal/Vertical"
+    ],
+    "power consumption off": "0.3W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "19.2W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "55 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "video dot rate": [
+        "148.5 MHz",
+        "148.5 MHz"
+    ],
+    "viewable size horizontal": "53.136 cm",
+    "viewable size vertical": "29.889 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.54 kg",
+    "width": "56.54 cm",
+    "wifi": "No"
+}

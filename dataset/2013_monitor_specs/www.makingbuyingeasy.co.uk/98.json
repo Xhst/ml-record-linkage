@@ -1,0 +1,71 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Essential V246HLbd - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "certification": "TCO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "5.2 cm",
+    "depth with stand": "20.68 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "61 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "33.59 cm",
+    "height adjustment": "Yes",
+    "height with stand": "42.22 cm",
+    "input voltage": "110 - 220V",
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.35W",
+    "power consumption standby": "0.45W",
+    "power consumption typical": "20.9W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "weight": "3.9 kg",
+    "weight with stand": "3.5 kg",
+    "width": "56.7 cm",
+    "width with stand": "56.7 cm"
+}

@@ -1,0 +1,61 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Everyday 272HL - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "6.2 cm",
+    "depth with stand": "24.9 cm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "hd type": "Full HD",
+    "hdmi ports quantity": "1",
+    "height": "38.1 cm",
+    "height adjustment": "No",
+    "height with stand": "46.2 cm",
+    "input voltage": "110 - 220V",
+    "power consumption standby": "0.45W",
+    "power consumption typical": "28.5W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "6 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "weight": "4.77 kg",
+    "weight with stand": "5 kg",
+    "width": "64 cm",
+    "width with stand": "64 cm"
+}

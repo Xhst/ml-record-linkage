@@ -1,0 +1,108 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq DL2215 - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "600:1",
+    "depth": "5.5 cm",
+    "depth with stand": "17.8 cm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display diagonal metric": "54.61 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "display surface": "Gloss",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "36.9 cm",
+    "height with stand": "36.9 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "47-63 Hz",
+    "input voltage": "90 - 264V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 90%",
+    "operating temperature tt": "5 - 40 \u00c2\u00b0C",
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5W",
+    "power consumption typical": "17W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "55 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "47.66 cm",
+    "viewable size vertical": "26.81 cm",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "65\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.8 kg",
+    "width": "51.5 cm",
+    "width with stand": "51.5 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 27MP65HQ-P - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "certification": "UL (cUL), TUV, FCC-B, CE, EPA",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "depth": "7.9 cm",
+    "depth with stand": "21.3 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "dvi port": "No",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone outputs": "1",
+    "height": "37.8 cm",
+    "height with stand": "47.6 cm",
+    "input voltage": "100 - 240V",
+    "pixel pitch": "0.24795 x 0.24795 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.3W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "26W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.3 kg",
+    "weight with stand": "4.6 kg",
+    "width": "62.3 cm",
+    "width with stand": "62.3 cm"
+}

@@ -1,0 +1,61 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Samsung NS190 Thin Client Monitor - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "4.95 cm",
+    "depth with stand": "22.7 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1440 x 900 pixels",
+    "hd type": "No",
+    "hdcp": "No",
+    "headphone outputs": "1",
+    "height": "30.19 cm",
+    "height with stand": "41.68 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "microphone in": "Yes",
+    "package weight": [
+        "6.22 kg",
+        "6.22 kg"
+    ],
+    "power consumption standby": "2.7W",
+    "power consumption typical": "35W",
+    "response time": "5 ms",
+    "rs232 ports": "1",
+    "supported graphics resolutions": "1440 x 900 (WXGA+)",
+    "thin client installed": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.42 kg",
+    "width": "44.3 cm",
+    "width with stand": "44.3 cm"
+}

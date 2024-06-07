@@ -1,0 +1,90 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL Professional P2014H - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DisplayPort, USB, VGA",
+        "AC, DisplayPort, USB, VGA"
+    ],
+    "certification": "TCO",
+    "colour of product": [
+        "Black, Silver",
+        "Black, Silver"
+    ],
+    "contrast ratio dynamic": "2000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "4.65 cm",
+    "depth with stand": "18 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "49.53 cm (19.5\")",
+    "display diagonal metric": "49.4 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1600 x 900 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hdcp": "Yes",
+    "height": "27.29 cm",
+    "height adjustment": "Yes",
+    "height with stand": "46.79 cm",
+    "input current": "1.5A",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "nonoperating altitude": "0 - 12191m",
+    "operating altitude": "0 - 5000m",
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "6.17 kg",
+        "6.17 kg"
+    ],
+    "pixel pitch": "0.2712 x 0.2626 mm",
+    "power consumption max": "36W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "20W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "8 ms",
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1600 x 900",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "4",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "43.392 cm",
+    "viewable size vertical": "23.634 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.48 kg",
+    "width": "47.05 cm",
+    "width with stand": "47.05 cm"
+}

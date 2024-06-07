@@ -1,0 +1,70 @@
+{
+    "<page title>": "TD2340 23 TOUCH MM IPS HD DP TD2340 Viewsonic",
+    "aspect ratio": "Widescreen",
+    "backlight life": "30,000 hours",
+    "backlight technology": "WLED",
+    "brightness": "250 cd/m2",
+    "builtin devices": "USB Hub",
+    "cables included": "1 x audio cable \u00c2\u00a6 1 x VGA cable \u00c2\u00a6 1 x HDMI cable \u00c2\u00a6 1 x DisplayPort cable \u00c2\u00a6 1 x USB cable",
+    "compatible with windows 7": "\"Compatible with Windows 7\" software and devices carry Microsoft\u00e2\u20ac\u2122s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "compliant standards": [
+        "FCC Class B certified, UL, C-Tick, BSMI, cUL, ICES-003, SASO, CB, CCC, DOC, PSB, RoHS, WEEE, GOST-R, REACH, UkrSEPRO, TCO Displays 5.2, KC, TUV Nord, ERP, CEL",
+        "FCC Class B certified, UL, C-Tick, BSMI, cUL, ICES-003, SASO, CB, CCC, PSB, RoHS, WEEE, GOST-R, UkrSEPRO, TCO Displays 5.2, KC, ERP, CEL"
+    ],
+    "contrast ratio": "1000:1 / 20000000:1 (dynamic)",
+    "controls  adjustments": "Mute, volume, brightness, contrast, H/V position, sharpness, colour balance, input select, colour temperature, H-size, aspect control",
+    "description technical detail": "ViewSonic TD2340 23 inch 10 Point Widescreen Multi Touch IPS Monitor\nExceptional interactivity comes standard in the ViewSonic TD2340, the 23\" 10-point multi-touch monitor with 1920 x 1080 Full HD resolution, and projected capacitive touch technology delivering seamless and accurate touch response. Experience stunning color performance with IPS technology and a 20,000,000:1 MEGA dynamic contrast ratio. Integrated speakers with SRS premium sound provide a complete multimedia package. DisplayPort, HDMI, VGA inputs provide flexible and convenient connectivity. Advanced dual hinge stand design ensures outstanding ergonomic comfort and productivity. The TD2340 is fully USB HID compliant. It is the gateway to the new world of interactivity.",
+    "diagonal size": "23\"",
+    "dimensions  weight details": [
+        "With stand - width: 57.66 cm - depth: 32.45 cm - height: 45.38 cm - weight: 9.2 kg \u00c2\u00a6 Without stand - width: 57.66 cm - depth: 6.65 cm - height: 45.38 cm - weight: 6.6 kg",
+        "With stand - 57.66 cm x 32.45 cm x 45.38 cm x 9.2 kg \u00c2\u00a6 Without stand - 57.66 cm x 6.65 cm x 45.38 cm x 6.6 kg"
+    ],
+    "dimensions wxdxh": "57.66 cm x 32.45 cm x 45.38 cm - with stand",
+    "display position adjustments": "Pivot (rotation), tilt",
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "epeat compliant": "EPEAT Gold",
+    "features": [
+        "sRGB colour management, Eco-Mode, SRS Premium Sound, Mega Dynamic Contrast Ratio, 10-point multi-touch",
+        "Security lock slot (cable lock sold separately), multi-position stand",
+        "sRGB colour management, Eco-Mode, SRS Premium Sound, Mega Dynamic Contrast Ratio, 10-point multi-touch, Projected Capacitive Touch (PCT) technology"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "horizontal refresh rate": "24 - 83 kHz",
+    "horizontal viewing angle": "178",
+    "humidity range operating": "20 - 90% (non-condensing)",
+    "included software": "ViewSonic Wizard",
+    "interfaces": "HDMI \u00c2\u00a6 VGA \u00c2\u00a6 DisplayPort \u00c2\u00a6 USB upstream ( Type B ) \u00c2\u00a6 2 x USB downstream ( Type A ) \u00c2\u00a6 Audio line-in \u00c2\u00a6 Headphones",
+    "manufacturer": "Viewsonic",
+    "manufacturer part ": "TD2340",
+    "max operating temperature": "40 \u00c2\u00b0C",
+    "min operating temperature": "0 \u00c2\u00b0C",
+    "movement detection technology": "Projected capacitive",
+    "native resolution": "FullHD 1920 x 1080",
+    "os required": [
+        "Microsoft Windows 7, Windows 8",
+        "Windows 8"
+    ],
+    "output power  channel": "2 Watt",
+    "panel type": "IPS",
+    "power consumption operational": "45 Watt",
+    "power supply": "Internal",
+    "response time": "7 ms",
+    "rotation angle": "90",
+    "screen coating": [
+        "7H Hard Coating",
+        "Anti-glare, 7H Hard Coating"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labour - 3 years \u00c2\u00a6 Limited warranty - backlight - 3 years",
+    "tilt angle": "-5/+50",
+    "type": [
+        "Speakers - stereo - integrated",
+        "Touch-screen - Multi-Touch"
+    ],
+    "vertical refresh rate": "50 - 76 Hz",
+    "vertical viewing angle": "178",
+    "viewable size": "23\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "9.2 kg"
+}

@@ -1,0 +1,65 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq BL2405HT - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "21.3 cm",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "35 cm",
+    "height adjustment": [
+        "Yes",
+        "11 cm"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "No",
+        "No"
+    ],
+    "power consumption standby": "0.3W",
+    "power consumption typical": "42W",
+    "response time": "5 ms",
+    "swivelling": "Yes",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.1 kg",
+    "width": "57.9 cm",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64"
+    ]
+}

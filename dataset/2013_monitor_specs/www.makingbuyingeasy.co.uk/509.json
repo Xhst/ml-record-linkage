@@ -1,0 +1,72 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer K K192HQL - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "5 cm",
+    "depth with stand": "19.2 cm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "46.99 cm (18.5\")",
+    "display diagonal metric": "47 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1366 x 768 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "hdcp": "Yes",
+    "height": "26.7 cm",
+    "height adjustment": "No",
+    "height with stand": "35.2 cm",
+    "input voltage": "110 - 220V",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.35W",
+    "power consumption standby": "0.45W",
+    "power consumption typical": "11.9W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1366 \u00d1\u2026 768",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "65\u00c2\u00b0",
+    "weight": "2.32 kg",
+    "weight with stand": "2.6 kg",
+    "width": "44.1 cm",
+    "width with stand": "44.1 cm"
+}

@@ -1,0 +1,100 @@
+{
+    "<page title>": "AOC E2250SWDNK 21.5 LED Widescreen DVI 5ms - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "CB, CE, FCC, GOST, ISO 9241-307, RoHS, T\u00c3\u0153V-GS, Win7",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "common interface ci": "No",
+    "common interface plus ci": "No",
+    "compatible memory cards": [
+        "No",
+        "No"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "600:1",
+    "depth": "19 cm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "No",
+        "No"
+    ],
+    "height": "37.995 cm",
+    "height adjustment": "No",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "maximum resolution": [
+        "1920 x 1080 pixels",
+        "1920 x 1080 pixels"
+    ],
+    "number of osd languages": [
+        "16",
+        "16"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5W",
+    "power consumption typical": "21W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt angle": "-4 - 17\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 76 Hz",
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "video dot rate": [
+        "148 MHz",
+        "148 MHz"
+    ],
+    "viewable size diagonal": "54.7 cm",
+    "viewable size horizontal": "47.664 cm",
+    "viewable size vertical": "26.811 cm",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "65\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.06 kg",
+    "width": "51.118 cm"
+}

@@ -1,0 +1,73 @@
+{
+    "<page title>": "NEC E224WI-BK - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "DVI",
+        "DVI"
+    ],
+    "certification": "TCO, RoHS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "depth": "5.85 cm",
+    "depth with stand": "21.39 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "30.11 cm",
+    "height with stand": "47.45 cm",
+    "horizontal scan range": "31.5 - 81.1 kHz",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "nonoperating altitude": "0 - 12192m",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 2000m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pivot": "Yes",
+    "pixel pitch": "0.25 x 0.25 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption powersave": "0.4W",
+    "power consumption typical": "26W",
+    "response time": "6 ms",
+    "storage relative humidity hh": "10 - 85%",
+    "storage temperature tt": "-10 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "swivelling": "Yes",
+    "tilt adjustment": "Yes",
+    "vertical scan range": "56 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.9 kg",
+    "weight with stand": "5.9 kg",
+    "width": "50.74 cm",
+    "width with stand": "50.74 cm"
+}

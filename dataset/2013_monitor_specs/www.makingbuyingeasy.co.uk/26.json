@@ -1,0 +1,146 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips LCD monitor with SmartControl Lite 223V5LSB2 - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compliance industry standards": "BSMI, CE Mark, FCC Class B, GOST, PSB, SASO, SEMKO, TUV/ISO9241-307, cETLus, WEEE",
+    "contrast ratio dynamic": "10000000:1",
+    "contrast ratio typical": "600:1",
+    "depth": "5 cm",
+    "depth with stand": "21.3 cm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "display technology": "TFT/S-PVA",
+    "dvi port": "No",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "ethernet lan": "No",
+    "feet colour": [
+        "black",
+        "black"
+    ],
+    "hd type": "Full HD",
+    "height": "31.6 cm",
+    "height with stand": "37.6 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "nonoperating altitude": "0 - 12192m",
+    "number of osd languages": [
+        "18",
+        "18"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), CZE, DEU, DUT, ENG, FIN, FRE, GRE, HUN, ITA, JPN, KOR, POL, POR, RUS, TUR, UKR",
+        "CHI (SIMPL), CZE, DEU, DUT, ENG, FIN, FRE, GRE, HUN, ITA, JPN, KOR, POL, POR, RUS, TUR, UKR"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 3658m",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "3.87 kg",
+        "3.87 kg"
+    ],
+    "packaging depth": [
+        "10.7 cm",
+        "10.7 cm"
+    ],
+    "packaging height": [
+        "41.4 cm",
+        "41.4 cm"
+    ],
+    "packaging width": [
+        "55.5 cm",
+        "55.5 cm"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "15.61W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "relative humidity": "20 - 80%",
+    "response time": "5 ms",
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "47.664 cm",
+    "viewable size vertical": "26.811 cm",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "65\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.35 kg",
+    "weight with stand": "2.61 kg",
+    "width": "50.3 cm",
+    "width with stand": "50.3 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

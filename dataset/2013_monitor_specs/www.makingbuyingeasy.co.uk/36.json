@@ -1,0 +1,97 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "NEC MultiSync E224Wi - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, DVI, VGA",
+        "AC, DVI, VGA"
+    ],
+    "certification": "CE, MPR III, RoHS, T\u00c3\u0153V, FCC, PSB, TCO 6.0, T\u00c3\u0153V GS",
+    "colour of product": [
+        "White",
+        "White"
+    ],
+    "composite sync": "Yes",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.85 cm",
+    "depth with stand": "36.45 cm",
+    "digital horizontal frequency": "31.5 - 81.1 kHz",
+    "digital vertical frequency": "56 - 76 Hz",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "30.11 cm",
+    "height adjustment": [
+        "Yes",
+        "11 cm"
+    ],
+    "height with stand": "21.39 cm",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "25W",
+    "power consumption powersave": "0.4W",
+    "power consumption typical": "22W",
+    "response time": "6 ms",
+    "rotating": "Yes",
+    "supported graphics resolutions": "720 x 400, 832 x 624, 1152 x 870, 1280 x 960, 1366 x 768, 1440 x 900, 1024 x 768 (XGA), 1152 x 864 (XGA+), 1280 x 1024 (SXGA), 1360 x 768 (WXGA), 1400 x 1050 (SXGA+), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "20 - 5\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.9 kg",
+    "width": "50.74 cm",
+    "width with stand": "50.74 cm"
+}

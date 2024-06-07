@@ -1,0 +1,29 @@
+{
+    "<page title>": "Competitive Priced NEC V422 MultiSync 42 inch LCD Public Display Panel",
+    "active screen area": "36.6 x 20.6 in. / 930.2 x 523.3mm",
+    "aspect ratio": "16:09",
+    "backlight type": "CCFL",
+    "brightness maximum": "500cd/m2",
+    "brightness typical": "370cd/m2",
+    "contrast ratio typical": "1300:01:00",
+    "displayable colors": "More than 16.7 million",
+    "manufacturer": "NEC",
+    "manufacturer part ": "V422",
+    "native resolution": "1920 x 1080",
+    "net with stand": [
+        "52.5 lbs. / 23.8 kg",
+        "40.3 x 25.6 x 13 / 1022.9 x 651.2 x 330mm"
+    ],
+    "net without stand": [
+        "48.5 lbs. / 22 kg",
+        "40.3 x 24.2 x 4.2 in. / 1022.9 x 613.5 x 105.6mm"
+    ],
+    "orientation": "Landscape/Portrait",
+    "panel technology": "S-IPS",
+    "pixel pitch": "0.48mm",
+    "pixels per inch": "52@ native resolution",
+    "refresh rate": "60Hz",
+    "response timegray to gray": "10ms",
+    "viewable image size": "42\"",
+    "viewing angle": "178\u00b0 Vert., 178\u00b0 Hor. (89U/89D/89L/89R) @ CR>10"
+}

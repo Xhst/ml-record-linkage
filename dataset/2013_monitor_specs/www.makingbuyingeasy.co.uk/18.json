@@ -1,0 +1,129 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS VK248H - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, DVI, VGA",
+        "AC, DVI, VGA"
+    ],
+    "certification": "UL/cUL, CB, CE, ErP, FCC, CCC, BSMI, Gost-R, C-Tick, VCCI, J-MOSS, PSE, RoHS, WEEE",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6.15 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "50 - 76 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "61 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone outputs": "1",
+    "height": "35.88 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "megapixel": [
+        "1 MP",
+        "1 MP",
+        "1 MP"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "package weight": [
+        "7.4 kg",
+        "7.4 kg"
+    ],
+    "packaging depth": [
+        "16.1 cm",
+        "16.1 cm"
+    ],
+    "packaging height": [
+        "47.3 cm",
+        "47.3 cm"
+    ],
+    "packaging width": [
+        "64.1 cm",
+        "64.1 cm"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.2768 x 0.2768 mm",
+    "power consumption off": "0.5W",
+    "power consumption powersave": "0.5W",
+    "power consumption typical": "42W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "2 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivel webcam": [
+        "No",
+        "No",
+        "No"
+    ],
+    "thin client installed": "No",
+    "tilt angle": "20 - -5\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5 kg",
+    "width": "56.84 cm"
+}

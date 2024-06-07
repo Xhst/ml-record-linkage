@@ -1,0 +1,74 @@
+{
+    "<page title>": "Iiyama ProLite T1531SR-1 - MBE",
+    "aspect ratio": "4:3",
+    "certification": [
+        "CE, T\u00c3\u0153V-Bauart, Gost-R, VCCI, IP54",
+        "CE, T\u00c3\u0153V-Bauart, Gost-R, VCCI, IP54"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compatible operating systems": [
+        "Windows 7/Vista/XP/9X/2000/CE/NT4, Linux, Mac OSX/OS9, DOS",
+        "Windows 7/Vista/XP/9X/2000/CE/NT4, Linux, Mac OSX/OS9, DOS"
+    ],
+    "contrast ratio typical": "500:1",
+    "dimensions wxdxh": [
+        "351 x 202 x 306 mm",
+        "351 x 202 x 306 mm"
+    ],
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "38.1 cm (15\")",
+    "display resolution": "1024 x 768 pixels",
+    "display viewable area hxv": "228 x 304 mm",
+    "dvid ports quantity": "1",
+    "horizontal scan range": "31.5 - 60.2 kHz",
+    "interface type": [
+        "USB, RS-232C",
+        "USB, RS-232C"
+    ],
+    "mounting interface": [
+        "VESA",
+        "VESA"
+    ],
+    "number of colours": "16.7M",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "pixel pitch": "0.297 x 0.297 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "2W",
+    "power consumption typical": "20W",
+    "power requirements": [
+        "AC 100 - 240 V, 50/60 Hz",
+        "AC 100 - 240 V, 50/60 Hz"
+    ],
+    "response time": "8 ms",
+    "rs232 ports": "1",
+    "separate hv sync": "Yes",
+    "speakers": [
+        "2 x 1W",
+        "2 x 1W"
+    ],
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "tilt angle": [
+        "-5 - 90\u00c2\u00b0",
+        "-5 - 90\u00c2\u00b0"
+    ],
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "38 cm",
+    "viewing angle horizontal": "140\u00c2\u00b0",
+    "viewing angle vertical": "125\u00c2\u00b0",
+    "weight": "4.1 kg"
+}

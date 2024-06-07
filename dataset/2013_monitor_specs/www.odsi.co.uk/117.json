@@ -1,0 +1,126 @@
+{
+    "<page title>": "Lenovo T48MNUK ThinkVision LT1952p -19\" LED Monitor",
+    "analogue video signal": "RGB",
+    "aspect ratio": "Widescreen - 16:10",
+    "backlight technology": "WLED",
+    "brightness": "250 cd/m2",
+    "cables included": "1 x VGA cable - 1.8 m \u00c2\u00a6 1 x DVI cable - 1.8 m",
+    "colour": "Business black",
+    "colour support": [
+        "16 million colours",
+        "16 million colours"
+    ],
+    "compatible with windows 7": "\"Compatible with Windows 7\" software and devices carry Microsoft\u00e2\u20ac\u2122s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "compliant standards": [
+        "FCC Class B certified, MPR II, CSA, UL, TUV, VCCI, BSMI, GOST, DDC-2B, GS, NOM, SASO, SEMKO, TUV S, VESA FPMPMI, IEC 60950, CCC, IC, PSB, DDC/CI, RoHS, ISO 9241-307, WEEE, JEITA, REACH, TCO Certified Edge, E-Standby, TCO Displays 5.2",
+        "FCC Class B certified, CE, MPR II, CSA, UL, TUV, VCCI, BSMI, GOST, DDC-2B, GS, NOM, SASO, SEMKO, TUV S, VESA FPMPMI, IEC 60950, CCC, IC, PSB, DDC/CI, RoHS, ISO 9241-307, WEEE, JEITA, REACH, TCO Certified Edge, E-Standby, TCO Displays 5.2"
+    ],
+    "contrast ratio": "1000:1 / 10000000:1 (dynamic)",
+    "controls  adjustments": "Brightness, contrast, H/V position, colour balance, input select",
+    "depth": "17.1 cm",
+    "description technical detail": "Lenovo ThinkVision LT1952p -19\" Widescreen LED Monitor\nFor enterprises that need a green, fully functional display screen, with unparalleled visual quality, the ThinkVision LT1952p is the best choice. It is compatible with virtually any hardware platform, the LT1952p offers VGA, DVI-D, and DisplayPort connections. The LT1952p is a breeze to use with exceptional LED performance, swivel, tilt, and lift options, 5 milliseconds response time, and a 1000:1 contrast ratio. The LT1952p delivers high energy cost savings, through compliance with go green certifications. The monitors are mercury-free, contain reduced toxic chemicals. The LT1952p delivers the best value on investment for large enterprises.",
+    "diagonal size": [
+        "19\"",
+        "19\" - widescreen"
+    ],
+    "dimensions wxdxh": "44.1 cm x 17.1 cm x 39.8 cm",
+    "display position adjustments": "Height, swivel, tilt",
+    "display positions adjustments": [
+        "Height, tilt",
+        "Height, swivel, tilt"
+    ],
+    "display type": [
+        "LCD display / TFT active matrix - WLED backlight",
+        "LCD display / TFT active matrix",
+        "LED-backlit LCD monitor / TFT active matrix",
+        "LCD monitor / TFT active matrix"
+    ],
+    "dot pitch  pixel pitch": "0.2835 mm",
+    "enclosure colour": "Business black",
+    "energy star qualified": "Yes",
+    "epeat compliant": "EPEAT Gold",
+    "features": [
+        "Security lock slot (cable lock sold separately), wall mountable, integrated cable management",
+        "HDCP, 72% colour gamut",
+        "HDCP, 72% colour gamut"
+    ],
+    "flat panel mount interface": [
+        "100 x 100 mm",
+        "100 x 100 mm"
+    ],
+    "form factor": "Internal",
+    "height": "39.8 cm",
+    "height adjustment": [
+        "110 mm",
+        "110 mm"
+    ],
+    "horizontal refresh rate": "81 kHz",
+    "horizontal viewing angle": "170",
+    "image aspect ratio": "16:10",
+    "image brightness": "250 cd/m2",
+    "image contrast ratio": [
+        "1000:1",
+        "1000:1 / 10000000:1 (dynamic)"
+    ],
+    "image max hview angle": "170",
+    "image max vview angle": "160",
+    "interfaces": [
+        "1 x DVI-D - 24 pin digital DVI \u00c2\u00a6 1 x VGA - 15 pin HD D-Sub (HD-15) \u00c2\u00a6 1 x DisplayPort - 20 pin DisplayPort",
+        "DVI-D \u00c2\u00a6 VGA \u00c2\u00a6 DisplayPort"
+    ],
+    "localisation": [
+        "English",
+        "English / United Kingdom",
+        "English / United Kingdom"
+    ],
+    "manufacturer": "LENOVO",
+    "manufacturer part ": "T48MNUK",
+    "max operating temperature": "40 \u00c2\u00b0C",
+    "max sync rate v x h": "76 Hz x 81 kHz",
+    "min operating temperature": "0 \u00c2\u00b0C",
+    "native resolution": [
+        "1440 x 900",
+        "1440 x 900"
+    ],
+    "osd languages": [
+        "English, German, French, Italian, Russian, Spanish, Japanese, Chinese",
+        "English, German, French, Italian, Russian, Spanish, Japanese, Chinese"
+    ],
+    "panel type": "TN",
+    "pixel pitch": "0.2835 mm",
+    "power consumption operational": "13 Watt",
+    "power consumption stand by  sleep": "0.5 Watt",
+    "power supply": "Internal",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "screen coating": "Anti-glare, anti-reflective",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years \u00c2\u00a6 Limited warranty - backlight - 3 years",
+    "signal input": "DVI-D, VGA, DisplayPort",
+    "swivel angle": [
+        "360",
+        "360"
+    ],
+    "tilt angle": [
+        "-3/+20",
+        "-3/+20"
+    ],
+    "vertical refresh rate": "76 Hz",
+    "vertical viewing angle": "160",
+    "video bandwidth": [
+        "137 MHz",
+        "137 MHz"
+    ],
+    "viewable size": [
+        "19\"",
+        "19\""
+    ],
+    "voltage required": [
+        "( 50/60 Hz )",
+        "AC 120/230 V ( 50/60 Hz )"
+    ],
+    "weight": "4.3 kg",
+    "width": "44.1 cm"
+}

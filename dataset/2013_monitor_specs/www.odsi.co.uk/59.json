@@ -1,0 +1,91 @@
+{
+    "<page title>": "NEC-60003607-NEC MultiSync EA273WMi - 27\" - LED-backlit LCD Monitor",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "builtin devices": [
+        "USB Hub",
+        "USB Hub"
+    ],
+    "cables included": "1 x VGA cable - VGA to VGA \u00a6 1 x DVI cable - DVI-D to DVI-D \u00a6 1 x ControlSync cable \u00a6 1 x USB cable \u00a6 1 x audio cable",
+    "colour": [
+        "White",
+        "White"
+    ],
+    "colour support": [
+        "16.7 million colours",
+        "16.7 million colours"
+    ],
+    "compatible with windows 7": "\"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "compliant standards": [
+        "FCC Class B certified, MPR II, CSA, UL, TUV GS, GOST, cUL, DDC-2B, DDC-2Bi, MPR III, PCT, VESA EDID, TUV Ergo, DDC/CI, RoHS, ISO 9241-307, ERP, TCO Displays 6.0",
+        "FCC Class B certified, MPR II, CSA, UL, TUV GS, GOST, cUL, DDC-2B, DDC-2Bi, MPR III, PCT, VESA EDID, TUV Ergo, DDC/CI, RoHS, ISO 9241-307, ERP, TCO Displays 6.0"
+    ],
+    "contrast ratio": [
+        "1000:1 / 25000:1 (dynamic)",
+        "1000:1 / 25000:1 (dynamic)"
+    ],
+    "description technical detail": "NEC MultiSync EA273WMi - 27\" - LED-backlit LCD Monitor\nThe 27\" NEC MultiSync EA273WMi is a widescreen LCD for high-performance enterprise users that require advanced technologies and full feature sets. Designed to enhance work performance, this widescreen model features IPS panel technology with wide viewing angles and ergonomic adjustability. The LED backlighting of the EA273WMi allows for a slimmer profile, lighter weight and increased power savings. This model also boasts a height-adjustable stand and full connectivity with DisplayPort, HDMI, DVI-D and VGA inputs.",
+    "device type": "LED-backlit LCD monitor - 27\"",
+    "diagonal size": "27\"",
+    "dimensions wxdxh": [
+        "63.93 cm x 23 cm x 41.8 cm",
+        "63.93 cm x 23 cm x 41.8 cm"
+    ],
+    "display position adjustments": [
+        "Height, pivot (rotation), swivel, tilt",
+        "Height, pivot (rotation), swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": "ENERGY STAR Qualified",
+    "features": [
+        "Security lock slot (cable lock sold separately)",
+        "Infrared user sensor, ambient light sensor, Navi Key, No Touch Auto Adjust, Intelligent Power Manager (IPM), power off timer, cable management cover, sRGB colour management, NaViSet, Eco-Mode, DICOM calibrated, ControlSync, OSD lock, Carbon Footprint Meter, Carbon Savings Meter"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "130 mm",
+    "horizontal refresh rate": "31.5 - 83 kHz",
+    "horizontal viewing angle": "178",
+    "humidity range operating": "20 - 80%",
+    "input connectors": "HDMI, DVI-D, VGA, DisplayPort",
+    "interfaces": "DVI-D ( HDCP ) \u00a6 HDMI \u00a6 DisplayPort \u00a6 VGA \u00a6 USB 2.0 downstream ( Type B ) \u00a6 4 x USB 2.0 upstream ( Type A ) \u00a6 Headphones \u00a6 Audio line-in",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003607",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "35 \u00b0C",
+    "microsoft certification": "Compatible with Windows 7",
+    "min operating temperature": "5 \u00b0C",
+    "native resolution": [
+        "1920 x 1080 at 60 Hz",
+        "1920 x 1080 at 60 Hz"
+    ],
+    "output power  channel": "1 Watt",
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.311 mm",
+        "0.311 mm"
+    ],
+    "power consumption stand by": "0.5 Watt",
+    "power supply": "Internal",
+    "product description": "NEC MultiSync EA273WMi - LED monitor - 27\"",
+    "rotation angle": "90",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "speakers": "Integrated",
+    "swivel angle": "340",
+    "tilt angle": "-5/+30",
+    "type": "Speakers - stereo - integrated",
+    "vertical refresh rate": "56 - 75 Hz",
+    "vertical viewing angle": "178",
+    "voltage required": "AC 120/230 V ( 50 - 60 Hz )"
+}

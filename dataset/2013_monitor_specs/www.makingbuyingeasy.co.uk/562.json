@@ -1,0 +1,112 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Lenovo ThinkVision LT1953 - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC",
+        "AC"
+    ],
+    "certification": "RoHS, UL, IEC, NEMKO, TUV-GS, CCC, BSMI, NOM, ICCP, GOST, SISIR, ISC, JEITA, KS, FCC, IC, CE, VCCI",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "10000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.05 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1440 x 900 pixels",
+    "display technology": "TN+Film",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hdcp": "Yes",
+    "height": "35.4 cm",
+    "height adjustment": "No",
+    "input frequency": "50/60 Hz",
+    "input voltage": "96 - 264V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of osd languages": [
+        "8",
+        "8"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "4.93 kg",
+        "4.93 kg"
+    ],
+    "packaging depth": [
+        "16 cm",
+        "16 cm"
+    ],
+    "packaging height": [
+        "13.1 cm",
+        "13.1 cm"
+    ],
+    "packaging width": [
+        "51 cm",
+        "51 cm"
+    ],
+    "pixel pitch": "0.2835 x 0.2835 mm",
+    "power consumption max": "20W",
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "17W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "5 - 95%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "640 x 350, 720 x 400, 832 x 624, 1024 x 768 (XGA), 1152 x 864 (XGA+), 1280 x 1024 (SXGA), 640 x 480 (VGA), 800 x 600 (SVGA)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 22\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "40.8 cm",
+    "viewable size vertical": "25.5 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3 kg",
+    "width": "44.3 cm"
+}

@@ -1,0 +1,59 @@
+{
+    "<page title>": "MC914HN/A, 4793R49, Apple, LCD Monitor, Kingsfield Computer Products Ltd",
+    "adjustable display angle": "Yes",
+    "aspect ratio": "16:9",
+    "backlight technology": "LED",
+    "brand name": "Apple",
+    "brightness": "375 cd/m\u00b2",
+    "builtin devices": [
+        "Speaker",
+        "USB Hub",
+        "Microphone"
+    ],
+    "colour support": "16.7 Million Colours",
+    "contrast ratio": "1,000:1",
+    "depth with stand": "207 mm",
+    "features": [
+        "Ambient Light Sensor",
+        "Digital Daisy Chain",
+        "Security Lock"
+    ],
+    "firewireilink": "Yes",
+    "green compliance certificateauthority": "ENERGY STAR 5.1",
+    "green compliant": "Yes",
+    "height": "491 mm",
+    "horizontal viewing angle": "178\u00b0",
+    "input voltage": [
+        "220 V AC",
+        "110 V AC"
+    ],
+    "limited warranty": "1 Year",
+    "manufacturer": "Apple, Inc",
+    "manufacturer part number": "MC914HN/A",
+    "maximum resolution": "2560 x 1440",
+    "network rj45": "Yes",
+    "number of screens": "1",
+    "operating power consumption": "250 W",
+    "package contents": "Thunderbolt DisplayAC Power LeadPrinted Documentation",
+    "panel technology": "In-plane Switching (IPS) Technology",
+    "platform supported": [
+        "PC",
+        "Mac"
+    ],
+    "product name": "Thunderbolt Display",
+    "product type": "LCD Monitor",
+    "response time": "12 ms",
+    "screen mode": "WQHD",
+    "screen size": "68.6 cm (27\")",
+    "speakers": "Yes",
+    "standby power consumption": "2 W",
+    "system requirements": "Thunderbolt-Enabled Mac computer, Including MacBook Air, MacBook Pro, Mac mini, and iMacOS X v10.6.8 or Later",
+    "thunderbolt": "Yes",
+    "usb": "Yes",
+    "usb standard": "USB 2.0",
+    "vertical viewing angle": "178\u00b0",
+    "vesa mount compatible": "Yes",
+    "webcam": "Yes",
+    "weight approximate": "10.80 kg",
+    "width": "650 mm"
+}

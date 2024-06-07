@@ -1,0 +1,77 @@
+{
+    "<page title>": "Elo TouchSystems 1519L - MBE",
+    "aspect ratio": "16:9",
+    "audio input": "1",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "certification": [
+        "UL, cUL, NOM, CB, S-mark, CCC, VCCI, KC, KKC, BSMI, RoHS, China RoHS, WEEE, IMERC, CE",
+        "UL, cUL, NOM, CB, S-mark, CCC, VCCI, KC, KKC, BSMI, RoHS, China RoHS, WEEE, IMERC, CE"
+    ],
+    "colour of product": [
+        "Grey",
+        "Grey"
+    ],
+    "contrast ratio typical": "500:1",
+    "dimensions w x d x h with stand": "383 x 213 x 277 mm",
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "39.62 cm (15.6\")",
+    "display resolution": "1366 x 768 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "344 x 194 mm",
+    "full hd": "No",
+    "hdready": "Yes",
+    "headphone outputs": "2",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "maximum analog resolution": [
+        "1680 x 1050 pixels",
+        "1680 x 1050 pixels"
+    ],
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "native resolution": [
+        "1366 x 768",
+        "1366 x 768"
+    ],
+    "nonoperating altitude": "0 - 12192m",
+    "number of colours": "16.7M",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 3658m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "475 x 350 x 225 mm",
+        "475 x 350 x 225 mm"
+    ],
+    "package weight": [
+        "7.4 kg",
+        "7.4 kg"
+    ],
+    "power consumption typical": "15.6W",
+    "response time": "8 ms",
+    "rs232 ports": "1",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "50 - 75 Hz",
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "65\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.43 kg",
+    "weight with stand": "5.14 kg"
+}

@@ -1,0 +1,93 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "NEC X552S - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "common interface ci": "Yes",
+    "contrast ratio typical": "3000:1",
+    "dcin jack": "Yes",
+    "depth": "4.61 cm",
+    "depth with stand": "72.27 cm",
+    "display": "LED",
+    "display brightness": "500 cd/m\u00c2\u00b2",
+    "display diagonal": "139.7 cm (55\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "display technology": "LCD",
+    "dvi port": "No",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "ethernet lan": "Yes",
+    "ethernet lan rj45 ports": "1",
+    "handheld remote control": [
+        "Yes",
+        "Yes"
+    ],
+    "hd type": "Full HD",
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "72.27 cm",
+    "height with stand": "40 cm",
+    "horizontal scan range": "31.5 - 91.1 kHz",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "operating temperature tt": "5 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "3.02 kg",
+        "3.02 kg"
+    ],
+    "packaging depth": [
+        "25 cm",
+        "25 cm"
+    ],
+    "packaging height": [
+        "92 cm",
+        "92 cm"
+    ],
+    "packaging width": [
+        "143 cm",
+        "143 cm"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.63 x 0.63 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "2W",
+    "power consumption typical": "160W",
+    "rs232 ports": "1",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "vertical scan range": "50 - 85 Hz",
+    "vesa mounting interfaces compatibility": "300 x 300 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.5 kg",
+    "weight with stand": "2.6 kg",
+    "width": "125.04 cm",
+    "width with stand": "125.04 cm",
+    "wifi": "No"
+}

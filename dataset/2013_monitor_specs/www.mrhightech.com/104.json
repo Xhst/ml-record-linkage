@@ -1,0 +1,85 @@
+{
+    "<page title>": "ASUS VB198TL - MrHighTech Shop",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "DVI, VGA",
+        "DVI, VGA"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "BSMI, CB, CCC, CE, C-Tick, ErP, FCC, Gost-R, ISO-9241-307, J-MOSS, PSB, RoHS, TCO5.2, TUV-Ergo, TUV-GS, UL/cUL, VCCI, WEEE, WHQL",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "depth with stand": "214 mm",
+    "digital horizontal frequency": "53 - 80 kHz",
+    "digital vertical frequency": "50 - 76 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "482.6 mm (19 \")",
+    "display diagonal metric": "48.3 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1280 x 1024 pixels",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hdcp": "Yes",
+    "height adjustment": "Yes",
+    "height with stand": "413 mm",
+    "horizontal scan range": "53 - 80 kHz",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "package weight": "6.4 kg",
+    "packaging depth": "410 mm",
+    "packaging height": "210 mm",
+    "packaging width": "565 mm",
+    "pc audio in": "Yes",
+    "pivot": "Yes",
+    "pixel pitch": "0.294 x 0.294 mm",
+    "power consumption off": "0.2 W",
+    "power consumption powersave": "0.3 W",
+    "power consumption typical": "27 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "2 W",
+        "2 W"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15 \u00b0",
+    "vertical scan range": "50 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "4.7 kg",
+    "width with stand": "466 mm"
+}

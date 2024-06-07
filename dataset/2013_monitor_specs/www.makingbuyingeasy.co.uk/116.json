@@ -1,0 +1,149 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips Brilliance LCD monitor with PowerSensor 240B4LPYNS - MBE",
+    "aspect ratio": "16:10",
+    "backlight type": "W-LED",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS",
+    "colour of product": [
+        "Silver",
+        "Silver"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6.5 cm",
+    "depth with stand": "22.7 cm",
+    "dimensions w x d x h with stand": "555 x 543 x 227 mm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "61 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1200 pixels",
+    "display srgb": "Yes",
+    "display viewable area hxv": [
+        "518.4 x 324 mm",
+        "518.4 x 324 mm"
+    ],
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "38.8 cm",
+    "height adjustment": [
+        "Yes",
+        "11 cm"
+    ],
+    "height with stand": "54.3 cm",
+    "horizontal scan range": "24 - 94 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30.000h",
+        "30.000h"
+    ],
+    "number of osd languages": [
+        "8",
+        "8"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS, TUR",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS, TUR"
+    ],
+    "operating altitude": "0 - 3658m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": "615 x 487 x 180 mm",
+    "package weight": [
+        "8.56 kg",
+        "8.56 kg"
+    ],
+    "packaging depth": [
+        "18 cm",
+        "18 cm"
+    ],
+    "packaging height": [
+        "48.7 cm",
+        "48.7 cm"
+    ],
+    "packaging width": [
+        "61.5 cm",
+        "61.5 cm"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.270 x 0.270 mm",
+    "power consumption average": "19.5W",
+    "power consumption max": "19.5W",
+    "power consumption powersave": "13.4W",
+    "power consumption standby": "0.2W",
+    "power consumption typical": "19.5W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1200 (WUXGA)",
+    "swivel angle range": "-65 - 65\u00c2\u00b0",
+    "swivelling": "Yes",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "vertical scan range": "48 - 85 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "51.81 cm",
+    "viewable size vertical": "32.4 cm",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.97 kg",
+    "weight with stand": "5.83 kg",
+    "width": "55.5 cm",
+    "width with stand": "55.5 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

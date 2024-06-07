@@ -1,0 +1,99 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq GL2450H - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "color gamut": "72%",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "depth": "17.9 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "43.6 cm",
+    "height adjustment": "No",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "6.4 kg",
+        "6.4 kg"
+    ],
+    "packaging depth": [
+        "13.3 cm",
+        "13.3 cm"
+    ],
+    "packaging height": [
+        "42 cm",
+        "42 cm"
+    ],
+    "packaging width": [
+        "65 cm",
+        "65 cm"
+    ],
+    "pixel pitch": "0.276 x 0.276 mm",
+    "power consumption off": "0.3W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "42W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.7 kg",
+    "width": "57.9 cm"
+}

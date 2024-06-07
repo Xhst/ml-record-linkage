@@ -1,0 +1,80 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Elo TouchSystems 1928L - MBE",
+    "aspect ratio": "5:4",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Beige",
+        "Beige"
+    ],
+    "contrast ratio typical": "1300:1",
+    "digital horizontal frequency": "31.5 - 80 kHz",
+    "digital vertical frequency": "56.3 - 75 Hz",
+    "dimensions w x d x h with stand": "429 x 212 x 390 mm",
+    "display brightness": "267 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display resolution": "1280 x 1024 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "376 x 301 mm",
+    "dvid ports quantity": "1",
+    "full hd": "No",
+    "input voltage": "12V",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "number of colours": "16.7M",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "540 x 315 x 510 mm",
+        "540 x 315 x 510 mm"
+    ],
+    "package weight": [
+        "11800g",
+        "11800g"
+    ],
+    "placement supported": "Horizontal",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption typical": "48W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "20 ms",
+    "rms rated power": [
+        "4W",
+        "4W"
+    ],
+    "rs232 ports": "2",
+    "separate hv sync": "Yes",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "usb 20 ports quantity": "1",
+    "usb required": "Yes",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.1 kg",
+    "weight with stand": "8 kg"
+}

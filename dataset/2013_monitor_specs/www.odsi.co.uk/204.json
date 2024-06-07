@@ -1,0 +1,98 @@
+{
+    "<page title>": "NEC-60003588-NEC MultiSync EA234WMi - 23\" - LED-backlit LCD Monitor",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "builtin devices": [
+        "USB Hub",
+        "USB Hub"
+    ],
+    "cables included": "1 x VGA cable - VGA to VGA \u00a6 1 x DVI cable - DVI-D to DVI-D \u00a6 1 x USB cable \u00a6 1 x audio cable",
+    "colour": [
+        "Black",
+        "Black"
+    ],
+    "colour support": [
+        "16.8 million colours",
+        "16.8 million colours"
+    ],
+    "compliant standards": [
+        "FCC Class B certified, CSA, UL, TUV GS, GOST, cUL, DDC-2B, MPR III, PCT, TUV Ergo, DDC/CI, RoHS, ISO 9241-307, TCO Displays 6.0, TCO Certified Edge 1.2",
+        "FCC Class B certified, CSA, UL, TUV GS, GOST, cUL, DDC-2B, MPR III, PCT, TUV Ergo, DDC/CI, RoHS, ISO 9241-307, TCO Displays 6.0, TCO Certified Edge 1.2"
+    ],
+    "contrast ratio": [
+        "1000:1 / 25000:1 (dynamic)",
+        "1000:1 / 25000:1 (dynamic)"
+    ],
+    "controls  adjustments": "Volume, brightness, contrast, colour temperature",
+    "description technical detail": "NEC MultiSync EA234WMi - 23\" - LED-backlit LCD Monitor\nThe 23\" NEC MultiSync EA234WMi is an LED-backlit desktop monitor ideal for corporate environments. Designed to enhance work performance, this widescreen model features IPS panel technology with wide viewing angles and ergonomic adjustability. The LED backlighting of the EA234WMi allows for a slimmer profile, lighter weight and increased power savings compared to previous generation models.\nControlSync technology allows users to control up to six EA234WMi displays in a multi-monitor configuration. Smart sensing technology automatically detects your work conditions to determine the proper display brightness with ambient light and human sensors, while a comprehensive input panel, including HDMI, DisplayPort, DVI-D, VGA and 4-port USB hub, connects users to the latest peripherals and future-proofs the investment.",
+    "device type": "LED-backlit LCD monitor - 23\"",
+    "diagonal size": "23\"",
+    "dimensions wxdxh": [
+        "54.38 cm x 21.8 cm x 38.04 cm",
+        "54.38 cm x 21.8 cm x 38.04 cm"
+    ],
+    "display position adjustments": [
+        "Height, pivot (rotation), swivel, tilt",
+        "Height, pivot (rotation), swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": "ENERGY STAR Qualified",
+    "features": [
+        "Infrared user sensor, ambient light sensor, No Touch Auto Adjust, ErgoDesign, Intelligent Power Manager (IPM), power off timer, sRGB colour management, NaViSet, Eco-Mode, touch keys, DICOM calibrated, Dynamic Visual Mode, ControlSync, OSD lock, Carbon Footprint Meter, Carbon Savings Meter",
+        "Security lock slot (cable lock sold separately), cable organizer"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "130 mm",
+    "horizontal refresh rate": "31.5 - 83 kHz",
+    "horizontal viewing angle": "178",
+    "humidity range operating": "20 - 80%",
+    "input connectors": "HDMI, DVI-D, VGA, DisplayPort",
+    "interfaces": "DVI-D ( HDCP ) \u00a6 HDMI \u00a6 DisplayPort \u00a6 4 x USB 2.0 downstream ( Type A ) \u00a6 USB 2.0 upstream ( Type B ) \u00a6 Audio line-in \u00a6 Headphones",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003588",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "35 \u00b0C",
+    "min operating temperature": "5 \u00b0C",
+    "native resolution": [
+        "1920 x 1080",
+        "1920 x 1080"
+    ],
+    "output power  channel": "1 Watt",
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.265 mm",
+        "0.265 mm"
+    ],
+    "power consumption operational": "27 Watt",
+    "power consumption stand by": "0.5 Watt",
+    "power supply": "Internal",
+    "product description": "NEC MultiSync EA234WMi - LED monitor - 23\"",
+    "response time": [
+        "6 ms",
+        "6 ms"
+    ],
+    "rotation angle": "90",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "speakers": "Integrated",
+    "swivel angle": "340",
+    "tilt angle": "-5/+30",
+    "type": "Speakers - stereo - integrated",
+    "vertical refresh rate": "56 - 75 Hz",
+    "vertical viewing angle": "178",
+    "weight": [
+        "6.4 kg",
+        "6.4 kg"
+    ]
+}

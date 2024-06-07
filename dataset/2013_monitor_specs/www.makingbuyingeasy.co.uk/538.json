@@ -1,0 +1,167 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips Brilliance AMVA LCD monitor, LED backlight 271P4QPJKEB - MBE",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "audio output": "Yes",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin microphone": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "TCO edge, RoHS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compliance industry standards": "BSMI, CE Mark, FCC Class B, GOST, SASO, SEMKO, TUV Ergo, TUV/GS, TCO 5.2, UL/cUL, WEEE",
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "5000:1",
+    "depth": "6.4 cm",
+    "depth with stand": "24.2 cm",
+    "display": "LCD",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "A-MVA",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "effective viewing area": [
+        "597.89 x 336.15 mm",
+        "597.89 x 336.15 mm"
+    ],
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "40.5 cm",
+    "height adjustment": [
+        "15 cm",
+        "Yes"
+    ],
+    "height with stand": "58 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "megapixel": [
+        "2 MP",
+        "2 MP",
+        "2 MP"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "0 - 40%",
+    "package weight": [
+        "10.35 kg",
+        "10.35 kg"
+    ],
+    "packaging depth": [
+        "49 cm",
+        "49 cm"
+    ],
+    "packaging height": [
+        "23.4 cm",
+        "23.4 cm"
+    ],
+    "packaging width": [
+        "75 cm",
+        "75 cm"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.311 x 0.311 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.3W",
+    "power consumption typical": "27.6W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "relative humidity": "20 - 80%",
+    "response time": "12 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "swivel angle range": "-65 - 65\u00c2\u00b0",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "usb 20 ports quantity": "3",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "volume control": [
+        "Digital",
+        "Digital"
+    ],
+    "wall mountable": "Yes",
+    "weight": "5.1 kg",
+    "weight with stand": "7.5 kg",
+    "width": "63.9 cm",
+    "width with stand": "63.9 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

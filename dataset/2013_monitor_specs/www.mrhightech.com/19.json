@@ -1,0 +1,172 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips 240P4QPYES - MrHighTech Shop",
+    "ac power in": "Yes",
+    "aspect ratio": "16:10",
+    "backlight type": "W-LED",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS, BSMI, CE, FCC B, GOST, SEMKO, TCO 6.0, TUV Ergo, TUV/GS, UL/cUL, WEEE",
+    "colour of product": [
+        "Silver",
+        "Silver"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "65 mm",
+    "depth with stand": "244 mm",
+    "digital horizontal frequency": "24 - 94 kHz",
+    "digital vertical frequency": "48 - 85 Hz",
+    "dimensions w x d x h with stand": "555 x 244 x 550 mm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00b2",
+    "display diagonal": "609.6 mm (24 \")",
+    "display diagonal metric": "61 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1200 pixels",
+    "display srgb": "Yes",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "effective viewing area": [
+        "518.4 x 324 mm",
+        "518.4 x 324 mm"
+    ],
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "feet colour": [
+        "Black",
+        "Black"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "headphone out": "1",
+    "height": "388 mm",
+    "height adjustment": "Yes",
+    "height with stand": "550 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000 h",
+        "30000 h"
+    ],
+    "nonoperating altitude": "0 - 12192 m",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "8",
+        "8"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 3658 m",
+    "operating relative humidity hh": "20 - 80 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package dimensions wxdxh": "632 x 286 x 457 mm",
+    "package weight": "9.8 kg",
+    "packaging depth": "286 mm",
+    "packaging height": "457 mm",
+    "packaging width": "632 mm",
+    "pc audio in": "Yes",
+    "picture enhancement": [
+        "SmartImage",
+        "SmartImage"
+    ],
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90 \u00b0",
+    "pixel pitch": "0.270 x 0.270 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption powersave": "14 W",
+    "power consumption standby": "0.2 W",
+    "power consumption typical": "7.1 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "14 ms",
+    "rms rated power": [
+        "3 W",
+        "3 W"
+    ],
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1920 x 1200 (WUXGA)",
+    "swivel angle range": "-65 - 65 \u00b0",
+    "swivelling": "Yes",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "usb 20 ports quantity": "4",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "610 mm",
+    "viewable size horizontal": "518.4 mm",
+    "viewable size vertical": "324 mm",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "volume control": [
+        "Digital",
+        "Digital"
+    ],
+    "wall mountable": "Yes",
+    "weight": "4.64 kg",
+    "weight with stand": "6.97 kg",
+    "width": "555 mm",
+    "width with stand": "555 mm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64"
+    ]
+}

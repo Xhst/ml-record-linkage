@@ -1,0 +1,80 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG IPS277L - MediaShopUK",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "certification": "UL(cUL)TUV-TYPEFCC-B, CEEPA",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "685.8 mm (27 \")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "2",
+    "headphone out": "1",
+    "height adjustment": "No",
+    "input voltage": "100 - 240 V",
+    "number of products included": [
+        "1 pcs",
+        "1 pcs"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pixel pitch": "0.311 x 0.311 mm",
+    "placement supported": [
+        "Horizontal",
+        "Horizontal"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.7 W",
+    "power consumption powersave": "0.7 W",
+    "power consumption typical": "31 W",
+    "response time": "5 ms",
+    "screen saving functions": [
+        "Yes",
+        "Yes"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 20 \u00b0",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "wall mountable": "No",
+    "weight": "4.36 kg",
+    "weight with stand": "5.3 kg",
+    "windows operating systems supported": [
+        "Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64",
+        "Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64"
+    ]
+}

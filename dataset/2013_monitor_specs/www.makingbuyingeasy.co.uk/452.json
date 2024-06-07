@@ -1,0 +1,127 @@
+{
+    "<page title>": "Philips Brilliance LCD monitor, LED backlight 19B4LCS5 - MBE",
+    "aspect ratio": "5:4",
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Silver, White",
+        "Silver, White"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "34.6 cm",
+    "depth with stand": "50.6 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display diagonal metric": "48.3 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "display srgb": "Yes",
+    "display technology": "TFT",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "effective viewing area": [
+        "376.32 x 301.06 mm",
+        "376.32 x 301.06 mm"
+    ],
+    "energy efficiency class": "Unspecified",
+    "epeat compliance": "Gold",
+    "feet colour": [
+        "Black",
+        "Black"
+    ],
+    "headphone outputs": "1",
+    "height": "6.1 cm",
+    "height adjustment": [
+        "Yes",
+        "11 cm"
+    ],
+    "height with stand": "22.7 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mean time between failures mtbf": [
+        "30.000h",
+        "30.000h"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": "460 x 448 x 159 mm",
+    "package weight": [
+        "6.48 kg",
+        "6.48 kg"
+    ],
+    "packaging depth": [
+        "44.8 cm",
+        "44.8 cm"
+    ],
+    "packaging height": [
+        "15.9 cm",
+        "15.9 cm"
+    ],
+    "packaging width": [
+        "46 cm",
+        "46 cm"
+    ],
+    "pc audio in": "Yes",
+    "pivot": "Yes",
+    "pivot angle": "90 - 90\u00c2\u00b0",
+    "pixel pitch": "0.294 x 0.294 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption active": [
+        "14W",
+        "14W"
+    ],
+    "power consumption off": "0.1W",
+    "power consumption standby": "0.1W",
+    "power consumption typical": "14W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "recyclable material": [
+        "25%",
+        "25%"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "1.5W",
+        "1.5W",
+        "1.5W"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "swivel angle range": "65 - 65\u00c2\u00b0",
+    "swivelling": "Yes",
+    "tilt adjustment": "Yes",
+    "tilt angle": "5 - 20\u00c2\u00b0",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.71 kg",
+    "weight with stand": "4.61 kg",
+    "width": "40.4 cm",
+    "width with stand": "40.4 cm"
+}

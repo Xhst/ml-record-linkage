@@ -1,0 +1,90 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL UltraSharp U2913WM LED display - MediaShopUK",
+    "aspect ratio": "21:9",
+    "audio output": "Yes",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DisplayPort, DVI, USB",
+        "AC, DisplayPort, DVI, USB"
+    ],
+    "colour of product": [
+        "Black, Silver",
+        "Black, Silver"
+    ],
+    "contrast ratio dynamic": "2000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "61.2 mm",
+    "depth with stand": "194.2 mm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00b2",
+    "display diagonal": "730.2 mm (28.75 \")",
+    "display diagonal metric": "73.02 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "2560 x 1080 pixels",
+    "display srgb": "Yes",
+    "display technology": "IPS",
+    "displayports quantity": "2",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "317 mm",
+    "height adjustment": "Yes",
+    "height with stand": "487 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package weight": "11.35 kg",
+    "pixel pitch": "0.09 x 0.26 mm",
+    "power consumption max": "90 W",
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "3 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "8 ms",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "storage relative humidity hh": "5 - 90 %",
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "2560 x 1080",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": "No",
+    "usb 30 ports quantity": "5",
+    "vesa mounting interfaces compatibility": "Yes",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "672.77 mm",
+    "viewable size vertical": "283.82 mm",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.76 kg",
+    "width": "699.8 mm",
+    "width with stand": "699.8 mm"
+}

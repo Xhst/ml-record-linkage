@@ -1,0 +1,94 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "NEC MultiSync EA193Mi - MBE",
+    "aspect ratio": "5:4",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, DVI, VGA",
+        "AC, DVI, VGA"
+    ],
+    "certification": "CE, ErP, FCC, MPR II/ MPR III, RoHS, T\u00c3\u0153V, UL/C-UL, CSA, ISO, PCT/Gost, TCO 6.0, T\u00c3\u0153V GS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "6.5 cm",
+    "depth with stand": "21.39 cm",
+    "digital horizontal frequency": "31.5 - 81.1 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display diagonal metric": "48.2 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 960 pixels",
+    "display srgb": "Yes",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hdcp": "Yes",
+    "height": "33.8 cm",
+    "height adjustment": [
+        "Yes",
+        "11 cm"
+    ],
+    "height with stand": "38.64 cm",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.293 x 0.293 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "18W",
+    "power consumption powersave": "0.35W",
+    "power consumption typical": "14W",
+    "response time": "6 ms",
+    "supported graphics resolutions": "720 x 400, 832 x 624, 1152 x 870, 1280 x 768, 1280 x 960, 1024 x 768 (XGA), 1152 x 864 (XGA+), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 640 x 480 (VGA), 800 x 600 (SVGA)",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.9 kg",
+    "weight with stand": "5.9 kg",
+    "width": "40.8 cm",
+    "width with stand": "40.8 cm"
+}

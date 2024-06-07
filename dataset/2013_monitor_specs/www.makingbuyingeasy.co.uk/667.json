@@ -1,0 +1,58 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Professional B296CL - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "21:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "DisplayPort, DVI, USB",
+        "DisplayPort, DVI, USB"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "display": "LCD",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "73.66 cm (29\")",
+    "display diagonal metric": "73.7 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "2560 x 1080 pixels",
+    "display technology": "IPS",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "hd type": "Full HD",
+    "hdmi ports quantity": "1",
+    "height adjustment": "Yes",
+    "input voltage": "110 - 220V",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "8 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "2560 x 1080",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes"
+}

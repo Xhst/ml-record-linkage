@@ -1,0 +1,107 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "AOC I2769VM 27 Widescreen LED Monitor - Black - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), HDMI, VGA",
+        "AC, Audio (3.5mm), HDMI, VGA"
+    ],
+    "certification": "T\u00c3\u0153V-Bauart, ISO 9241-307, CE, FCC, GOST, TCO 5.0, RoHS, EuP, Energy Star 6, NRTL",
+    "colour of product": [
+        "White",
+        "White"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth with stand": "13 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "displayports quantity": "1",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "2",
+    "height adjustment": "No",
+    "height with stand": "44.9 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "90 - 240V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "7.25 kg",
+        "7.25 kg"
+    ],
+    "pivot": "No",
+    "pixel pitch": "0.311 x 0.311 mm",
+    "placement supported": [
+        "Horizontal",
+        "Horizontal"
+    ],
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "35W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "swivelling": "No",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "No",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "59.789 cm",
+    "viewable size vertical": "33.631 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "No",
+    "weight with stand": "4.99 kg",
+    "width with stand": "62.2 cm"
+}

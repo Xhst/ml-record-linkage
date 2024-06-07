@@ -1,0 +1,74 @@
+{
+    "<page title>": "Fujitsu L line L24T-1 - MediaShopUK",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "CE, RoHS, WEEE",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "39 mm",
+    "depth with stand": "189.9 mm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "609.6 mm (24 \")",
+    "display diagonal metric": "61 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "341.4 mm",
+    "height with stand": "399.8 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "110 - 240 V",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "DEU, ENG, ESP, FIN, FRE, ITA, POR, RUS",
+        "DEU, ENG, ESP, FIN, FRE, ITA, POR, RUS"
+    ],
+    "operating temperature tt": "5 - 35 \u00b0C",
+    "package weight": "5.55 kg",
+    "pixel pitch": "0.277 x 0.277 mm",
+    "power consumption off": "0.15 W",
+    "power consumption powersave": "0.19 W",
+    "power consumption typical": "17.6 W",
+    "response time": "5 ms",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "720 x 400, 1440 x 900, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20 \u00b0",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "4.18 kg",
+    "width": "569.4 mm",
+    "width with stand": "569.4 mm"
+}

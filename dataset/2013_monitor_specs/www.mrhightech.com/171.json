@@ -1,0 +1,96 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "HP VM617A4 - MrHighTech Shop",
+    "ac power in": "Yes",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DisplayPort, DVI",
+        "AC, DisplayPort, DVI"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "3000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "87 mm",
+    "depth with stand": "276 mm",
+    "display brightness": "370 cd/m\u00b2",
+    "display diagonal": "762 mm (30 \")",
+    "display number of colours": "1070 M",
+    "display resolution": "2560 x 1600 pixels",
+    "display surface": "Matt",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "height": "454 mm",
+    "height adjustment": "100 mm",
+    "height with stand": "489 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "operating temperature tt": "41 - 95 \u00b0F",
+    "pixel pitch": "0.2505 x 0.2505 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "2 W",
+    "power consumption typical": "185 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "7 ms",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "2560 x 1600 (WQXGA)",
+    "swivel angle range": "-45 - 45 \u00b0",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 35 \u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "5",
+    "viewable size diagonal": "762 mm",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "weight with stand": "13 kg",
+    "width": "694 mm",
+    "width with stand": "694 mm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

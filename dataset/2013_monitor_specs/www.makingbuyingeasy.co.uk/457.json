@@ -1,0 +1,102 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Everyday G246HLBbid - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC",
+        "AC"
+    ],
+    "certification": "MPR II",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvid ports quantity": "1",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "linux operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "0 - 40%",
+    "operating temperature tt": "10 - 80 \u00c2\u00b0C",
+    "placement supported": [
+        "Horizontal",
+        "Horizontal"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.53W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "2 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p, 720p",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

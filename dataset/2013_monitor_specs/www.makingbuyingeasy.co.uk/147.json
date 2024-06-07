@@ -1,0 +1,90 @@
+{
+    "<page title>": "Philips LCD monitor with LED backlight 220V4LSB - MBE",
+    "aspect ratio": "16:10",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS, Lead-free, Mercury Free",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "10000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "4.8 cm",
+    "depth with stand": "21.3 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display diagonal metric": "55.9 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1680 x 1050 pixels",
+    "display srgb": "Yes",
+    "display technology": "LCD/TFT",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "height": "34.8 cm",
+    "height with stand": "41.6 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Operation, Stand-by",
+        "Operation, Stand-by"
+    ],
+    "mean time between failures mtbf": [
+        "30.000h",
+        "30.000h"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS, TUR",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS, TUR"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "pixel pitch": "0.282 x 0.282 mm",
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "16.52W",
+    "relative humidity": "20 - 80%",
+    "response time": "5 ms",
+    "separate hv sync": "Yes",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "47.376 cm",
+    "viewable size vertical": "29.61 cm",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.32 kg",
+    "weight with stand": "3.66 kg",
+    "width": "51.2 cm",
+    "width with stand": "51.2 cm"
+}

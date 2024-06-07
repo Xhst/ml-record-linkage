@@ -1,0 +1,79 @@
+{
+    "<page title>": "Lenovo ThinkVision LT2323z - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "5.64 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display diagonal metric": "58.4 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "height": "38.72 cm",
+    "height adjustment": [
+        "11 cm",
+        "Yes"
+    ],
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.2652 x 0.2652 mm",
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "25W",
+    "response time": "7 ms",
+    "rms rated power": [
+        "3W",
+        "3W",
+        "3W"
+    ],
+    "separate hv sync": "Yes",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "syncongreen sog": "No",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 30\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "usb 30 ports quantity": "3",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "50.9184 cm",
+    "viewable size vertical": "28.6416 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.16 kg",
+    "width": "54.53 cm"
+}

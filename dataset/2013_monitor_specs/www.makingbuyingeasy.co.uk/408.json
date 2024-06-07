@@ -1,0 +1,70 @@
+{
+    "<page title>": "Elo TouchSystems 1939L - MBE",
+    "certification": [
+        "UL, cUL, T\u00c3\u0153V-T Mark, CE, FCC, VCCI, IC, C-Tick (Class B), NOM, BSMI, MIC, CCC, China RoHS",
+        "UL, cUL, T\u00c3\u0153V-T Mark, CE, FCC, VCCI, IC, C-Tick (Class B), NOM, BSMI, MIC, CCC, China RoHS"
+    ],
+    "colour of product": [
+        "Black, Stainless steel",
+        "Black, Stainless steel"
+    ],
+    "contrast ratio typical": "1300:1",
+    "depth": "5.1 cm",
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display resolution": "1280 x 1024 pixels",
+    "display type": "LCD",
+    "full hd": "No",
+    "height": "34.3 cm",
+    "horizontal scan range": "31.5 - 80 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "interface type": [
+        "USB",
+        "USB"
+    ],
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "number of colours": "16.7M",
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "515 x 450 x 175 mm",
+        "515 x 450 x 175 mm"
+    ],
+    "package weight": [
+        "7.3 kg",
+        "7.3 kg"
+    ],
+    "power consumption typical": "38W",
+    "power supply type": [
+        "DC",
+        "DC"
+    ],
+    "response time": "25 ms",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": [
+        "720 x 400, 832 x 624, 1280 x 960, 1024 x 768 (XGA), 1152 x 864 (XGA+), 1280 x 1024 (SXGA), 640 x 480 (VGA), 800 x 600 (SVGA)",
+        "720 x 400, 832 x 624, 1280 x 960, 1024 x 768 (XGA), 1152 x 864 (XGA+), 1280 x 1024 (SXGA), 640 x 480 (VGA), 800 x 600 (SVGA)"
+    ],
+    "touchscreen technology": "Surface acoustic wave",
+    "vertical scan range": "56.3 - 75 Hz",
+    "vesa mounting interfaces compatibility": "75 x 75, 100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.2 kg",
+    "width": "41.5 cm"
+}

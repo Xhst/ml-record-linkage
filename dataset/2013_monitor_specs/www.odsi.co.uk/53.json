@@ -1,0 +1,120 @@
+{
+    "<page title>": "NEC-60003632-NEC MultiSync X554UN - 55\" LED-Backlit LCD Flat Panel Display",
+    "brightness": "700 cd/m2",
+    "cables included": "DisplayPort cable - 1.8 m \u00a6 Network cable",
+    "compliant standards": "FCC Class B certified, CSA, UL, TUV GS, VCCI, C-Tick, cUL, PSB, RoHS",
+    "connector type": "2 x network ( RJ-45 ) \u00a6 1 x USB ( 4 PIN USB Type A ) \u00a6 1 x serial input ( 9 PIN D-Sub ) \u00a6 1 x DisplayPort input ( 20 pin DisplayPort ) \u00a6 1 x DisplayPort output ( 20 pin DisplayPort ) \u00a6 1 x DVI-D input ( 24 PIN Digital DVI ) \u00a6 1 x VGA input ( 15 PIN HD D-Sub (HD-15) ) \u00a6 1 x HDMI input ( 19 pin HDMI Type A ) \u00a6 2 x audio input ( mini-phone stereo 3.5 mm ) \u00a6 1 x audio output ( mini-phone stereo 3.5 mm ) \u00a6 2 x speakers output ( terminal block (clamp) ) \u00a6 1 x remote control input ( mini-phone 3.5mm )",
+    "depth": "9.96 cm",
+    "description technical detail": "NEC MultiSync X554UN - 55\" LED-Backlit LCD Flat Panel Display\nThe 55\" NEC X554UN sets the standard for video walls. With perfect picture quality and high product reliability, these displays are designed for the rigors of 24/7 operation. Advanced technologies of this model include direct LED backlighting for improved uniformity, full high-definition resolution (1920 x 1080) and a 5.7mm distance bezel width. NEC's vast experience in the video wall market is evident in the design of this product with features that reduce cost, ease installations and improve the visual impact of content in control rooms, broadcast studios, retail installations and as digital signage.",
+    "diagonal size": [
+        "55\"",
+        "55\""
+    ],
+    "diagonal size cm": [
+        "138.8 cm",
+        "138.8 cm"
+    ],
+    "dimensions": "Without stand",
+    "dimensions wxdxh": [
+        "- without stand x x",
+        "121.53 cm x 9.96 cm x 68.61 cm - without stand"
+    ],
+    "display format": [
+        "1080p (FullHD)",
+        "1080p (FullHD)"
+    ],
+    "energy star qualified": "Yes",
+    "energy star version": "6.0",
+    "environmental standards": "ENERGY STAR Qualified",
+    "external speakers amplifier power total": "30 Watt",
+    "features": [
+        "Eco Mode, temperature sensor, TileMatrix, Open Pluggable Specification slot, Carbon Footprint Meter, built-in NFC sensor, auto tiling function, automatic alarm e-mails, Frame Comp, HTTP server, Point Zoom function",
+        "Eco Mode, temperature sensor, TileMatrix, Open Pluggable Specification slot, Carbon Footprint Meter, built-in NFC sensor, auto tiling function, automatic alarm e-mails, Frame Comp, HTTP server, Point Zoom function"
+    ],
+    "flat panel mount interface": "400 x 400 mm",
+    "hdcp compatible": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports qty": [
+        "1 port(s)",
+        "1 port(s)"
+    ],
+    "height": "68.61 cm",
+    "humidity range operating": "20 - 80%",
+    "image aspect ratio": [
+        "16:9",
+        "16:9"
+    ],
+    "image contrast ratio": "3500:1",
+    "included accessories": "NaViSet Administrator 2",
+    "lcd backlight technology": [
+        "LED backlight - direct-lit LED",
+        "LED backlight",
+        "LED backlight"
+    ],
+    "lcd display technology": "S-PVA",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003632",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "40 \u00b0C",
+    "min operating temperature": "5 \u00b0C",
+    "motion enhancement technology": [
+        "60 Hz Refresh Rate",
+        "60 Hz Refresh Rate"
+    ],
+    "pc interface": [
+        "DVI, VGA (HD-15)",
+        "DVI, VGA (HD-15), DisplayPort",
+        "DVI, VGA (HD-15)"
+    ],
+    "power consumption operational": [
+        "310 Watt",
+        "310 Watt"
+    ],
+    "power device": "Power supply",
+    "product description": [
+        "NEC MultiSync 55\" LED-backlit LCD flat panel display",
+        "NEC MultiSync X554UN - 55\" LED-backlit LCD flat panel display"
+    ],
+    "product type": [
+        "LED-backlit LCD flat panel display",
+        "LED-backlit LCD flat panel display"
+    ],
+    "remote control": "Remote control",
+    "resolution": [
+        "1920 x 1080",
+        "1920 x 1080"
+    ],
+    "response time": "8 ms",
+    "series": "X Series",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "speaker system": [
+        "2 speakers",
+        "2 speakers"
+    ],
+    "stand": "Optional",
+    "supported computer resolutions": "1024 x 768 (XGA), 640 x 480 (VGA), 800 x 600 (SVGA), 1280 x 768 (WXGA), 1280 x 1024 (SXGA), 1600 x 1200 (UXGA), 1360 x 768, 1920 x 1080, 3840 x 2160, 4096 x 2160",
+    "targeting": [
+        "Commercial use",
+        "Commercial use"
+    ],
+    "technology": "S-PVA",
+    "tv tuner": [
+        "No tuner",
+        "No tuner"
+    ],
+    "type": "Remote control",
+    "video interface": [
+        "HDMI",
+        "HDMI"
+    ],
+    "viewing angle": "178 degrees",
+    "viewing angle vertical": "178 degrees",
+    "weight": [
+        "29.2 kg",
+        "29.2 kg"
+    ],
+    "width": "121.53 cm"
+}

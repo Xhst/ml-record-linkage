@@ -1,0 +1,92 @@
+{
+    "<page title>": "iiyama ProLite E2280HS-1 - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, VGA",
+        "AC, Audio (3.5mm), DVI, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "189.5 mm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "546.1 mm (21.5 \")",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "365.5 mm",
+    "height adjustment": "No",
+    "horizontal scan range": "24 - 80 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "9",
+        "9"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "21 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "2 W",
+        "2 W"
+    ],
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "thin client installed": "No",
+    "tilt angle": "-5 - 21 \u00b0",
+    "tv tuner integrated": "No",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "476.64 mm",
+    "viewable size vertical": "268.11 mm",
+    "viewing angle horizontal": "160 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.3 kg",
+    "width": "509.5 mm"
+}

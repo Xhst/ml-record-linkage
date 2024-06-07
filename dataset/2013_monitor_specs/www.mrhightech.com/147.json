@@ -1,0 +1,133 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 22EA63V - MrHighTech Shop",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "bezel width side": "10.8 mm",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin microphone": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "CE, T\u00dcV-Typ, EPA, FCC-B, UL, cUL",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compatible memory cards": [
+        "No",
+        "No"
+    ],
+    "composite sync": "Yes",
+    "contrast ratio dynamic": "10000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "74 mm",
+    "depth with stand": "178 mm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "546.1 mm (21.5 \")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height": "307 mm",
+    "height adjustment": "No",
+    "height with stand": "380 mm",
+    "input frequency": "47-63 Hz",
+    "input voltage": "100 - 240 V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of osd languages": [
+        "15",
+        "15"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FIN, FRE, GRE, ITA, JPN, KOR, POL, POR, RUS, SWE, UKR",
+        "CHI (SIMPL), DEU, ENG, ESP, FIN, FRE, GRE, ITA, JPN, KOR, POL, POR, RUS, SWE, UKR"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": "3.92 kg",
+    "packaging depth": "125 mm",
+    "packaging height": "394 mm",
+    "packaging width": "601 mm",
+    "pivot": "No",
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.3 W",
+    "power consumption standby": "0.3 W",
+    "power consumption typical": "26 W",
+    "response time": "5 ms",
+    "screen format adjustments": [
+        "4:3, 16:9",
+        "4:3, 16:9"
+    ],
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "swivelling": "No",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "475.97 mm",
+    "viewable size vertical": "267.73 mm",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.5 kg",
+    "weight with stand": "2.7 kg",
+    "width": "500 mm",
+    "width with stand": "500 mm",
+    "wifi": "No"
+}

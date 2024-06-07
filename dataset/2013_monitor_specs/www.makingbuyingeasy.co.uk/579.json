@@ -1,0 +1,89 @@
+{
+    "<page title>": "NEC MultiSync E243WMi - MBE",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "Audio (3.5mm), VGA",
+        "Audio (3.5mm), VGA"
+    ],
+    "certification": "ENERGY STAR 6.0\nTCO 6.0\nEPEAT Silver\nRoHS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "5.85 cm",
+    "depth with stand": "21.39 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.45 cm (23.8\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "33.14 cm",
+    "height adjustment": "Yes",
+    "height with stand": "37.96 cm",
+    "horizontal scan range": "31.5 - 81.1 kHz",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "nonoperating altitude": "12192m",
+    "operating altitude": "2000m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pivot": "Yes",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.4W",
+    "power consumption typical": "19W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "storage relative humidity hh": "10 - 85%",
+    "storage temperature tt": "10 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivelling": "Yes",
+    "syncongreen sog": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.3 kg",
+    "weight with stand": "6.3 kg",
+    "width": "55.78 cm",
+    "width with stand": "55.78 cm",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64"
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Samsung LS24C45KBSV LED display - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "audio input": "No",
+    "audio output": "No",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable length": "1.5m",
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "certification": "TCO, UL, CSA, TUV, NEMKO, KC, CCC, PSB, GOST, SIQ, PCBC, NOM, IRAM, SASO",
+    "child lock": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "Mega Contrast",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.67 cm",
+    "depth with stand": "22.4 cm",
+    "dimensions w x d x h with stand": "565.4 x 224 x 486.75 mm",
+    "dimensions wxdxh": "565.4 x 56.7 x 333.2 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "61 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "display viewable area hxv": [
+        "509.76 x 286.74 mm",
+        "509.76 x 286.74 mm"
+    ],
+    "dvid ports quantity": "1",
+    "electromagnetic compatibility": "FCC, CE, VCCI, KCC, C-Tick, CCC",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "height": "33.32 cm",
+    "height adjustment": [
+        "13 cm",
+        "Yes"
+    ],
+    "height with stand": "48.675 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "10 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": "639 x 407 x 188 mm",
+    "package weight": [
+        "6.6 kg",
+        "6.6 kg"
+    ],
+    "packaging depth": [
+        "40.7 cm",
+        "40.7 cm"
+    ],
+    "packaging height": [
+        "18.8 cm",
+        "18.8 cm"
+    ],
+    "packaging width": [
+        "63.9 cm",
+        "63.9 cm"
+    ],
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "-1 - 95\u00c2\u00b0",
+    "pixel pitch": "0.27675 x 0.27675 mm",
+    "placement supported": [
+        "Horizontal/Vertical",
+        "Horizontal/Vertical"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption powersave": "24W",
+    "power consumption standby": "0.1W",
+    "power consumption typical": "30W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "screen saving functions": [
+        "Yes",
+        "Yes"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-3 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "50.976 cm",
+    "viewable size vertical": "28.674 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.5 kg",
+    "weight with stand": "5.2 kg",
+    "width": "56.54 cm",
+    "width with stand": "56.54 cm",
+    "wifi": "No"
+}

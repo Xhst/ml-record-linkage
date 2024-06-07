@@ -1,0 +1,73 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq GL2450HT - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "213 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "609.6 mm (24 \")",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "502 mm",
+    "height adjustment": "Yes",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.276 x 0.276 mm",
+    "power consumption powersave": "0.3 W",
+    "power consumption typical": "23 W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "4 W",
+        "4 W"
+    ],
+    "swivel angle range": "-45 - 45 \u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15 \u00b0",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.1 kg",
+    "width": "579 mm",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows Vista Home Premium, Windows Vista Home Premium x64",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows Vista Home Premium, Windows Vista Home Premium x64"
+    ]
+}

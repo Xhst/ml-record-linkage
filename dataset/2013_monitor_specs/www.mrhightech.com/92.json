@@ -1,0 +1,72 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS VS207DE LED display - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "VGA",
+        "VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "80000000:1",
+    "depth": "185 mm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00b2",
+    "display diagonal": "495.3 mm (19.5 \")",
+    "display diagonal metric": "49.5 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1600 x 900 pixels",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "height": "355.5 mm",
+    "height adjustment": "No",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": "3.99 kg",
+    "packaging depth": "115 mm",
+    "packaging height": "412 mm",
+    "packaging width": "530 mm",
+    "pixel pitch": "0.270 x 0.270 mm",
+    "power consumption max": "16.4 W",
+    "power consumption off": "0.5 W",
+    "power consumption powersave": "0.5 W",
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "16.4 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "90 \u00b0",
+    "viewing angle vertical": "65 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.59 kg",
+    "width": "468 mm"
+}

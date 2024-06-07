@@ -1,0 +1,98 @@
+{
+    "<page title>": "",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "builtin devices": [
+        "USB Hub",
+        "USB Hub"
+    ],
+    "cables included": "1 x USB cable \u00a6 1 x audio cable \u00a6 1 x VGA cable \u00a6 1 x DVI cable",
+    "colour": [
+        "White",
+        "White"
+    ],
+    "colour support": [
+        "16.7 million colours",
+        "16.7 million colours"
+    ],
+    "compliant standards": [
+        "FCC Class B certified, CSA, UL, TUV GS, GOST, cUL, DDC-2B, MPR III, PCT, TUV Ergo, RoHS, ISO 9241-307, GEEA, TCO Displays 5.2",
+        "FCC Class B certified, CSA, UL, TUV GS, GOST, cUL, DDC-2B, MPR III, PCT, TUV Ergo, RoHS, ISO 9241-307, GEEA, TCO Displays 5.2"
+    ],
+    "contrast ratio": [
+        "1000:1 / 25000:1 (dynamic)",
+        "1000:1 / 25000:1 (dynamic)"
+    ],
+    "description technical detail": "NEC MultiSync EA224WMi - 22\" - LED-backlit LCD Monitor\nNEC's 22\" MultiSync EA224WMi uses a premium-grade IPS panel, which provides wide viewing angles, outstanding color consistency and image accuracy. Its LED backlighting technology allows a thinner, lighter and sleeker design, as well as higher power efficiency.\nThis EPEAT Gold model includes DisplayPort, HDMI, DVI-D and VGA D-Sub inputs, as well as an integrated 4-port USB 2.0 hub to connects you to the latest peripherals. Touch-sensitive controls enable simple display adjustments through the EA224WMi's On Screen Display (OSD), while integrated smart sensing technology includes ambient light and human sensors to automatically determine the proper display brightness and detect the absence of the user, both of which reduce power consumption and prolong product life.",
+    "device type": "LED-backlit LCD monitor - 22\"",
+    "diagonal size": "22\"",
+    "dimensions wxdxh": [
+        "50.7 cm x 21.8 cm x 37 cm",
+        "50.7 cm x 21.8 cm x 37 cm"
+    ],
+    "display position adjustments": [
+        "Height, pivot (rotation), swivel, tilt",
+        "Height, pivot (rotation), swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": "ENERGY STAR Qualified",
+    "features": [
+        "Infrared user sensor, ambient light sensor, Intelligent Power Manager (IPM), sRGB colour management, NaViSet",
+        "Security lock slot (cable lock sold separately), cable organizer"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "130 mm",
+    "horizontal refresh rate": "31.5 - 83 kHz",
+    "horizontal viewing angle": "178",
+    "humidity range operating": "20 - 80% (non-condensing)",
+    "input connectors": "HDMI, DVI-D, VGA, DisplayPort",
+    "interfaces": "DVI-D \u00a6 VGA \u00a6 4 x USB 2.0 downstream \u00a6 USB 2.0 upstream \u00a6 DisplayPort \u00a6 Audio line-in \u00a6 HDMI",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003337",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "35 \u00b0C",
+    "min operating temperature": "5 \u00b0C",
+    "native resolution": [
+        "FullHD 1920 x 1080 at 60 Hz",
+        "FullHD 1920 x 1080 at 60 Hz"
+    ],
+    "output power  channel": "1 Watt",
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.247 mm",
+        "0.247 mm"
+    ],
+    "power consumption operational": "26 Watt",
+    "power consumption stand by  sleep": "0.43 Watt",
+    "power supply": "Internal",
+    "product description": "NEC MultiSync EA224WMi - LED monitor - 22\"",
+    "response time": [
+        "14 ms",
+        "14 ms"
+    ],
+    "rotation angle": "90",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "speakers": "Integrated",
+    "swivel angle": "340",
+    "tilt angle": "-5/+30",
+    "type": "Speakers - stereo - integrated",
+    "vertical refresh rate": "56 - 75 Hz",
+    "vertical viewing angle": "178",
+    "viewable size": "21.5\"",
+    "weight": [
+        "5.6 kg",
+        "5.6 kg"
+    ]
+}

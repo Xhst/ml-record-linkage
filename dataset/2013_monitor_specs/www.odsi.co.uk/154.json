@@ -1,0 +1,127 @@
+{
+    "<page title>": "",
+    "brightness": "700 cd/m2",
+    "cables included": "DVI cable",
+    "colour": "Black",
+    "compliant standards": "FCC Class B certified, CSA, UL, TUV GS, VCCI, C-Tick, cUL, DDC-2Bi, VESA DPMS, VESA FDMI, PSB, RoHS",
+    "connectivity": [
+        "LAN",
+        "LAN"
+    ],
+    "connector type": "1 x DisplayPort input ( 20 pin DisplayPort ) \u00a6 1 x HDMI input ( 19 pin HDMI Type A ) \u00a6 1 x DVI-D input ( 24 PIN Digital DVI ) \u00a6 1 x DVI-D output ( 24 PIN Digital DVI ) \u00a6 1 x VGA input ( 15 PIN HD D-Sub (HD-15) ) \u00a6 1 x composite video input ( BNC ) \u00a6 1 x network ( RJ-45 ) \u00a6 1 x remote control input ( 9 PIN D-Sub ) \u00a6 1 x remote control output ( 9 PIN D-Sub ) \u00a6 1 x audio input ( mini-phone stereo 3.5 mm ) \u00a6 1 x audio output ( mini-phone stereo 3.5 mm ) \u00a6 2 x speakers output ( terminal block (clamp) )",
+    "depth": "4.61 cm",
+    "description technical detail": "NEC MultiSync X462S - 46\" LED-backlit Super-Slim LCD Display\nThe LED-backlit 46\" NEC X462S offers customers a super-slim depth of 1.7\" and a brighter screen than its predecessor. This industrial-strength, Full HD LCD display delivers high-quality imagery with advanced connectivity, including DisplayPort, HDMI and an Open Pluggable Specification (OPS) slot. These digital options increase flexibility for users in a variety of digital signage applications, especially video walls where up to 100 displays can be used in a 10 x 10 configuration. The optional color calibration solution enables color uniformity and fidelity across individual and multiple screens, creating a perfectly matched image in tiled digital signage environments. The X462S is ideal for hospitality, retail and government applications where minimal depth is required.",
+    "diagonal size": [
+        "46\"",
+        "46\""
+    ],
+    "diagonal size cm": [
+        "117 cm",
+        "117 cm"
+    ],
+    "dimensions": "Without stand",
+    "dimensions wxdxh": "105.93 cm x 4.61 cm x 61.3 cm - without stand",
+    "display format": [
+        "1080p (FullHD)",
+        "1080p (FullHD)"
+    ],
+    "enclosure colour": "Black",
+    "energy star qualified": "Yes",
+    "energy star version": "5.1",
+    "environmental standards": "ENERGY STAR Qualified",
+    "external speakers amplifier power total": "30 Watt",
+    "features": [
+        "Ambient light sensor (ALS), screen saver, fanless cooling system, Scheduler Function (with RTC), TileMatrix (10 x 10), Eco Mode, portrait mode, landscape mode, Open Pluggable Specification slot, Carbon Footprint Meter",
+        "Ambient light sensor (ALS), screen saver, fanless cooling system, Scheduler Function (with RTC), TileMatrix (10 x 10), Eco Mode, portrait mode, landscape mode, Open Pluggable Specification slot, Carbon Footprint Meter"
+    ],
+    "flat panel mount interface": "300 x 300 mm",
+    "hdcp compatible": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports qty": [
+        "1 port(s)",
+        "1 port(s)"
+    ],
+    "height": "61.3 cm",
+    "humidity range operating": "20 - 80%",
+    "image aspect ratio": [
+        "16:9",
+        "16:9"
+    ],
+    "image contrast ratio": "4000:1",
+    "input video formats": [
+        "1080/24p, 1080/60i, 480/60p, 720/60p, 1080/50i, 720/50p, 576/50p, 1080/50p, 1080/60p, 1080/30p, 1080/25p",
+        "1080/24p, 1080/60i, 480/60p, 720/60p, 1080/50i, 720/50p, 576/50p, 1080/50p, 1080/60p, 1080/30p, 1080/25p"
+    ],
+    "lan protocol": "Ethernet",
+    "lcd backlight technology": [
+        "LED backlight - edge-lit",
+        "LED backlight - edge-lit"
+    ],
+    "lcd display technology": "S-PVA",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003399",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "40 \u00b0C",
+    "min operating temperature": "0 \u00b0C",
+    "nominal voltage": "AC 120/230 V ( 50/60 Hz )",
+    "output power  total": "10 Watt",
+    "pc interface": [
+        "DVI, VGA (HD-15), DisplayPort",
+        "DVI, VGA (HD-15), DisplayPort"
+    ],
+    "power": "AC 120/230 V ( 50/60 Hz )",
+    "power consumption operational": [
+        "255 Watt",
+        "255 Watt"
+    ],
+    "power consumption stand by": "0.5 Watt",
+    "product description": "NEC MultiSync X462S - 46\" LED-backlit LCD flat panel display",
+    "product type": [
+        "LED-backlit LCD flat panel display",
+        "LED-backlit LCD flat panel display"
+    ],
+    "remote control": "Remote control",
+    "resolution": [
+        "1920 x 1080",
+        "1920 x 1080"
+    ],
+    "response time": "8 ms",
+    "series": "X Series",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "speaker system": [
+        "2 speakers",
+        "2 speakers"
+    ],
+    "speakers": "2 x speaker - built-in - 5 Watt",
+    "stand": "Optional",
+    "supported computer resolutions": "1366 x 768, 1024 x 768 (XGA), 640 x 480 (VGA), 800 x 600 (SVGA), 1280 x 768 (WXGA), 1280 x 1024 (SXGA), 1600 x 1200 (UXGA), 1280 x 960, 1280 x 720, 720 x 400, 1680 x 1050 (WSXGA+), 1920 x 1080, 1280 x 800, 1400 x 1050, 720 x 576",
+    "targeting": [
+        "Commercial use",
+        "Commercial use",
+        "Commercial usage"
+    ],
+    "technology": "S-PVA",
+    "tv tuner": [
+        "No tuner",
+        "No tuner"
+    ],
+    "type": "Remote control",
+    "video interface": [
+        "Composite, HDMI",
+        "Composite, HDMI"
+    ],
+    "video wall components qty": [
+        "100",
+        "100"
+    ],
+    "viewing angle": "178 degrees",
+    "viewing angle vertical": "178 degrees",
+    "weight": [
+        "20.7 kg",
+        "20.7 kg"
+    ],
+    "width": "105.93 cm"
+}

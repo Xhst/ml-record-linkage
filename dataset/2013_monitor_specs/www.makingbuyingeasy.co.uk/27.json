@@ -1,0 +1,110 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Samsung S19C200BW - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "VGA",
+        "VGA"
+    ],
+    "certification": "TCO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "Mega Contrast",
+    "contrast ratio typical": "1000:1",
+    "depth": "7.62 cm",
+    "depth with stand": "17 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1440 x 900 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hdcp": "No",
+    "height": "28.99 cm",
+    "height adjustment": "No",
+    "height with stand": "37.36 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "linux operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "10 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "4.25 kg",
+        "4.25 kg"
+    ],
+    "packaging depth": [
+        "35.9 cm",
+        "35.9 cm"
+    ],
+    "packaging height": [
+        "13.8 cm",
+        "13.8 cm"
+    ],
+    "packaging width": [
+        "54.3 cm",
+        "54.3 cm"
+    ],
+    "pixel pitch": "0.2835 x 0.2835 mm",
+    "power consumption standby": "0.1W",
+    "power consumption typical": "19W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "supported graphics resolutions": "1440 x 900 (WXGA+)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-1 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "40.824 cm",
+    "viewable size vertical": "25.515 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.85 kg",
+    "weight with stand": "3.1 kg",
+    "width": "43.94 cm",
+    "width with stand": "43.94 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

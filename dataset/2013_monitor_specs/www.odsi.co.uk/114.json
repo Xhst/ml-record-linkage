@@ -1,0 +1,105 @@
+{
+    "<page title>": "NEC-60003582-NEC MultiSync E171M - 17\" LED-Backlit LCD Monitor",
+    "aspect ratio": [
+        "5:4",
+        "5:4"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "builtin devices": [
+        "Stereo speakers",
+        "Stereo speakers"
+    ],
+    "cables included": "1 x VGA cable \u00a6 1 x audio cable",
+    "colour": [
+        "Black",
+        "Black"
+    ],
+    "colour support": [
+        "16.7 million colours",
+        "16.7 million colours"
+    ],
+    "compliant standards": [
+        "Plug and Play, FCC Class B certified, MPR II, CSA, UL, TUV GS, cUL, DDC-2B, DDC-2Bi, MPR III, VESA EDID, TUV Ergo, DDC/CI, RoHS, ISO 9241-307, TCO Displays 6.0, EAC",
+        "Plug and Play, FCC Class B certified, MPR II, CSA, UL, TUV GS, cUL, DDC-2B, DDC-2Bi, MPR III, VESA EDID, TUV Ergo, DDC/CI, RoHS, ISO 9241-307, TCO Displays 6.0, EAC"
+    ],
+    "contrast ratio": [
+        "1000:1 / 25000:1 (dynamic)",
+        "1000:1",
+        "1000:1"
+    ],
+    "controls  adjustments": "Volume, brightness, contrast, colour temperature",
+    "description technical detail": "NEC MultiSync E171M - 17\" LED-Backlit LCD Monitor\nThe E171M is a 17\" 5:4 conventional format monitor with latest energy saving LED backlight technology. It offers excellent connectivity with ergonomic adjustability. Low power consumption and low operating costs make the display perfect for use in the professional office environment. Outstanding ergonomic comfort make it very user-friendly and help to increase productivit",
+    "device type": "LED-backlit LCD monitor - 17\"",
+    "diagonal size": "17\"",
+    "dimensions wxdxh": [
+        "36.8 cm x 23 cm x 35.85 cm",
+        "36.8 cm x 23 cm x 35.85 cm"
+    ],
+    "display position adjustments": [
+        "Height, tilt",
+        "Tilt",
+        "Tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": "ENERGY STAR Qualified",
+    "features": [
+        "Rapid Response, OSD lock, Carbon Savings Meter, NaViSet Administrator 2, Non-Touch-Auto-Adjustment (NTAA)",
+        "Security lock slot (cable lock sold separately)"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "50 mm",
+    "horizontal refresh rate": "31.5 - 81.1 kHz",
+    "horizontal viewing angle": "+85 / -85",
+    "humidity range operating": "20 - 80%",
+    "included accessories": "Cable management clip",
+    "included software": "Drivers & Utilities",
+    "input connectors": "DVI-D, VGA",
+    "interfaces": "DVI-D ( HDCP ) \u00a6 VGA ( HD-15 ) \u00a6 Audio line-in \u00a6 Headphones",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003582",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "35 \u00b0C",
+    "min operating temperature": "5 \u00b0C",
+    "native resolution": [
+        "1280 x 1024 at 75 Hz",
+        "1280 x 1024",
+        "1280 x 1024"
+    ],
+    "output power  channel": "1 Watt",
+    "panel type": [
+        "TN",
+        "TN"
+    ],
+    "pixel pitch": [
+        "0.264 mm",
+        "0.264 mm"
+    ],
+    "power consumption operational": "19 Watt",
+    "power supply": "Internal",
+    "product description": [
+        "NEC MultiSync E171M - LED monitor - 17\"",
+        "NEC LED monitor - 17\""
+    ],
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "speakers": "Integrated",
+    "tilt angle": "-5/+20",
+    "type": "Speakers - stereo - integrated",
+    "vertical refresh rate": "56 - 76 Hz",
+    "vertical viewing angle": "170",
+    "viewable size": "17\"",
+    "voltage required": "AC 120/230 V ( 50 - 60 Hz )",
+    "weight": [
+        "4.2 kg",
+        "4.2 kg"
+    ]
+}

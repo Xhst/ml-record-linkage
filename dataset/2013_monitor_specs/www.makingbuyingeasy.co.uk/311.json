@@ -1,0 +1,141 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips Brilliance LCD monitor, LED backlight 220B4LPCS - MBE",
+    "aspect ratio": "16:10",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "BSMI, CE, FCC B, GOST, SASO, SEMKO, TCO 5.2, TUV Ergo, TUV/GS, UL/cUL, WEEE, RoHS",
+    "colour of product": [
+        "Silver",
+        "Silver"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.9 cm",
+    "depth with stand": "22.7 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display diagonal metric": "55.9 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1680 x 1050 pixels",
+    "display srgb": "Yes",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "effective viewing area": [
+        "473.76 x 296.1 mm",
+        "473.76 x 296.1 mm"
+    ],
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "headphone outputs": "1",
+    "height": "34.9 cm",
+    "height adjustment": [
+        "Yes",
+        "11 cm"
+    ],
+    "height with stand": "50.9 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS"
+    ],
+    "operating altitude": "0 - 3658m",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "7.05 kg",
+        "7.05 kg"
+    ],
+    "packaging depth": [
+        "18.6 cm",
+        "18.6 cm"
+    ],
+    "packaging height": [
+        "39.1 cm",
+        "39.1 cm"
+    ],
+    "packaging width": [
+        "56.5 cm",
+        "56.5 cm"
+    ],
+    "pc audio in": "Yes",
+    "pivot": "Yes",
+    "pixel pitch": "0.282 x 0.282 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption powersave": "11.7W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "15.8W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "relative humidity": "20 - 80%",
+    "response time": "5 ms",
+    "rms rated power": [
+        "3W",
+        "3W",
+        "3W"
+    ],
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1680 x 1050 (WSXGA+)",
+    "swivel angle range": "-65 - 65\u00c2\u00b0",
+    "syncongreen sog": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "usb 20 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.38 kg",
+    "weight with stand": "5.2 kg",
+    "width": "50.4 cm",
+    "width with stand": "50.4 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

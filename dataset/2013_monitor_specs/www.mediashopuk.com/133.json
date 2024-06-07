@@ -1,0 +1,52 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Wortmann AG 2250W - MediaShopUK",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "15000000:1",
+    "depth": "190 mm",
+    "digital horizontal frequency": "30 - 80 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "546.1 mm (21.5 \")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvii ports quantity": "1",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "379 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "15 W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080i, 1080p, 480i, 480p, 576i, 576p, 720p",
+    "thin client installed": "No",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "No",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "No",
+    "weight": "3.1 kg",
+    "width": "524 mm"
+}

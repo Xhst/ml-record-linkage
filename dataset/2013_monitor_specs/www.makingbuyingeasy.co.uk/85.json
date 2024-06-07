@@ -1,0 +1,129 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL E Series E2014H - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "audio input": "No",
+    "audio output": "No",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "DVI, VGA",
+        "DVI, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "current rating": "1.5A",
+    "depth": "4.65 cm",
+    "depth with stand": "16.55 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "49.4 cm (19.45\")",
+    "display diagonal metric": "49.4 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1600 x 900 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "27.63 cm",
+    "height adjustment": "No",
+    "height with stand": "35.88 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "nonoperating altitude": "0 - 12191m",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 5000m",
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "4.25 kg",
+        "4.25 kg"
+    ],
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pixel pitch": "0.27 x 0.27 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "22W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "14W",
+    "power cord included": [
+        "Yes",
+        "Yes"
+    ],
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quantity": [
+        "1",
+        "1"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1600 x 900",
+    "swivelling": "No",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "23.976 cm",
+    "viewable size vertical": "43.2 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.41 kg",
+    "width": "47.39 cm",
+    "width with stand": "47.39 cm",
+    "wifi": "No"
+}

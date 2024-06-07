@@ -1,0 +1,126 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 27EA83-D LED display - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, DisplayPort, DVI, USB",
+        "AC, DisplayPort, DVI, USB"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "UL(cUL), FCC-B, CE, TCO5.1, TCO6.0",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "38 mm",
+    "depth with stand": "226 mm",
+    "digital horizontal frequency": "30 - 88.8 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00b2",
+    "display diagonal": "685.8 mm (27 \")",
+    "display diagonal metric": "68.58 cm",
+    "display number of colours": "1070 M",
+    "display resolution": "2560 x 1440 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "ethernet lan": "No",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height": "381 mm",
+    "height adjustment": "Yes",
+    "height with stand": "459 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "number of osd languages": [
+        "16",
+        "16"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "9.3 kg",
+        "9.3 kg"
+    ],
+    "packaging depth": [
+        "150 mm",
+        "150 mm"
+    ],
+    "packaging height": [
+        "447 mm",
+        "447 mm"
+    ],
+    "packaging width": [
+        "747 mm",
+        "747 mm"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.2331 x 0.2331 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.5 W",
+    "power consumption standby": "1.2 W",
+    "power consumption typical": "70 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "2560 x 1440",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15 \u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 30 ports quantity": "3",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "viewable size horizontal": "597.8 mm",
+    "viewable size vertical": "336.3 mm",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.5 kg",
+    "weight with stand": "7.3 kg",
+    "width": "643 mm",
+    "width with stand": "643 mm",
+    "wifi": "No"
+}

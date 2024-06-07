@@ -1,0 +1,64 @@
+{
+    "<page title>": "Elo TouchSystems 1517L Rev B - MBE",
+    "aspect ratio": "4:3",
+    "colour of product": [
+        "White",
+        "White"
+    ],
+    "contrast ratio typical": "700:1",
+    "dimensions w x d x h with stand": "358 x 197 x 319 mm",
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "38.1 cm (15\")",
+    "display resolution": "1024 x 768 pixels",
+    "display type": "TFT",
+    "display viewable area hxv": "228 x 304 mm",
+    "glass thickness": [
+        "4.3 cm",
+        "4.3 cm"
+    ],
+    "horizontal scan range": "31.5 - 60 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led backlight": "Yes",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "number of colours": "16.2M",
+    "number of osd languages": "8",
+    "on screen display osd languages": "CHI (SIMPL), CHI (TR), DEU, ENG, ESP, FRE, ITA, JPN",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "7.3 kg",
+        "7.3 kg"
+    ],
+    "packaging depth": "23.1 cm",
+    "packaging height": "48.5 cm",
+    "packaging width": "48.7 cm",
+    "power consumption typical": "12W",
+    "power supply type": [
+        "AC/DC",
+        "AC/DC"
+    ],
+    "response time": "16 ms",
+    "rs232 ports": "1",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": [
+        "720 x 400, 1024 x 768 (XGA), 640 x 480 (VGA), 800 x 600 (SVGA)",
+        "720 x 400, 1024 x 768 (XGA), 640 x 480 (VGA), 800 x 600 (SVGA)"
+    ],
+    "touch screen type": [
+        "Tabletop",
+        "Tabletop"
+    ],
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "140\u00c2\u00b0",
+    "voltage tolerance": "5%",
+    "weight with stand": "4.3 kg"
+}

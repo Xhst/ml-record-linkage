@@ -1,0 +1,73 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq BL2710PT - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "1000:1",
+    "dcin jack": "Yes",
+    "depth": "25.9 cm",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display number of colours": "1070M",
+    "display resolution": "2560 x 1440 pixels",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "52.5 cm",
+    "height adjustment": "Yes",
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.2331 x 0.2331 mm",
+    "response time": "12 ms",
+    "rms rated power": [
+        "6W",
+        "6W",
+        "6W"
+    ],
+    "supported graphics resolutions": "2560 x 1440",
+    "swivelling": "Yes",
+    "usb 20 ports quantity": "2",
+    "usb 30 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "8.2 kg",
+    "width": "63.9 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

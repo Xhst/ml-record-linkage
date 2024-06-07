@@ -1,0 +1,48 @@
+{
+    "<page title>": "Promethean ActivTable - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": "No",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "certification": [
+        "NRTL, CE, FCC, GOST, SABS",
+        "NRTL, CE, FCC, GOST, SABS"
+    ],
+    "depth": "75.2 cm",
+    "display diagonal": "116.84 cm (46\")",
+    "display resolution": "1920 x 1080 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "1020 x 572 mm",
+    "ethernet lan rj45 ports": "1",
+    "full hd": "Yes",
+    "headphone outputs": "4",
+    "height": "72.5 cm",
+    "input voltage": "100 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "operating temperature tt": "5 - 30 \u00c2\u00b0C",
+    "power consumption standby": "36W",
+    "power consumption typical": "288W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "rms rated power": [
+        "20W",
+        "20W"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "touch screen type": [
+        "Table",
+        "Table"
+    ],
+    "touchscreen technology": "Infrared",
+    "usb 20 ports quantity": "4",
+    "wall mountable": "No",
+    "weight": "69500g",
+    "width": "120 cm"
+}

@@ -1,0 +1,91 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "AG Neovo DR-17P - MrHighTech Shop",
+    "ac adapter included": [
+        "Yes",
+        "Yes"
+    ],
+    "ac power in": "Yes",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, S-Video, VGA",
+        "AC, S-Video, VGA"
+    ],
+    "certification": "CB, FCC, CE, WEEE, RoHS, REACH",
+    "colour of product": [
+        "White",
+        "White"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "175 mm",
+    "digital horizontal frequency": "24 - 82 kHz",
+    "digital vertical frequency": "50 - 85 Hz",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "431.8 mm (17 \")",
+    "display diagonal metric": "43.2 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1280 x 1024 pixels",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "hd type": "No",
+    "height": "398 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "operating relative humidity hh": "10 - 90 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package weight": "7.9 kg",
+    "packaging depth": "228 mm",
+    "packaging height": "497 mm",
+    "packaging width": "486 mm",
+    "pc audio in": "Yes",
+    "pixel pitch": "0.264 x 0.264 mm",
+    "power consumption off": "0.5 W",
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "20 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "3 ms",
+    "rms rated power": [
+        "3 W",
+        "3 W"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "5 - 95 %",
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "svideo inputs quantity": "1",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "0 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "75 x 75, 100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.8 kg",
+    "weight with stand": "6.6 kg",
+    "width": "409 mm"
+}

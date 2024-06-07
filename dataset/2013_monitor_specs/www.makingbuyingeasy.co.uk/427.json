@@ -1,0 +1,78 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Iiyama ProLite XUB2790HS-B1 - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), HDMI, VGA",
+        "AC, Audio (3.5mm), HDMI, VGA"
+    ],
+    "certification": "TCO, CE, TUV, VCCI-B, PSE",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "23 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "43.3 cm",
+    "height adjustment": "Yes",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pivot": "Yes",
+    "pixel pitch": "0.311 x 0.311 mm",
+    "power consumption max": "55W",
+    "power consumption typical": "27W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "89\u00c2\u00b0",
+    "viewing angle vertical": "89\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.25 kg",
+    "weight with stand": "6.5 kg",
+    "width": "62.25 cm"
+}

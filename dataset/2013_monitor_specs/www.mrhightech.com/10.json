@@ -1,0 +1,107 @@
+{
+    "3d compatibility": "Yes",
+    "<page title>": "LG DM2352D-PZ LED display - MrHighTech Shop",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC",
+        "AC"
+    ],
+    "certification": "UL, CUL, SEMKO, FCC-B, CE, TUV-Type GS, TUV-Type, ISO 13406-2, TCO-03, TCO-99, NEMKO, SWOP",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "62.9 mm",
+    "depth with stand": "182.8 mm",
+    "dimensions w x d x h with stand": "544.1 x 182.8 x 406.2 mm",
+    "dimensions wxdxh": "544.1 x 62.9 x 334.6 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "584.2 mm (23 \")",
+    "display diagonal metric": "58.42 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "C",
+    "energy star certified": "Yes",
+    "handheld remote control": [
+        "Yes",
+        "Yes"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "No",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "2",
+    "height": "334.6 mm",
+    "height with stand": "406.2 mm",
+    "horizontal scan range": "30 - 83 kHz",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "31",
+        "31"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.27 x 0.27 mm",
+    "power consumption standby": "1 W",
+    "power consumption typical": "33 W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "10 W",
+        "10 W",
+        "10 W"
+    ],
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "tilt angle": "-5 - 10 \u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.4 kg",
+    "weight with stand": "3.9 kg",
+    "width": "544.1 mm",
+    "width with stand": "544.1 mm"
+}

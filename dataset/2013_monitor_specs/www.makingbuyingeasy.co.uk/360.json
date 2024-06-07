@@ -1,0 +1,113 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 47WL10MS-B LED display - MBE",
+    "aspect ratio": "16:9",
+    "audio system": [
+        "Clear Voice II",
+        "Clear Voice II",
+        "Clear Voice II"
+    ],
+    "bezel width bottom": "1.99 cm",
+    "bezel width side": "1.53 cm",
+    "bezel width top": "1.53 cm",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "certification": "Energy Star 6.0",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "composite sync": "Yes",
+    "contrast ratio dynamic": "500000:1",
+    "contrast ratio typical": "1200:1",
+    "depth": "7.874 cm",
+    "depth with stand": "29.718 cm",
+    "display": "LED",
+    "display brightness": "400 cd/m\u00c2\u00b2",
+    "display diagonal": "119.28 cm (46.96\")",
+    "display number of colours": "1060M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "dvid ports quantity": "2",
+    "electromagnetic compatibility": "FCC \"B\" / VCCI / C-tick / CE / KCC",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "Yes",
+    "ethernet lan rj45 ports": "1",
+    "hd type": "Full HD",
+    "hdmi ports quantity": "1",
+    "height": "62.484 cm",
+    "height with stand": "69.85 cm",
+    "horizontal scan range": "30 - 68 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "19",
+        "19"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), CHI (TR), CZE, DAN, DEU, DUT, ENG, ESP, FRE, GRE, ITA, JPN, KOR, NOR, POR, RUS, SWE",
+        "CHI (SIMPL), CHI (TR), CZE, DAN, DEU, DUT, ENG, ESP, FRE, GRE, ITA, JPN, KOR, NOR, POR, RUS, SWE"
+    ],
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "19413.75g",
+        "19413.75g"
+    ],
+    "packaging depth": [
+        "29.718 cm",
+        "29.718 cm"
+    ],
+    "packaging height": [
+        "69.85 cm",
+        "69.85 cm"
+    ],
+    "packaging width": [
+        "118.11 cm",
+        "118.11 cm"
+    ],
+    "power consumption off": "0.5W",
+    "power consumption powersave": "65W",
+    "power consumption typical": "95W",
+    "response time": "9 ms",
+    "rms rated power": [
+        "20W",
+        "20W",
+        "20W"
+    ],
+    "rs232 ports": "1",
+    "safety": "UL / cUL / CB / TUV",
+    "separate hv sync": "Yes",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080i, 1080p, 720p",
+    "thin client installed": "No",
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "400 x 400 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "15512g",
+    "weight with stand": "17599.3g",
+    "width": "107.442 cm",
+    "width with stand": "107.442 cm"
+}

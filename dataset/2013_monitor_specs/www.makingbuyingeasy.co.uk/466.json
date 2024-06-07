@@ -1,0 +1,67 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Essential V196WL - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "certification": "TCO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "19.05 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display diagonal metric": "48.3 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1440 x 900 pixels",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "hd type": "HD-ready",
+    "height": "37.85 cm",
+    "height adjustment": "Yes",
+    "input voltage": "110 - 220V",
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.35W",
+    "power consumption standby": "0.45W",
+    "power consumption typical": "13W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1440 x 900",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "weight": "2.7 kg",
+    "weight with stand": "3.1 kg",
+    "width": "43.94 cm"
+}

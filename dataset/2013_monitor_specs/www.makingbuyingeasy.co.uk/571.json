@@ -1,0 +1,130 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips LCD monitor with LED backlight 226V4LAB - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "10000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "4.8 cm",
+    "depth with stand": "21.3 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "32 cm",
+    "height with stand": "38.8 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "9",
+        "9"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS, TUR",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS, TUR"
+    ],
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "4.55 kg",
+        "4.55 kg"
+    ],
+    "packaging depth": [
+        "12.4 cm",
+        "12.4 cm"
+    ],
+    "packaging height": [
+        "39.6 cm",
+        "39.6 cm"
+    ],
+    "packaging width": [
+        "56.7 cm",
+        "56.7 cm"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5W",
+    "power consumption typical": "19.15W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "relative humidity": "20 - 80%",
+    "response time": "5 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "47.664 cm",
+    "viewable size vertical": "26.811 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3 kg",
+    "weight with stand": "3.34 kg",
+    "width": "51.4 cm",
+    "width with stand": "51.4 cm"
+}

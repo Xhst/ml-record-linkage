@@ -1,0 +1,60 @@
+{
+    "<page title>": "ASUS VE247H - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "Energy Star 5.0, CEL, UL/cUL, CB, CE, EuP, FCC, CCC, BSMI, Gost-R, C-Tick, VCCI, PSB, J-MOSS, RoHS, WEEE, Windows Vista & Windows 7 WHQL",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "depth": "201 mm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "50 - 76 Hz",
+    "display brightness": "300 cd/m\u00b2",
+    "display diagonal": "599.4 mm (23.6 \")",
+    "display resolution": "1920 x 1080 pixels",
+    "dvid ports quantity": "1",
+    "hdcp": "Yes",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height": "409.7 mm",
+    "package dimensions wxdxh": "638 x 480 x 175 mm",
+    "package weight": "7.1 kg",
+    "pixel pitch": "0.272 x 0.272 mm",
+    "power consumption standby": "1 W",
+    "power consumption typical": "35 W",
+    "response time": "2 ms",
+    "rms rated power": [
+        "2 W",
+        "2 W"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "599 mm",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "weight": "4.4 kg",
+    "width": "569.4 mm"
+}

@@ -1,0 +1,152 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "HP Z23i - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC",
+        "AC"
+    ],
+    "certification": "CB, CE, CEL Grade 1, TUV, GS, TCO, GOST, CUL, FCC, E-Star 5.0, CSA, NOM, S-Mark, VCCI, MIC, PSB, ISC, CCC, BSMI, C-Tick, ICES, Microsoft WHQL, TCO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.1 cm",
+    "depth with stand": "24.29 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display diagonal metric": "58.42 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display surface": "Matt",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "32.9 cm",
+    "height adjustment": [
+        "15 cm",
+        "Yes"
+    ],
+    "height with stand": "46.99 cm",
+    "horizontal scan range": "24 - 94 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "nonoperating altitude": "0 - 12192m",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 5000m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "package weight": [
+        "8.4 kg",
+        "8.4 kg"
+    ],
+    "packaging depth": [
+        "18.3 cm",
+        "18.3 cm"
+    ],
+    "packaging height": [
+        "51.8 cm",
+        "51.8 cm"
+    ],
+    "packaging width": [
+        "62 cm",
+        "62 cm"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.252 x 0.252 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "36W",
+    "power consumption powersave": "22W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "28W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "8 ms",
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "5 - 95%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "720 x 400, 1600 x 900, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1440 x 900 (WXGA+), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)",
+    "supported video modes": "1080p",
+    "swivel angle range": "0 - 360\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 30\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "3",
+    "vertical scan range": "50 - 76 Hz",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.19 kg",
+    "weight with stand": "6.4 kg",
+    "width": "54.4 cm",
+    "width with stand": "54.4 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

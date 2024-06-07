@@ -1,0 +1,54 @@
+{
+    "<page title>": "DELL UltraSharp U2713HM - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "contrast ratio dynamic": "2000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6.56 cm",
+    "depth with stand": "20.03 cm",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68.58 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "2560 x 1440 pixels",
+    "display technology": "LCD",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "HD-ready",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "37.82 cm",
+    "height with stand": "53.89 cm",
+    "pixel pitch": "0.23 x 0.23 mm",
+    "power consumption standby": "0.5W",
+    "response time": "68.58 ms",
+    "supported graphics resolutions": "1600 x 900",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 30 ports quantity": "5",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "weight": "5.6 kg",
+    "weight with stand": "10200g",
+    "width": "63.93 cm",
+    "width with stand": "63.93 cm"
+}

@@ -1,0 +1,70 @@
+{
+    "<page title>": "3M 32  C3266PW MULTITOUCH TFT 3M",
+    "aspect ratio": [
+        "Widescreen",
+        "Widescreen"
+    ],
+    "backlight technology": "LED backlight",
+    "brightness": [
+        "405 cd/m2",
+        "405 cd/m2"
+    ],
+    "builtin devices": "Touch-screen",
+    "colour support": [
+        "1.07 billion colours",
+        "1.07 billion colours"
+    ],
+    "compliant standards": [
+        "FCC Class B certified, TUV, CCC, RoHS",
+        "FCC Class B certified, TUV, CCC, RoHS"
+    ],
+    "contrast ratio": [
+        "1300:1",
+        "1300:1"
+    ],
+    "description technical detail": "3M Multi-Touch Chassis Display 32\" Touch Screen LCD\nThe 3M Multi-Touch Display C3266PW is engineered by 3M as a fully-integrated 32\" multi-touch display that combines cutting-edge 3M Projected Capacitive Touch Technology (3M PCT) with a stunning industrial grade, full high-definition, 120Hz LCD display to create the ultimate user interface. This large format multi-touch capability enables true multi-user interaction for cutting edge collaborative and interactive applications. 3M PCT delivers 10 simultaneous touches at an ultra-fast 10 millisecond response time while rejecting palms, allowing developers to create a more natural, intuitive and responsive user experience when compared to infrared-based and optical-based systems. The C3266PW display is ideal for interactive digital signage, interactive tables, and kiosk solutions by providing system architects with a high performance, easy to integrate, professional multi-touch display.",
+    "device type": "LED-backlit LCD monitor - 32\" - Multi-Touch",
+    "diagonal size": "32\"",
+    "dimensions wxdxh": [
+        "75.9 cm x 6.7 cm x 45.3 cm",
+        "75.9 cm x 6.7 cm x 45.3 cm"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "features": "Anti-static, ultra wide viewing angle",
+    "flat panel mount interface": "200 x 200 mm",
+    "horizontal viewing angle": "178",
+    "humidity range operating": "0 - 90% (non-condensing)",
+    "input connectors": "HDMI, DVI, VGA",
+    "interfaces": "VGA \u00a6 DVI-D \u00a6 HDMI \u00a6 Serial \u00a6 USB",
+    "manufacturer": "3M",
+    "manufacturer part ": "98-0003-3695-2",
+    "manufacturer warranty": "1 year warranty",
+    "max operating temperature": "40 \u00b0C",
+    "min operating temperature": "0 \u00b0C",
+    "movement detection technology": "Capacitive",
+    "native resolution": [
+        "FullHD 1920 x 1080 at 120 Hz",
+        "FullHD 1920 x 1080 at 120 Hz"
+    ],
+    "os required": "Linux, Microsoft Windows XP, Microsoft Windows 7, Microsoft Windows Vista",
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.364 mm",
+        "0.364 mm"
+    ],
+    "power consumption operational": "100 Watt",
+    "power supply": "Internal",
+    "product description": "3M Multi-touch Display C3266PW - LED monitor - 32\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "service  support": "1 year warranty",
+    "service  support details": "Limited warranty - 1 year",
+    "type": "Touch-screen - Multi-Touch",
+    "vertical viewing angle": "178",
+    "voltage required": "AC 120/230 V"
+}

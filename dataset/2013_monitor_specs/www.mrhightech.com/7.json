@@ -1,0 +1,129 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "iiyama ProLite E2483HS-B1 LED display - MrHighTech Shop",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, VGA",
+        "AC, Audio (3.5mm), DVI, VGA"
+    ],
+    "certification": "VESA DPMS,",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "203 mm",
+    "digital horizontal frequency": "30 - 80 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "609.6 mm (24 \")",
+    "display diagonal metric": "60.96 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height": "412 mm",
+    "height adjustment": "No",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "10",
+        "10"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, DUT, ENG, ESP, FRE, ITA, JPN, POL, RUS",
+        "CHI (SIMPL), DEU, DUT, ENG, ESP, FRE, ITA, JPN, POL, RUS"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.277 x 0.277 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "24 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "2 ms",
+    "rms rated power": [
+        "4 W",
+        "4 W",
+        "4 W"
+    ],
+    "safety": "TCO, CE, TUV-GS, VCCI-B, PSE, CU",
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 22 \u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.4 kg",
+    "width": "565.5 mm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Windows 2000, Windows 2000 Professional, Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows 95, Windows 98, Windows ME, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64, Windows XP Home, Windows XP Home x64, Windows XP Professional, Windows XP Professional x64",
+        "Windows 2000, Windows 2000 Professional, Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows 95, Windows 98, Windows ME, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64, Windows XP Home, Windows XP Home x64, Windows XP Professional, Windows XP Professional x64"
+    ]
+}

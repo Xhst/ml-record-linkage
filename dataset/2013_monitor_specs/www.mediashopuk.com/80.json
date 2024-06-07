@@ -1,0 +1,111 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "NEC EA193Mi-BK - MediaShopUK",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, VGA",
+        "AC, Audio (3.5mm), DVI, VGA"
+    ],
+    "certification": "RoHS, TCO 6.0",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "composite sync": "Yes",
+    "composite video in": "1",
+    "contrast ratio dynamic": "Ultra Contrast",
+    "contrast ratio typical": "1000:1",
+    "depth": "65 mm",
+    "depth with stand": "213.9 mm",
+    "digital horizontal frequency": "31.5 - 81.1 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "482.6 mm (19 \")",
+    "display diagonal metric": "48.2 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1280 x 1024 pixels",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "HD-ready",
+    "hdcp": "Yes",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height": "338 mm",
+    "height adjustment": "Yes",
+    "height with stand": "386.4 mm",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "nonoperating altitude": "0 - 12.1 m",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 2000 m",
+    "operating relative humidity hh": "20 - 80 %",
+    "operating temperature tt": "5 - 35 \u00b0C",
+    "pivot": "Yes",
+    "pixel pitch": "0.29 x 0.29 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "18 W",
+    "power consumption powersave": "0.35 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "6 ms",
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "10 - 85 %",
+    "storage temperature tt": "-10 - 60 \u00b0C",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "4 kg",
+    "weight with stand": "6 kg",
+    "width": "408 mm",
+    "width with stand": "408 mm"
+}

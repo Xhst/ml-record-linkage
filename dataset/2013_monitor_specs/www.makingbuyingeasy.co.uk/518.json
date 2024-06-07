@@ -1,0 +1,90 @@
+{
+    "<page title>": "Elo TouchSystems 4201L - MBE",
+    "aspect ratio": "16:9",
+    "audio input": "1",
+    "backlight type": "LED",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "certification": [
+        "UL, FCC; cUL, IC; CB; CE; VCCI; C-Tick; NOM CoC; GOST; BSMI; KC, e-Standby; CCC, China RoHS; with RFID: UL, FCC",
+        "UL, FCC; cUL, IC; CB; CE; VCCI; C-Tick; NOM CoC; GOST; BSMI; KC, e-Standby; CCC, China RoHS; with RFID: UL, FCC"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "4000:1",
+    "depth": "8.07 cm",
+    "display brightness": "630 cd/m\u00c2\u00b2",
+    "display diagonal": "106.68 cm (42\")",
+    "display resolution": "1920 x 1080 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "930 x 523 mm",
+    "displayports quantity": "1",
+    "full hd": "Yes",
+    "hdcp": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "58.8 cm",
+    "horizontal scan range": "31.5 - 73 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "110 - 240V",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "number of colours": "16.7M",
+    "number of loudspeakers": [
+        "4",
+        "4"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "1110 x 215 x 720 mm",
+        "1110 x 215 x 720 mm"
+    ],
+    "package weight": [
+        "30800g",
+        "30800g"
+    ],
+    "power consumption typical": "85W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "6 ms",
+    "rms rated power": [
+        "20W",
+        "20W"
+    ],
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 50 \u00c2\u00b0C",
+    "supported graphics resolutions": [
+        "720 x 480, 720 x 576, 1280 x 960, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1366 \u00d1\u2026 768, 1440 x 900 (WXGA+), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)",
+        "720 x 480, 720 x 576, 1280 x 960, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1366 \u00d1\u2026 768, 1440 x 900 (WXGA+), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)"
+    ],
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "1",
+    "usb required": "Yes",
+    "vertical scan range": "47 - 63 Hz",
+    "vesa mounting interfaces compatibility": "400 x 400 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "22200g",
+    "width": "99.5 cm"
+}

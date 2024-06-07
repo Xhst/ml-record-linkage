@@ -1,0 +1,99 @@
+{
+    "<page title>": "NEC 60003594 MultiSync X462UNV - 46\" LED-Backlit LCD Flat Panel Display",
+    "brightness": "450 cd/m2",
+    "cables included": "DVI cable",
+    "colour": "Black",
+    "compliant standards": "FCC Class B certified, CSA, UL, TUV GS, VCCI, C-Tick, cUL, VESA DPMS, VESA FDMI, PSB, RoHS",
+    "connector type": "1 x network ( RJ-45 ) - rear \u00a6 1 x remote control input ( mini-phone 3.5mm ) - rear \u00a6 1 x remote control output ( mini-phone 3.5mm ) - rear \u00a6 1 x serial input ( 9 PIN D-Sub ) - rear \u00a6 1 x serial output ( 9 PIN D-Sub ) - rear \u00a6 1 x DisplayPort input ( 20 pin DisplayPort ) - rear \u00a6 1 x DisplayPort output ( 20 pin DisplayPort ) - rear \u00a6 1 x DVI-D input ( 24 PIN Digital DVI ) - rear \u00a6 1 x DVI-D output ( 24 PIN Digital DVI ) - rear \u00a6 1 x HDMI ( 19 pin HDMI Type A ) - rear \u00a6 1 x VGA input ( 15 PIN HD D-Sub (HD-15) ) - rear \u00a6 1 x component video / RGB input ( BNC x 5 ) - rear \u00a6 1 x composite video input ( BNC ) - rear \u00a6 1 x composite video output ( BNC ) - rear \u00a6 1 x S-Video input ( 4 PIN mini-DIN ) - rear \u00a6 1 x audio output ( mini-phone stereo 3.5 mm ) - rear \u00a6 2 x audio input ( mini-phone stereo 3.5 mm ) - rear \u00a6 1 x audio input ( RCA phono x 2 ) - rear \u00a6 2 x speakers output ( terminal block (clamp) ) - rear",
+    "depth": "11.81 cm",
+    "description technical detail": "The MultiSync X462UNV completes NEC's line of videowall products and offers outstanding videowall features at an attractive price.",
+    "diagonal size": [
+        "46\"",
+        "46\""
+    ],
+    "diagonal size cm": [
+        "116.8 cm",
+        "116.8 cm"
+    ],
+    "dimensions": "Without stand",
+    "dimensions wxdxh": "102.4 cm x 11.81 cm x 57.86 cm - without stand",
+    "display format": [
+        "1080p (FullHD)",
+        "1080p (FullHD)"
+    ],
+    "enclosure colour": "Black",
+    "features": [
+        "Ambient light sensor (ALS), screen saver, fanless cooling system, NaViSet, Scheduler Function (with RTC), TileMatrix (10 x 10), Mercury Free, Open Pluggable Specification slot",
+        "Ambient light sensor (ALS), screen saver, fanless cooling system, NaViSet, Scheduler Function (with RTC), TileMatrix (10 x 10), Mercury Free, Open Pluggable Specification slot"
+    ],
+    "flat panel mount interface": "300 x 300 mm",
+    "hdmi ports qty": [
+        "1 port(s)",
+        "1 port(s)"
+    ],
+    "height": "57.86 cm",
+    "humidity range operating": "20 - 80%",
+    "image aspect ratio": [
+        "16:9",
+        "16:9"
+    ],
+    "image contrast ratio": "3500:1",
+    "lcd backlight technology": [
+        "WLED backlight",
+        "WLED backlight"
+    ],
+    "lcd display technology": "S-PVA",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003594",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "40 \u00b0C",
+    "min operating temperature": "0 \u00b0C",
+    "pc interface": [
+        "DVI, VGA (HD-15), DisplayPort",
+        "DVI, VGA (HD-15), DisplayPort"
+    ],
+    "power consumption operational": [
+        "260 Watt",
+        "260 Watt"
+    ],
+    "power consumption stand by": "0.5 Watt",
+    "product description": "NEC MultiSync X462UNV - 46\" LED-backlit LCD flat panel display",
+    "product type": [
+        "LED-backlit LCD flat panel display",
+        "LED-backlit LCD flat panel display"
+    ],
+    "resolution": [
+        "1920 x 1080",
+        "1920 x 1080"
+    ],
+    "response time": "8 ms",
+    "series": "X Series",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "stand": "Optional",
+    "targeting": [
+        "Commercial usage",
+        "Commercial use",
+        "Commercial usage"
+    ],
+    "technology": "S-PVA",
+    "tv tuner": [
+        "No tuner",
+        "No tuner"
+    ],
+    "video interface": [
+        "Component, composite, HDMI, S-Video",
+        "Component, composite, HDMI, S-Video"
+    ],
+    "video wall components qty": [
+        "100",
+        "100"
+    ],
+    "viewing angle": "178 degrees",
+    "viewing angle vertical": "178 degrees",
+    "weight": [
+        "24.3 kg",
+        "24.3 kg"
+    ],
+    "width": "102.4 cm"
+}

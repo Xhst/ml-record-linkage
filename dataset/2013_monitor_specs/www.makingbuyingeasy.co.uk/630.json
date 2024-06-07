@@ -1,0 +1,93 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL UltraSharp U3014 - MBE",
+    "aspect ratio": "16:10",
+    "audio output": "Yes",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DisplayPort, DVI, USB",
+        "AC, DisplayPort, DVI, USB"
+    ],
+    "certification": "TCO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "2000000:1",
+    "contrast ratio typical": "1000:1",
+    "dcin jack": "Yes",
+    "depth": "6.1 cm",
+    "depth with stand": "20.14 cm",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "75.69 cm (29.8\")",
+    "display diagonal metric": "75.6 cm",
+    "display number of colours": "1073.7M",
+    "display resolution": "2560 x 1600 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "2",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "44.92 cm",
+    "height adjustment": "Yes",
+    "height with stand": "57.27 cm",
+    "input current": "1.8A",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mini displayport quantity": "1",
+    "nonoperating altitude": "0 - 10668m",
+    "operating altitude": "0 - 5000m",
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "13650g",
+        "13650g"
+    ],
+    "pixel pitch": "0.25 x 0.25 mm",
+    "power consumption max": "120W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "60W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "6 ms",
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "2560 x 1600 (WQXGA)",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 30 ports quantity": "5",
+    "vesa mounting interfaces compatibility": "Yes",
+    "viewable size horizontal": "64.13 cm",
+    "viewable size vertical": "40.08 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "10840g",
+    "width": "68.97 cm",
+    "width with stand": "68.97 cm"
+}

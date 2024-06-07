@@ -1,0 +1,167 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Samsung S22C200B - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "audio input": "No",
+    "audio output": "No",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable length": "1.5m",
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "certification": "FCC, CE, VCCI, KCC, C-Tick, CCC",
+    "child lock": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "Mega Contrast",
+    "contrast ratio typical": "1000:1",
+    "depth": "7.76 cm",
+    "depth with stand": "18.5 cm",
+    "dimensions w x d x h with stand": "504.3 x 185 x 385.35 mm",
+    "dimensions wxdxh": "504.3 x 77.6 x 301.9 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display diagonal metric": "54.61 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "display viewable area hxv": [
+        "476.64 x 268.11 mm",
+        "476.64 x 268.11 mm"
+    ],
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "electromagnetic compatibility": "UL, CSA, TUV, NEMKO, KC, CCC, PSB, GOST, SIQ, PCBC, NOM, IRAM, SASO",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "height": "30.19 cm",
+    "height adjustment": "No",
+    "height with stand": "38.535 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "linux operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating temperature tt": "10 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": "593 x 371 x 140 mm",
+    "package weight": [
+        "4.65 kg",
+        "4.65 kg"
+    ],
+    "packaging depth": [
+        "37.1 cm",
+        "37.1 cm"
+    ],
+    "packaging height": [
+        "14 cm",
+        "14 cm"
+    ],
+    "packaging width": [
+        "59.3 cm",
+        "59.3 cm"
+    ],
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pivot": "No",
+    "pixel pitch": "0.24825 x 0.24825 mm",
+    "placement supported": [
+        "Horizontal",
+        "Horizontal"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.1W",
+    "power consumption typical": "24W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "relative humidity": "10 - 80%",
+    "response time": "5 ms",
+    "screen saving functions": [
+        "Yes",
+        "Yes"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivelling": "No",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-1 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "47.664 cm",
+    "viewable size vertical": "26.811 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.05 kg",
+    "weight with stand": "3.4 kg",
+    "width": "50.43 cm",
+    "width with stand": "50.43 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

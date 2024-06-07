@@ -1,0 +1,131 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips 231P4UPES - MediaShopUK",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "TCO edge, RoHS",
+    "colour of product": [
+        "Black, Silver",
+        "Black, Silver"
+    ],
+    "compliance industry standards": "BSMI, CE Mark, FCC Class B, GOST, PSB, SASO, SEMKO, TCO 6.0, TUV Ergo, TUV/GS, UL/cUL, WEEE",
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "60 mm",
+    "depth with stand": "220 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "584.2 mm (23 \")",
+    "display diagonal metric": "58.4 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "display technology": "LCD",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "height": "343 mm",
+    "height adjustment": "Yes",
+    "height with stand": "515 mm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000 h",
+        "30000 h"
+    ],
+    "nonoperating altitude": "0 - 12192 m",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), CHI (TR), CZE, DEU, DUT, ENG, ESP, FIN, FRE, GRE, HUN, ITA, JPN, KOR, POL, POR, RUS, SWE, TUR, UKR",
+        "CHI (SIMPL), CHI (TR), CZE, DEU, DUT, ENG, ESP, FIN, FRE, GRE, HUN, ITA, JPN, KOR, POL, POR, RUS, SWE, TUR, UKR"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 3658 m",
+    "operating relative humidity hh": "20 - 80 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package weight": "7.6 kg",
+    "packaging depth": "263 mm",
+    "packaging height": "400 mm",
+    "packaging width": "600 mm",
+    "pivot": "Yes",
+    "pivot angle": "0 - 90 \u00b0",
+    "pixel pitch": "0.265 x 0.265 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption powersave": "15.3 W",
+    "power consumption standby": "0.1 W",
+    "power consumption typical": "24.2 W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "3 W",
+        "3 W"
+    ],
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivel angle range": "-65 - 65 \u00b0",
+    "swivelling": "Yes",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "usb 20 ports quantity": "1",
+    "usb 30 ports quantity": "2",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "509.18 mm",
+    "viewable size vertical": "286.41 mm",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.1 kg",
+    "weight with stand": "5.3 kg",
+    "width": "547 mm",
+    "width with stand": "547 mm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

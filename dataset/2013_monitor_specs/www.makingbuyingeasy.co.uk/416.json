@@ -1,0 +1,90 @@
+{
+    "<page title>": "Elo TouchSystems 1919LM - MBE",
+    "aspect ratio": "16:9",
+    "audio input": "1",
+    "audio output": "2",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "camera included": [
+        "No",
+        "No"
+    ],
+    "certification": [
+        "USA UL 60601-1, CSA C22.2 No. 60601-1, USA FCC CFR 47 Part 18 Subpart B, UL 60950, CSA C22.2 No. 60950-1-03, Mexico NOM, FCC, ICES\nIEC/EN 60601-1:1988+A1+A2 2nd Ed, IEC/EN 60601-1-2:2005, IEC/EN 55011, IEC/EN 60950-1, C-tick, CE\nVCCI\nS-mark",
+        "USA UL 60601-1, CSA C22.2 No. 60601-1, USA FCC CFR 47 Part 18 Subpart B, UL 60950, CSA C22.2 No. 60950-1-03, Mexico NOM, FCC, ICES\nIEC/EN 60601-1:1988+A1+A2 2nd Ed, IEC/EN 60601-1-2:2005, IEC/EN 55011, IEC/EN 60950-1, C-tick, CE\nVCCI\nS-mark"
+    ],
+    "colour of product": [
+        "White",
+        "White"
+    ],
+    "contrast ratio typical": "1000:1",
+    "dimensions w x d x h with stand": "350 x 175 x 310 mm",
+    "display brightness": "270 cd/m\u00c2\u00b2",
+    "display diagonal": "46.99 cm (18.5\")",
+    "display resolution": "1366 x 768 pixels",
+    "display type": "TFT",
+    "display viewable area hxv": "410 x 230 mm",
+    "dvid ports quantity": "1",
+    "full hd": "No",
+    "headphone outputs": "2",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "number of colours": "16.7M",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "570 x 225 x 415 mm",
+        "570 x 225 x 415 mm"
+    ],
+    "package weight": [
+        "9.8 kg",
+        "9.8 kg"
+    ],
+    "power consumption typical": "21.8W",
+    "power supply type": [
+        "DC",
+        "DC"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "4W",
+        "4W"
+    ],
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": [
+        "720 x 400, 832 x 624, 1280 x 960, 1366 x 768, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 800 (WXGA), 1360 x 768 (WXGA), 1440 x 900 (WXGA+), 1600 x 1200 (UXGA), 1680 x 1050 (WSXGA+), 640 x 480 (VGA), 800 x 600 (SVGA)",
+        "720 x 400, 832 x 624, 1280 x 960, 1366 x 768, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 800 (WXGA), 1360 x 768 (WXGA), 1440 x 900 (WXGA+), 1600 x 1200 (UXGA), 1680 x 1050 (WSXGA+), 640 x 480 (VGA), 800 x 600 (SVGA)"
+    ],
+    "touchscreen technology": "Surface acoustic wave",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "6.9 kg"
+}

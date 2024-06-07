@@ -1,0 +1,82 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "AOC E2461FWH LED display - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), HDMI, VGA",
+        "AC, Audio (3.5mm), HDMI, VGA"
+    ],
+    "certification": "cCSAus, CE, EuP, FCC, GOST, ISO, RoHS, TCO, T\u00c3\u0153V-Bauart",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "21.4 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "59.94 cm (23.6\")",
+    "display diagonal metric": "59.9 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "40.05 cm",
+    "height adjustment": "No",
+    "input frequency": "50/60 Hz",
+    "input voltage": "90 - 240V",
+    "package weight": [
+        "3.18 kg",
+        "3.18 kg"
+    ],
+    "pixel pitch": "0.2715 x 0.2715 mm",
+    "power consumption off": "0.2W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "17.3W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "2 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt angle": "-3 - 18\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.6 kg",
+    "width": "54.54 cm"
+}

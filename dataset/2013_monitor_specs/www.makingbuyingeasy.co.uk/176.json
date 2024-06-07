@@ -1,0 +1,78 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG MONITOR, LED 24, LG 24M35H-B - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "certification": "EPA, FCC-B, CE, UL(cUL), TUV-Type",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "9.8 cm",
+    "depth with stand": "21.5 cm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "59.94 cm (23.6\")",
+    "display diagonal metric": "60 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN",
+    "energy efficiency class": "Unspecified",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "31.4 cm",
+    "height with stand": "43.8 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.2715 x 0.2715 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.3W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "19W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-3 - 20\u00c2\u00b0",
+    "vesa mounting interfaces compatibility": "Yes",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.7 kg",
+    "weight with stand": "3 kg",
+    "width": "55.6 cm",
+    "width with stand": "55.6 cm",
+    "wifi": "No"
+}

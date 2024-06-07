@@ -1,0 +1,82 @@
+{
+    "<page title>": "Wortmann AG Terra 2212W DVI Greenline Plus - MrHighTech Shop",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "Audio (3.5mm), DVI",
+        "Audio (3.5mm), DVI"
+    ],
+    "certification": "CE, EN 60950",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "depth": "44 mm",
+    "depth with stand": "220 mm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "546.1 mm (21.5 \")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "314 mm",
+    "height adjustment": "No",
+    "height with stand": "374 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "pivot": "No",
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "16 W",
+    "power cord included": [
+        "Yes",
+        "Yes"
+    ],
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080i, 1080p",
+    "thin client installed": "No",
+    "tilt angle": "0 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.7 kg",
+    "weight with stand": "3 kg",
+    "width": "508 mm",
+    "width with stand": "508 mm"
+}

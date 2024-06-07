@@ -1,0 +1,51 @@
+{
+    "<page title>": "Acer Essential 176Lb - MBE",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "5.5 cm",
+    "depth with stand": "19.1 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "43.18 cm (17\")",
+    "display diagonal metric": "43.2 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "epeat compliance": "Gold",
+    "hdcp": "No",
+    "height": "30.87 cm",
+    "height with stand": "39.45 cm",
+    "power consumption off": "0.35W",
+    "power consumption standby": "0.45W",
+    "power consumption typical": "13W",
+    "response time": "5 ms",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.2 kg",
+    "weight with stand": "2.6 kg",
+    "width": "36.9 cm",
+    "width with stand": "36.9 cm"
+}

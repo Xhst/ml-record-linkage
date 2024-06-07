@@ -1,0 +1,70 @@
+{
+    "<page title>": "Elo TouchSystems 1915L - MBE",
+    "aspect ratio": "5:4",
+    "camera included": [
+        "No",
+        "No"
+    ],
+    "certification": [
+        "UL/cUL, T\u00c3\u0153V-GS, CE, FCC/IC/VCCI, C-Tick Class B",
+        "UL/cUL, T\u00c3\u0153V-GS, CE, FCC/IC/VCCI, C-Tick Class B"
+    ],
+    "colour of product": [
+        "Grey",
+        "Grey"
+    ],
+    "contrast ratio typical": "1000:1",
+    "dimensions w x d x h with stand": "429 x 207 x 379 mm",
+    "display brightness": "270 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display resolution": "1024 x 768 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "376.3 x 301.1 mm",
+    "full hd": "No",
+    "hdready": "No",
+    "horizontal scan range": "31.5 - 80 kHz",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "native resolution": [
+        "1280 x 1024",
+        "1280 x 1024"
+    ],
+    "number of colours": "16.7M",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "540 x 495 x 285 mm",
+        "540 x 495 x 285 mm"
+    ],
+    "package weight": [
+        "11700g",
+        "11700g"
+    ],
+    "power consumption typical": "50W",
+    "power requirements": [
+        "85 - 265 VAC, 47 \u00e2\u20ac\u201c 63 Hz",
+        "85 - 265 VAC, 47 \u00e2\u20ac\u201c 63 Hz"
+    ],
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "5 ms",
+    "rs232 ports": "1",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "56.3 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "155\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "7.9 kg"
+}

@@ -1,0 +1,59 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer K 222HQL - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "5.2 cm",
+    "depth with stand": "20.7 cm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "hd type": "Full HD",
+    "hdmi ports quantity": "1",
+    "height": "30.45 cm",
+    "height adjustment": "No",
+    "height with stand": "39.05 cm",
+    "input voltage": "120 - 230V",
+    "pivot": "Yes",
+    "pivot angle": "-5 - 25\u00c2\u00b0",
+    "power consumption off": "0.35W",
+    "power consumption standby": "0.45W",
+    "power consumption typical": "18.1W",
+    "response time": "5 ms",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "65\u00c2\u00b0",
+    "weight": "2.7 kg",
+    "weight with stand": "3.1 kg",
+    "width": "50.8 cm",
+    "width with stand": "50.8 cm"
+}

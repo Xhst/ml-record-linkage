@@ -1,0 +1,162 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Iiyama ProLite XB2783HSU - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "5:4, 16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "Audio (3.5mm), DVI, USB, VGA",
+        "Audio (3.5mm), DVI, USB, VGA"
+    ],
+    "certification": "TCO, CE, T\u00c3\u0153V-GS, VCCI-B, PSE, CU",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "3000:1",
+    "depth": "23 cm",
+    "digital horizontal frequency": "30 - 80 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "A-MVA",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone outputs": "1",
+    "height": "40.05 cm",
+    "height adjustment": [
+        "13 cm",
+        "Yes"
+    ],
+    "horizontal scan range": "30 - 80 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "10",
+        "10"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), CHI (TR), DEU, DUT, ENG, ESP, FRE, ITA, JPN, POL, RUS",
+        "CHI (SIMPL), CHI (TR), DEU, DUT, ENG, ESP, FRE, ITA, JPN, POL, RUS"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.277 x 0.277 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5W",
+    "power consumption typical": "34W",
+    "power cord included": [
+        "Yes",
+        "Yes"
+    ],
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quantity": [
+        "1",
+        "1"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "4 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1280 x 1024 (SXGA), 1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "3",
+    "vertical scan range": "55 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "68.6 cm",
+    "viewable size horizontal": "33.566 cm",
+    "viewable size vertical": "59.674 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6 kg",
+    "width": "62.25 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Windows 2000, Windows 2000 Professional, Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows 95, Windows 98, Windows ME, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64, Windows XP Home, Windows XP Home x64, Windows XP Professional, Windows XP Professional x64",
+        "Windows 2000, Windows 2000 Professional, Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows 95, Windows 98, Windows ME, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64, Windows XP Home, Windows XP Home x64, Windows XP Professional, Windows XP Professional x64"
+    ]
+}

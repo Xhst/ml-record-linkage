@@ -1,0 +1,62 @@
+{
+    "<page title>": "ASUS VE228TLB - MediaShopUK",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "Energy Star\u00ae, BSMI, CB, CE, CEL level 2, C-Tick, FCC, Gost-R, ISO-9241-307, TCO5.2, UL/cUL, VCCI, Hygenic",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "80000000:1",
+    "depth with stand": "213.93 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "546.1 mm (21.5 \")",
+    "display resolution": "1920 x 1080 pixels",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "headphone out": "1",
+    "height adjustment": "Yes",
+    "height with stand": "364.07 mm",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "package weight": "7 kg",
+    "packaging depth": "54.90 mm",
+    "packaging height": "308.51 mm",
+    "packaging width": "512.84 mm",
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "35 W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "2 W",
+        "2 W"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "tv tuner integrated": "No",
+    "usb 20 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "4.8 kg",
+    "width with stand": "512.84 mm"
+}

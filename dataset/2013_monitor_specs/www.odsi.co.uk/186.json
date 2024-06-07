@@ -1,0 +1,77 @@
+{
+    "<page title>": "",
+    "aspect ratio": "Widescreen - 16:9",
+    "backlight life": "30,000 hours",
+    "backlight technology": "WLED",
+    "brightness": "300 cd/m2",
+    "builtin devices": "USB Hub",
+    "cables included": "1 x VGA cable \u00c2\u00a6 1 x DVI cable \u00c2\u00a6 1 x audio cable \u00c2\u00a6 1 x USB cable",
+    "colour": "Black",
+    "colour temperature": "9300K, 5000K, 6500K, 7500K",
+    "compliant standards": [
+        "FCC Class B certified, UL, cUL, NOM, CB, RoHS, WEEE",
+        "FCC Class B certified, UL, cUL, NOM, RoHS, WEEE, TUV Nord"
+    ],
+    "contrast ratio": "1000:1 / 20000000:1 (dynamic)",
+    "controls  adjustments": [
+        "Mute, volume, brightness, contrast, H/V position, sharpness, input select, colour temperature, H-size, aspect control",
+        "Mute, volume, brightness, contrast, H/V position, sharpness, colour balance, input select, colour temperature, H-size, aspect control"
+    ],
+    "description technical detail": "Viewsonic VG2439m series widescreen monitor\nThe VG2439m series widescreen monitor is one of two members of ViewSonics VG39 family. Its 24\" display with a native 1920 x 1080 resolution is big enough to replace dual monitor setups. What makes it even more appealing is the LED backlight for up to 50% energy savings. Monitor is also fully ergonomic with 90\u00c3\u0082\u00c2\u00ba pivot, height adjust, swivel and tilt. The slim bezel design coupled with hidden stereo speakers make the VG2439m a space saver.\nThe VG2439m-LED features DisplayPort, DVI-D digital, and a VGA analog input. You can connect multiple sources at the same time and then toggle between them by selecting the input source through the On-Screen-Display (OSD). You can also connect one of your computers USB ports to the monitors USB uplink input which then multiplies the USB ports to two. This way, you can connect your keyboard/mouse or other peripherals to your monitor directly and save yourself from the hassle of reaching to your computers USB ports.",
+    "diagonal size": "24\"",
+    "dimensions  weight details": [
+        "Without stand - 56.03 cm x 5.82 cm x 33.27 cm x 3.7 kg \u00c2\u00a6 With stand - 56.03 cm x 23.96 cm x 43.52 cm x 5.2 kg",
+        "Without stand - width: 56.03 cm - depth: 5.82 cm - height: 33.27 cm - weight: 3.7 kg \u00c2\u00a6 With stand - width: 56.03 cm - depth: 23.96 cm - height: 43.52 cm - weight: 5.2 kg"
+    ],
+    "dimensions wxdxh": "56.03 cm x 23.96 cm x 43.52 cm - with stand",
+    "display position adjustments": "Height, pivot (rotation), swivel, tilt",
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "epeat compliant": "EPEAT Gold",
+    "features": [
+        "Security lock slot (cable lock sold separately)",
+        "sRGB colour management, HDCP, Eco-Mode"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "135 mm",
+    "horizontal refresh rate": [
+        "82 kHz",
+        "24 - 82 kHz"
+    ],
+    "horizontal viewing angle": "170",
+    "humidity range operating": "10 - 90% (non-condensing)",
+    "included accessories": "Stand",
+    "included software": "ViewSonic Wizard",
+    "interfaces": [
+        "VGA \u00c2\u00a6 DVI-D ( HDCP ) \u00c2\u00a6 Audio line-in \u00c2\u00a6 2 x USB 2.0 downstream \u00c2\u00a6 USB 2.0 upstream ( Type B ) \u00c2\u00a6 Headphones \u00c2\u00a6 DisplayPort",
+        "VGA \u00c2\u00a6 DVI-D ( HDCP ) \u00c2\u00a6 Audio line-in \u00c2\u00a6 2 x USB 2.0 \u00c2\u00a6 USB 2.0 upstream ( Type B ) \u00c2\u00a6 Headphones \u00c2\u00a6 DisplayPort"
+    ],
+    "manufacturer": "Viewsonic",
+    "manufacturer part ": "VG2439M-LED",
+    "max operating temperature": "40 \u00c2\u00b0C",
+    "min operating temperature": "0 \u00c2\u00b0C",
+    "native resolution": [
+        "FullHD 1920 x 1080 at 60 Hz",
+        "FullHD 1920 x 1080"
+    ],
+    "output power  channel": "2 Watt",
+    "power consumption operational": "24 Watt",
+    "power consumption stand by  sleep": "1 Watt",
+    "power supply": "Internal",
+    "response time": "5 ms",
+    "rotation angle": "90",
+    "screen coating": "Anti-glare, 3H Hard Coating",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labour - 3 years \u00c2\u00a6 Limited warranty - backlight - 3 years",
+    "swivel angle": "360",
+    "tilt angle": "-5/+20",
+    "type": "Speakers - stereo - integrated",
+    "vertical refresh rate": [
+        "75 Hz",
+        "50 - 75 Hz"
+    ],
+    "vertical viewing angle": "160",
+    "viewable size": "23.6\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "5.2 kg"
+}

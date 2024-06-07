@@ -1,0 +1,117 @@
+{
+    "<page title>": "Hanns.G HP227DJB LED display - MBE",
+    "ac adapter included": [
+        "Yes",
+        "Yes"
+    ],
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "VGA",
+        "VGA"
+    ],
+    "certification": "CE, CB, TUV-GC",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "49.35 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display surface": "Matt",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "21.72 cm",
+    "height adjustment": "Yes",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "DEU, DUT, ENG, ESP, FRE, ITA, JPN, KOR, POR, RUS",
+        "DEU, DUT, ENG, ESP, FRE, ITA, JPN, KOR, POR, RUS"
+    ],
+    "operating relative humidity hh": "20 - 85%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "package weight": [
+        "5.17 kg",
+        "5.17 kg"
+    ],
+    "packaging depth": [
+        "17.2 cm",
+        "17.2 cm"
+    ],
+    "packaging height": [
+        "43.3 cm",
+        "43.3 cm"
+    ],
+    "packaging width": [
+        "57.8 cm",
+        "57.8 cm"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.248 x 0.248 mm",
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "24W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "3W",
+        "3W",
+        "3W"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.81 kg",
+    "width": "51.28 cm"
+}

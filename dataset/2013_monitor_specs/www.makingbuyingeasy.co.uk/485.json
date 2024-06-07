@@ -1,0 +1,75 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Essential 176Lbmd - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "dcin jack": "Yes",
+    "depth": "5.5 cm",
+    "depth with stand": "19.1 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "43.18 cm (17\")",
+    "display diagonal metric": "43 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "HD-ready",
+    "hdcp": "No",
+    "height": "30.87 cm",
+    "height with stand": "39.45 cm",
+    "input voltage": "110 - 220V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.35W",
+    "power consumption standby": "0.45W",
+    "power consumption typical": "11W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.2 kg",
+    "weight with stand": "2.6 kg",
+    "width": "36.9 cm",
+    "width with stand": "36.9 cm"
+}

@@ -1,0 +1,95 @@
+{
+    "<page title>": "Sharp PNE702 70\" LED-Backlit LCD Flat Panel Display",
+    "analogue video input signals": "SECAM, NTSC 3.58, NTSC4.43, PAL-M, PAL-N, PAL60",
+    "brightness": "450 cd/m2",
+    "colour depth": "Up to 1.06 billion colours",
+    "connector type": "HDMI input ( 19 pin HDMI Type A ) \u00a6 VGA input ( 15 PIN HD D-Sub (HD-15) ) \u00a6 Serial ( 9 PIN D-Sub ) \u00a6 Audio line-in ( mini-phone stereo 3.5 mm ) \u00a6 Audio line-out ( RCA phono x 2 ) \u00a6 Audio line-in ( RCA phono x 2 )",
+    "depth": "10 cm",
+    "description technical detail": "Sharp 70\" LED-Backlit LCD Flat Panel Display\nSharp\u00c3\u00a2\u00c2\u0080\u00c2\u0099s large-format, high-performance LCD monitors are designed to meet the diverse needs of business users and boast solid reliability, superb durability, and easy operation. They come in a wide range of sizes with a choice of portrait or landscape installation, allowing customers to choose the monitor best suited to location and purpose. Not only are Sharp LCD monitors a dynamic and effective way to convey information, but they also add visual impact to offices and public spaces, with the added advantage of low power consumption.\n- 176,6 cm diagonal screen size- 1.920 x 1.080 resolution in dots- UV2A technology- Contrast 4.000:1- Full LED backlight- 24 / 7 Operation- Energy Efficient- Modul Slot System",
+    "diagonal size": [
+        "70\"",
+        "70\""
+    ],
+    "diagonal size cm": [
+        "176.6 cm",
+        "176.6 cm"
+    ],
+    "dimensions": "Without stand",
+    "dimensions wxdxh": "161.6 cm x 10 cm x 94.7 cm - without stand",
+    "display format": [
+        "1080p (FullHD)",
+        "1080p (FullHD)"
+    ],
+    "energy class": [
+        "Class A",
+        "Class A"
+    ],
+    "features": [
+        "Picture in picture (no tuner), portrait mode, Certified for 24/7 Continuous Operation, landscape mode, UV 2 A technology, Data Signal Power Auto (DSPA)",
+        "Picture in picture (no tuner), portrait mode, Certified for 24/7 Continuous Operation, landscape mode, UV 2 A technology, Data Signal Power Auto (DSPA)"
+    ],
+    "flat panel mount interface": "200 x 200 mm, 400 x 200 mm",
+    "hdcp compatible": [
+        "Yes",
+        "Yes"
+    ],
+    "height": "94.7 cm",
+    "image contrast ratio": "4000:1",
+    "input video formats": [
+        "480p, 720p, 1080i, 1080p, 480i, 540p, 1035i, 576i, 576p, 1080/24p",
+        "480p, 720p, 1080i, 1080p, 480i, 540p, 1035i, 576i, 576p, 1080/24p"
+    ],
+    "lcd backlight technology": [
+        "LED backlight - full array",
+        "LED backlight - full array"
+    ],
+    "manufacturer": "Sharp",
+    "manufacturer part ": "PNE702",
+    "nominal voltage": "AC 120/230 V",
+    "output power  total": "14 Watt",
+    "pc interface": [
+        "VGA (HD-15)",
+        "VGA (HD-15)"
+    ],
+    "power": "AC 120/230 V",
+    "power consumption operational": [
+        "240 Watt",
+        "240 Watt"
+    ],
+    "power consumption sleep": "0.38 Watt",
+    "power device": "Power supply",
+    "product description": "Sharp PN-E702 - 70\" LED-backlit LCD flat panel display",
+    "product type": [
+        "LED-backlit LCD flat panel display",
+        "LED-backlit LCD flat panel display"
+    ],
+    "remote control": "Remote control",
+    "resolution": [
+        "1920 x 1080",
+        "1920 x 1080"
+    ],
+    "response time": "6 ms",
+    "series": "PN-E Series",
+    "speaker system": [
+        "2 speakers",
+        "2 speakers"
+    ],
+    "speakers": "2 x main channel speaker - built-in - 7 Watt",
+    "supported computer resolutions": "1366 x 768, 1024 x 768 (XGA), 800 x 600 (SVGA), 1280 x 1024 (SXGA), 1600 x 1200 (UXGA), 1360 x 768, 1920 x 1080, 1280 x 800, 1400 x 1050",
+    "tv tuner": [
+        "No tuner",
+        "No tuner"
+    ],
+    "type": "Remote control",
+    "video interface": [
+        "HDMI",
+        "HDMI"
+    ],
+    "viewing angle": "176 degrees",
+    "viewing angle vertical": "176 degrees",
+    "weight": [
+        "50 kg",
+        "50 kg"
+    ],
+    "width": "161.6 cm"
+}

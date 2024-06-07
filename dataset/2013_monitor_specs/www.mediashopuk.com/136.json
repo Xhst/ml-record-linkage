@@ -1,0 +1,81 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "AG Neovo U-17 - MediaShopUK",
+    "analog signal format system": "NTSC, PAL",
+    "aspect ratio": "4:3, 5:4",
+    "audio input": "Yes",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "certification": "UL/CUL, CB, FCC, CE, GOST-R, WEEE, RoHS, REACH, Vista/Basic",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "390 mm",
+    "digital horizontal frequency": "24 - 81 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "431.8 mm (17 \")",
+    "display diagonal metric": "43.2 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1280 x 1024 pixels",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hd type": "No",
+    "hdcp": "No",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height": "174 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "operating relative humidity hh": "10 - 90 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "power consumption off": "1 W",
+    "power consumption standby": "1 W",
+    "power consumption typical": "20 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "3 ms",
+    "rms rated power": [
+        "1 W",
+        "1 W"
+    ],
+    "storage relative humidity hh": "5 - 95 %",
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "thin client installed": "No",
+    "tilt angle": "0 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.7 kg",
+    "width": "397 mm"
+}

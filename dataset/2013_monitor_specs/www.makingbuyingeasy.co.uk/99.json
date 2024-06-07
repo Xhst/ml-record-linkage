@@ -1,0 +1,85 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS VE228TR LED display - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "80000000:1",
+    "depth": "5.69 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "50 - 76 Hz",
+    "dimensions w x d x h with stand": "512.84 x 201.82 x 385.96 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "30.551 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "package weight": [
+        "6.1 kg",
+        "6.1 kg"
+    ],
+    "packaging depth": [
+        "14.8 cm",
+        "14.8 cm"
+    ],
+    "packaging height": [
+        "46.8 cm",
+        "46.8 cm"
+    ],
+    "packaging width": [
+        "57.6 cm",
+        "57.6 cm"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "35W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.1 kg",
+    "width": "51.284 cm"
+}

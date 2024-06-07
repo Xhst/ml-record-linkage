@@ -1,0 +1,67 @@
+{
+    "<page title>": "AOC I2460PXQU 24  IPS DVI-D HDMI Display Port Monitor - MBE",
+    "aspect ratio": "16:10",
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "VGA, Audio (3.5mm), DVI",
+        "VGA, Audio (3.5mm), DVI"
+    ],
+    "certification": "EuP, FCC, GOST, ISO 9241-307, NRTL, RoHS, T\u00c3\u0153V-GS, TCO 6.0",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "24.46 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "50 - 76 Hz",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "61 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1200 pixels",
+    "display technology": "IPS",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "42.34 cm",
+    "height adjustment": [
+        "Yes",
+        "13 cm"
+    ],
+    "input frequency": "50/60 Hz",
+    "input voltage": "110 - 220V",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pivot": "Yes",
+    "power consumption off": "0.5W",
+    "power consumption standby": "1W",
+    "power consumption typical": "22W",
+    "response time": "6 ms",
+    "supported graphics resolutions": "1920 x 1200 (WUXGA)",
+    "swivelling": "Yes",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.65 kg",
+    "width": "55.84 cm"
+}

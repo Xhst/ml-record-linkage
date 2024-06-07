@@ -1,0 +1,84 @@
+{
+    "<page title>": "Benq GL2460HM - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bezel width bottom": "1.6 cm",
+    "bezel width side": "1.6 cm",
+    "bezel width top": "1.6 cm",
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.4 cm",
+    "depth with stand": "19.4 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN",
+    "dvi port": "Yes",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone outputs": "1",
+    "height": "56.5 cm",
+    "height with stand": "56.5 cm",
+    "input voltage": "90 - 264V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "package weight": [
+        "5.8 kg",
+        "5.8 kg"
+    ],
+    "packaging depth": [
+        "41.7 cm",
+        "41.7 cm"
+    ],
+    "packaging height": [
+        "64.9 cm",
+        "64.9 cm"
+    ],
+    "packaging width": [
+        "12.3 cm",
+        "12.3 cm"
+    ],
+    "power consumption powersave": "0.3W",
+    "power consumption typical": "23W",
+    "response time": "2 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.3 kg",
+    "width": "33.3 cm",
+    "width with stand": "43.4 cm"
+}

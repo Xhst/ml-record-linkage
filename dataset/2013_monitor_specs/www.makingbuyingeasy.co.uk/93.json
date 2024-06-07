@@ -1,0 +1,68 @@
+{
+    "<page title>": "Acer Everyday K242HL - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "5.2 cm",
+    "depth with stand": "20.7 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "609 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "epeat compliance": "Gold",
+    "hdcp": "Yes",
+    "height": "33.59 cm",
+    "height adjustment": "No",
+    "height with stand": "42.19 cm",
+    "horizontal scan range": "30 - 80 kHz",
+    "input voltage": "110 - 220V",
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "pixel pitch": "0.276 x 0.276 mm",
+    "power consumption standby": "0.35W",
+    "power consumption typical": "20.09W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "55 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "53.1 cm",
+    "viewable size vertical": "29.9 cm",
+    "viewing angle horizontal": "176\u00c2\u00b0",
+    "viewing angle vertical": "170\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.1 kg",
+    "weight with stand": "3.57 kg",
+    "width": "56.7 cm",
+    "width with stand": "56.7 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

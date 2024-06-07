@@ -1,0 +1,43 @@
+{
+    "<page title>": "AG Neovo X-15 - MediaShopUK",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "3000:1",
+    "depth": "155 mm",
+    "display": "LCD",
+    "display brightness": "320 cd/m\u00b2",
+    "display diagonal": "381 mm (15 \")",
+    "display resolution": "1024 x 768 pixels",
+    "dvid ports quantity": "1",
+    "height": "359 mm",
+    "horizontal scan range": "30 - 60 kHz",
+    "pixel pitch": "0.297 x 0.297 mm",
+    "response time": "4 ms",
+    "svideo inputs quantity": "1",
+    "tv tuner integrated": "No",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "video dot rate": [
+        "80 MHz",
+        "80 MHz"
+    ],
+    "viewing angle horizontal": "140 \u00b0",
+    "viewing angle vertical": "125 \u00b0",
+    "weight": "4.8 kg",
+    "width": "380 mm"
+}

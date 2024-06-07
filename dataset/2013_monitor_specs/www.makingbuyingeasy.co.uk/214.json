@@ -1,0 +1,95 @@
+{
+    "<page title>": "LG 22MB65PM - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, VGA",
+        "AC, Audio (3.5mm), DVI, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth with stand": "23.9 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display diagonal metric": "55.88 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1680 x 1050 pixels",
+    "display technology": "TN",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "feet colour": [
+        "Black",
+        "Black"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height adjustment": "Yes",
+    "height with stand": "37.9 cm",
+    "input frequency": "47-63 Hz",
+    "input voltage": "90 - 264V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "14",
+        "14"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pc audio in": "Yes",
+    "pivot": "Yes",
+    "pixel pitch": "0.282 x 0.282 mm",
+    "power consumption off": "0.3W",
+    "power consumption standby": "0.4W",
+    "power consumption typical": "21W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "user guide on cdrom": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "47.386 cm",
+    "viewable size vertical": "29.616 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "4.7 kg",
+    "width with stand": "50.6 cm"
+}

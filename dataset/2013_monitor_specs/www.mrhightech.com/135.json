@@ -1,0 +1,73 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq GW2460HM - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "bezel width side": "16 mm",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "5000:1",
+    "depth": "54 mm",
+    "depth with stand": "194 mm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "609.6 mm (24 \")",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvii ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height": "334 mm",
+    "height with stand": "434 mm",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.276 x 0.276 mm",
+    "power consumption standby": "0.3 W",
+    "power consumption typical": "22 W",
+    "response time": "4 ms",
+    "rms rated power": [
+        "1 W",
+        "1 W"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.6 kg",
+    "width": "565 mm",
+    "width with stand": "565 mm"
+}

@@ -1,0 +1,56 @@
+{
+    "<page title>": "Benq BL902TM - MBE",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "TCO5.0",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "22.26 cm",
+    "depth with stand": "41.92 cm",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display resolution": "1280 x 1024 pixels",
+    "hdcp": "Yes",
+    "headphone outputs": "1",
+    "height": "41.92 cm",
+    "height with stand": "5.605 cm",
+    "pixel pitch": "0.294 x 0.294 mm",
+    "power consumption typical": "25.8W",
+    "power requirements": "100 - 240 VAC",
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "weight": "5.1 kg",
+    "weight with stand": "7.6 kg",
+    "width": "43.235 cm",
+    "width with stand": "36.125 cm"
+}

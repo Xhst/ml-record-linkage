@@ -1,0 +1,74 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 23CAV42K - MediaShopUK",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "certification": "UL(cUL), TUV-Type, FCC-B(CE), EPA, CCC, C-tick",
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "47 mm",
+    "depth with stand": "131 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "584.2 mm (23 \")",
+    "display diagonal metric": "58 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "dvi port": "Yes",
+    "dvii ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "No",
+    "headphone out": "1",
+    "height": "332 mm",
+    "height adjustment": "Yes",
+    "height with stand": "387 mm",
+    "input voltage": "100 - 240 V",
+    "microphone in": "Yes",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "pivot": "Yes",
+    "response time": "14 ms",
+    "rms rated power": [
+        "2 W",
+        "2 W",
+        "2 W"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivelling": "Yes",
+    "thin client installed": "Yes",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "6",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "33.5 kg",
+    "weight with stand": "5.56 kg",
+    "width": "544 mm",
+    "width with stand": "544 mm"
+}

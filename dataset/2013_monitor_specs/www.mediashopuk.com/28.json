@@ -1,0 +1,132 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips 221P3LPEB - MediaShopUK",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS, BSMI, CE, FCC B,GOST, SEMKO, TCO 5.1, TUV Ergo, TUV/GS, UL/cUL",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "59 mm",
+    "depth with stand": "220 mm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "546.1 mm (21.5 \")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "display viewable area hxv": [
+        "476.6 x 268.1 mm",
+        "476.6 x 268.1 mm"
+    ],
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height": "323 mm",
+    "height adjustment": "Yes",
+    "height with stand": "487 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000 h",
+        "30000 h"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS"
+    ],
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package weight": "7.43 kg",
+    "packaging depth": "262 mm",
+    "packaging height": "377 mm",
+    "packaging width": "565 mm",
+    "pc audio in": "Yes",
+    "pivot": "Yes",
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption powersave": "13.5 W",
+    "power consumption standby": "0.1 W",
+    "power consumption typical": "17.8 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "relative humidity": "20 - 80 %",
+    "response time": "5 ms",
+    "rms rated power": [
+        "3 W",
+        "3 W"
+    ],
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "swivel angle range": "-65 - 65 \u00b0",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "usb 20 ports quantity": "4",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "176 \u00b0",
+    "viewing angle vertical": "170 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.51 kg",
+    "weight with stand": "5.64 kg",
+    "width": "507 mm",
+    "width with stand": "507 mm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL UltraSharp U2713HM - MBE",
+    "ac adapter included": [
+        "Yes",
+        "Yes"
+    ],
+    "aspect ratio": "16:9",
+    "audio output": "Yes",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "DVI, USB, VGA",
+        "DVI, USB, VGA"
+    ],
+    "certification": "TCO Certified",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "2000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "20.03 cm",
+    "depth with stand": "20.03 cm",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68.58 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "2560 x 1440 pixels",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "37.82 cm",
+    "height adjustment": "Yes",
+    "height with stand": "42.43 cm",
+    "input current": "1.5A",
+    "input frequency": "47-63 Hz",
+    "input voltage": "100 - 240V",
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "10200g",
+        "10200g"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.23 x 0.23 mm",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "42W",
+    "product type": "PC monitor",
+    "response time": "8 ms",
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "2560 x 1440",
+    "swivelling": "Yes",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 30 ports quantity": "5",
+    "vesa mounting interfaces compatibility": "Yes",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.6 kg",
+    "width": "63.93 cm",
+    "width with stand": "63.93 cm"
+}

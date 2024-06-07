@@ -1,0 +1,76 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Wortmann AG 1940HA - MrHighTech Shop",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, VGA",
+        "AC, Audio (3.5mm), DVI, VGA"
+    ],
+    "certification": "ISO 9241-307, TCO Displays 6.0",
+    "colour of product": [
+        "Black, Silver",
+        "Black, Silver"
+    ],
+    "contrast ratio dynamic": "30000000:1",
+    "depth": "52 mm",
+    "depth with stand": "214 mm",
+    "digital horizontal frequency": "24 - 80 kHz",
+    "digital vertical frequency": "50 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "482.6 mm (19 \")",
+    "display diagonal metric": "48.2 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1280 x 1024 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hdcp": "Yes",
+    "height": "345 mm",
+    "height adjustment": "Yes",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.294 x 0.294 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "17 W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15 \u00b0",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "4.5 kg",
+    "width": "415 mm",
+    "width with stand": "415 mm"
+}

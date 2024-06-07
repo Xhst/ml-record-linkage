@@ -1,0 +1,156 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Samsung S27C650D - MBE",
+    "aspect ratio": "16:9",
+    "audio input": "No",
+    "audio output": "No",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable length": "1.5m",
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "USB, VGA",
+        "USB, VGA"
+    ],
+    "certification": "UL, CSA, TUV, NEMKO, KC, CCC, GB, GOST, IEC60950-1, SIQ, PCBC, NOM, SASO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "Mega Contrast",
+    "contrast ratio typical": "5000:1",
+    "depth": "5.67 cm",
+    "depth with stand": "22.4 cm",
+    "dimensions w x d x h with stand": "639 x 224 x 532.8 mm",
+    "dimensions wxdxh": "639 x 56.7 x 378.1 mm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "MVA",
+    "display viewable area hxv": [
+        "597.6 x 336.15 mm",
+        "597.6 x 336.15 mm"
+    ],
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "electromagnetic compatibility": "FCC, V-3, KCC, C-Tick, CCC",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "height": "37.81 cm",
+    "height adjustment": [
+        "Yes",
+        "13 cm"
+    ],
+    "height with stand": "53.28 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "microphone in": "No",
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": "722 x 461 x 187 mm",
+    "package weight": [
+        "8.05 kg",
+        "8.05 kg"
+    ],
+    "packaging depth": [
+        "46.1 cm",
+        "46.1 cm"
+    ],
+    "packaging height": [
+        "18.7 cm",
+        "18.7 cm"
+    ],
+    "packaging width": [
+        "72.2 cm",
+        "72.2 cm"
+    ],
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "-1 - 95\u00c2\u00b0",
+    "pixel pitch": "0.31125 x 0.31125 mm",
+    "placement supported": [
+        "Horizontal/Vertical",
+        "Horizontal/Vertical"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "4 ms",
+    "screen saving functions": [
+        "Yes",
+        "Yes"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-3 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "1",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "59.76 cm",
+    "viewable size vertical": "33.615 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.5 kg",
+    "weight with stand": "6.2 kg",
+    "width": "63.9 cm",
+    "width with stand": "63.9 cm",
+    "wifi": "No"
+}

@@ -1,0 +1,76 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Iiyama ProLite E2083HD-1 - MBE",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "20.3 cm",
+    "digital horizontal frequency": "30 - 80 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "49.53 cm (19.5\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1600 x 900 pixels",
+    "display technology": "TN+Film",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hdcp": "Yes",
+    "height": "36 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of osd languages": [
+        "10",
+        "10"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.271 x 0.271 mm",
+    "power consumption standby": "1W",
+    "power consumption typical": "15W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "separate hv sync": "Yes",
+    "supported graphics resolutions": "1600 x 900",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 22\u00c2\u00b0",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "43.39 cm",
+    "viewable size vertical": "23.63 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.6 kg",
+    "width": "46.95 cm",
+    "wifi": "No"
+}

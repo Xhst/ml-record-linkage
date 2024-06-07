@@ -1,0 +1,162 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips Brilliance IPS LCD monitor, LED backlight 231P4QPYKES - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin microphone": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS, BSMI, CE, FCC B, GOST, SASO, SEMKO, TUV Ergo, TUV/GS, TCO 5.2, UL/cUL, WEEE",
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6 cm",
+    "depth with stand": "22 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display diagonal metric": "58.4 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "display technology": "IPS",
+    "display viewable area hxv": [
+        "509.18 x 286.41 mm",
+        "509.18 x 286.41 mm"
+    ],
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "headphone outputs": "1",
+    "height": "34.3 cm",
+    "height adjustment": [
+        "13 cm",
+        "Yes"
+    ],
+    "height with stand": "51.5 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "megapixel": [
+        "2 MP",
+        "2 MP",
+        "2 MP"
+    ],
+    "microphone in": "Yes",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS"
+    ],
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "5.23 kg",
+        "5.23 kg"
+    ],
+    "packaging depth": [
+        "26.3 cm",
+        "26.3 cm"
+    ],
+    "packaging height": [
+        "40 cm",
+        "40 cm"
+    ],
+    "packaging width": [
+        "60 cm",
+        "60 cm"
+    ],
+    "pc audio in": "Yes",
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.265 x 0.265 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption powersave": "18W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "29.1W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "relative humidity": "20 - 80%",
+    "response time": "7 ms",
+    "rms rated power": [
+        "3W",
+        "3W",
+        "3W"
+    ],
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "swivel angle range": "-65 - 65\u00c2\u00b0",
+    "swivelling": "Yes",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "3",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.09 kg",
+    "weight with stand": "7.7 kg",
+    "width": "54.7 cm",
+    "width with stand": "54.7 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

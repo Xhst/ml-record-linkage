@@ -1,0 +1,141 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips 247E4LHSB - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "audio output": "Yes",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC",
+        "AC"
+    ],
+    "certification": "RoHS, BSMI, CE Mark, FCC B,GOST, PSB, SASO, SEMKO, TCO 6.0, TUV/ISO9241-307, UL/cUL, WEEE",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "39 mm",
+    "depth with stand": "193 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "599.4 mm (23.6 \")",
+    "display diagonal metric": "59.9 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "No",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdmi ports quantity": "2",
+    "height": "348 mm",
+    "height with stand": "434 mm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "linux operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000 h",
+        "30000 h"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 12192 m",
+    "operating relative humidity hh": "20 - 80 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package weight": [
+        "5.6 kg",
+        "5.6 kg"
+    ],
+    "packaging depth": [
+        "104 mm",
+        "104 mm"
+    ],
+    "packaging height": [
+        "505 mm",
+        "505 mm"
+    ],
+    "packaging width": [
+        "605 mm",
+        "605 mm"
+    ],
+    "pixel pitch": "0.272 x 0.272 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.3 W",
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "17.2 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 75 Hz",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "521.28 mm",
+    "viewable size vertical": "293.22 mm",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "170 \u00b0",
+    "weight": "3.16 kg",
+    "weight with stand": "3.44 kg",
+    "width": "557 mm",
+    "width with stand": "557 mm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

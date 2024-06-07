@@ -1,0 +1,113 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "NEC EA234WMI-BK - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DVI, USB, VGA",
+        "AC, DVI, USB, VGA"
+    ],
+    "certification": "TC Edge 1.2, RoHS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "composite sync": "Yes",
+    "contrast ratio dynamic": "25000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6.05 cm",
+    "depth with stand": "21.8 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "32.16 cm",
+    "height adjustment": [
+        "Yes",
+        "13 cm"
+    ],
+    "height with stand": "51.04 cm",
+    "horizontal scan range": "31.5 - 83 kHz",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "nonoperating altitude": "0 - 12192m",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 2000m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pivot": "Yes",
+    "pixel pitch": "0.27 x 0.27 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.41W",
+    "power consumption typical": "27W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "6 ms",
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "10 - 85%",
+    "storage temperature tt": "-10 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivelling": "Yes",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "4",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4 kg",
+    "weight with stand": "6.4 kg",
+    "width": "54.38 cm",
+    "width with stand": "54.38 cm"
+}

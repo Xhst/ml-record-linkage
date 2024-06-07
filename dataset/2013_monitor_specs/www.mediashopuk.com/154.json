@@ -1,0 +1,96 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips 190SL1SB - MediaShopUK",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "BSMI, CE Mark, FCC Class B, GOST, SEMKO, TCO 5.2, TUV/GS, TUV Ergo, UL/cUL, WEEE",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "68 mm",
+    "depth with stand": "183 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "482.6 mm (19 \")",
+    "display diagonal metric": "48.3 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1440 x 900 pixels",
+    "display srgb": "Yes",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "height": "305 mm",
+    "height adjustment": "No",
+    "height with stand": "372 mm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "mean time between failures mtbf": [
+        "30000 h",
+        "30000 h"
+    ],
+    "number of osd languages": [
+        "9",
+        "9"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS"
+    ],
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package dimensions wxdxh": "488 x 420 x 141 mm",
+    "pixel pitch": "0.283 x 0.283 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption powersave": "7.7 W",
+    "power consumption standby": "0.3 W",
+    "power consumption typical": "11.4 W",
+    "relative humidity": "20-80 %",
+    "response time": "5 ms",
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1440 x 900 (WXGA+)",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "408.24 mm",
+    "viewable size vertical": "255.15 mm",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.04 kg",
+    "weight with stand": "3.31 kg",
+    "width": "436 mm",
+    "width with stand": "436 mm"
+}

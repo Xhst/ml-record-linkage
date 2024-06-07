@@ -1,0 +1,127 @@
+{
+    "<page title>": "ASUS PA248Q LED display - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:10",
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, DisplayPort, DVI, USB, VGA",
+        "AC, DisplayPort, DVI, USB, VGA"
+    ],
+    "certification": "TCO 5.2, UL/cUL, CB, CE, ErP, FCC, CCC, TUV-GS, TUV-ERGO, ISO9241-307, BSMI, Gost-R, C-Tick, VCCI, PSB, NOM, J-MOSS, Windows 7 WHQL, Mac Compliance",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "80000000:1",
+    "depth": "6.2 cm",
+    "depth with stand": "23.5 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "50 - 76 Hz",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "61.21 cm (24.1\")",
+    "display diagonal metric": "61.13 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1200 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone outputs": "1",
+    "height": "36.28 cm",
+    "height with stand": "41.63 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "maximum resolution": [
+        "1920 x 1200 pixels",
+        "1920 x 1200 pixels"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "9.9 kg",
+        "9.9 kg"
+    ],
+    "packaging depth": [
+        "29.2 cm",
+        "29.2 cm"
+    ],
+    "packaging height": [
+        "43.9 cm",
+        "43.9 cm"
+    ],
+    "packaging width": [
+        "68.1 cm",
+        "68.1 cm"
+    ],
+    "pictureinpicture": [
+        "Yes",
+        "Yes"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.27 x 0.27 mm",
+    "placement supported": [
+        "Horizontal/Vertical",
+        "Horizontal/Vertical"
+    ],
+    "power consumption off": "1W",
+    "power consumption typical": "75W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "6 ms",
+    "safety": "RoHS",
+    "screen saving functions": [
+        "Yes",
+        "Yes"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "usb 30 ports quantity": "5",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.4 kg",
+    "width": "55.72 cm",
+    "width with stand": "55.72 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

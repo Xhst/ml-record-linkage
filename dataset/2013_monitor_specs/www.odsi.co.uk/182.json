@@ -1,0 +1,111 @@
+{
+    "<page title>": "",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "builtin devices": [
+        "2 microphones, USB 3.0 hub, FHD camera",
+        "Touch-screen , 2 microphones, USB 3.0 hub, FHD camera"
+    ],
+    "cables included": "1 x DVI cable - DVI-D to DVI-D \u00a6 1 x VGA cable \u00a6 1 x USB cable \u00a6 1 x audio cable",
+    "colour": [
+        "Black",
+        "Black"
+    ],
+    "colour support": [
+        "16.7 million colours",
+        "16.7 million colours"
+    ],
+    "compatible with windows 7": "\"Compatible with Windows 7\" software and devices carry Microsoft\u2019s assurance that these products have passed tests for compatibility and reliability with 32-bit and 64-bit Windows 7.",
+    "compliant standards": [
+        "Plug and Play, DDC-2B, VESA DPMS, FCC Part 15 B, DDC/CI, RoHS, ISO 9241-307, WEEE, TCO Displays 6.0",
+        "Plug and Play, DDC-2B, VESA DPMS, FCC Part 15 B, DDC/CI, RoHS, ISO 9241-307, WEEE, TCO Displays 6.0"
+    ],
+    "contrast ratio": [
+        "1000:1 / 25000:1 (dynamic)",
+        "1000:1 / 25000:1 (dynamic)"
+    ],
+    "controls  adjustments": "Brightness, contrast, H/V position, colour balance",
+    "description technical detail": "NEC MultiSync E232WMT - LED-Backlit LCD Monitor - 23\" - Multi-Touch\nThe 23\" NEC MultiSync E232WMT is a LED-backlit multi-touch desktop monitor ideal for a variety of environments. Immerse yourself in a fully interactive experience with 10-point multi-touch control, Full-HD camera, speakers and adjustable stand. Designed to enhance work performance, this widescreen model features IPS panel technology with wide viewing angles and ergonomic adjustability. The LED backlighting of the E232WMT allows for a slimmer profile, lighter weight and increased power savings. A comprehensive input panel, including HDMI, DVI-D, VGA and a port USB 3.0 hub, connects users to the latest peripherals and future-proofs the investment.",
+    "device type": [
+        "LED-backlit LCD monitor - 23\"",
+        "LED-backlit LCD monitor - 23\" - Multi-Touch"
+    ],
+    "diagonal size": "23\"",
+    "dimensions  weight details": "Without stand - width: 56.1 cm - depth: 5.72 cm - height: 35.42 cm - weight: 5.3 kg \u00a6 With stand - width: 56.1 cm - depth: 24.97 cm - height: 35.49 cm - weight: 7.6 kg",
+    "dimensions wxdxh": [
+        "56.1 cm x 24.97 cm x 35.49 cm - with stand",
+        "56.1 cm x 24.97 cm x 35.49 cm - with stand"
+    ],
+    "display position adjustments": [
+        "Height, pivot (rotation), swivel, tilt",
+        "Height, pivot (rotation), swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": "ENERGY STAR Qualified",
+    "features": [
+        "Cable organizer",
+        "Ambient light sensor, Navi Key, XtraView, AccuColor Control Systems, Rapid Response, No Touch Auto Adjust, Ambix, Intelligent Power Manager (IPM), HDCP, Eco-Mode, OSD lock, Carbon Footprint Meter, NaViSet Administrator 2"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "53.8 mm",
+    "horizontal refresh rate": "31.5 - 83 kHz",
+    "horizontal viewing angle": "+85 / -85",
+    "humidity range operating": "20 - 80%",
+    "included software": "NaViSet",
+    "input connectors": "HDMI, DVI-D, VGA",
+    "interfaces": "VGA ( HD-15 ) \u00a6 DVI-D ( HDCP ) \u00a6 HDMI \u00a6 USB 3.0 upstream \u00a6 4 x USB 3.0 downstream \u00a6 Audio line-in \u00a6 Audio line-out",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003680",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "35 \u00b0C",
+    "microsoft certification": "Compatible with Windows 7",
+    "min operating temperature": "5 \u00b0C",
+    "movement detection technology": "Projected capacitive",
+    "native resolution": [
+        "FullHD 1920 x 1080",
+        "1920 x 1080",
+        "1920 x 1080"
+    ],
+    "output power  channel": "1 Watt",
+    "panel type": [
+        "AH-IPS",
+        "AH-IPS"
+    ],
+    "pixel per inch": "96 ppi",
+    "pixel pitch": [
+        "0.27 mm",
+        "0.27 mm"
+    ],
+    "power consumption operational": "24 Watt",
+    "power consumption stand by": "0.8 Watt",
+    "power supply": "Internal",
+    "product description": "NEC MultiSync E232WMT - LED monitor - 23\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labour - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "speakers": "Integrated",
+    "type": [
+        "Touch-screen - Multi-Touch",
+        "Speakers - stereo - integrated"
+    ],
+    "vertical refresh rate": "56 - 75 Hz",
+    "vertical viewing angle": "+85 / -85",
+    "viewable size": "23\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "7.6 kg",
+        "7.6 kg"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "<page title>": "Philips C221S3UCW - MediaShopUK",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS",
+    "colour of product": [
+        "White",
+        "White"
+    ],
+    "compliance industry standards": "EMC: CE Mark, IEC/EN60601-1-2 Safety: CE Mark, IEC/EN60601-1 Ergonomic/Others: JIS Z2801, WEEE",
+    "contrast ratio typical": "1000:1",
+    "depth": "59 mm",
+    "depth with stand": "201 mm",
+    "display": "LED",
+    "display brightness": "150 cd/m\u00b2",
+    "display diagonal": "546.1 mm (21.5 \")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "display technology": "LCD/TFT",
+    "energy efficiency class": "Unspecified",
+    "epeat compliance": "Silver",
+    "feet colour": [
+        "White",
+        "White"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "No",
+    "height": "323 mm",
+    "height adjustment": "Yes",
+    "height with stand": "402 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 120 V",
+    "led indicators": [
+        "Operation",
+        "Operation"
+    ],
+    "mean time between failures mtbf": [
+        "30.000 h",
+        "30.000 h"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), ENG, ESP, FRE, ITA, POR, RUS",
+        "CHI (SIMPL), ENG, ESP, FRE, ITA, POR, RUS"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package weight": "5.13 kg",
+    "packaging depth": "131 mm",
+    "packaging height": "461 mm",
+    "packaging width": "565 mm",
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.3 W",
+    "power consumption typical": "10.3 W",
+    "response time": "5 ms",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "swivelling": "Yes",
+    "tilt adjustment": "Yes",
+    "usb 20 ports quantity": "1",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "viewable size horizontal": "476.6 mm",
+    "viewable size vertical": "268.1 mm",
+    "viewing angle horizontal": "160 \u00b0",
+    "viewing angle vertical": "150 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.44 kg",
+    "weight with stand": "3.85 kg",
+    "width": "507 mm",
+    "width with stand": "507 mm"
+}

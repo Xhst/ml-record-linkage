@@ -1,0 +1,82 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "AOC E2470SWHE LED display - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "HDMI, VGA",
+        "HDMI, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "dcin jack": "Yes",
+    "depth": "78.2 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "599.4 mm (23.6 \")",
+    "display diagonal metric": "59.9 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "LCD",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "feet colour": [
+        "Black",
+        "Black"
+    ],
+    "handheld remote control": [
+        "No",
+        "No"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "No",
+    "hdmi ports quantity": "2",
+    "height": "396.9 mm",
+    "height adjustment": "No",
+    "input frequency": "50/60 Hz",
+    "input voltage": "110 - 240 V",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.276 x 0.276 mm",
+    "power consumption off": "0.5 W",
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "26 W",
+    "response time": "5 ms",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.58 kg",
+    "width": "551.4 mm"
+}

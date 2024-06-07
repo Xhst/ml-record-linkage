@@ -1,0 +1,111 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Iiyama ProLite X2483HSU-1 - MBE",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "audio output": "Yes",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, USB, VGA",
+        "AC, Audio (3.5mm), DVI, USB, VGA"
+    ],
+    "certification": "TCO, CE, T\u00c3\u0153V-GS, VCCI-B, PSE, CU",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "3000:1",
+    "depth": "20.3 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "A-MVA",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "height": "41.2 cm",
+    "height adjustment": "No",
+    "horizontal scan range": "30 - 80 kHz",
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "10",
+        "10"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, DUT, ENG, ESP, FRE, ITA, JPN, POL, RUS",
+        "CHI (SIMPL), DEU, DUT, ENG, ESP, FRE, ITA, JPN, POL, RUS"
+    ],
+    "pixel pitch": "0.277 x 0.277 mm",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "27W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "4 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "separate hv sync": "Yes",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 22\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "vertical scan range": "55 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "53.14 cm",
+    "viewable size vertical": "29.89 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.3 kg",
+    "width": "56.55 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

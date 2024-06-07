@@ -1,0 +1,96 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "HP Compaq LE1711 - MBE",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black, Silver",
+        "Black, Silver"
+    ],
+    "contrast ratio typical": "1000:1",
+    "current rating": "0.50A",
+    "depth": "5.7 cm",
+    "depth with stand": "20.6 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "43.18 cm (17\")",
+    "display diagonal metric": "43.2 cm",
+    "display resolution": "1280 x 1024 pixels",
+    "display surface": "Matt",
+    "dvi port": "No",
+    "hd type": "No",
+    "hdcp": "No",
+    "height": "31.6 cm",
+    "height with stand": "38.6 cm",
+    "horizontal scan range": "24 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DUT, ENG, ESP, FRE, ITA",
+        "CHI (SIMPL), DUT, ENG, ESP, FRE, ITA"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "package weight": [
+        "5.1 kg",
+        "5.1 kg"
+    ],
+    "packaging depth": [
+        "47.2 cm",
+        "47.2 cm"
+    ],
+    "packaging height": [
+        "12.1 cm",
+        "12.1 cm"
+    ],
+    "packaging width": [
+        "44.8 cm",
+        "44.8 cm"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "22W",
+    "power consumption powersave": "2W",
+    "power consumption typical": "19W",
+    "response time": "5 ms",
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "720 x 400, 1280 x 960, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1280 x 800 (WXGA), 640 x 480 (VGA), 800 x 600 (SVGA)",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.9 kg",
+    "width": "37.7 cm",
+    "width with stand": "37.7 cm"
+}

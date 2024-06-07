@@ -1,0 +1,72 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "AG Neovo X-19 - MrHighTech Shop",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, DVI, VGA",
+        "AC, DVI, VGA"
+    ],
+    "certification": "TUV/Bauart, CB, FCC, CE, BSMI, GOST-R, WEEE, RoHS, Vista/Basic, REACH",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "component video ypbprycbcr in": "1",
+    "contrast ratio typical": "3000:1",
+    "depth": "419 mm",
+    "digital horizontal frequency": "30 - 80 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "482.6 mm (19 \")",
+    "display number of colours": "16.77 M",
+    "display resolution": "1280 x 1024 pixels",
+    "dvid ports quantity": "1",
+    "hd type": "No",
+    "hdcp": "No",
+    "height": "175 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 90 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package weight": "10.7 kg",
+    "packaging depth": "520 mm",
+    "packaging height": "226 mm",
+    "packaging width": "538 mm",
+    "power consumption off": "1 W",
+    "power consumption standby": "2 W",
+    "power consumption typical": "48 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "3 ms",
+    "storage relative humidity hh": "5 - 95 %",
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "svideo inputs quantity": "1",
+    "thin client installed": "No",
+    "tilt angle": "0 - 15 \u00b0",
+    "tv tuner integrated": "No",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "7.9 kg",
+    "width": "444 mm"
+}

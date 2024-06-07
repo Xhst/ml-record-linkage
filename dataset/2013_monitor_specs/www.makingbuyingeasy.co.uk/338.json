@@ -1,0 +1,97 @@
+{
+    "<page title>": "Benq BL2211M - MBE",
+    "aspect ratio": "16:10",
+    "audio input": "Yes",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "TCO 6.0",
+    "color gamut": "72%",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6.05 cm",
+    "depth with stand": "18.394 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1680 x 1050 pixels",
+    "display technology": "TN",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "ethernet lan": "No",
+    "headphone outputs": "1",
+    "height": "34.819 cm",
+    "height with stand": "41.4 cm",
+    "input voltage": "90 - 264V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "5.3 kg",
+        "5.3 kg"
+    ],
+    "pixel pitch": "0.28 x 0.28 mm",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "26W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.2 kg",
+    "width": "52.215 cm",
+    "width with stand": "52.215 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "<page title>": "Acer 3D T232HLbmidz - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "5 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display diagonal metric": "58 cm",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdmi ports quantity": "1",
+    "height": "45.5 cm",
+    "height adjustment": "No",
+    "horizontal scan range": "54.2 - 83.8 kHz",
+    "input voltage": "110 - 220V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "pixel pitch": "0.265 x 0.265 mm",
+    "power consumption off": "0.48W",
+    "power consumption standby": "0.53W",
+    "power consumption typical": "25.4W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "1.5W",
+        "1.5W",
+        "1.5W"
+    ],
+    "thin client installed": "No",
+    "tilt angle": "-8 - 60\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 30 ports quantity": "4",
+    "vertical scan range": "49 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.7 kg",
+    "width": "57.4 cm"
+}

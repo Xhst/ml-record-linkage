@@ -1,0 +1,75 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS PQ321QE - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "DisplayPort, RS-232",
+        "DisplayPort, RS-232"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "800:1",
+    "depth with stand": "256 mm",
+    "display brightness": "350 cd/m\u00b2",
+    "display diagonal": "800.1 mm (31.5 \")",
+    "display diagonal metric": "80.1 cm",
+    "display number of colours": "1073.7 M",
+    "display resolution": "3840 x 2160 pixels",
+    "displayports quantity": "1",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "hd type": "4K Ultra HD",
+    "hdcp": "Yes",
+    "headphone connectivity": "3.5 mm",
+    "height adjustment": "Yes",
+    "height with stand": "489 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.182 x 0.182 mm",
+    "power consumption max": "93 W",
+    "power consumption off": "1 W",
+    "power consumption powersave": "6 W",
+    "response time": "8 ms",
+    "rms rated power": [
+        "2 W",
+        "2 W"
+    ],
+    "rs232 ports": "1",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "3840 x 2160",
+    "thin client installed": "No",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "200 x 200 mm",
+    "viewing angle horizontal": "176 \u00b0",
+    "viewing angle vertical": "176 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "13 kg",
+    "width with stand": "750 mm"
+}

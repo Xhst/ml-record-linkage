@@ -1,0 +1,100 @@
+{
+    "<page title>": "NEC-60003409-NEC MultiSync EA244WMi - 24\" - LED-Backlit LCD Monitor",
+    "aspect ratio": [
+        "Widescreen - 16:10",
+        "Widescreen - 16:10"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "350 cd/m2",
+        "350 cd/m2"
+    ],
+    "builtin devices": [
+        "USB Hub",
+        "USB Hub"
+    ],
+    "cables included": "1 x VGA cable - VGA to VGA \u00a6 1 x DVI cable - DVI-D to DVI-D \u00a6 1 x audio cable \u00a6 1 x USB cable",
+    "colour": [
+        "White",
+        "White"
+    ],
+    "colour support": [
+        "16.8 million colours",
+        "16.8 million colours"
+    ],
+    "compliant standards": [
+        "Plug and Play, FCC Class B certified, MPR II, CSA, UL, TUV GS, GOST, cUL, DDC-2B, PCT, TUV Ergo, DDC/CI, RoHS, ISO 9241-307, GEEA, TCO Certified Edge, TCO Displays 6.0",
+        "Plug and Play, FCC Class B certified, MPR II, CSA, UL, TUV GS, GOST, cUL, DDC-2B, PCT, TUV Ergo, DDC/CI, RoHS, ISO 9241-307, GEEA, TCO Certified Edge, TCO Displays 6.0"
+    ],
+    "contrast ratio": [
+        "1000:1 / 25000:1 (dynamic)",
+        "1000:1 / 25000:1 (dynamic)"
+    ],
+    "controls  adjustments": "Volume, brightness, contrast, colour temperature",
+    "description technical detail": "NEC MultiSync EA244WMi - 24\" - LED-Backlit LCD Monitor\nNEC MultiSync EA244WMi features an extremely thin LED backlight panel with IPS technology which results in an ultramodern and slim design in combination with a premium feature set for the corporate office use. Ambient light and human sensors enforce the sustainable product concept while offering improved ergonomics with 130 mm height adjustability.\nMoreover the display offers broad connectivity with four inputs DisplayPort, HDMI, DVI-D and D-Sub. Thanks to its excellent IPS image quality with wide viewing angles in 16:10 screen format, it offers a high level of ergonomic comfort. Ideal for the corporate that demand style and future proof technology.",
+    "device type": "LED-backlit LCD monitor - 24\"",
+    "diagonal size": "24\"",
+    "dimensions wxdxh": [
+        "55.62 cm x 23 cm x 40.89 cm",
+        "55.62 cm x 23 cm x 40.89 cm"
+    ],
+    "display position adjustments": [
+        "Height, pivot (rotation), swivel, tilt",
+        "Height, pivot (rotation), swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": "ENERGY STAR Qualified",
+    "features": [
+        "Infrared user sensor, No Touch Auto Adjust, ErgoDesign, Intelligent Power Manager (IPM), power off timer, sRGB colour management, HDCP, NaViSet, Eco-Mode, touch keys, ControlSync, OSD lock",
+        "Security lock slot (cable lock sold separately), cable organizer"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "130 mm",
+    "horizontal refresh rate": "31.5 - 77 kHz",
+    "horizontal viewing angle": "178",
+    "humidity range operating": "20 - 80%",
+    "input connectors": "HDMI, DVI-D, VGA, DisplayPort",
+    "interfaces": "DisplayPort ( HDCP ) \u00a6 HDMI \u00a6 DVI-D ( HDCP ) \u00a6 VGA \u00a6 USB upstream ( Type B ) \u00a6 4 x USB 2.0 downstream \u00a6 Audio line-in \u00a6 Headphones",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003409",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "35 \u00b0C",
+    "min operating temperature": "5 \u00b0C",
+    "native resolution": [
+        "1920 x 1200 at 60 Hz",
+        "1920 x 1200 at 60 Hz"
+    ],
+    "output power  channel": "1 Watt",
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.27 mm",
+        "0.27 mm"
+    ],
+    "power consumption operational": "29 Watt",
+    "power consumption stand by  sleep": "0.47 Watt",
+    "power supply": "Internal",
+    "product description": "NEC MultiSync EA244WMi - LED monitor - 24\"",
+    "response time": [
+        "5 ms",
+        "5 ms"
+    ],
+    "rotation angle": "90",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labour - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "speakers": "Integrated",
+    "swivel angle": "340",
+    "tilt angle": "-5/+30",
+    "type": "Speakers - stereo - integrated",
+    "vertical refresh rate": "56 - 60 Hz",
+    "vertical viewing angle": "178",
+    "viewable size": "24.1\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "7.6 kg",
+        "7.6 kg"
+    ]
+}

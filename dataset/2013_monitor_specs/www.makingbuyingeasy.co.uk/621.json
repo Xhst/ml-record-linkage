@@ -1,0 +1,77 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "HP ProDisplay P221 - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "certification": "TCO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "3000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "4.75 cm",
+    "depth with stand": "16 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display resolution": "1920 x 1080 pixels",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "31.52 cm",
+    "height with stand": "37.9 cm",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "-5 - 25 \u00c2\u00b0C",
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "28W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "22W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "1W",
+        "1W",
+        "1W"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "weight": "4 kg",
+    "width": "51.8 cm",
+    "width with stand": "51.8 cm"
+}

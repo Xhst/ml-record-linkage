@@ -1,0 +1,85 @@
+{
+    "<page title>": "NEC-60003323-NEC MultiSync P232W - 23\" - LED-Backlit LCD Monitor",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "builtin devices": [
+        "USB Hub",
+        "USB Hub"
+    ],
+    "cables included": "1 x VGA cable \u00a6 1 x DVI cable - DVI-D to DVI-D \u00a6 1 x DisplayPort cable \u00a6 1 x USB cable",
+    "colour": [
+        "Silver, light grey",
+        "Silver, light grey"
+    ],
+    "compliant standards": [
+        "DDC/CI",
+        "DDC/CI"
+    ],
+    "contrast ratio": [
+        "1000:1",
+        "1000:1"
+    ],
+    "controls  adjustments": "Black level",
+    "description technical detail": "The ideal display is design for all creative professionals, designers, photographers, CAD-CAM, video-editing, finance, precision engineering and industrial applications and anyone who cares about their visual work. This excellent display design has won the prestigious iF design award.",
+    "device type": "LED-backlit LCD monitor - 23\"",
+    "diagonal size": "23\"",
+    "dimensions  weight details": "With stand - width: 54.4 cm - depth: 22.8 cm - height: 33.8 cm - weight: 9.2 kg",
+    "dimensions wxdxh": [
+        "54.4 cm x 22.8 cm x 33.8 cm - with stand",
+        "54.4 cm x 22.8 cm x 33.8 cm - with stand"
+    ],
+    "display position adjustments": [
+        "Height, pivot (rotation), swivel, tilt",
+        "Height, pivot (rotation), swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": "ENERGY STAR Qualified , EPEAT Silver",
+    "epeat compliant": "EPEAT Silver",
+    "features": "Ambient light sensor, XtraView+, CableComp, Rapid Response, No Touch Auto Adjust, cable management cover, sRGB colour management, TileMatrix, carrying handle, HDCP, AmbiBright, Eco-Mode, X-Light Pro, TileComp, 71.4% NTSC colour gamut, DisplaySync Pro, Ambix 4, 14-bit 3D lookup table",
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "150 mm",
+    "horizontal viewing angle": "178",
+    "included software": "Drivers & Utilities, MultiProfiler",
+    "input connectors": "HDMI, DVI-D, VGA, DisplayPort",
+    "interfaces": "HDMI \u00a6 DVI-D \u00a6 VGA \u00a6 DisplayPort \u00a6 2 x USB upstream \u00a6 3 x USB downstream",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003323",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "35 \u00b0C",
+    "min operating temperature": "5 \u00b0C",
+    "native resolution": [
+        "FullHD 1920 x 1080",
+        "FullHD 1920 x 1080"
+    ],
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.265 mm",
+        "0.265 mm"
+    ],
+    "power consumption operational": "29 Watt",
+    "product description": "NEC MultiSync P232W - LED monitor - 23\"",
+    "response time": [
+        "8 ms",
+        "8 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labour - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "vertical refresh rate": "85 Hz",
+    "vertical viewing angle": "178",
+    "viewable size": "23\"",
+    "weight": [
+        "9.2 kg",
+        "9.2 kg"
+    ]
+}

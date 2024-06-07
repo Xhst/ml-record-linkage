@@ -1,0 +1,55 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Essential 196HQLAb - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "certification": "MPR II",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "19.1 cm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "46.99 cm (18.5\")",
+    "display diagonal metric": "47 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1366 x 768 pixels",
+    "display technology": "IPS",
+    "energy efficiency class": "Unspecified",
+    "height": "35.31 cm",
+    "input voltage": "110 - 220V",
+    "power consumption off": "3.5W",
+    "power consumption standby": "4.5W",
+    "power consumption typical": "11.9W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "65\u00c2\u00b0",
+    "weight": "2.32 kg",
+    "weight with stand": "2.72 kg",
+    "width": "44.7 cm"
+}

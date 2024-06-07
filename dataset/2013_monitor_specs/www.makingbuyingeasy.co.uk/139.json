@@ -1,0 +1,131 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips Brilliance LCD monitor, LED backlight 200S4LMB - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "4.8 cm",
+    "depth with stand": "22.7 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "49.53 cm (19.5\")",
+    "display diagonal metric": "49.5 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1600 x 900 pixels",
+    "display srgb": "Yes",
+    "display technology": "LCD/TFT",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "effective viewing area": [
+        "462 x 239.76 mm",
+        "462 x 239.76 mm"
+    ],
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "feet colour": [
+        "Black",
+        "Black"
+    ],
+    "hdcp": "Yes",
+    "height": "29.9 cm",
+    "height adjustment": [
+        "Yes",
+        "11 cm"
+    ],
+    "height with stand": "47.9 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mean time between failures mtbf": [
+        "30.000h",
+        "30.000h"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "21",
+        "21"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), CHI (TR), CZE, DEU, DUT, ENG, ESP, FIN, FRE, GRE, HUN, ITA, JPN, KOR, POL, POR, RUS, SWE, TUR, UKR",
+        "CHI (SIMPL), CHI (TR), CZE, DEU, DUT, ENG, ESP, FIN, FRE, GRE, HUN, ITA, JPN, KOR, POL, POR, RUS, SWE, TUR, UKR"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": "560 x 361 x 222 mm",
+    "package weight": [
+        "5.99 kg",
+        "5.99 kg"
+    ],
+    "packaging depth": [
+        "22.2 cm",
+        "22.2 cm"
+    ],
+    "packaging height": [
+        "36.1 cm",
+        "36.1 cm"
+    ],
+    "packaging width": [
+        "56 cm",
+        "56 cm"
+    ],
+    "pc audio in": "Yes",
+    "pivot": "Yes",
+    "pixel pitch": "0.27 x 0.27 mm",
+    "power consumption active": [
+        "13.01W",
+        "13.01W"
+    ],
+    "power consumption off": "0.5W",
+    "power consumption powersave": "10.03W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "13.01W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "separate hv sync": "Yes",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "swivel angle range": "-65 - 65\u00c2\u00b0",
+    "swivelling": "Yes",
+    "syncongreen sog": "Yes",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "1.87 kg",
+    "weight with stand": "4.2 kg",
+    "width": "47.9 cm",
+    "width with stand": "47.9 cm"
+}

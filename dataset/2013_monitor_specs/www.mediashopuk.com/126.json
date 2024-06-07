@@ -1,0 +1,66 @@
+{
+    "<page title>": "ASUS VE278Q - MediaShopUK",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "UL/cUL, CB, CE, EuP, FCC, CCC, BSMI, Gost-R, C-Tick, VCCI, PSB, EK, J-MOSS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "1000000:1",
+    "depth": "220 mm",
+    "digital horizontal frequency": "24 - 92 kHz",
+    "digital vertical frequency": "50 - 85 Hz",
+    "display brightness": "300 cd/m\u00b2",
+    "display diagonal": "685.8 mm (27 \")",
+    "display resolution": "1920 x 1080 pixels",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "No",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height": "445.6 mm",
+    "horizontal scan range": "24 - 92 kHz",
+    "packaging depth": "176 mm",
+    "packaging height": "560 mm",
+    "packaging width": "732 mm",
+    "power consumption standby": "2 W",
+    "power consumption typical": "45 W",
+    "response time": "2 ms",
+    "rms rated power": [
+        "6 W",
+        "6 W"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt angle": "20 - -5 \u00b0",
+    "tv tuner integrated": "No",
+    "vertical scan range": "50 - 85 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "weight": "6.5 kg",
+    "width": "643 mm"
+}

@@ -1,0 +1,66 @@
+{
+    "<page title>": "Iiyama T1532MSC-B touch screen monitor - MBE",
+    "aspect ratio": "4:3",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": "AC, DVI, USB, VGA",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "500:1",
+    "dimensions w x d x h with stand": "351 x 202 x 306.5 mm",
+    "display": "TN+Film",
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "38.1 cm (15\")",
+    "display resolution": "1024 x 768 pixels",
+    "display viewable area hxv": "228 x 304 mm",
+    "dvid ports quantity": "1",
+    "hdcp": [
+        "Yes",
+        "Yes"
+    ],
+    "horizontal scan range": "31.4 - 60 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of colours": "16.7M",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.297 x 0.297 mm",
+    "power consumption typical": "20W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "8 ms",
+    "rms rated power": [
+        "2W",
+        "2W"
+    ],
+    "separate hv sync": "Yes",
+    "tilt angle": [
+        "-5 - 90\u00c2\u00b0",
+        "-5 - 90\u00c2\u00b0"
+    ],
+    "touch screen type": [
+        "Tabletop",
+        "Tabletop"
+    ],
+    "touchscreen technology": "Capacitive",
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "140\u00c2\u00b0",
+    "viewing angle vertical": "125\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "4.5 kg"
+}

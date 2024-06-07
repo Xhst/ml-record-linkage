@@ -1,0 +1,102 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL Professional P2213 - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DVI, USB, VGA",
+        "AC, DVI, USB, VGA"
+    ],
+    "certification": "TCO",
+    "colour of product": [
+        "Silver",
+        "Silver"
+    ],
+    "contrast ratio dynamic": "2000000:1",
+    "contrast ratio typical": "1000:1",
+    "current rating": "1.5A",
+    "depth": "5.98 cm",
+    "depth with stand": "18.33 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display diagonal metric": "55.88 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1680 x 1050 pixels",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "HD-ready",
+    "hdcp": "Yes",
+    "height": "33.27 cm",
+    "height adjustment": [
+        "Yes",
+        "12.85 cm"
+    ],
+    "height with stand": "49.74 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "nonoperating altitude": "0 - 10668m",
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 3048m",
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "pixel pitch": "0.282 x 0.282 mm",
+    "power consumption max": "45W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "25W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1680 x 1050 (WSXGA+)",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "55.88 cm",
+    "viewable size horizontal": "47.38 cm",
+    "viewable size vertical": "29.61 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.43 kg",
+    "width": "51.04 cm",
+    "width with stand": "51.04 cm"
+}

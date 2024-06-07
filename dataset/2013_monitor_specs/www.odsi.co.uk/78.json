@@ -1,0 +1,99 @@
+{
+    "<page title>": "NEC-60003161-NEC SpectraView 232-BK - 23\" - LED-Backlit LCD Monitor",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen - 16:9"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "270 cd/m2",
+        "270 cd/m2"
+    ],
+    "builtin devices": [
+        "USB Hub",
+        "USB Hub"
+    ],
+    "cables included": "1 x DisplayPort cable \u00a6 1 x DVI cable - DVI-D to DVI-D \u00a6 1 x VGA cable - VGA to VGA",
+    "colour": [
+        "Black",
+        "Black"
+    ],
+    "colour support": [
+        "16.7 million colours",
+        "16.7 million colours"
+    ],
+    "compliant standards": [
+        "FCC Class B certified, MPR II, CSA, UL, TUV GS, C-Tick, GOST, cUL, DDC-2B, MPR III, PCBC, PCT, VESA EDID, CCC, TUV Ergo, PSB, DDC/CI, RoHS, TCO Displays 5.0, ISO 9241-307, GEEA",
+        "FCC Class B certified, MPR II, CSA, UL, TUV GS, C-Tick, GOST, cUL, DDC-2B, MPR III, PCBC, PCT, VESA EDID, CCC, TUV Ergo, PSB, DDC/CI, RoHS, TCO Displays 5.0, ISO 9241-307, GEEA"
+    ],
+    "contrast ratio": [
+        "1000:1",
+        "1000:1"
+    ],
+    "controls  adjustments": "Brightness, contrast, sharpness, gamma correction, colour temperature, black level",
+    "description technical detail": "The ideal display for all creative professionals, designers, photographers, precision engineers and anyone who cannot accept compromise on color accuracy.",
+    "device type": "LED-backlit LCD monitor - 23\"",
+    "diagonal size": "23\"",
+    "dimensions wxdxh": [
+        "54.36 cm x 22.76 cm x 33.8 cm",
+        "54.36 cm x 22.76 cm x 33.8 cm"
+    ],
+    "display position adjustments": [
+        "Height, pivot (rotation), swivel, tilt",
+        "Height, pivot (rotation), swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": "ENERGY STAR Qualified",
+    "features": [
+        "Security lock slot (cable lock sold separately)",
+        "OmniColor, CableComp, Rapid Response, AutoBright, Advanced No Touch Auto Adjust, Intelligent Power Manager (IPM), sRGB colour management, TileMatrix, NaViSet, ColorComp, AmbiBright, Eco-Mode, Overdrive technology, TileComp, RapidMotion, Auto Contrast, 14-bit 3D lookup table"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "150 mm",
+    "horizontal refresh rate": "31.5 - 83 kHz",
+    "horizontal viewing angle": "178",
+    "humidity range operating": "30 - 80%",
+    "included accessories": "Cable management cover",
+    "included software": "Drivers & Utilities, SpectraView Profiler software",
+    "input connectors": "HDMI, DVI-D, VGA, DisplayPort",
+    "interfaces": "DVI-D \u00a6 HDMI \u00a6 DisplayPort \u00a6 VGA \u00a6 3 x USB 2.0 downstream \u00a6 2 x USB 2.0 upstream",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003161",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "35 \u00b0C",
+    "min operating temperature": "5 \u00b0C",
+    "native resolution": [
+        "1920 x 1080 at 60 Hz",
+        "1920 x 1080 at 60 Hz"
+    ],
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.265 mm",
+        "0.265 mm"
+    ],
+    "power consumption operational": "29 Watt",
+    "power consumption stand by  sleep": "1 Watt",
+    "power supply": "Internal",
+    "product description": "NEC SpectraView 232 - LED monitor - 23\"",
+    "response time": [
+        "14 ms (typical); 8 ms (grey-to-grey)",
+        "14 ms (typical); 8 ms (grey-to-grey)"
+    ],
+    "rotation angle": "90",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "swivel angle": "150",
+    "tilt angle": "-5/+30",
+    "vertical refresh rate": "50 - 85 Hz",
+    "vertical viewing angle": "178",
+    "viewable size": "23\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "10.2 kg",
+        "10.2 kg"
+    ]
+}

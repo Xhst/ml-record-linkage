@@ -1,0 +1,77 @@
+{
+    "<page title>": "Acer Professional 196Lymdr - MBE",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "CE, T\u00c3\u0153V GS, ISO9241-307, TCO6.0",
+    "colour of product": [
+        "Grey",
+        "Grey"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "22.1 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display diagonal metric": "48 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "height": "51.92 cm",
+    "height adjustment": [
+        "Yes",
+        "15 cm"
+    ],
+    "input voltage": "100 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "pixel pitch": "0.294 x 0.294 mm",
+    "power consumption off": "0.35W",
+    "power consumption standby": "0.45W",
+    "power consumption typical": "15.8W",
+    "product type": "PC monitor",
+    "response time": "5 ms",
+    "rms rated power": [
+        "1W",
+        "1W",
+        "1W"
+    ],
+    "swivel angle range": "-60 - 60\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 35\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "37.6 cm",
+    "viewable size vertical": "30.1 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.33 kg",
+    "width": "40.64 cm"
+}

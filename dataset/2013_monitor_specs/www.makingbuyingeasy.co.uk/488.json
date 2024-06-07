@@ -1,0 +1,107 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "HP U160 - MBE",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "USB",
+        "USB"
+    ],
+    "certification": "CB, CE, TUV FCC, CSA/C-UL/C-ETL Mark, ICES, S-Mark, VCCI, CCC, CEL, BSMI, CECP, SEPA, C-Tick, Green Mark, GOST 25861, HRN N N0.201, GOST 50377-1992, GOST 25861, EEI, IS 1121, SASO, SABS IEC 60950-1, NOM-019-SCFI-1998, KC, KCC, PSB, ISC, C-Tick",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "500:1",
+    "depth": "2.6 cm",
+    "display": "LED",
+    "display brightness": "180 cd/m\u00c2\u00b2",
+    "display diagonal": "39.62 cm (15.6\")",
+    "display diagonal metric": "39.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1366 x 768 pixels",
+    "display surface": "Matt",
+    "display technology": "TN+Film",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "hd type": "HD-ready",
+    "hdcp": "No",
+    "height": "27.85 cm",
+    "height adjustment": "No",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "package weight": [
+        "2.11 kg",
+        "2.11 kg"
+    ],
+    "packaging depth": [
+        "38 cm",
+        "38 cm"
+    ],
+    "packaging height": [
+        "9.6 cm",
+        "9.6 cm"
+    ],
+    "packaging width": [
+        "45.5 cm",
+        "45.5 cm"
+    ],
+    "pixel pitch": "0.252 x 0.252 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5W",
+    "power consumption typical": "5W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "12 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1366 \u00d1\u2026 768",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "15 - 45\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "1",
+    "vesa mounting interfaces compatibility": "No",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "65\u00c2\u00b0",
+    "wall mountable": "No",
+    "weight": "1.54 kg",
+    "width": "37.7 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

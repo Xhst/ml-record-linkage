@@ -1,0 +1,98 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "NEC EA244WMi - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:10",
+    "backlight type": "W-LED",
+    "bezel width bottom": "1.68 cm",
+    "bezel width side": "1.79 cm",
+    "bezel width top": "1.68 cm",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "certification": "TCO 5.2",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth with stand": "23 cm",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "61.21 cm (24.1\")",
+    "display diagonal metric": "61.13 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1200 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "No",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "No",
+    "hdmi ports quantity": "1",
+    "height adjustment": [
+        "13 cm",
+        "Yes"
+    ],
+    "height with stand": "40.89 cm",
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pivot": "Yes",
+    "placement supported": [
+        "Horizontal",
+        "Horizontal"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "29W",
+    "power consumption powersave": "0.43W",
+    "power consumption typical": "16W",
+    "response time": "14 ms",
+    "screen saving functions": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1200 (WUXGA)",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "Yes",
+        "Yes"
+    ],
+    "usb 20 ports quantity": "1",
+    "vesa mounting interfaces compatibility": "No",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "No",
+    "weight with stand": "7.6 kg",
+    "width with stand": "55.62 cm",
+    "wifi": "No"
+}

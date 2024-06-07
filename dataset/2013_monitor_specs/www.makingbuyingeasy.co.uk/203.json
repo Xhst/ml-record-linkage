@@ -1,0 +1,119 @@
+{
+    "<page title>": "Samsung S32D850T - MBE",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "bluetooth": "No",
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, DisplayPort, HDMI, USB",
+        "AC, DisplayPort, HDMI, USB"
+    ],
+    "certification": "FCC (USA): FCC Part 15, Subpart B class A, CE (Europe): EN55022, EN55024, VCCI (Japan): V-3 (CISPR22), KCC (Korea): KN22, KN24, C-Tick (Australia): AS/NZS3548 (CISPR22), CCC (China): GB 9254-2008, GB 17625.1-2003",
+    "colour of product": [
+        "Black, Titanic",
+        "Black, Titanic"
+    ],
+    "contrast ratio dynamic": "Mega Contrast",
+    "contrast ratio typical": "3000:1",
+    "dcin jack": "Yes",
+    "depth": "6.85 cm",
+    "depth with stand": "28 cm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "81.28 cm (32\")",
+    "display number of colours": "1073.7M",
+    "display resolution": "2560 x 1440 pixels",
+    "display technology": "VA",
+    "displayports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "ethernet lan": "No",
+    "hd type": "Wide Quad HD",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "Yes",
+    "headphone outputs": "1",
+    "height": "44.1 cm",
+    "height adjustment": [
+        "Yes",
+        "13 cm"
+    ],
+    "height with stand": "50 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "5 - 90%",
+    "operating temperature tt": "0 - 50 \u00c2\u00b0C",
+    "package weight": [
+        "17500g",
+        "17500g"
+    ],
+    "packaging depth": [
+        "35.6 cm",
+        "35.6 cm"
+    ],
+    "packaging height": [
+        "53.7 cm",
+        "53.7 cm"
+    ],
+    "packaging width": [
+        "86 cm",
+        "86 cm"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.27675 x 0.27675 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "100W",
+    "power consumption powersave": "46W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "60W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "safety": "CB (EN): IEC 60950-1, UL (USA): UL 60950-1, KC (Korea): K60950-1, PSB (Singapore): IEC60950-1, TUV (Germany): EN60950-1, CCC (China): GB 4943-2001",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "2560 x 1440",
+    "swivel angle range": "-30 - 30\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "usb 30 ports quantity": "5",
+    "vesa mounting interfaces compatibility": "100 x 100, 200 x 200 mm",
+    "viewable size horizontal": "70.85 cm",
+    "viewable size vertical": "39.85 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "9.4 kg",
+    "weight with stand": "12000g",
+    "width": "74.13 cm",
+    "width with stand": "74.13 cm",
+    "wifi": "No"
+}

@@ -1,0 +1,100 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 22M45HQ-B Black Monitor - MBE",
+    "ac adapter included": [
+        "Yes",
+        "Yes"
+    ],
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC",
+        "AC"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "dcin jack": "Yes",
+    "depth": "6 cm",
+    "depth with stand": "18.8 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "epeat compliance": "Gold",
+    "feet colour": [
+        "Black",
+        "Black"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone outputs": "1",
+    "height": "31.6 cm",
+    "height adjustment": "No",
+    "height with stand": "41.6 cm",
+    "input voltage": "100 - 240V",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.3W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "21W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "3 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.2 kg",
+    "width": "50.9 cm",
+    "width with stand": "50.9 cm"
+}

@@ -1,0 +1,73 @@
+{
+    "<page title>": "Elo TouchSystems 2201L - MBE",
+    "aspect ratio": "16:9",
+    "audio input": "1",
+    "backlight type": "LED",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "certification": [
+        "C-Tick, cUL, IC, CCC, CE, VCCI, KCC, e-Standby, NOM, BSMI, UL, FCC, CB, RoHS, China RoHS, WEEE, IMERC",
+        "C-Tick, cUL, IC, CCC, CE, VCCI, KCC, e-Standby, NOM, BSMI, UL, FCC, CB, RoHS, China RoHS, WEEE, IMERC"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display resolution": "1920 x 1080 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "477 x 268 mm",
+    "dvid ports quantity": "1",
+    "full hd": "Yes",
+    "hdready": "Yes",
+    "headphone outputs": "1",
+    "horizontal scan range": "32 - 80 kHz",
+    "led backlight": "Yes",
+    "native resolution": [
+        "1920 x 1080",
+        "1920 x 1080"
+    ],
+    "number of colours": "16.7M",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "520 x 690 x 280 mm",
+        "520 x 690 x 280 mm"
+    ],
+    "package weight": [
+        "12500g",
+        "12500g"
+    ],
+    "power consumption typical": "29W",
+    "power supply type": [
+        "DC",
+        "DC"
+    ],
+    "response time": "5 ms",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": [
+        "720 x 576, 1280 x 960, 1366 x 768, 1440 x 900, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)",
+        "720 x 576, 1280 x 960, 1366 x 768, 1440 x 900, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)"
+    ],
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "50 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100, 200 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "7.5 kg"
+}

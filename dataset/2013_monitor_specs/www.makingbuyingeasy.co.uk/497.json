@@ -1,0 +1,91 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Panasonic TH-50LFE6 - MBE",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "audio output": "Yes",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin microphone": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "depth": "4.9 cm",
+    "display": "LCD",
+    "display diagonal": "127 cm (50\")",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "ethernet lan": "Yes",
+    "ethernet lan data rates": "10, 100 Mbit/s",
+    "ethernet lan rj45 ports": "1",
+    "handheld remote control": [
+        "Yes",
+        "Yes"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone outputs": "1",
+    "height": "65.5 cm",
+    "horizontal scan range": "30 - 110 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "220 - 240V",
+    "mobile highdefinition link mhl": "No",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "90W",
+    "rms rated power": [
+        "10W",
+        "10W",
+        "10W"
+    ],
+    "rs232 ports": "1",
+    "supported graphics resolutions": "1024 x 768 (XGA), 1280 x 1024 (SXGA), 640 x 480 (VGA), 800 x 600 (SVGA)",
+    "supported video modes": "1080i, 1080p, 480i, 480p, 720p",
+    "thin client installed": "No",
+    "vertical scan range": "48 - 120 Hz",
+    "vesa mounting interfaces compatibility": "400 x 200 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "125.7 cm",
+    "viewable size horizontal": "109.5 cm",
+    "viewable size vertical": "61.6 cm",
+    "wall mountable": "Yes",
+    "weight": "18000g",
+    "width": "112.1 cm"
+}

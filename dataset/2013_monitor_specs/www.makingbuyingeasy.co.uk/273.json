@@ -1,0 +1,56 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq VL2040AZ - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "600:1",
+    "depth": "17.85 cm",
+    "display": "LCD",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "49.53 cm (19.5\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1600 x 900 pixels",
+    "display technology": "TN",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "height": "35.29 cm",
+    "height adjustment": "No",
+    "pixel pitch": "0.27 x 0.27 mm",
+    "power consumption off": "0.5W",
+    "power consumption powersave": "0.5W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1600 x 900",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "43.392 cm",
+    "viewable size vertical": "23.634 cm",
+    "weight": "2.3 kg",
+    "width": "46.43 cm",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64"
+    ]
+}

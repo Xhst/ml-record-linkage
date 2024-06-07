@@ -1,0 +1,67 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS VS197DE - MrHighTech Shop",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "BSMI, CB, CCC, CE, C-Tick, ErP, FCC, Gost-R, J-MOSS, PSB, RoHS, UL/cUL, VCCI, WEEE, WHQL",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "depth with stand": "185 mm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00b2",
+    "display diagonal": "469.9 mm (18.5 \")",
+    "display diagonal metric": "47 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1366 x 768 pixels",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hdcp": "No",
+    "height adjustment": "No",
+    "height with stand": "346 mm",
+    "horizontal scan range": "30 - 80 kHz",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": "3.9 kg",
+    "packaging depth": "114 mm",
+    "packaging height": "421 mm",
+    "packaging width": "495 mm",
+    "pixel pitch": "0.3 x 0.3 mm",
+    "power consumption off": "0.5 W",
+    "power consumption powersave": "0.5 W",
+    "power consumption typical": "17 W",
+    "response time": "5 ms",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1366 x 768",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vertical scan range": "55 - 75 Hz",
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "90 \u00b0",
+    "viewing angle vertical": "50 \u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "2.6 kg",
+    "width with stand": "447 mm"
+}

@@ -1,0 +1,62 @@
+{
+    "<page title>": "Lenovo ThinkVision LT1423p - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "certification": [
+        "RoHS",
+        "RoHS"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "3500000:1",
+    "contrast ratio typical": "500:1",
+    "depth": "1.27 cm",
+    "display": "IPS",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "33.78 cm (13.3\")",
+    "display diagonal metric": "33.02 cm",
+    "display resolution": "1600 x 900 pixels",
+    "display type": "LED",
+    "display viewable area hxv": "165.24 x 293.76 mm",
+    "energy star certified": [
+        "Yes",
+        "Yes"
+    ],
+    "full hd": "No",
+    "height": "22.544 cm",
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "409 x 66 x 281 mm",
+        "409 x 66 x 281 mm"
+    ],
+    "package weight": [
+        "2.22 kg",
+        "2.22 kg"
+    ],
+    "pixel pitch": "0.184 x 0.184 mm",
+    "power consumption standby": "1.5W",
+    "power consumption typical": "6W",
+    "response time": "35 ms",
+    "supported graphics resolutions": [
+        "1600 x 900, 1280 x 720 (HD 720)",
+        "1600 x 900, 1280 x 720 (HD 720)"
+    ],
+    "supported video modes": [
+        "720p",
+        "720p"
+    ],
+    "touch screen type": [
+        "Tabletop",
+        "Tabletop"
+    ],
+    "touchscreen technology": "Capacitive",
+    "usb 30 ports quantity": "1",
+    "viewable size diagonal": "33.782 cm",
+    "viewing angle horizontal": "150\u00c2\u00b0",
+    "viewing angle vertical": "150\u00c2\u00b0",
+    "weight": "850g",
+    "width": "34.796 cm"
+}

@@ -1,0 +1,51 @@
+{
+    "<page title>": "TD2220-2 22 DVI MULTI TOUCH TD2220-2 Viewsonic",
+    "aspect ratio": "Widescreen",
+    "backlight life": "40,000 hours",
+    "backlight technology": "WLED",
+    "brightness": "200 cd/m2",
+    "builtin devices": "USB Hub",
+    "colour": "Black",
+    "compliant standards": "FCC Class B certified, UL, C-Tick, BSMI, cUL, ICES-003, SASO, CB, CCC, PSB, RoHS, WEEE, GOST-R, E-Standby, UkrSEPRO, TCO Displays 5.2, KC, ERP",
+    "contrast ratio": "1000:1 / 20000000:1 (dynamic)",
+    "controls  adjustments": "Brightness, contrast, H/V position, sharpness, colour balance, input select, colour temperature, H-size, aspect control",
+    "description technical detail": "ViewSonic 22\" 1920x1080 5ms Analogue DVI USB LED Monitor\nThe 22\" ViewSonic TD2220 is a multi-touch Full HD LED backlit monitor with 1920 x 1080 resolution, DVI & VGA inputs and VESA mountable design. It has 20,000,000:1 MEGA dynamic contrast ratio for sharp crisp images and Eco-mode for up to 40% energy savings come standard in the 22\" offering. The TD2220 is a one-stop solution for your multi-touch monitor needs.",
+    "diagonal size": "22\"",
+    "dimensions  weight details": "With stand - width: 51.1 cm - depth: 24 cm - height: 63.5 cm - weight: 4.92 kg \u00c2\u00a6 Without stand - width: 51.1 cm - depth: 6.6 cm - height: 31 cm - weight: 3.96 kg",
+    "dimensions wxdxh": "51.1 cm x 24 cm x 63.5 cm - with stand",
+    "display position adjustments": "Tilt",
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "features": [
+        "OptiSync, sRGB colour management, Eco-Mode, Mega Dynamic Contrast Ratio, HID Compliant",
+        "Security lock slot (cable lock sold separately)"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "horizontal refresh rate": "24 - 83 kHz",
+    "horizontal viewing angle": "170",
+    "interfaces": "DVI-D ( HDCP ) \u00c2\u00a6 VGA \u00c2\u00a6 USB upstream ( Type B ) \u00c2\u00a6 2 x USB downstream ( Type A )",
+    "manufacturer": "Viewsonic",
+    "manufacturer part ": "TD2220-2",
+    "max operating temperature": "40 \u00c2\u00b0C",
+    "min operating temperature": "0 \u00c2\u00b0C",
+    "movement detection technology": "Optical",
+    "native resolution": [
+        "FullHD 1920 x 1080",
+        "1920 x 1080"
+    ],
+    "os required": "Microsoft Windows 7",
+    "power consumption operational": "43 Watt",
+    "power supply": "Internal",
+    "response time": "5 ms",
+    "screen coating": [
+        "Anti-glare, 8H Hard Coating",
+        "7H Hard Coating"
+    ],
+    "tilt angle": "-5/+20",
+    "type": "Touch-screen - Multi-Touch",
+    "vertical refresh rate": "50 - 76 Hz",
+    "vertical viewing angle": "160",
+    "viewable size": "21.5\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "4.92 kg"
+}

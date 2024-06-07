@@ -1,0 +1,49 @@
+{
+    "<page title>": "Elo TouchSystems 1523L - MBE",
+    "aspect ratio": "4:3",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "700:1",
+    "dimensions w x d x h with stand": "358 x 318 x 199 mm",
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "38.1 cm (15\")",
+    "display number of colours": [
+        "16.2M",
+        "16.2M"
+    ],
+    "display resolution": "1024 x 768 pixels",
+    "display viewable area hxv": "304 x 228 mm",
+    "dvid ports quantity": "1",
+    "led backlight": "Yes",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "response time": "25 ms",
+    "storage relative humidity hh": "10 - 95%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": [
+        "720 x 400, 1024 x 768 (XGA), 640 x 480 (VGA), 800 x 600 (SVGA)",
+        "720 x 400, 1024 x 768 (XGA), 640 x 480 (VGA), 800 x 600 (SVGA)"
+    ],
+    "touchscreen technology": "Surface acoustic wave",
+    "usb 20 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "140\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "4.44 kg"
+}

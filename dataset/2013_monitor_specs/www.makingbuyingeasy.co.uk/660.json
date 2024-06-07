@@ -1,0 +1,95 @@
+{
+    "3d compatibility": "Yes",
+    "<page title>": "Benq XL2420Z - MBE",
+    "ac adapter included": [
+        "Yes",
+        "Yes"
+    ],
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, DVI, USB, VGA",
+        "AC, DVI, USB, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "14.9 cm",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "LCD",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "2",
+    "headphone connectivity": "3.5 mm",
+    "headphone outputs": "1",
+    "height": "51.6 cm",
+    "height adjustment": "No",
+    "input voltage": "90 - 264V",
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "7.4 kg",
+        "7.4 kg"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.276 x 0.276 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "45W",
+    "power consumption typical": "24W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "1 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivel angle range": "-35 - 35\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "29.8 cm",
+    "viewable size vertical": "53.1 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.1 kg",
+    "width": "57.1 cm"
+}

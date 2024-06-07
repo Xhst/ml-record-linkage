@@ -1,0 +1,115 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL Professional P1914S - MBE",
+    "aspect ratio": "5:4",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DisplayPort, USB, VGA",
+        "AC, DisplayPort, USB, VGA"
+    ],
+    "certification": "TCO, CEL",
+    "colour of product": [
+        "Silver",
+        "Silver"
+    ],
+    "contrast ratio dynamic": "2000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "4.65 cm",
+    "depth with stand": "18 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display diagonal metric": "48 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "feet colour": [
+        "Silver",
+        "Silver"
+    ],
+    "hd type": "HD-ready",
+    "hdcp": "Yes",
+    "height": "33.64 cm",
+    "height adjustment": "Yes",
+    "height with stand": "37.02 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "6.57 kg",
+        "6.57 kg"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.29 x 0.29 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5W",
+    "power consumption typical": "16W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "8 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "4",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "48 cm",
+    "viewable size horizontal": "37.48 cm",
+    "viewable size vertical": "29.98 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.76 kg",
+    "weight with stand": "5.12 kg",
+    "width": "41.14 cm",
+    "width with stand": "41.14 cm",
+    "wifi": "No"
+}

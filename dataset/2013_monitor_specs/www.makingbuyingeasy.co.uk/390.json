@@ -1,0 +1,157 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips LCD monitor with LED backlight 200V4LAB - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "10000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "4.8 cm",
+    "depth with stand": "20.1 cm",
+    "dimensions w x d x h with stand": "479 x 369 x 201 mm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "49.53 cm (19.5\")",
+    "display diagonal metric": "49.5 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1600 x 900 pixels",
+    "display srgb": "Yes",
+    "display viewable area hxv": [
+        "432 x 239.76 mm",
+        "432 x 239.76 mm"
+    ],
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hdcp": "Yes",
+    "height": "29.9 cm",
+    "height adjustment": "No",
+    "height with stand": "36.9 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "maximum resolution": [
+        "1600 x 900 pixels",
+        "1600 x 900 pixels"
+    ],
+    "mean time between failures mtbf": [
+        "30.000h",
+        "30.000h"
+    ],
+    "nonoperating altitude": "3658 - 12192m",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "9",
+        "9"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS, TUR",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS, TUR"
+    ],
+    "operating altitude": "0 - 3658m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": "567 x 372 x 124 mm",
+    "package weight": [
+        "3.79 kg",
+        "3.79 kg"
+    ],
+    "packaging depth": [
+        "12.4 cm",
+        "12.4 cm"
+    ],
+    "packaging height": [
+        "37.2 cm",
+        "37.2 cm"
+    ],
+    "packaging width": [
+        "56.7 cm",
+        "56.7 cm"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.27 x 0.27 mm",
+    "power consumption average": "15.02W",
+    "power consumption max": "15.02W",
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "15.02W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1600 x 900",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.39 kg",
+    "weight with stand": "2.72 kg",
+    "width": "47.9 cm",
+    "width with stand": "47.9 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

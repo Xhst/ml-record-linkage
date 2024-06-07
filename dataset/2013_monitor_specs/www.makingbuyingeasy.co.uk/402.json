@@ -1,0 +1,57 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Essential 226HQLAbmd - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "VGA",
+        "VGA"
+    ],
+    "certification": "TCO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "20.68 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display diagonal metric": "55 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "energy efficiency class": "Unspecified",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "39.04 cm",
+    "input voltage": "110 - 220V",
+    "power consumption off": "2.5W",
+    "power consumption standby": "3.5W",
+    "power consumption typical": "19.5W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "8 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "weight": "3.24 kg",
+    "weight with stand": "3.66 kg",
+    "width": "50.8 cm"
+}

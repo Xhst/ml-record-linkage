@@ -1,0 +1,119 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "NEC P232W - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bezel width side": "1.62 cm",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, DVI, VGA",
+        "AC, DVI, VGA"
+    ],
+    "certification": "TUV, MPR III, PCBC/B",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compliance industry standards": "TCO 5.2",
+    "contrast ratio typical": "1000:1",
+    "depth": "22.76 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display diagonal metric": "58.4 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "height": "48.74 cm",
+    "height adjustment": [
+        "Yes",
+        "15 cm"
+    ],
+    "horizontal scan range": "31.5 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.265 x 0.265 mm",
+    "placement supported": [
+        "Horizontal",
+        "Horizontal"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "29W",
+    "power consumption powersave": "18W",
+    "power consumption standby": "1W",
+    "power consumption typical": "23W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "8 ms",
+    "safety": "RoHS",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p, 720p",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 30\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 85 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100, 200 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "9.2 kg",
+    "width": "54.36 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

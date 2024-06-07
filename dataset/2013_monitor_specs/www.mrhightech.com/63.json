@@ -1,0 +1,130 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer G G236HLBbid - MrHighTech Shop",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC",
+        "AC"
+    ],
+    "certification": "MPR II",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "169.2 mm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00b2",
+    "display diagonal": "584.2 mm (23 \")",
+    "display diagonal metric": "58.5 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "height": "383.7 mm",
+    "height adjustment": "No",
+    "horizontal scan range": "30 - 80 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "linux operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000 h",
+        "30000 h"
+    ],
+    "number of products included": [
+        "1 pcs",
+        "1 pcs"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "0 - 40 %",
+    "operating temperature tt": "10 - 80 \u00b0C",
+    "pivot": "No",
+    "pixel pitch": "0.265 x 0.265 mm",
+    "placement supported": [
+        "Horizontal",
+        "Horizontal"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.53 W",
+    "power consumption typical": "23.9 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "5 - 90 %",
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p, 720p",
+    "swivelling": "No",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15 \u00b0",
+    "tv tuner integrated": "No",
+    "vertical scan range": "55 - 75 Hz",
+    "vesa mounting interfaces compatibility": "No",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "509.8 mm",
+    "viewable size vertical": "286.8 mm",
+    "viewing angle horizontal": "100 \u00b0",
+    "viewing angle vertical": "90 \u00b0",
+    "weight": "2.4 kg",
+    "width": "548 mm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

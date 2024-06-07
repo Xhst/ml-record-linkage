@@ -1,0 +1,85 @@
+{
+    "<page title>": "Iiyama ProLite T1931SR-1 - MBE",
+    "aspect ratio": "5:4",
+    "cables included": "AC, Audio (3.5mm), DVI, RS-232, USB",
+    "certification": [
+        "CE, T\u00c3\u0153V-Bauart, Gost-R, VCCI",
+        "CE, T\u00c3\u0153V-Bauart, Gost-R, VCCI"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compatible operating systems": [
+        "Mac OS9, OSX",
+        "Mac OS9, OSX"
+    ],
+    "contrast ratio typical": "900:1",
+    "dimensions wxdxh": [
+        "431 x 218 x 391 mm",
+        "431 x 218 x 391 mm"
+    ],
+    "display": "TN+Film",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display resolution": "1280 x 1024 pixels",
+    "display viewable area hxv": "301 x 376 mm",
+    "dvid ports quantity": "1",
+    "horizontal scan range": "31.5 - 80 kHz",
+    "mac operating systems supported": [
+        "Mac OS 9.0, Mac OS X 10.0 Cheetah, Mac OS X 10.1 Puma, Mac OS X 10.2 Jaguar, Mac OS X 10.3 Panther, Mac OS X 10.4 Tiger, Mac OS X 10.5 Leopard, Mac OS X 10.6 Snow Leopard, Mac OS X 10.7 Lion, Y",
+        "Mac OS 9.0, Mac OS X 10.0 Cheetah, Mac OS X 10.1 Puma, Mac OS X 10.2 Jaguar, Mac OS X 10.3 Panther, Mac OS X 10.4 Tiger, Mac OS X 10.5 Leopard, Mac OS X 10.6 Snow Leopard, Mac OS X 10.7 Lion, Y"
+    ],
+    "number of colours": "16.7M",
+    "omnitapps multitouch compatibility": [
+        "No",
+        "No"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.294 x 0.294 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption powersave": "25W",
+    "power requirements": [
+        "AC 100-240V@50/60Hz",
+        "AC 100-240V@50/60Hz"
+    ],
+    "response time": "5 ms",
+    "rs232 ports": "1",
+    "security features": [
+        "Kensington-lock",
+        "Kensington-lock"
+    ],
+    "separate hv sync": "Yes",
+    "speakers": [
+        "2x 1W",
+        "2x 1W"
+    ],
+    "tilt angle": [
+        "-5 - 90\u00c2\u00b0",
+        "-5 - 90\u00c2\u00b0"
+    ],
+    "touch screen type": [
+        "Tabletop",
+        "Tabletop"
+    ],
+    "touchscreen technology": "Resistive",
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "48 cm",
+    "viewing angle": [
+        "85\u00c2\u00b0",
+        "85\u00c2\u00b0"
+    ],
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.5 kg"
+}

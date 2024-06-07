@@ -1,0 +1,67 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Everyday G196HQLbm - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "certification": "MPR II",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "16.92 cm",
+    "display": "LCD",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "46.99 cm (18.5\")",
+    "display diagonal metric": "47 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1366 x 768 pixels",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "hd type": "Full HD",
+    "hdcp": "No",
+    "height": "32.74 cm",
+    "input voltage": "110 - 220V",
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.4W",
+    "power consumption standby": "0.45W",
+    "power consumption typical": "15W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1366 x 768",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "65\u00c2\u00b0",
+    "weight": "1.7 kg",
+    "weight with stand": "2.2 kg",
+    "width": "44.63 cm"
+}

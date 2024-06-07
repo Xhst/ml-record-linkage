@@ -1,0 +1,74 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 22M35A - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "TUV-GS, FCC-B, CE",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "depth": "6.8 cm",
+    "depth with stand": "21.5 cm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "No",
+    "height": "31.6 cm",
+    "height adjustment": "No",
+    "height with stand": "41.1 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input voltage": "100 - 240V",
+    "package weight": [
+        "3.7 kg",
+        "3.7 kg"
+    ],
+    "power consumption standby": "0.3W",
+    "power consumption typical": "18W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "3 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "Yes",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "65\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.2 kg",
+    "weight with stand": "2.6 kg",
+    "width": "50.9 cm",
+    "width with stand": "50.9 cm",
+    "wifi": "No"
+}

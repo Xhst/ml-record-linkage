@@ -1,0 +1,63 @@
+{
+    "<page title>": "Lenovo T47HDUK ThinkVision LT1712p - 17\" LED-backlit LCD Monitor",
+    "aspect ratio": "5:4",
+    "backlight technology": [
+        "WLED",
+        "CCFL"
+    ],
+    "brightness": "250 cd/m2",
+    "cables included": "1 x VGA cable \u00c2\u00a6 1 x DVI cable",
+    "colour": "Business black",
+    "colour support": "16.7 million colours",
+    "compliant standards": "MPR II, UL, TUV GS, VCCI, BSMI, GOST, IEC950, NEMKO, NOM, SABS, SISIR, TUV S, VESA EDID, CB, CCC, IC, TUV Ergo, DDC/CI, IRAM, RoHS, TCO Displays 5.0, ISO 9241-307, KCC, WEEE, JEITA, UL-AR, REACH, E-Standby, EuP",
+    "contrast ratio": "1000:1",
+    "description technical detail": "Lenovo ThinkVision LT1712p - 17\" LED-backlit LCD Monitor\nThe ThinkVision LT1712p provides great ownership experience at an affordable price. It prides in the high standards for environmental safety and energy efficiency as it is an ENERGY STAR 6.0 (draft 3.0) compliant monitor. It offers VGA and DVI inputs with tilt and lift stand functions for a customized working environment. Users looking for a single solution suitable for a variety of business environments will value this versatile monitor.",
+    "diagonal size": "17\"",
+    "dimensions wxdxh": "37 cm x 15.52 cm x 40.57 cm",
+    "display position adjustments": [
+        "Height, tilt",
+        "Tilt"
+    ],
+    "display type": [
+        "LCD monitor / TFT active matrix",
+        "LED-backlit LCD monitor / TFT active matrix"
+    ],
+    "energy star qualified": "Yes",
+    "epeat compliant": "EPEAT Gold",
+    "features": [
+        "Security lock slot (cable lock sold separately)",
+        "72% colour gamut"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "110 mm",
+    "horizontal viewing angle": "170",
+    "included accessories": "ThinkVision USB Soundbar",
+    "interfaces": "VGA \u00c2\u00a6 DVI-D",
+    "localisation": "English / United Kingdom",
+    "manufacturer": "LENOVO",
+    "manufacturer part ": "T47HDUK",
+    "max operating temperature": "40 \u00c2\u00b0C",
+    "min operating temperature": "0 \u00c2\u00b0C",
+    "mounting kit": "Optional",
+    "native resolution": [
+        "1280 x 1024",
+        "1280 x 1024 at 75 Hz"
+    ],
+    "os required": "Microsoft Windows Vista / XP / 7 / 8",
+    "osd languages": "Chinese (simplified), English, German, French, Italian, Russian, Spanish, Japanese",
+    "panel type": "TN",
+    "pixel pitch": "0.264 mm",
+    "power consumption operational": "15 Watt",
+    "power consumption stand by  sleep": "0.5 Watt",
+    "power supply": "Internal",
+    "response time": "5 ms",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years - carry-in",
+    "tilt angle": "23",
+    "vertical refresh rate": "75 Hz",
+    "vertical viewing angle": "160",
+    "video bandwidth": "165 MHz",
+    "viewable size": "17\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "4.24 kg"
+}

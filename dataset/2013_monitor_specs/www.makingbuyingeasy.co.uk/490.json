@@ -1,0 +1,79 @@
+{
+    "<page title>": "Acer CB270HU - MBE",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DisplayPort, DVI",
+        "AC, DisplayPort, DVI"
+    ],
+    "certification": "TCO Certified Displays 6.0",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "6.18 cm",
+    "depth with stand": "24.47 cm",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "2560 x 1440 pixels",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "HD-ready",
+    "hdmi ports quantity": "1",
+    "height": "38.09 cm",
+    "height adjustment": "Yes",
+    "height with stand": "55.81 cm",
+    "input voltage": "120 - 230V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "pivot": "Yes",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "6 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "2560 x 1440",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 35\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "width": "63.97 cm",
+    "width with stand": "63.97 cm",
+    "wifi": "No"
+}

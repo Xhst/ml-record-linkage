@@ -1,0 +1,119 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "iiyama ProLite X2783HSU - MediaShopUK",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, USB, VGA",
+        "AC, Audio (3.5mm), DVI, USB, VGA"
+    ],
+    "certification": "TCO, CE, T\u00dcV-GS, VCCI-B, PSE, CU",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "3000:1",
+    "depth": "218 mm",
+    "digital horizontal frequency": "30 - 80 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00b2",
+    "display diagonal": "685.8 mm (27 \")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "A-MVA",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone out": "1",
+    "height": "446 mm",
+    "height adjustment": "No",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "10",
+        "10"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, DUT, ENG, ESP, FRE, ITA, JPN, POL, RUS",
+        "CHI (SIMPL), DEU, DUT, ENG, ESP, FRE, ITA, JPN, POL, RUS"
+    ],
+    "pixel pitch": "0.311 x 0.311 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "34 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "4 ms",
+    "rms rated power": [
+        "4 W",
+        "4 W",
+        "4 W"
+    ],
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 22 \u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "597.6 mm",
+    "viewable size vertical": "336.2 mm",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.4 kg",
+    "width": "622.5 mm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

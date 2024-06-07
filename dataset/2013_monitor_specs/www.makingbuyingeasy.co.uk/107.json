@@ -1,0 +1,120 @@
+{
+    "<page title>": "Philips LCD monitor 247E4LHAB - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS, Lead-free, Mercury Free",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compliance industry standards": "BSMI, CE Mark, FCC Class B, GOST, PSB, SASO, SEMKO, TCO 6.0, TUV/ISO9241-307, UL/cUL, WEEE",
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "3.9 cm",
+    "depth with stand": "19.3 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "59.94 cm (23.6\")",
+    "display diagonal metric": "60 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "display technology": "LCD/TFT",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "Full HD",
+    "hdmi ports quantity": "2",
+    "headphone outputs": "1",
+    "height": "34.8 cm",
+    "height with stand": "43.4 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Operation, Stand-by",
+        "Operation, Stand-by"
+    ],
+    "mean time between failures mtbf": [
+        "30.000h",
+        "30.000h"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS, TUR",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS, TUR"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "560g",
+        "560g"
+    ],
+    "packaging depth": [
+        "10.4 cm",
+        "10.4 cm"
+    ],
+    "packaging height": [
+        "50.5 cm",
+        "50.5 cm"
+    ],
+    "packaging width": [
+        "60.5 cm",
+        "60.5 cm"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.272 x 0.272 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.3W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "17.2W",
+    "quantity": [
+        "1",
+        "1"
+    ],
+    "relative humidity": "20 - 80%",
+    "response time": "5 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "separate hv sync": "Yes",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "syncongreen sog": "Yes",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "No",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "52.128 cm",
+    "viewable size vertical": "29.322 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "170\u00c2\u00b0",
+    "weight": "3.16 kg",
+    "weight with stand": "3.44 kg",
+    "width": "55.7 cm",
+    "width with stand": "55.7 cm"
+}

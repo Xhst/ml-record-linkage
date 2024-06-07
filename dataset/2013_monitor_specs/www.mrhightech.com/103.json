@@ -1,0 +1,109 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Eizo EV2336WFS-BK - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "bluetooth": "No",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, DisplayPort, DVI",
+        "AC, DisplayPort, DVI"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "56 mm",
+    "depth with stand": "245.5 mm",
+    "digital horizontal frequency": "31 - 81 kHz",
+    "digital vertical frequency": "55 - 76 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "584.2 mm (23 \")",
+    "display diagonal metric": "58 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "No",
+        "No"
+    ],
+    "headphone out": "1",
+    "height": "317.5 mm",
+    "height adjustment": "Yes",
+    "height with stand": "360 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.265 x 0.265 mm",
+    "placement supported": [
+        "Horizontal/Vertical",
+        "Horizontal/Vertical"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "47 W",
+    "power consumption standby": "0.3 W",
+    "power consumption typical": "160.3 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "6 ms",
+    "rms rated power": [
+        "2 W",
+        "2 W"
+    ],
+    "supported graphics resolutions": "720 x 400, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)",
+    "supported video modes": "1080p",
+    "swivel angle range": "-172 - 172 \u00b0",
+    "swivelling": "Yes",
+    "tilt adjustment": "Yes",
+    "usb 20 ports quantity": "3",
+    "vga dsub ports quantity": "1",
+    "video dot rate": [
+        "148.5 MHz",
+        "148.5 MHz"
+    ],
+    "viewable size diagonal": "584 mm",
+    "viewable size horizontal": "510 mm",
+    "viewable size vertical": "287 mm",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "weight": "3.7 kg",
+    "weight with stand": "6.3 kg",
+    "width": "540 mm",
+    "width with stand": "540 mm"
+}

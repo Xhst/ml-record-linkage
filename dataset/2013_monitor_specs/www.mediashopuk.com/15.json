@@ -1,0 +1,93 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS 22T1EH - MediaShopUK",
+    "analog signal format system": "PAL, SECAM",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "common interface ci": "Yes",
+    "component video ypbprycbcr in": "1",
+    "composite sync": "Yes",
+    "composite video in": "1",
+    "contrast ratio dynamic": "10000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "191.2 mm",
+    "digital horizontal frequency": "31 - 83 kHz",
+    "digital vertical frequency": "56 - 76 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "546.1 mm (21.5 \")",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "handheld remote control": [
+        "Yes",
+        "Yes"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "height": "438.5 mm",
+    "height adjustment": "No",
+    "horizontal scan range": "31 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "microphone in": "Yes",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "power consumption max": "60 W",
+    "power consumption standby": "0.5 W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "14 W",
+        "14 W"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "svideo inputs quantity": "1",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 15 \u00b0",
+    "tv tuner integrated": "Yes",
+    "vertical scan range": "56 - 76 Hz",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "volume control": [
+        "Digital",
+        "Digital"
+    ],
+    "wall mountable": "Yes",
+    "weight": "6.1 kg",
+    "width": "540.6 mm"
+}

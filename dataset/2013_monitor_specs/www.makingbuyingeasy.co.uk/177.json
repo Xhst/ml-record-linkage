@@ -1,0 +1,36 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Essential 196LBMD - MBE",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display diagonal metric": "48 cm",
+    "display resolution": "1280 x 1024 pixels",
+    "display technology": "IPS",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "hdcp": "Yes",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1"
+}

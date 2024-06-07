@@ -1,0 +1,63 @@
+{
+    "<page title>": "Elo TouchSystems 2242L - MBE",
+    "aspect ratio": "16:10",
+    "camera included": [
+        "No",
+        "No"
+    ],
+    "certification": [
+        "S-mark, C-Tick, cUL, IC, CCC, CE, VCCI, EK, MIC, NOM, GOST, BSMI, UL, FCC, CB, RoHS, WEEE, IMERC",
+        "S-mark, C-Tick, cUL, IC, CCC, CE, VCCI, EK, MIC, NOM, GOST, BSMI, UL, FCC, CB, RoHS, WEEE, IMERC"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "display brightness": "270 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display resolution": "1680 x 1050 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "474 x 296 mm",
+    "dvid ports quantity": "1",
+    "full hd": "No",
+    "hdready": "Yes",
+    "horizontal scan range": "30 - 75 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "native resolution": [
+        "1680 x 1050",
+        "1680 x 1050"
+    ],
+    "number of colours": "16.7M",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "690 x 530 x 255 mm",
+        "690 x 530 x 255 mm"
+    ],
+    "package weight": [
+        "13000g",
+        "13000g"
+    ],
+    "power consumption typical": "50W",
+    "response time": "5 ms",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 50 \u00c2\u00b0C",
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "53 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "8.75 kg"
+}

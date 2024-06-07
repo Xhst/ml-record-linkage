@@ -1,0 +1,111 @@
+{
+    "<page title>": "LG 29EB73-P LED display - MrHighTech Shop",
+    "aspect ratio": "21:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI",
+        "AC, Audio (3.5mm), DVI"
+    ],
+    "certification": "ROHS, REACH",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "68.6 mm",
+    "depth with stand": "226.1 mm",
+    "digital horizontal frequency": "30 - 90 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00b2",
+    "display diagonal": "736.6 mm (29 \")",
+    "display number of colours": "16.77 M",
+    "display resolution": "2560 x 1080 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "2",
+    "headphone out": "1",
+    "height": "317.5 mm",
+    "height adjustment": "Yes",
+    "height with stand": "396.2 mm",
+    "input voltage": "110 - 240 V",
+    "mobile highdefinition link mhl": "Yes",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "9.344 kg",
+        "9.344 kg"
+    ],
+    "packaging depth": [
+        "195.6 mm",
+        "195.6 mm"
+    ],
+    "packaging height": [
+        "414.5 mm",
+        "414.5 mm"
+    ],
+    "packaging width": [
+        "777.2 mm",
+        "777.2 mm"
+    ],
+    "pc audio in": "Yes",
+    "pictureinpicture": [
+        "Yes",
+        "Yes"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.5 W",
+    "power consumption powersave": "1.5 W",
+    "power consumption typical": "48 W",
+    "response time": "14 ms",
+    "rms rated power": [
+        "7 W",
+        "7 W",
+        "7 W"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "2560 x 1080",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "1",
+    "usb 30 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.216 kg",
+    "weight with stand": "6.85 kg",
+    "width": "698.5 mm",
+    "width with stand": "698.5 mm",
+    "wifi": "No"
+}

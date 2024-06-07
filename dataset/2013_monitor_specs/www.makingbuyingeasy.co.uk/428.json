@@ -1,0 +1,85 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL UltraSharp U2413 - MBE",
+    "aspect ratio": "16:10",
+    "audio output": "Yes",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "DVI",
+        "DVI"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "2000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "20.05 cm",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "60.96 cm",
+    "display number of colours": "1073.7M",
+    "display resolution": "1920 x 1200 pixels",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "41.59 cm",
+    "height adjustment": "Yes",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mini displayport quantity": "1",
+    "nonoperating altitude": "0 - 12.192m",
+    "operating altitude": "0 - 5000m",
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "9.035 kg",
+        "9.035 kg"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.27 x 0.27 mm",
+    "power consumption max": "130W",
+    "power consumption typical": "60W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "6 ms",
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1200 (WUXGA)",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 30 ports quantity": "5",
+    "vesa mounting interfaces compatibility": "Yes",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.01 kg",
+    "width": "55.6 cm"
+}

@@ -1,0 +1,67 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Professional B236HLymdpr - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DisplayPort, DVI, VGA",
+        "AC, DisplayPort, DVI, VGA"
+    ],
+    "colour of product": [
+        "Grey",
+        "Grey"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display diagonal metric": "58.4 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "height adjustment": "Yes",
+    "input voltage": "110 - 220V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "power consumption off": "0.35W",
+    "power consumption standby": "0.45W",
+    "power consumption typical": "21.9W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "product type": "PC monitor",
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "No",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "No"
+}

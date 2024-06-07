@@ -1,0 +1,155 @@
+{
+    "<page title>": "Philips Brilliance LCD monitor, LED backlight 221B3LPCS - MBE",
+    "audio input": "Yes",
+    "audio output": "Yes",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin microphone": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "BSMI, CE-Zeichen, FCC, GOST, SEMKO, TCO 5.1, T\u00c3\u0153V/GS, T\u00c3\u0153V\nErgo, UL/cUL\nRoHS",
+    "colour of product": [
+        "Silver",
+        "Silver"
+    ],
+    "common interface ci": "No",
+    "common interface plus ci": "No",
+    "compatible memory cards": [
+        "No",
+        "No"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.9 cm",
+    "depth with stand": "22.7 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display srgb": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "No",
+        "No"
+    ],
+    "headphone outputs": "1",
+    "height": "32.3 cm",
+    "height adjustment": [
+        "Yes",
+        "11 cm"
+    ],
+    "height with stand": "48 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "8",
+        "8"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "7.12 kg",
+        "7.12 kg"
+    ],
+    "packaging depth": [
+        "18.6 cm",
+        "18.6 cm"
+    ],
+    "packaging height": [
+        "36.1 cm",
+        "36.1 cm"
+    ],
+    "packaging width": [
+        "56.8 cm",
+        "56.8 cm"
+    ],
+    "pc audio in": "Yes",
+    "pivot": "Yes",
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.1W",
+    "power consumption typical": "17.8W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "3W",
+        "3W",
+        "3W"
+    ],
+    "separate hv sync": "Yes",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivel webcam": [
+        "No",
+        "No",
+        "No"
+    ],
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "47.66 cm",
+    "viewable size vertical": "26.81 cm",
+    "viewing angle horizontal": "176\u00c2\u00b0",
+    "viewing angle vertical": "170\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.4 kg",
+    "width": "50.7 cm",
+    "width with stand": "50.7 cm",
+    "wifi": "No"
+}

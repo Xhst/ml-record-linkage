@@ -1,0 +1,134 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips 203V5LSB26 - MediaShopUK",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "backlight type": "RGB-LED",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS, BSMI, CE, FCC B, GOST, SEMKO, TUV/ISO9241-307, cETLus, WEEE",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "10000000:1",
+    "contrast ratio typical": "600:1",
+    "depth": "48 mm",
+    "depth with stand": "170 mm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "dimensions w x d x h with stand": "465 x 170 x 345 mm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00b2",
+    "display diagonal": "495.3 mm (19.5 \")",
+    "display diagonal metric": "49.5 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1600 x 900 pixels",
+    "display srgb": "Yes",
+    "dvi port": "No",
+    "effective viewing area": [
+        "433.9 x 236.3 mm",
+        "433.9 x 236.3 mm"
+    ],
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "ethernet lan": "No",
+    "hd type": "HD-ready",
+    "hdcp": "No",
+    "height": "285 mm",
+    "height adjustment": "No",
+    "height with stand": "345 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000 h",
+        "30000 h"
+    ],
+    "number of osd languages": [
+        "21",
+        "21"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), CHI (TR), CZE, DEU, DUT, ENG, ESP, FIN, FRE, GRE, HUN, ITA, JPN, KOR, POL, POR, RUS, SWE, TUR",
+        "CHI (SIMPL), CHI (TR), CZE, DEU, DUT, ENG, ESP, FIN, FRE, GRE, HUN, ITA, JPN, KOR, POL, POR, RUS, SWE, TUR"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package dimensions wxdxh": "503 x 109 x 350 mm",
+    "package weight": "3.23 kg",
+    "packaging depth": "109 mm",
+    "packaging height": "350 mm",
+    "packaging width": "503 mm",
+    "pivot": "No",
+    "pixel pitch": "0.26 x 0.26 mm",
+    "power consumption off": "0.5 W",
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "14.52 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "supported graphics resolutions": "1600 x 900",
+    "swivelling": "No",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "No",
+    "tilt angle": "-3 - 10 \u00b0",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "495 mm",
+    "viewable size horizontal": "433.9 mm",
+    "viewable size vertical": "236.3 mm",
+    "viewing angle horizontal": "90 \u00b0",
+    "viewing angle vertical": "50 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.03 kg",
+    "weight with stand": "2.33 kg",
+    "width": "465 mm",
+    "width with stand": "465 mm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64"
+    ]
+}

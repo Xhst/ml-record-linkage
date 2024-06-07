@@ -1,0 +1,57 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Everyday G237HL - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "White",
+        "White"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth with stand": "18.5 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "hd type": "Full HD",
+    "hdmi ports quantity": "1",
+    "height adjustment": "No",
+    "height with stand": "40.2 cm",
+    "input voltage": "110 - 220V",
+    "power consumption standby": "0.49W",
+    "power consumption typical": "25W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "6 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "width with stand": "53.2 cm"
+}

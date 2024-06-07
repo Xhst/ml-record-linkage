@@ -1,0 +1,57 @@
+{
+    "<page title>": "DELL E2014T - MBE",
+    "aspect ratio": "16:9",
+    "cables included": "AC, HDMI, USB",
+    "certification": [
+        "EPEAT Gold\nTCO",
+        "EPEAT Gold\nTCO"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "8000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.17 cm",
+    "dimensions w x d x h with stand": "505.9 x 165 x 376 mm",
+    "display": "TN+Film",
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "49.53 cm (19.5\")",
+    "display diagonal metric": "49.4 cm",
+    "display resolution": "1600 x 900 pixels",
+    "display type": "LED",
+    "display viewable area hxv": "432.00 x 432.00 mm",
+    "displayports quantity": "1",
+    "energy star certified": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "height": "31.12 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of colours": "16.7M",
+    "package weight": [
+        "6.07 kg",
+        "6.07 kg"
+    ],
+    "pixel pitch": "0.27 x 0.27 mm",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "16W",
+    "response time": "2 ms",
+    "tilt angle": [
+        "5 - 31\u00c2\u00b0",
+        "5 - 31\u00c2\u00b0"
+    ],
+    "touch screen type": [
+        "Tabletop",
+        "Tabletop"
+    ],
+    "usb 20 ports quantity": "1",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "weight": "3.43 kg",
+    "weight with stand": "4.89 kg",
+    "width": "50.59 cm"
+}

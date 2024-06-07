@@ -1,0 +1,103 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS MX239H 23'' Full HD LED screen - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "BSMI, CB, CCC, CE, C-Tick, ErP, FCC, Gost-R, J-MOSS, PSE, RoHS, UL/cUL, VCCI, WEEE, WHQL",
+    "colour of product": [
+        "Black, Silver",
+        "Black, Silver"
+    ],
+    "contrast ratio dynamic": "80000000:1",
+    "depth": "20.72 cm",
+    "digital horizontal frequency": "28 - 83 kHz",
+    "dimensions w x d x h with stand": "522.2 x 207.2 x 392.2 mm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display diagonal metric": "58.4 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "2",
+    "headphone outputs": "1",
+    "height": "39.22 cm",
+    "horizontal scan range": "28 - 83 kHz",
+    "input frequency": "50 Hz",
+    "input voltage": "110 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "package weight": [
+        "6.1 kg",
+        "6.1 kg"
+    ],
+    "packaging depth": [
+        "13.1 cm",
+        "13.1 cm"
+    ],
+    "packaging height": [
+        "47.2 cm",
+        "47.2 cm"
+    ],
+    "packaging width": [
+        "61.5 cm",
+        "61.5 cm"
+    ],
+    "pixel pitch": "0.2652 x 0.2652 mm",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "33W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "6W",
+        "6W",
+        "6W"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 75 Hz",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "volume control": [
+        "Digital",
+        "Digital"
+    ],
+    "weight": "3.7 kg",
+    "width": "52.22 cm"
+}

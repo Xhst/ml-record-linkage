@@ -1,0 +1,133 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS VN247H - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), HDMI-DVI, VGA",
+        "AC, Audio (3.5mm), HDMI-DVI, VGA"
+    ],
+    "certification": "BSMI, CB, CCC, CE, C-Tick, FCC, Gost-R, RoHS, TCO5.0, TCO6.0, UL/cUL, VCCI, WHQL",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "connection to pc": "Yes",
+    "contrast ratio dynamic": "80000000:1",
+    "depth with stand": "19.42 cm",
+    "digital horizontal frequency": "24 - 83 kHz",
+    "digital vertical frequency": "50 - 75 Hz",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "59.94 cm (23.6\")",
+    "display diagonal metric": "59.9 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "2",
+    "headphone connectivity": "3.5 mm",
+    "headphone outputs": "1",
+    "height adjustment": "No",
+    "height with stand": "39.49 cm",
+    "horizontal scan range": "24 - 83 kHz",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "5.8 kg",
+        "5.8 kg"
+    ],
+    "packaging depth": [
+        "12.8 cm",
+        "12.8 cm"
+    ],
+    "packaging height": [
+        "47.8 cm",
+        "47.8 cm"
+    ],
+    "packaging width": [
+        "60.2 cm",
+        "60.2 cm"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.2715 x 0.2715 mm",
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "35W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "1 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "3.7 kg",
+    "width": "54.86 cm",
+    "width with stand": "54.86 cm",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64"
+    ]
+}

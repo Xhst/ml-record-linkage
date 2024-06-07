@@ -1,0 +1,75 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Wortmann AG 2760W - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, VGA",
+        "AC, Audio (3.5mm), DVI, VGA"
+    ],
+    "certification": "T\u00dcV, CE, ISO 9241-307, TCO, ISO 9241-307, ISO 13406-2!",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "depth": "66 mm",
+    "depth with stand": "240 mm",
+    "digital horizontal frequency": "30 - 82 kHz",
+    "digital vertical frequency": "56 - 76 Hz",
+    "display": "LCD",
+    "display brightness": "300 cd/m\u00b2",
+    "display diagonal": "685.8 mm (27 \")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "height": "400 mm",
+    "height with stand": "455 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.3114 x 0.3114 mm",
+    "power consumption off": "0.5 W",
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "24 W",
+    "response time": "3.4 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080i, 1080p, 480i, 480p, 576i, 576p, 720p",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "5.4 kg",
+    "width": "647 mm",
+    "width with stand": "647 mm",
+    "windows operating systems supported": [
+        "Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate",
+        "Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate"
+    ]
+}

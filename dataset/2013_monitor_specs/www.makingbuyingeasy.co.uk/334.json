@@ -1,0 +1,140 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "HP Z30i - MBE",
+    "ac adapter included": [
+        "Yes",
+        "Yes"
+    ],
+    "aspect ratio": "16:10",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "DisplayPort, DVI, USB",
+        "DisplayPort, DVI, USB"
+    ],
+    "certification": "CE, CB, CEL, KC, KCC, NOM, PSB, ICE, TUV-S, CCC, CECP, SEPA, TCO 6.0, EPA, ISC, VCCI, FCC, HSMI",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "dcin jack": "Yes",
+    "depth": "6.63 cm",
+    "depth with stand": "26.64 cm",
+    "digital horizontal frequency": "24 - 98 kHz",
+    "digital vertical frequency": "50 - 70 Hz",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "76.2 cm (30\")",
+    "display diagonal metric": "75.78 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "2560 x 1600 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "44.98 cm",
+    "height adjustment": [
+        "Yes",
+        "12 cm"
+    ],
+    "height with stand": "60.1 cm",
+    "horizontal scan range": "31 - 80 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "linux operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "13730g",
+        "13730g"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.250 x 0.250 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "125W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "85W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "8 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "10 - 85%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 30 ports quantity": "5",
+    "vertical scan range": "60 - 70 Hz",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "7.56 kg",
+    "weight with stand": "9.96 kg",
+    "width": "69.03 cm",
+    "width with stand": "69.03 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

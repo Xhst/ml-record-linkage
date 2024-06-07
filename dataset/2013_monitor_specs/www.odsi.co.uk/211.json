@@ -1,0 +1,77 @@
+{
+    "<page title>": "3M 17 M170 TOUCHSCREEN CAP USB 11-91378-225 Microtouch",
+    "analogue video signal": "RGB",
+    "backlight life": [
+        "40,000 hours",
+        "40,000 hour(s)"
+    ],
+    "brightness": "270 cd/m2",
+    "colour": "Black",
+    "colour support": [
+        "16.2 million colours",
+        "16.2 million colors",
+        "16.2 million colours"
+    ],
+    "compliant standards": [
+        "FCC Class B certified, UL, C-Tick, cUL, VESA DPMS, CB, CCC, RoHS",
+        "FCC Class B certified, CE, UL, C-Tick, cUL, VESA DPMS, CB, CCC, RoHS"
+    ],
+    "contrast ratio": "800:1",
+    "controls  adjustments": "Brightness, contrast, H/V position, colour balance, phase, clock",
+    "depth": "24.7 cm",
+    "description technical detail": "3M MicroTouch M1700SS Touchscreen Display\nThe 3M MicroTouch Display M1700SS (17\"), a purpose-built, surface capacitive touch display, provides a cost-competitive touch alternative to 5-wire resistive display solutions.\nThe display offers a stable base, highly durable touch screen, brilliant optics and a hidden cable management system, all in an elegant and simple-to-use design. This display easily integrates into numerous point-of-sale, PC, and thin client systems making it ideal for applications requiring long life and 24/7 uptime.",
+    "diagonal size": [
+        "17\"",
+        "17\""
+    ],
+    "dimensions wxdxh": "40.5 cm x 24.7 cm x 41.3 cm",
+    "display type": [
+        "LCD display / TFT active matrix",
+        "LCD monitor / TFT active matrix"
+    ],
+    "dot pitch  pixel pitch": "0.264 mm",
+    "enclosure colour": "Black",
+    "flat panel mount interface": [
+        "100 x 100 mm",
+        "100 x 100 mm"
+    ],
+    "form factor": "External",
+    "height": "41.3 cm",
+    "horizontal viewing angle": "+80 / -80",
+    "humidity range operating": "0 - 80%",
+    "image brightness": "270 cd/m2",
+    "image contrast ratio": "800:1",
+    "image max hview angle": "+80 / -80",
+    "image max vview angle": "+80 / -80",
+    "interfaces": [
+        "VGA \u00c2\u00a6 USB \u00c2\u00a6 DVI-D",
+        "1 x VGA - 15 pin HD D-Sub (HD-15) \u00c2\u00a6 1 x USB \u00c2\u00a6 1 x DVI-D - 24 pin digital DVI"
+    ],
+    "manufacturer": "Microtouch",
+    "manufacturer part ": "11-91378-225",
+    "max operating temperature": "40 \u00c2\u00b0C",
+    "max resolution": "1280 x 1024 / 60 Hz",
+    "min operating temperature": "0 \u00c2\u00b0C",
+    "movement detection technology": [
+        "Capacitive",
+        "Capacitive"
+    ],
+    "native resolution": "1280 x 1024 at 60 Hz",
+    "pixel pitch": "0.264 mm",
+    "power consumption operational": "40 Watt",
+    "power supply": "External",
+    "response time": [
+        "9 ms",
+        "9 ms"
+    ],
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years",
+    "signal input": "DVI-D, VGA",
+    "type": [
+        "Touch-screen",
+        "Touch-screen"
+    ],
+    "vertical viewing angle": "+80 / -80",
+    "weight": "8.6 kg",
+    "width": "40.5 cm"
+}

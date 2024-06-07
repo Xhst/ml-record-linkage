@@ -1,0 +1,195 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips Brilliance LCD monitor with PowerSensor 240P4QPYES - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:10",
+    "backlight type": "W-LED",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "RoHS, BSMI, CE, FCC B, GOST, SEMKO, TCO 6.0, TUV Ergo, TUV/GS, UL/cUL, WEEE",
+    "colour of product": [
+        "Silver",
+        "Silver"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6.5 cm",
+    "depth with stand": "24.4 cm",
+    "digital horizontal frequency": "24 - 94 kHz",
+    "digital vertical frequency": "48 - 85 Hz",
+    "dimensions w x d x h with stand": "555 x 244 x 550 mm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "61 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1200 pixels",
+    "display srgb": "Yes",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "effective viewing area": [
+        "518.4 x 324 mm",
+        "518.4 x 324 mm"
+    ],
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "feet colour": [
+        "Black",
+        "Black"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "headphone outputs": "1",
+    "height": "38.8 cm",
+    "height adjustment": [
+        "Yes",
+        "13 cm"
+    ],
+    "height with stand": "55 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "nonoperating altitude": "0 - 12192m",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "8",
+        "8"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS",
+        "CHI (SIMPL), DEU, ENG, ESP, FRE, ITA, POR, RUS"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating altitude": "0 - 3658m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": "632 x 286 x 457 mm",
+    "package weight": [
+        "9.8 kg",
+        "9.8 kg"
+    ],
+    "packaging depth": [
+        "28.6 cm",
+        "28.6 cm"
+    ],
+    "packaging height": [
+        "45.7 cm",
+        "45.7 cm"
+    ],
+    "packaging width": [
+        "63.2 cm",
+        "63.2 cm"
+    ],
+    "pc audio in": "Yes",
+    "picture enhancement": [
+        "SmartImage",
+        "SmartImage"
+    ],
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.270 x 0.270 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption powersave": "14W",
+    "power consumption standby": "0.2W",
+    "power consumption typical": "7.1W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "recyclable material": [
+        "25%",
+        "25%"
+    ],
+    "response time": "14 ms",
+    "rms rated power": [
+        "3W",
+        "3W",
+        "3W"
+    ],
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1200 (WUXGA)",
+    "swivel angle range": "-65 - 65\u00c2\u00b0",
+    "swivelling": "Yes",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "4",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "61 cm",
+    "viewable size horizontal": "51.84 cm",
+    "viewable size vertical": "32.4 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "volume control": [
+        "Digital",
+        "Digital"
+    ],
+    "wall mountable": "Yes",
+    "weight": "4.64 kg",
+    "weight with stand": "6.97 kg",
+    "width": "55.5 cm",
+    "width with stand": "55.5 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64"
+    ]
+}

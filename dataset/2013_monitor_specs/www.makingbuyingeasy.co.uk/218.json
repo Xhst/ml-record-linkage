@@ -1,0 +1,63 @@
+{
+    "<page title>": "HP Z24i - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6.45 cm",
+    "depth with stand": "23.79 cm",
+    "display": "LCD",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "60.96 cm",
+    "display resolution": "1920 x 1200 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hdcp": "Yes",
+    "height": "36.5 cm",
+    "height adjustment": [
+        "12 cm",
+        "Yes"
+    ],
+    "height with stand": "52.5 cm",
+    "horizontal scan range": "24 - 94 kHz",
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.27 x 0.27 mm",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "36W",
+    "response time": "8 ms",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 30\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "5",
+    "vertical scan range": "50 - 76 Hz",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.73 kg",
+    "weight with stand": "6.96 kg",
+    "width": "55.94 cm",
+    "width with stand": "55.94 cm"
+}

@@ -1,0 +1,83 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Samsung S22C300H - MBE",
+    "annual energy consumption": "33.6 kWh",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "Mega Contrast",
+    "contrast ratio typical": "1000:1",
+    "depth": "19.5 cm",
+    "depth with stand": "5.3 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "LCD",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdmi ports quantity": "1",
+    "height": "39.8 cm",
+    "height with stand": "31.9 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "4.2 kg",
+        "4.2 kg"
+    ],
+    "packaging depth": [
+        "13.2 cm",
+        "13.2 cm"
+    ],
+    "packaging height": [
+        "39.2 cm",
+        "39.2 cm"
+    ],
+    "packaging width": [
+        "60.4 cm",
+        "60.4 cm"
+    ],
+    "power consumption powersave": "0.3W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "25W",
+    "product type": "PC monitor",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "weight": "2.9 kg",
+    "width": "51 cm",
+    "width with stand": "51 cm",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 8, Windows Vista Business, Windows Vista Business x64",
+        "Windows 7 Home Basic, Windows 8, Windows Vista Business, Windows Vista Business x64"
+    ]
+}

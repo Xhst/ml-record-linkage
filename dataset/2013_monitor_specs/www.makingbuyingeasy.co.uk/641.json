@@ -1,0 +1,111 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Iiyama T2252MTS-3 - MBE",
+    "aspect ratio": "16:9",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": "AC, Audio (3.5mm), DVI, USB, VGA",
+    "certification": [
+        "CE, T\u00c3\u0153V-Bauart, GOST-R",
+        "CE, T\u00c3\u0153V-Bauart, GOST-R"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "24 cm",
+    "digital horizontal frequency": "24 - 80 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "dimensions wxdxh": [
+        "16.5 x 240 x 377.5 mm",
+        "16.5 x 240 x 377.5 mm"
+    ],
+    "display": "TN+Film",
+    "display brightness": "220 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display diagonal metric": "54.7 cm",
+    "display resolution": "1920 x 1080 pixels",
+    "display type": "LED",
+    "display viewable area hxv": "268.11 x 476.64 mm",
+    "dvid ports quantity": "1",
+    "energy star certified": [
+        "Yes",
+        "Yes"
+    ],
+    "full hd": "Yes",
+    "hdcp": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "37.75 cm",
+    "horizontal scan range": "24 - 80 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led backlight": "Yes",
+    "number of colours": "16.7M",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "number of simultaneous touchpoints windows 7": [
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "placement supported": "Horizontal",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5W",
+    "power consumption typical": "19W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "2 ms",
+    "rms rated power": [
+        "2W",
+        "2W"
+    ],
+    "separate hv sync": "Yes",
+    "supported video modes": [
+        "1080p",
+        "1080p"
+    ],
+    "tilt angle": [
+        "-9 - 22\u00c2\u00b0",
+        "-9 - 22\u00c2\u00b0"
+    ],
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "55 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.1 kg",
+    "width": "51.65 cm",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64, Windows XP Home, Windows XP Home x64, Windows XP Professional, Windows XP Professional x64",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64, Windows XP Home, Windows XP Home x64, Windows XP Professional, Windows XP Professional x64"
+    ]
+}

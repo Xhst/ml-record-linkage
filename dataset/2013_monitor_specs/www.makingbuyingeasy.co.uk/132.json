@@ -1,0 +1,90 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "VIEWSONIC MONITOR, 23, LED, FULL HD, TOUCHSCREEN - MBE",
+    "aspect ratio": "16:9",
+    "audio input": "1",
+    "backlight type": "W-LED",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": "AC, Audio (3.5mm), DisplayPort, HDMI, USB, VGA",
+    "certification": [
+        "EPEAT Gold, RoHS",
+        "EPEAT Gold, RoHS"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "45.38 cm",
+    "digital horizontal frequency": "24 - 83 kHz",
+    "digital vertical frequency": "50 - 76 Hz",
+    "dimensions w x d x h with stand": "576.6 x 324.5 x 453.8 mm",
+    "display": "IPS",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display resolution": "1920 x 1080 pixels",
+    "display viewable area hxv": "508 x 287 mm",
+    "displayports quantity": "1",
+    "energy star certified": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "6.65 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led backlight": "Yes",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "omnitapps multitouch compatibility": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 90%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "671 x 234 x 510 mm",
+        "671 x 234 x 510 mm"
+    ],
+    "package weight": [
+        "12200g",
+        "12200g"
+    ],
+    "power consumption powersave": "18.5W",
+    "power consumption typical": "45W",
+    "response time": "7 ms",
+    "rms rated power": [
+        "4W",
+        "4W"
+    ],
+    "separate hv sync": "Yes",
+    "tilt angle": [
+        "-5 - 50\u00c2\u00b0",
+        "-5 - 50\u00c2\u00b0"
+    ],
+    "touch screen type": [
+        "Kiosk",
+        "Kiosk"
+    ],
+    "touch sensitive screen": "Yes",
+    "usb 20 ports quantity": "3",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.6 kg",
+    "weight with stand": "9.2 kg",
+    "width": "57.66 cm"
+}

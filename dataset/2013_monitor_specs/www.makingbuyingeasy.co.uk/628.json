@@ -1,0 +1,66 @@
+{
+    "<page title>": "Benq BL912 - MBE",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "17.8 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "hdcp": "Yes",
+    "height": "42.45 cm",
+    "height adjustment": "No",
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "packaging depth": [
+        "14.2 cm",
+        "14.2 cm"
+    ],
+    "packaging height": [
+        "48.3 cm",
+        "48.3 cm"
+    ],
+    "packaging width": [
+        "49 cm",
+        "49 cm"
+    ],
+    "pixel pitch": "0.294 x 0.294 mm",
+    "power consumption powersave": "0.3W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "18W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "swivelling": "No",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.5 kg",
+    "width": "41.6 cm"
+}

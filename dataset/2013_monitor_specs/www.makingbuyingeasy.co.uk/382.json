@@ -1,0 +1,117 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Iiyama ProLite E2283HS-B1 LED display - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, VGA",
+        "AC, Audio (3.5mm), DVI, VGA"
+    ],
+    "certification": "TCO, CE, TUV-GS, VCCI-B, CU",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth with stand": "19.3 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone out": "Yes",
+    "height adjustment": "No",
+    "height with stand": "38.25 cm",
+    "horizontal scan range": "30 - 80 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "11",
+        "11"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (TR), CZE, DEU, DUT, ENG, ESP, FRE, ITA, JPN, POL, RUS",
+        "CHI (TR), CZE, DEU, DUT, ENG, ESP, FRE, ITA, JPN, POL, RUS"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5W",
+    "power consumption typical": "21W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "2 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "separate hv sync": "Yes",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "55 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "47.66 cm",
+    "viewable size vertical": "26.81 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "3 kg",
+    "width with stand": "50.55 cm",
+    "windows operating systems supported": [
+        "Windows 2000, Windows 7 Home Basic, Windows 8, Windows 95, Windows 98, Windows ME, Windows Vista Home Basic, Windows XP Home",
+        "Windows 2000, Windows 7 Home Basic, Windows 8, Windows 95, Windows 98, Windows ME, Windows Vista Home Basic, Windows XP Home"
+    ]
+}

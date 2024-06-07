@@ -1,0 +1,99 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Samsung S22C650D - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "Mega Contrast",
+    "contrast ratio typical": "1000:1",
+    "dcin jack": "Yes",
+    "depth": "5.545 cm",
+    "depth with stand": "21 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display diagonal metric": "54.61 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "AD-PLS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "height": "30.19 cm",
+    "height adjustment": [
+        "Yes",
+        "13 cm"
+    ],
+    "height with stand": "49.035 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "10 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "6.15 kg",
+        "6.15 kg"
+    ],
+    "packaging depth": [
+        "18.5 cm",
+        "18.5 cm"
+    ],
+    "packaging height": [
+        "37.5 cm",
+        "37.5 cm"
+    ],
+    "packaging width": [
+        "57.7 cm",
+        "57.7 cm"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "-1 - 95\u00c2\u00b0",
+    "pixel pitch": "0.2655 x 0.2655 mm",
+    "power consumption powersave": "28W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "38W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080i, 1080p",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "thin client installed": "No",
+    "tilt angle": "-3 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "47.664 cm",
+    "viewable size vertical": "26.811 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.2 kg",
+    "weight with stand": "4.75 kg",
+    "width": "50.43 cm",
+    "width with stand": "50.43 cm"
+}

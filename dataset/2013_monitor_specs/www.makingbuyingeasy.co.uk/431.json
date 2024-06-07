@@ -1,0 +1,129 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Iiyama ProLite P1905S-2 - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, VGA",
+        "AC, Audio (3.5mm), DVI, VGA"
+    ],
+    "certification": "CE, CB, T\u00c3\u0153V-GS, T\u00c3\u0153V-ERGO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "20.05 cm",
+    "digital horizontal frequency": "31 - 81 kHz",
+    "digital vertical frequency": "56 - 75 Hz",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display diagonal metric": "48.26 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "headphone connectivity": "3.5 mm",
+    "headphone outputs": "1",
+    "height": "42.05 cm",
+    "height adjustment": "No",
+    "horizontal scan range": "31 - 81 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "9",
+        "9"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd languages": [
+        "CHI (SIMPL), CHI (TR), DEU, ENG, ESP, FRE, ITA, JPN",
+        "CHI (SIMPL), CHI (TR), DEU, ENG, ESP, FRE, ITA, JPN"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pivot": "No",
+    "pixel pitch": "0.294 x 0.294 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "1W",
+    "power consumption typical": "20W",
+    "quantity": [
+        "1",
+        "1"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "separate hv sync": "Yes",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "swivelling": "No",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "48.26 cm",
+    "viewable size horizontal": "30.1 cm",
+    "viewable size vertical": "37.63 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5 kg",
+    "width": "41.45 cm",
+    "windows operating systems supported": [
+        "Windows 2000, Windows 2000 Professional, Windows 95, Windows 98, Windows ME, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64, Windows XP Home, Windows XP Home x64, Windows XP Professional, Windows XP Professional x64",
+        "Windows 2000, Windows 2000 Professional, Windows 95, Windows 98, Windows ME, Windows Vista Business, Windows Vista Business x64, Windows Vista Enterprise, Windows Vista Enterprise x64, Windows Vista Home Basic, Windows Vista Home Basic x64, Windows Vista Home Premium, Windows Vista Home Premium x64, Windows Vista Ultimate, Windows Vista Ultimate x64, Windows XP Home, Windows XP Home x64, Windows XP Professional, Windows XP Professional x64"
+    ]
+}

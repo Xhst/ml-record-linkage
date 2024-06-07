@@ -1,0 +1,63 @@
+{
+    "<page title>": "Iiyama ProLite T1531SAW-B1 - MBE",
+    "aspect ratio": "4:3",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "500:1",
+    "dimensions wxdxh": [
+        "351 x 201 x 306 mm",
+        "351 x 201 x 306 mm"
+    ],
+    "display brightness": "230 cd/m\u00c2\u00b2",
+    "display diagonal": "38.1 cm (15\")",
+    "display resolution": "1024 x 768 pixels",
+    "dvid ports quantity": "1",
+    "horizontal scan range": "31.5 - 60.2 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "number of colours": "16.7M",
+    "omnitapps multitouch compatibility": [
+        "No",
+        "No"
+    ],
+    "pixel pitch": "0.297 x 0.297 mm",
+    "power consumption typical": "20W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "8 ms",
+    "rs232 ports": "1",
+    "separate hv sync": "Yes",
+    "speakers": [
+        "2 x 1 W",
+        "2 x 1 W"
+    ],
+    "tilt angle": [
+        "-5 - 90\u00c2\u00b0",
+        "-5 - 90\u00c2\u00b0"
+    ],
+    "touch screen type": [
+        "Tabletop",
+        "Tabletop"
+    ],
+    "touchscreen technology": "Surface acoustic wave",
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "140\u00c2\u00b0",
+    "viewing angle vertical": "125\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.8 kg",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "<page title>": "Elo TouchSystems 1523L - MBE",
+    "aspect ratio": "4:3",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "certification": [
+        "UL/cUL, FCC-A, Semko, CE, VCCI, C-Tick",
+        "UL/cUL, FCC-A, Semko, CE, VCCI, C-Tick"
+    ],
+    "colour of product": [
+        "White",
+        "White"
+    ],
+    "contrast ratio typical": "700:1",
+    "depth with stand": [
+        "31.8 cm",
+        "31.8 cm"
+    ],
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "38.1 cm (15\")",
+    "display resolution": "1024 x 768 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "304 x 228 mm",
+    "dvid ports quantity": "1",
+    "full hd": "No",
+    "hdready": "No",
+    "height with stand": [
+        "19.9 cm",
+        "19.9 cm"
+    ],
+    "horizontal scan range": "31 - 80 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "number of colours": "16.2M",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "358.1 x 199.1 x 318.5 mm",
+        "358.1 x 199.1 x 318.5 mm"
+    ],
+    "package weight": [
+        "7 kg",
+        "7 kg"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption typical": "12W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "25 ms",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": [
+        "720 x 400, 1024 x 768 (XGA), 640 x 480 (VGA), 800 x 600 (SVGA)",
+        "720 x 400, 1024 x 768 (XGA), 640 x 480 (VGA), 800 x 600 (SVGA)"
+    ],
+    "touch screen type": [
+        "Tabletop",
+        "Tabletop"
+    ],
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb required": "Yes",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "140\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.65 kg",
+    "weight with stand": "4.44 kg",
+    "width": "35.8 cm"
+}

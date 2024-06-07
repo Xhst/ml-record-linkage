@@ -1,0 +1,61 @@
+{
+    "<page title>": "AG Neovo X-15W White - MrHighTech Shop",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "UL/CUL,TUV/Baurt, CB, GOST-R, FCC, CE, BSMI, WEEE, RoHS, Vista/Basic",
+    "colour of product": [
+        "White",
+        "White"
+    ],
+    "compliance industry standards": "DCC 2B, DCC/CI",
+    "depth": "155 mm",
+    "display brightness": "320 cd/m\u00b2",
+    "display diagonal": "381 mm (15 \")",
+    "display resolution": "1024 x 768 pixels",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "height": "359 mm",
+    "horizontal scan range": "30 - 60 kHz",
+    "mean time between failures mtbf": [
+        "50000 h",
+        "50000 h"
+    ],
+    "operating relative humidity hh": "10 - 90 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "package weight": "7 kg",
+    "packaging depth": "217 mm",
+    "packaging height": "445 mm",
+    "packaging width": "477 mm",
+    "pixel pitch": "0.297 x 0.297 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "1 W",
+    "power consumption standby": "2 W",
+    "power consumption typical": "36 W",
+    "power requirements": "100-240V, 50/60Hz",
+    "response time": "4 ms",
+    "storage relative humidity hh": "5 - 95 %",
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "tilt angle": "0 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "381 mm",
+    "viewing angle horizontal": "140 \u00b0",
+    "viewing angle vertical": "125 \u00b0",
+    "weight": "4.8 kg",
+    "width": "380 mm"
+}

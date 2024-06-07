@@ -1,0 +1,72 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "HP Compaq L2311c - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "1000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "4.95 cm",
+    "dimensions w x d x h with stand": "551.5 x 249.4 x 467 mm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "58.42 cm (23\")",
+    "display diagonal metric": "58.42 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "energy star certified": "Yes",
+    "ethernet lan rj45 ports": "1",
+    "hd type": "Full HD",
+    "hdcp": "No",
+    "headphone outputs": "1",
+    "height": "33.42 cm",
+    "height adjustment": "13 cm",
+    "horizontal scan range": "24 - 94 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "microphone in": "Yes",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pivot": "Yes",
+    "pixel pitch": "0.265 x 0.265 mm",
+    "power consumption standby": "1W",
+    "power consumption typical": "38W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "720 x 400, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1440 x 900 (WXGA+), 640 x 480 (VGA), 800 x 600 (SVGA)",
+    "swivel angle range": "-180 - 180\u00c2\u00b0",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 30\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "usb 30 ports quantity": "2",
+    "vertical scan range": "50 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "53.32 cm",
+    "viewable size vertical": "28.68 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.55 kg",
+    "width": "55.51 cm"
+}

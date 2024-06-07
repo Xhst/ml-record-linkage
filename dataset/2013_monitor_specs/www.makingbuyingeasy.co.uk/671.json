@@ -1,0 +1,75 @@
+{
+    "3d compatibility": "Yes",
+    "<page title>": "Acer 3D GN246HL - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "17.89 cm",
+    "depth with stand": "2.37 cm",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "60.9 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "34.27 cm",
+    "height adjustment": "No",
+    "height with stand": "40.09 cm",
+    "input voltage": "100 - 240V",
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "packaging depth": [
+        "15.4 cm",
+        "15.4 cm"
+    ],
+    "packaging height": [
+        "41.7 cm",
+        "41.7 cm"
+    ],
+    "packaging width": [
+        "61.7 cm",
+        "61.7 cm"
+    ],
+    "pivot": "No",
+    "pixel pitch": "0.276 x 0.276 mm",
+    "power consumption off": "0.45W",
+    "power consumption standby": "0.49W",
+    "power consumption typical": "23W",
+    "response time": "1 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivelling": "No",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "53.1 cm",
+    "viewable size vertical": "29.9 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.52 kg",
+    "width": "56.5 cm",
+    "width with stand": "56.5 cm"
+}

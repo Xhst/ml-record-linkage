@@ -1,0 +1,77 @@
+{
+    "<page title>": "HP Z27i - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6.55 cm",
+    "depth with stand": "24.24 cm",
+    "display": "LCD",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "2560 x 1440 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "37.92 cm",
+    "height adjustment": [
+        "12 cm",
+        "Yes"
+    ],
+    "height with stand": "42.04 cm",
+    "horizontal scan range": "24 - 94 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.233 x 0.233 mm",
+    "power consumption max": "75W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "60W",
+    "response time": "8 ms",
+    "separate hv sync": "Yes",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 30 ports quantity": "5",
+    "vertical scan range": "50 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "7.6 kg",
+    "width": "64.1 cm",
+    "width with stand": "64.1 cm"
+}

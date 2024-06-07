@@ -1,0 +1,33 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq GL951AM - MediaShopUK",
+    "ac power in": "Yes",
+    "aspect ratio": "16:10",
+    "builtin camera": "No",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "contrast ratio typical": "1000:1",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "482.6 mm (19 \")",
+    "display number of colours": "16.77 M",
+    "display resolution": "1440 x 900 pixels",
+    "hd type": "HD-Ready",
+    "hdcp": "No",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "power led": "Yes",
+    "response time": "5 ms",
+    "standby led": "Yes",
+    "supported graphics resolutions": "1440 x 900 (WXGA+)",
+    "thin client installed": "No",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes"
+}

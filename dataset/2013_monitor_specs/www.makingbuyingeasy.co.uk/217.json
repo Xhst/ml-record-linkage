@@ -1,0 +1,71 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq GL2450 - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "certification": "TCO 5.0",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "17.912 cm",
+    "dimensions w x d x h with stand": "579 x 63 x 350.98 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "43.649 cm",
+    "package weight": [
+        "5.6 kg",
+        "5.6 kg"
+    ],
+    "packaging depth": [
+        "42 cm",
+        "42 cm"
+    ],
+    "packaging height": [
+        "65 cm",
+        "65 cm"
+    ],
+    "packaging width": [
+        "13.4 cm",
+        "13.4 cm"
+    ],
+    "pixel pitch": "0.276 x 0.276 mm",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "34W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 15\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.1 kg",
+    "width": "57.939 cm"
+}

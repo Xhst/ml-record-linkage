@@ -1,0 +1,78 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL UltraSharp U2913WM - MBE",
+    "aspect ratio": "21:9",
+    "audio output": "Yes",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "DisplayPort, DVI, Mini DisplayPort, USB",
+        "DisplayPort, DVI, Mini DisplayPort, USB"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "2000000:1",
+    "contrast ratio typical": "1000:1",
+    "dcin jack": "Yes",
+    "depth": "6.12 cm",
+    "depth with stand": "19.42 cm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "73.66 cm (29\")",
+    "display diagonal metric": "73.02 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "2560 x 1080 pixels",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "31.7 cm",
+    "height adjustment": "Yes",
+    "height with stand": "48.7 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mini displayport quantity": "1",
+    "package weight": [
+        "11350g",
+        "11350g"
+    ],
+    "pixel pitch": "0.09 x 0.26 mm",
+    "power consumption max": "90W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "32W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "8 ms",
+    "supported graphics resolutions": "2560 x 1080",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 30 ports quantity": "5",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.76 kg",
+    "width": "69.98 cm",
+    "width with stand": "69.98 cm",
+    "wifi": "No"
+}

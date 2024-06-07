@@ -1,0 +1,128 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Viewsonic Professional Series VP2770-LED - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "certification": "CB, TCO6.0, WEEE, RoHS, UL, cUL, FCC-B, TUV-S (ULAR), NOM, GS, CE, ErP, REACH, GOST-R+Hygienic, Ukraine, CCC, CEL, CECP",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "composite sync": "Yes",
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.6 cm",
+    "depth with stand": "34.78 cm",
+    "digital horizontal frequency": "24 - 92 kHz",
+    "digital vertical frequency": "50 - 75 Hz",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68.5 cm",
+    "display resolution": "2560 x 1440 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "height": "38.17 cm",
+    "height adjustment": [
+        "Yes",
+        "15 cm"
+    ],
+    "height with stand": "46.97 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "maximum resolution": [
+        "2560 x 1440 pixels",
+        "2560 x 1440 pixels"
+    ],
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 90%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.233 x 0.233 mm",
+    "placement supported": [
+        "Horizontal/Vertical",
+        "Horizontal/Vertical"
+    ],
+    "power consumption average": "30W",
+    "power consumption standby": "22W",
+    "power consumption typical": "40W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "12 ms",
+    "screen saving functions": [
+        "Yes",
+        "Yes"
+    ],
+    "separate hv sync": "Yes",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "2048 x 1152, 2560 x 1440, 1920 x 1080 (HD 1080)",
+    "swivel angle range": "-60 - 60\u00c2\u00b0",
+    "syncongreen sog": "Yes",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 23\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "usb 30 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.8 kg",
+    "weight with stand": "8.45 kg",
+    "width": "64.27 cm",
+    "width with stand": "64.27 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

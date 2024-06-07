@@ -1,0 +1,107 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "HP W2072a - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "CB, CE, TUV-GS, ISO9241-307, UL/CAS, FCC, EPA, GOST, NOM, TUV-S, VCCI, KC/KCC, PSB, ISC, CCC, BSMI, C-TICK, CCC, CECP, S EPA, CEL 1",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "3000000:1",
+    "contrast ratio typical": "600:1",
+    "depth": "4.78 cm",
+    "depth with stand": "17 cm",
+    "display": "LED",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "50.8 cm (20\")",
+    "display diagonal metric": "50.8 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1600 x 900 pixels",
+    "display surface": "Matt",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "ethernet lan": "No",
+    "height": "29.9 cm",
+    "height with stand": "35.66 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "95 - 265V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "linux operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "26W",
+    "power consumption typical": "20W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1600 x 900",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "5 - 35\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "50\u00c2\u00b0",
+    "weight": "3.5 kg",
+    "width": "47.73 cm",
+    "width with stand": "47.73 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

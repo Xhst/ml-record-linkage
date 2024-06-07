@@ -1,0 +1,110 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 27MP35HQ-P Monitor - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "certification": "UL (cUL), TUV, FCC-B, CE, EPA",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "4.7 cm",
+    "depth with stand": "25.4 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "56 - 61 Hz",
+    "display": "LCD",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "dvi port": "No",
+    "energy efficiency class": "A",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "39 cm",
+    "height with stand": "48.5 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "7.3 kg",
+        "7.3 kg"
+    ],
+    "packaging depth": [
+        "47 cm",
+        "47 cm"
+    ],
+    "packaging height": [
+        "15.8 cm",
+        "15.8 cm"
+    ],
+    "packaging width": [
+        "79.6 cm",
+        "79.6 cm"
+    ],
+    "pixel pitch": "0.3114 x 0.3114 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "34W",
+    "power consumption off": "0.3W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "23W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.2 kg",
+    "weight with stand": "4.8 kg",
+    "width": "64.2 cm",
+    "width with stand": "64.2 cm"
+}

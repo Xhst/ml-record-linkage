@@ -1,0 +1,167 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS VK228H LED display - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, USB, VGA",
+        "AC, Audio (3.5mm), DVI, USB, VGA"
+    ],
+    "certification": "UL/cUL, CB, CE, ErP, BSMI, Gost-R, C-Tick, VCCI, J-MOSS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compliance industry standards": "TCO 5.2",
+    "contrast ratio dynamic": "80000000:1",
+    "depth": "4.84 cm",
+    "depth with stand": "20.06 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvid ports quantity": "1",
+    "electromagnetic compatibility": "FCC, CCC",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "Yes",
+        "Yes"
+    ],
+    "hdmi ports quantity": "1",
+    "headphone connectivity": "3.5 mm",
+    "headphone outputs": "1",
+    "height": "38.722 cm",
+    "height with stand": "38.722 cm",
+    "horizontal scan range": "30 - 82 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "linux operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "megapixel": [
+        "1 MP",
+        "1 MP",
+        "1 MP"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of products included": [
+        "1 pcs",
+        "1 pcs"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "5.2 kg",
+        "5.2 kg"
+    ],
+    "packaging depth": [
+        "13 cm",
+        "13 cm"
+    ],
+    "packaging height": [
+        "44.3 cm",
+        "44.3 cm"
+    ],
+    "packaging width": [
+        "56.6 cm",
+        "56.6 cm"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.248 x 0.248 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5W",
+    "power consumption typical": "25W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "safety": "RoHS, WEEE",
+    "screen format adjustments": [
+        "4:3",
+        "4:3"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "thin client installed": "No",
+    "tilt angle": "20 - -5\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "50 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.1 kg",
+    "width": "51.41 cm",
+    "width with stand": "51.41 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

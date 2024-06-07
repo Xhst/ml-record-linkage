@@ -1,0 +1,51 @@
+{
+    "<page title>": "AG Neovo SC-17 - MrHighTech Shop",
+    "ac power in": "Yes",
+    "aspect ratio": "4:3",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "certification": "UL/CUL, CB, FCC, CE, BSMI, WEEE, RoHS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "164 mm",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "431.8 mm (17 \")",
+    "display resolution": "1280 x 1024 pixels",
+    "dvii ports quantity": "1",
+    "hdcp": "No",
+    "headphone out": "1",
+    "height": "372 mm",
+    "horizontal scan range": "31 - 80 kHz",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 85 %",
+    "operating temperature tt": "0 - 40 \u00b0C",
+    "pixel pitch": "0.264 x 0.264 mm",
+    "power consumption typical": "26 W",
+    "response time": "3 ms",
+    "rms rated power": [
+        "2 W",
+        "2 W"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "storage relative humidity hh": "10 - 95 %",
+    "storage temperature tt": "-20 - 60 \u00b0C",
+    "tv tuner integrated": "No",
+    "vertical scan range": "50 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "weight": "3.6 kg",
+    "width": "360 mm"
+}

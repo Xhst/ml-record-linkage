@@ -1,0 +1,81 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 29UM65-P LED display - MBE",
+    "aspect ratio": "21:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, HDMI",
+        "AC, HDMI"
+    ],
+    "certification": "TCO6.0, UL(cUL), FCC-B, CE, CB, CCC, BSMI, KC, EPA, ROHS, REACH",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "dcin jack": "Yes",
+    "depth": "6.38 cm",
+    "depth with stand": "18.1 cm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "73.66 cm (29\")",
+    "display number of colours": "16.77M",
+    "display resolution": "2560 x 1080 pixels",
+    "display srgb": "Yes",
+    "display technology": "IPS",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "feet colour": [
+        "Black",
+        "Black"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone outputs": "1",
+    "height": "32.82 cm",
+    "height with stand": "41.82 cm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input voltage": "100 - 240V",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.0876 x 0.2628 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "38W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "2560 x 1080, 1920 x 1080 (HD 1080)",
+    "tilt adjustment": "Yes",
+    "tilt angle": "20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "5.2 kg",
+    "weight with stand": "6.2 kg",
+    "width": "70.25 cm",
+    "width with stand": "70.25 cm"
+}

@@ -1,0 +1,23 @@
+{
+    "<page title>": "AOC e2343F - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "builtin camera": "No",
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "digital horizontal frequency": "31 - 83 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "584.2 mm (23 \")",
+    "display resolution": "1920 x 1080 pixels",
+    "dvid ports quantity": "1",
+    "hdcp": "Yes",
+    "pixel pitch": "0.2655 x 0.2655 mm",
+    "power consumption typical": "28 W",
+    "response time": "5 ms",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160 \u00b0",
+    "viewing angle vertical": "160 \u00b0"
+}

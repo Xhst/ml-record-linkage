@@ -1,0 +1,69 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "HP Compaq LA1956x - MBE",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "contrast ratio dynamic": "1000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "4.7 cm",
+    "depth with stand": "19.2 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display diagonal metric": "48.3 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "No",
+    "hdcp": "No",
+    "height": "34.7 cm",
+    "height adjustment": "Yes",
+    "height with stand": "48.6 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pixel pitch": "0.294 x 0.294 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption standby": "0.5W",
+    "power consumption typical": "27W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "swivel angle range": "-180 - 180\u00c2\u00b0",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "weight": "4.5 kg",
+    "width": "41.7 cm",
+    "width with stand": "41.7 cm"
+}

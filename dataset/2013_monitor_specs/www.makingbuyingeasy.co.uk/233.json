@@ -1,0 +1,135 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS VS207T-P LED display - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, VGA",
+        "AC, Audio (3.5mm), DVI, VGA"
+    ],
+    "certification": "BSMI, CB, CE, C-Tick, ErP, FCC, Gost-R, RoHS, TCO6.0, UL/cUL, VCCI, WEEE, WHQL (Windows 8, Windows 7)",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "80000000:1",
+    "depth with stand": "18.5 cm",
+    "digital horizontal frequency": "30 - 80 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "49.53 cm (19.5\")",
+    "display diagonal metric": "49.5 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1600 x 900 pixels",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "HD-ready",
+    "hdcp": "Yes",
+    "height adjustment": "No",
+    "height with stand": "35.55 cm",
+    "horizontal scan range": "30 - 80 kHz",
+    "mac operating systems supported": [
+        "No",
+        "No"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "3.99 kg",
+        "3.99 kg"
+    ],
+    "packaging depth": [
+        "4.5 cm",
+        "4.5 cm"
+    ],
+    "packaging height": [
+        "28.75 cm",
+        "28.75 cm"
+    ],
+    "packaging width": [
+        "46.8 cm",
+        "46.8 cm"
+    ],
+    "pc audio in": "Yes",
+    "pictureinpicture": [
+        "No",
+        "No"
+    ],
+    "pivot": "No",
+    "pixel pitch": "0.2768 x 0.2768 mm",
+    "power consumption off": "0.5W",
+    "power consumption powersave": "0.5W",
+    "power consumption typical": "25W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "screen format adjustments": [
+        "4:3, 16:9",
+        "4:3, 16:9"
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1600 x 900",
+    "swivelling": "No",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "55 - 75 Hz",
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "2.59 kg",
+    "width with stand": "46.8 cm"
+}

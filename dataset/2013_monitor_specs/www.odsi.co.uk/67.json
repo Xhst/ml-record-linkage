@@ -1,0 +1,96 @@
+{
+    "<page title>": "NEC-60003586-NEC MultiSync EA193Mi - 19\" - LED-Backlit LCD Monitor",
+    "aspect ratio": [
+        "5:4",
+        "5:4"
+    ],
+    "backlight technology": "WLED",
+    "brightness": [
+        "250 cd/m2",
+        "250 cd/m2"
+    ],
+    "cables included": "1 x VGA cable - VGA to VGA \u00a6 1 x DVI cable - DVI-D to DVI-D",
+    "colour": [
+        "Black",
+        "Black"
+    ],
+    "colour support": [
+        "16.7 million colours",
+        "16.7 million colours"
+    ],
+    "compliant standards": [
+        "FCC Class B certified, MPR II, CSA, UL, TUV GS, GOST, cUL, DDC-2B, DDC-2Bi, MPR III, PCT, VESA EDID, TUV Ergo, DDC/CI, RoHS, ISO 9241-307, ERP, TCO Displays 6.0",
+        "FCC Class B certified, MPR II, CSA, UL, TUV GS, GOST, cUL, DDC-2B, DDC-2Bi, MPR III, PCT, VESA EDID, TUV Ergo, DDC/CI, RoHS, ISO 9241-307, ERP, TCO Displays 6.0"
+    ],
+    "contrast ratio": [
+        "1000:1",
+        "1000:1"
+    ],
+    "controls  adjustments": "Brightness, contrast, colour temperature",
+    "description technical detail": "NEC MultiSync EA193Mi - 19\" - LED-Backlit LCD Monitor\nThe EA193Mi is a high-end 19\" 5:4 conventional format monitor with best IPS panel and latest energy saving LED backlight technology. It offers the latest DisplayPort connectivity and full ergonomic adjustability. Low power consumption and low operating costs make the display perfect for use in the professional office environment. Outstanding ergonomic comfort and intelligent features such as the Ambient Light Sensor make it very user-friendly and help to increase productivity.",
+    "device type": "LED-backlit LCD monitor - 19\"",
+    "diagonal size": "19\"",
+    "dimensions  weight details": "Without stand - width: 40.8 cm - depth: 6.5 cm - height: 33.8 cm - weight: 4 kg \u00a6 With stand - width: 40.8 cm - depth: 21.39 cm - height: 38.64 cm - weight: 6 kg",
+    "dimensions wxdxh": [
+        "40.8 cm x 21.39 cm x 38.64 cm - with stand",
+        "40.8 cm x 21.39 cm x 38.64 cm - with stand"
+    ],
+    "display position adjustments": [
+        "Height, pivot (rotation), swivel, tilt",
+        "Height, pivot (rotation), swivel, tilt"
+    ],
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "environmental standards": "ENERGY STAR Qualified",
+    "features": [
+        "Security lock slot (cable lock sold separately)",
+        "Ambient light sensor, No Touch Auto Adjust, ErgoDesign, Intelligent Power Manager (IPM), power off timer, cable management cover, sRGB colour management, HDCP, NaViSet, Eco-Mode, Dynamic Visual Mode, OSD lock, NaViSet Administrator, Carbon Footprint Meter, Carbon Savings Meter, TORO Design"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "110 mm",
+    "horizontal refresh rate": "31.5 - 81.1 kHz",
+    "horizontal viewing angle": "178",
+    "humidity range operating": "20 - 80%",
+    "input connectors": "DVI, VGA, DisplayPort",
+    "interfaces": "DVI-D ( HDCP ) \u00a6 DisplayPort \u00a6 VGA ( HD-15 )",
+    "manufacturer": "NEC",
+    "manufacturer part ": "60003586",
+    "manufacturer warranty": "3 years warranty",
+    "max operating temperature": "35 \u00b0C",
+    "min operating temperature": "5 \u00b0C",
+    "native resolution": [
+        "1280 x 1024 at 60 Hz",
+        "1280 x 1024 at 60 Hz"
+    ],
+    "output power  channel": "1 Watt",
+    "panel type": [
+        "IPS",
+        "IPS"
+    ],
+    "pixel pitch": [
+        "0.294 mm",
+        "0.294 mm"
+    ],
+    "power consumption operational": "18 Watt",
+    "power consumption stand by": "0.35 Watt",
+    "power supply": "Internal",
+    "product description": "NEC MultiSync EA193Mi - LED monitor - 19\"",
+    "response time": [
+        "6 ms",
+        "6 ms"
+    ],
+    "rotation angle": "90",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - 3 years \u00a6 Limited warranty - backlight - 3 years",
+    "speakers": "Integrated",
+    "swivel angle": "90",
+    "tilt angle": "-5/+20",
+    "type": "Speakers - stereo - integrated",
+    "vertical refresh rate": "56 - 75 Hz",
+    "vertical viewing angle": "178",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": [
+        "6 kg",
+        "6 kg"
+    ]
+}

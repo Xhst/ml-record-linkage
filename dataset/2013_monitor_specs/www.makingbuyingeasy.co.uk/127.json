@@ -1,0 +1,106 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq GW2765HT - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "DisplayPort, HDMI, VGA",
+        "DisplayPort, HDMI, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth with stand": "22.4 cm",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display number of colours": "1070M",
+    "display resolution": "2560 x 1440 pixels",
+    "display srgb": "Yes",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone out": "Yes",
+    "headphone outputs": "1",
+    "height adjustment": [
+        "13 cm",
+        "Yes"
+    ],
+    "height with stand": "48.7 cm",
+    "input voltage": "90 - 264V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "9 kg",
+        "9 kg"
+    ],
+    "pixel pitch": "0.2331 x 0.2331 mm",
+    "power consumption powersave": "0.5W",
+    "power consumption typical": "32W",
+    "response time": "4 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "supported graphics resolutions": "2560 x 1440",
+    "swivel angle range": "-160 - 160\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "6.9 kg",
+    "width with stand": "74.8 cm",
+    "windows operating systems supported": [
+        "Windows 8, Windows 8.1",
+        "Windows 8, Windows 8.1"
+    ]
+}

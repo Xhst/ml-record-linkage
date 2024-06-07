@@ -1,0 +1,76 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL Professional P1914S - MBE",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "certification": "RoHS, TCO, CECP",
+    "colour of product": [
+        "Black, Silver",
+        "Black, Silver"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "4.65 cm",
+    "depth with stand": "18 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display diagonal metric": "48 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "height": "33.64 cm",
+    "height adjustment": "Yes",
+    "height with stand": "49.97 cm",
+    "input current": "1.2A",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "package weight": [
+        "6.57 kg",
+        "6.57 kg"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.29 x 0.29 mm",
+    "power consumption max": "37W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "16W",
+    "response time": "8 ms",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "4",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "37.48 cm",
+    "viewable size vertical": "29.98 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.76 kg",
+    "width": "41.14 cm",
+    "width with stand": "41.14 cm"
+}

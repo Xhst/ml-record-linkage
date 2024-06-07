@@ -1,0 +1,108 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "iiyama ProLite XB2483HSU - MediaShopUK",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), USB, VGA",
+        "AC, Audio (3.5mm), USB, VGA"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "3000:1",
+    "depth with stand": "230 mm",
+    "digital horizontal frequency": "30 - 80 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "609.6 mm (24 \")",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "A-MVA",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone out": "1",
+    "height adjustment": "Yes",
+    "height with stand": "516.5 mm",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "10",
+        "10"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90 \u00b0",
+    "pixel pitch": "0.277 x 0.277 mm",
+    "power consumption standby": "0.5 W",
+    "power consumption typical": "27 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "4 ms",
+    "rms rated power": [
+        "4 W",
+        "4 W",
+        "4 W"
+    ],
+    "separate hv sync": "Yes",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1280 x 1024 (SXGA), 1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p",
+    "swivel angle range": "-45 - 45 \u00b0",
+    "swivelling": "Yes",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 22 \u00b0",
+    "usb 20 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "531.4 mm",
+    "viewable size vertical": "298.9 mm",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "5 kg",
+    "width with stand": "565.5 mm",
+    "wifi": "No"
+}

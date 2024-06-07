@@ -1,0 +1,64 @@
+{
+    "<page title>": "Elo TouchSystems 1717L Rev B - MBE",
+    "aspect ratio": "5:4",
+    "colour of product": [
+        "White",
+        "White"
+    ],
+    "contrast ratio typical": "800:1",
+    "dimensions w x d x h with stand": "392 x 215 x 361 mm",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "43.18 cm (17\")",
+    "display resolution": "1280 x 1024 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "338 x 270 mm",
+    "glass thickness": [
+        "4.3 cm",
+        "4.3 cm"
+    ],
+    "horizontal scan range": "31.5 - 80 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "led backlight": "Yes",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "number of colours": "16.7M",
+    "number of osd languages": "8",
+    "on screen display osd languages": "CHI (SIMPL), CHI (TR), DEU, ENG, ESP, FRE, ITA, JPN",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "8.3 kg",
+        "8.3 kg"
+    ],
+    "packaging depth": "23.3 cm",
+    "packaging height": "51 cm",
+    "packaging width": "51.1 cm",
+    "power consumption typical": "20W",
+    "power supply type": [
+        "AC/DC",
+        "AC/DC"
+    ],
+    "response time": "5 ms",
+    "rs232 ports": "1",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": [
+        "720 x 400, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 640 x 480 (VGA), 800 x 600 (SVGA)",
+        "720 x 400, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 640 x 480 (VGA), 800 x 600 (SVGA)"
+    ],
+    "touch screen type": [
+        "Tabletop",
+        "Tabletop"
+    ],
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "56 - 75 Hz",
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "voltage tolerance": "5%",
+    "weight with stand": "5.4 kg"
+}

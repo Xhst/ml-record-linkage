@@ -1,0 +1,93 @@
+{
+    "<page title>": "DELL UltraSharp U2412M - MBE",
+    "aspect ratio": "16:10",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "common interface ci": "No",
+    "common interface plus ci": "No",
+    "contrast ratio dynamic": "2000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6.49 cm",
+    "depth with stand": "18.03 cm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "60.96 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1200 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi": [
+        "No",
+        "No"
+    ],
+    "height": "36.16 cm",
+    "height adjustment": [
+        "11.5 cm",
+        "Yes"
+    ],
+    "height with stand": "51.35 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "package weight": [
+        "7.49 kg",
+        "7.49 kg"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.270 x 0.270 mm",
+    "placement supported": [
+        "Horizontal/Vertical",
+        "Horizontal/Vertical"
+    ],
+    "power consumption max": "72W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "38W",
+    "response time": "8 ms",
+    "supported graphics resolutions": "1920 x 1200 (WUXGA)",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "thin client installed": "No",
+    "tilt angle": "-4 - 21\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "Yes",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.97 kg",
+    "weight with stand": "6.24 kg",
+    "width": "55.6 cm",
+    "width with stand": "55.6 cm",
+    "wifi": "No"
+}

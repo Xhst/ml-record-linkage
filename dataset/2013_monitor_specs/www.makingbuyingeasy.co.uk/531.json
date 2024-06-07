@@ -1,0 +1,80 @@
+{
+    "<page title>": "Elo TouchSystems 1940L - MBE",
+    "aspect ratio": "16:9",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": [
+        "3.81 cm (1.5\")",
+        "3.81 cm (1.5\")",
+        "3.9 cm"
+    ],
+    "digital horizontal frequency": "31.5 - 80 kHz",
+    "digital vertical frequency": "50 - 75 Hz",
+    "dimensions wxdxh": [
+        "447 x 39 x 268.8 mm",
+        "447 x 39 x 268.8 mm"
+    ],
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display resolution": "1366 x 768 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "410 x 230 mm",
+    "dvid ports quantity": "1",
+    "height": [
+        "26.92 cm (10.6\")",
+        "26.92 cm (10.6\")",
+        "26.88 cm"
+    ],
+    "input frequency": "50 Hz",
+    "input voltage": "110 - 240V",
+    "led backlight": "Yes",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "number of products included": [
+        "1 pc(s)",
+        "1 pc(s)"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "365 x 545 x 140 mm",
+        "365 x 545 x 140 mm"
+    ],
+    "package weight": [
+        "4.8 kg",
+        "4.8 kg"
+    ],
+    "power consumption standby": "2W",
+    "power consumption typical": "19W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "5 ms",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": [
+        "720 x 400, 832 x 624, 1280 x 960, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 800 (WXGA), 1366 \u00d1\u2026 768, 640 x 480 (VGA), 800 x 600 (SVGA)",
+        "720 x 400, 832 x 624, 1280 x 960, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 800 (WXGA), 1366 \u00d1\u2026 768, 640 x 480 (VGA), 800 x 600 (SVGA)"
+    ],
+    "vesa mounting interfaces compatibility": "75 x 75 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.4 kg",
+    "width": [
+        "44.7 cm (17.6\")",
+        "44.7 cm (17.6\")",
+        "44.7 cm"
+    ]
+}

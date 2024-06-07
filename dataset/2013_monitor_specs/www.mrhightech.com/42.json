@@ -1,0 +1,106 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS VS238N - MrHighTech Shop",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "Yes",
+        "Yes"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, DVI, VGA",
+        "AC, DVI, VGA"
+    ],
+    "certification": "UL/cUL, CB, CE, ErP, FCC, CCC, BSMI, Gost-R, C-Tick, VCCI, PSB, EK, J-MOSS, RoHS, WEEE, Windows Vista and Windows 7 WHQL",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "depth with stand": "200 mm",
+    "digital horizontal frequency": "30 - 80 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "584.2 mm (23 \")",
+    "display diagonal metric": "58.4 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height with stand": "400 mm",
+    "maximum resolution": [
+        "1920 x 1080 pixels",
+        "1920 x 1080 pixels"
+    ],
+    "number of products included": [
+        "1 pcs",
+        "1 pcs"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": "5.8 kg",
+    "packaging depth": "130 mm",
+    "packaging height": "460 mm",
+    "packaging width": "608 mm",
+    "pixel pitch": "0.2655 x 0.2655 mm",
+    "placement supported": [
+        "Horizontal",
+        "Horizontal"
+    ],
+    "power consumption off": "0.5 W",
+    "power consumption powersave": "0.5 W",
+    "power consumption typical": "27 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "screen format adjustments": [
+        "4:3, 16:9",
+        "4:3, 16:9"
+    ],
+    "screen saving functions": [
+        "Yes",
+        "Yes"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "3.4 kg",
+    "width with stand": "552 mm"
+}

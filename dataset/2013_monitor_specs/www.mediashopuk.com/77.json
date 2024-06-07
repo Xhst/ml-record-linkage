@@ -1,0 +1,58 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq GL955A - MediaShopUK",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "600:1",
+    "depth": "164 mm",
+    "display brightness": "200 cd/m\u00b2",
+    "display diagonal": "469.9 mm (18.5 \")",
+    "display diagonal metric": "46.9 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1366 x 768 pixels",
+    "display technology": "TN+Film",
+    "energy star certified": "Yes",
+    "hd type": "No",
+    "hdcp": "No",
+    "height": "362 mm",
+    "height adjustment": "No",
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "pixel pitch": "0.3 x 0.3 mm",
+    "power consumption standby": "11 W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1366 ? 768",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15 \u00b0",
+    "tv tuner integrated": "No",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "90 \u00b0",
+    "viewing angle vertical": "50 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.8 kg",
+    "width": "459 mm"
+}

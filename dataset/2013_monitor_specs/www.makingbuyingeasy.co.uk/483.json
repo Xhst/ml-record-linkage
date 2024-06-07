@@ -1,0 +1,71 @@
+{
+    "<page title>": "Elo TouchSystems 1729L - MBE",
+    "aspect ratio": "5:4",
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "camera included": [
+        "No",
+        "No"
+    ],
+    "certification": [
+        "UL/cUL, FCC-A, T\u00c3\u0153V-GS, CE, VCCI, C-Tick, MPRII",
+        "UL/cUL, FCC-A, T\u00c3\u0153V-GS, CE, VCCI, C-Tick, MPRII"
+    ],
+    "colour of product": [
+        "Beige",
+        "Beige"
+    ],
+    "contrast ratio typical": "1000:1",
+    "dimensions w x d x h with stand": "391 x 239 x 381 mm",
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "43.18 cm (17\")",
+    "display type": "LCD",
+    "display viewable area hxv": "338 x 270 mm",
+    "dvid ports quantity": "1",
+    "full hd": "No",
+    "hdready": "No",
+    "horizontal scan range": "56.7 - 81.1 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "native resolution": [
+        "1280 x 1020",
+        "1280 x 1020"
+    ],
+    "number of colours": "16.7M",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 50 \u00c2\u00b0C",
+    "package weight": [
+        "11.2 kg",
+        "11.2 kg"
+    ],
+    "power consumption typical": "50W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "7.2 ms",
+    "storage relative humidity hh": "5 - 95%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "usb 20 ports quantity": "1",
+    "vertical scan range": "55 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "8.8 kg"
+}

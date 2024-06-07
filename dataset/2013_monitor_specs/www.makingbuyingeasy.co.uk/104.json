@@ -1,0 +1,62 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "HP ProDisplay P17A - MBE",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "5.7 cm",
+    "depth with stand": "20.63 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "43.18 cm (17\")",
+    "display diagonal metric": "43.2 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "hd type": "No",
+    "hdcp": "No",
+    "height": "31.66 cm",
+    "height with stand": "38.72 cm",
+    "horizontal scan range": "24 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "pixel pitch": "0.264 x 0.264 mm",
+    "power consumption powersave": "0.5W",
+    "power consumption typical": "15.2W",
+    "response time": "5 ms",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "33.79 cm",
+    "viewable size vertical": "27.03 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.23 kg",
+    "weight with stand": "3.72 kg",
+    "width": "37.72 cm",
+    "width with stand": "37.72 cm"
+}

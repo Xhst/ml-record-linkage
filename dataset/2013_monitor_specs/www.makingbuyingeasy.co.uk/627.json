@@ -1,0 +1,90 @@
+{
+    "<page title>": "Benq XL2430T - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cables included": [
+        "DVI, USB",
+        "DVI, USB"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "EnergyStar 6.0",
+    "color gamut": "72%",
+    "colour of product": [
+        "Black, Red",
+        "Black, Red"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "19.9 cm",
+    "display": "LED",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "2",
+    "headphone outputs": "1",
+    "height": "52 cm",
+    "height adjustment": [
+        "Yes",
+        "14 cm"
+    ],
+    "horizontal scan range": "15 - 140 kHz",
+    "input voltage": "90 - 264V",
+    "microphone in": "Yes",
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "9.6 kg",
+        "9.6 kg"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.276 x 0.276 mm",
+    "power consumption off": "0.5W",
+    "power consumption powersave": "0.5W",
+    "power consumption typical": "50W",
+    "response time": "1 ms",
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "usb 20 ports quantity": "1",
+    "usb 30 ports quantity": "3",
+    "vertical scan range": "24 - 144 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "53.1 cm",
+    "viewable size vertical": "29.8 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "7 kg",
+    "width": "56.8 cm",
+    "windows operating systems supported": [
+        "Yes",
+        "Yes"
+    ]
+}

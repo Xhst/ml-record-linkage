@@ -1,0 +1,109 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "AOC Q2963PM 29 Professional Super-Wide LED Multimedia Monitor - Gunmetal - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "21:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin microphone": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "TCO 6.0",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compatible memory cards": [
+        "No",
+        "No"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "21.199 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "73.66 cm (29\")",
+    "display diagonal metric": "73.7 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "2560 x 1080 pixels",
+    "displayports quantity": "2",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "ethernet lan": "No",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "height": "38.791 cm",
+    "height adjustment": "No",
+    "input frequency": "50/60 Hz",
+    "input voltage": "90 - 240V",
+    "microphone in": "No",
+    "number of loudspeakers": [
+        "1",
+        "1",
+        "1"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "pivot": "No",
+    "pixel pitch": "0.876 x 0.876 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.5W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "30W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "2560 x 1080",
+    "swivelling": "No",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "video dot rate": [
+        "146 MHz",
+        "146 MHz"
+    ],
+    "viewable size horizontal": "69.46 cm",
+    "viewable size vertical": "30.89 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.9 kg",
+    "weight with stand": "9.79 kg",
+    "width": "71.357 cm",
+    "wifi": "No"
+}

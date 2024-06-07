@@ -1,0 +1,82 @@
+{
+    "<page title>": "Elo TouchSystems 2740L - MBE",
+    "aspect ratio": "16:9",
+    "backlight type": "LED",
+    "camera included": [
+        "No",
+        "No"
+    ],
+    "certification": [
+        "S-Mark, C-Tick, CUL, IC, CCC, CE, VCCI, KCC, e-Standby, Mexico COC, BSMI, FCC, UL, CB, RoHS, WEEE",
+        "S-Mark, C-Tick, CUL, IC, CCC, CE, VCCI, KCC, e-Standby, Mexico COC, BSMI, FCC, UL, CB, RoHS, WEEE"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "3000:1",
+    "depth": "4.26 cm",
+    "display brightness": "270 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display resolution": "1920 x 1080 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "597.6 x 336.2 mm",
+    "dvid ports quantity": "1",
+    "full hd": "Yes",
+    "height": "37.34 cm",
+    "horizontal scan range": "31.5 - 80 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "interface type": [
+        "USB",
+        "USB"
+    ],
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "number of colours": "16.7M",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package dimensions wxdxh": [
+        "788 x 233 x 536 mm",
+        "788 x 233 x 536 mm"
+    ],
+    "package weight": [
+        "10500g",
+        "10500g"
+    ],
+    "power consumption standby": "1.3W",
+    "power consumption typical": "38W",
+    "power supply type": [
+        "DC",
+        "DC"
+    ],
+    "response time": "12 ms",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": [
+        "720 x 576, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1280 x 800 (WXGA), 1366 \u00d1\u2026 768, 1440 x 900 (WXGA+), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)",
+        "720 x 576, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1280 x 800 (WXGA), 1366 \u00d1\u2026 768, 1440 x 900 (WXGA+), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 640 x 480 (VGA), 800 x 600 (SVGA)"
+    ],
+    "supported video modes": [
+        "1080i, 1080p, 720p",
+        "1080i, 1080p, 720p"
+    ],
+    "touchscreen technology": "Surface acoustic wave",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 75 Hz",
+    "vesa mounting interfaces compatibility": "200 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "weight": "7.5 kg",
+    "width": "63.22 cm"
+}

@@ -1,0 +1,45 @@
+{
+    "<page title>": "HP L6015tm - MBE",
+    "aspect ratio": "4:3",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "700:1",
+    "depth": "31.3 cm",
+    "dimensions w x d x h with stand": "366 x 283 x 414 mm",
+    "display": "TN+Film",
+    "display brightness": "350 cd/m\u00c2\u00b2",
+    "display diagonal": "38.1 cm (15\")",
+    "display diagonal metric": "38 cm",
+    "display resolution": "1024 x 768 pixels",
+    "display type": "LCD",
+    "display viewable area hxv": "304 x 228 mm",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy star certified": [
+        "Yes",
+        "Yes"
+    ],
+    "height": "5.8 cm",
+    "horizontal scan range": "24 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "90 - 265V",
+    "pixel pitch": "0.297 x 0.297 mm",
+    "power consumption standby": "1W",
+    "power consumption typical": "20W",
+    "power supply type": [
+        "AC",
+        "AC"
+    ],
+    "response time": "25 ms",
+    "vertical scan range": "50 - 76 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "140\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4 kg",
+    "weight with stand": "6.8 kg",
+    "width": "36.6 cm"
+}

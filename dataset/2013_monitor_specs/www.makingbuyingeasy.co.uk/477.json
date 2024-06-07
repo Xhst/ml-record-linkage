@@ -1,0 +1,115 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Viewsonic Graphic Series VG2239M-LED - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": [
+        "5.64 cm",
+        "5.59 cm (2.2\")"
+    ],
+    "depth with stand": "23.96 cm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display resolution": "1920 x 1080 pixels",
+    "display surface": "Gloss",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": [
+        "30.44 cm",
+        "30.48 cm (12\")"
+    ],
+    "height adjustment": [
+        "Yes",
+        "13.5 cm"
+    ],
+    "height with stand": "41.8 cm",
+    "horizontal scan range": "24 - 82 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "mean time between failures mtbf": [
+        "30000h",
+        "30000h"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 90%",
+    "operating temperature tt": [
+        "0 - 40 \u00c2\u00b0C",
+        "32 - 104 \u00c2\u00b0F"
+    ],
+    "packaging depth": [
+        "18.7 cm",
+        "18.7 cm"
+    ],
+    "packaging height": [
+        "48.3 cm",
+        "48.3 cm"
+    ],
+    "packaging width": [
+        "58.1 cm",
+        "58.1 cm"
+    ],
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "power consumption typical": "22W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "swivel angle range": "0 - 360\u00c2\u00b0",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.2 kg",
+    "weight with stand": "4.7 kg",
+    "width": [
+        "51.24 cm",
+        "51.31 cm (20.2\")"
+    ],
+    "width with stand": "51.24 cm"
+}

@@ -1,0 +1,68 @@
+{
+    "<page title>": "HP W1972a - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "3000000:1",
+    "contrast ratio typical": "600:1",
+    "depth": "4.75 cm",
+    "depth with stand": "17.02 cm",
+    "display": "LCD",
+    "display brightness": "200 cd/m\u00c2\u00b2",
+    "display diagonal": "46.99 cm (18.5\")",
+    "display diagonal metric": "47 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1366 x 768 pixels",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "height": "28.15 cm",
+    "height adjustment": "No",
+    "height with stand": "33.95 cm",
+    "horizontal scan range": "24 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "operating relative humidity hh": "20 - 80%",
+    "pixel pitch": "0.300 x 0.300 mm",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "18W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "1W",
+        "1W",
+        "1W"
+    ],
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 19\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 76 Hz",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "90\u00c2\u00b0",
+    "viewing angle vertical": "50\u00c2\u00b0",
+    "weight": "2.7 kg",
+    "width": "44.61 cm",
+    "width with stand": "44.61 cm"
+}

@@ -1,0 +1,86 @@
+{
+    "<page title>": "ASUS PB287Q 28 INCHWide Screen (16:9) TN  SPEAKERS 2W x 2Swivel  Pivot  Height Adjustable  VESA  DisplayP - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "Energy Star\u00c2\u00ae, BSMI, CB, CCC, CE, CEL level 1, C-Tick, CU, ErP, FCC, ISO-9241-307, RoHS, TCO6.0, UL/cUL, VCCI, WEEE, WHQL (Windows 8, Windows 7)",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "6.355 cm",
+    "depth with stand": "22.006 cm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "71.12 cm (28\")",
+    "display number of colours": "1073.7M",
+    "display resolution": "3840 x 2160 pixels",
+    "displayports quantity": "1",
+    "dvi port": "No",
+    "energy star certified": "Yes",
+    "hd type": "4K Ultra HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "2",
+    "headphone out": "Yes",
+    "height": "38.067 cm",
+    "height adjustment": "Yes",
+    "height with stand": "41.4 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "package weight": [
+        "10600g",
+        "10600g"
+    ],
+    "packaging depth": [
+        "22.4 cm",
+        "22.4 cm"
+    ],
+    "packaging height": [
+        "46.5 cm",
+        "46.5 cm"
+    ],
+    "packaging width": [
+        "76.4 cm",
+        "76.4 cm"
+    ],
+    "pc audio in": "Yes",
+    "pivot": "Yes",
+    "power consumption off": "0.5W",
+    "power consumption typical": "60W",
+    "response time": "1 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "supported graphics resolutions": "3840 x 2160",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "width": "66.026 cm",
+    "width with stand": "66 cm"
+}

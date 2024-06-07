@@ -1,0 +1,93 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Benq GL2250M - MBE",
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "certification": "TCO 5.0",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "12000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "17.39 cm",
+    "depth with stand": "6.05 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "54.61 cm (21.5\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "TN",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "height": "39.99 cm",
+    "height with stand": "31.979 cm",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "17",
+        "17"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "package weight": [
+        "5.3 kg",
+        "5.3 kg"
+    ],
+    "packaging depth": [
+        "12.2 cm",
+        "12.2 cm"
+    ],
+    "packaging height": [
+        "39.7 cm",
+        "39.7 cm"
+    ],
+    "packaging width": [
+        "58.3 cm",
+        "58.3 cm"
+    ],
+    "pixel pitch": "0.248 x 0.248 mm",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "27W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "2W",
+        "2W",
+        "2W"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 25\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.7 kg",
+    "width": "52.469 cm",
+    "width with stand": "52.769 cm"
+}

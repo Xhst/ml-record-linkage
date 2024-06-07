@@ -1,0 +1,141 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Philips 221TE4LB - MrHighTech Shop",
+    "analog signal format system": [
+        "NTSC, PAL, SECAM",
+        "NTSC, PAL, SECAM"
+    ],
+    "aspect ratio": "16:9",
+    "backlight type": "W-LED",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "common interface ci": "Yes",
+    "common interface plus ci": "Yes",
+    "component video ypbprycbcr in": "1",
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "38 mm",
+    "depth with stand": "174 mm",
+    "display": "LCD",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "546.1 mm (21.5 \")",
+    "display diagonal metric": "54.6 cm",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "handheld remote control": [
+        "Yes",
+        "Yes"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "1",
+    "headphone out": "1",
+    "height": "345 mm",
+    "height adjustment": "No",
+    "height with stand": "384 mm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "number of osd languages": [
+        "28",
+        "28"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating temperature tt": "5 - 40 \u00b0C",
+    "package weight": [
+        "4.37 kg",
+        "4.37 kg"
+    ],
+    "packaging depth": [
+        "116 mm",
+        "116 mm"
+    ],
+    "packaging height": [
+        "446 mm",
+        "446 mm"
+    ],
+    "packaging width": [
+        "567 mm",
+        "567 mm"
+    ],
+    "pc audio in": "Yes",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "34 W",
+    "power consumption off": "0.3 W",
+    "power consumption standby": "0.3 W",
+    "power consumption typical": "25.6 W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "6 W",
+        "6 W",
+        "6 W"
+    ],
+    "screen format adjustments": [
+        "4:3, 14:9, 16:9, Zoom",
+        "4:3, 14:9, 16:9, Zoom"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "standby led": [
+        "Yes",
+        "Yes"
+    ],
+    "supported graphics resolutions": "1920 x 1080 (HD 1080)",
+    "supported video modes": "1080i, 1080p, 480i, 480p, 576i, 576p, 720p",
+    "thin client installed": "No",
+    "tilt angle": "0 - 15 \u00b0",
+    "tv tuner integrated": [
+        "Yes",
+        "Yes"
+    ],
+    "usb 20 ports quantity": "1",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3 kg",
+    "weight with stand": "3.24 kg",
+    "width": "529 mm",
+    "width with stand": "529 mm"
+}

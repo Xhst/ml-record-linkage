@@ -1,0 +1,82 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "ASUS VB178T - MrHighTech Shop",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, DVI, VGA",
+        "AC, DVI, VGA"
+    ],
+    "certification": "L/cUL, CB, CE, ErP, FCC,CCC, BSMI, Gost-R, C-Tick, VCCI,PSB,TCO5.2, ISO9241-307, TUV-GS/ERGO, J-MOSS, RoHS, WEEE, Windows 7 WHQL",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "50000000:1",
+    "depth": "60 mm",
+    "depth with stand": "210 mm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "431.8 mm (17 \")",
+    "display number of colours": "16.77 M",
+    "display resolution": "1280 x 1024 pixels",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "headphone connectivity": "3.5 mm",
+    "height": "314.2 mm",
+    "height adjustment": "No",
+    "height with stand": "386 mm",
+    "horizontal scan range": "30 - 83 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240 V",
+    "number of loudspeakers": [
+        "2",
+        "2"
+    ],
+    "pc audio in": "Yes",
+    "pixel pitch": "0.264 x 0.264 mm",
+    "power consumption standby": "1 W",
+    "power consumption typical": "25 W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "2 W",
+        "2 W"
+    ],
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 20 \u00b0",
+    "tv tuner integrated": "No",
+    "vertical scan range": "55 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170 \u00b0",
+    "viewing angle vertical": "160 \u00b0",
+    "wall mountable": "Yes",
+    "weight": "3.5 kg",
+    "weight with stand": "5.1 kg",
+    "width": "377 mm",
+    "width with stand": "377 mm"
+}

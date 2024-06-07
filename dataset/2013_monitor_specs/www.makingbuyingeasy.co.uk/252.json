@@ -1,0 +1,70 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL E Series E1913S - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "5:4",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio typical": "1000:1",
+    "depth": "16.35 cm",
+    "depth with stand": "16.35 cm",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "48.26 cm (19\")",
+    "display diagonal metric": "48.3 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1280 x 1024 pixels",
+    "display technology": "TN+Film",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hd type": "No",
+    "hdcp": "No",
+    "height": "33.67 cm",
+    "height with stand": "40.86 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "120 - 240V",
+    "led indicators": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "pixel pitch": "0.294 x 0.294 mm",
+    "power consumption max": "22W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "18W",
+    "response time": "5 ms",
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1280 x 1024 (SXGA)",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "48.3 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "weight": "2.79 kg",
+    "width": "41.19 cm",
+    "width with stand": "41.119 cm"
+}

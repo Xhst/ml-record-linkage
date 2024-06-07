@@ -1,0 +1,120 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "DELL UltraSharp UZ2715H - MBE",
+    "ac adapter included": [
+        "Yes",
+        "Yes"
+    ],
+    "aspect ratio": "16:9",
+    "builtin camera": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin microphone": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, DisplayPort, HDMI, USB",
+        "AC, DisplayPort, HDMI, USB"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "Mega Contrast",
+    "contrast ratio typical": "1000:1",
+    "current rating": "1.5A",
+    "depth": "4.62 cm",
+    "depth with stand": "19.6 cm",
+    "display": "LED",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "68.58 cm (27\")",
+    "display diagonal metric": "68.58 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1080 pixels",
+    "display surface": "Matt",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "feet colour": [
+        "Silver",
+        "Silver"
+    ],
+    "hd type": "Full HD",
+    "hdcp": "No",
+    "hdmi ports quantity": "2",
+    "headphone outputs": "1",
+    "height": "41.82 cm",
+    "height adjustment": "No",
+    "height with stand": "46.77 cm",
+    "input frequency": "50/60 Hz",
+    "input voltage": "96 - 264V",
+    "manual": [
+        "Yes",
+        "Yes"
+    ],
+    "megapixel": [
+        "2 MP",
+        "2 MP",
+        "2 MP"
+    ],
+    "mobile highdefinition link mhl": "Yes",
+    "nonoperating altitude": "1 - 12192m",
+    "operating altitude": "1 - 5000m",
+    "operating relative humidity hh": "10 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "9.32 kg",
+        "9.32 kg"
+    ],
+    "pixel pitch": "0.311 x 0.311 mm",
+    "power consumption max": "60W",
+    "power consumption standby": "1.2W",
+    "power consumption typical": "18W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "8 ms",
+    "rms rated power": [
+        "10W",
+        "10W",
+        "10W"
+    ],
+    "storage relative humidity hh": "5 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "1600 x 900, 1920 x 1080 (HD 1080)",
+    "supported video modes": "1080p, 720p",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 30 ports quantity": "3",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "59.79 cm",
+    "viewable size vertical": "33.63 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.69 kg",
+    "width": "65.88 cm",
+    "width with stand": "65.88 cm"
+}

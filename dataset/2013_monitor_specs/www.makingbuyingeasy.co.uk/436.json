@@ -1,0 +1,110 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "AOC E2060PWDA LED display - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "cCSAus, EuP, CE, FCC, GOST, ISO 9241-307, RoHS, TCO\u00c2\u00b406, T\u00c3\u0153V-GS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compatible memory cards": [
+        "No",
+        "No"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "24.45 cm",
+    "digital horizontal frequency": "30 - 83 kHz",
+    "digital vertical frequency": "55 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "49.53 cm (19.5\")",
+    "display diagonal metric": "49.5 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1600 x 900 pixels",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "ethernet lan": "No",
+    "hdcp": "Yes",
+    "height": "37.79 cm",
+    "height adjustment": [
+        "13 cm",
+        "Yes"
+    ],
+    "input frequency": "50/60 Hz",
+    "input voltage": "90 - 240V",
+    "microphone in": "No",
+    "number of loudspeakers": [
+        "1",
+        "1",
+        "1"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "pivot": "Yes",
+    "pixel pitch": "0.27 x 0.27 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.2W",
+    "power consumption standby": "0.3W",
+    "power consumption typical": "26W",
+    "response time": "5 ms",
+    "supported graphics resolutions": "1600 x 900",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 15\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "video dot rate": [
+        "148.5 MHz",
+        "148.5 MHz"
+    ],
+    "viewable size horizontal": "43.2 cm",
+    "viewable size vertical": "23.98 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.7 kg",
+    "weight with stand": "5.95 kg",
+    "width": "47.76 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64"
+    ]
+}

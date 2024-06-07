@@ -1,0 +1,101 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 34UM95 Black Monitor - MBE",
+    "aspect ratio": "21:9",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "No",
+        "No"
+    ],
+    "certification": "TCO6.0, EPA, CE, FCC-B, UL",
+    "colour of product": [
+        "Silver",
+        "Silver"
+    ],
+    "common interface ci": "Yes",
+    "depth": "8.29 cm",
+    "depth with stand": "17.29 cm",
+    "digital horizontal frequency": "30 - 90 kHz",
+    "digital vertical frequency": "56 - 61 Hz",
+    "display": "LED",
+    "display brightness": "320 cd/m\u00c2\u00b2",
+    "display diagonal": "86.36 cm (34\")",
+    "display number of colours": "1070M",
+    "display resolution": "3440 x 1440 pixels",
+    "display surface": "Matt",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "No",
+    "energy efficiency class": "Unspecified",
+    "hd type": "Wide Quad HD",
+    "hdcp": "Yes",
+    "hdmi ports quantity": "2",
+    "height": "37.98 cm",
+    "height adjustment": "No",
+    "height with stand": "46.89 cm",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "packaging depth": [
+        "17.7 cm",
+        "17.7 cm"
+    ],
+    "packaging height": [
+        "51.3 cm",
+        "51.3 cm"
+    ],
+    "packaging width": [
+        "90.4 cm",
+        "90.4 cm"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.5W",
+    "power consumption standby": "1.2W",
+    "power consumption typical": "80W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "14W",
+        "14W",
+        "14W"
+    ],
+    "supported graphics resolutions": "3440 x 1440",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "5 - 15\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "2",
+    "usb 30 ports quantity": "2",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "6.7 kg",
+    "weight with stand": "7.7 kg",
+    "width": "82.99 cm",
+    "width with stand": "82.99 cm",
+    "windows operating systems supported": [
+        "Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64",
+        "Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64"
+    ]
+}

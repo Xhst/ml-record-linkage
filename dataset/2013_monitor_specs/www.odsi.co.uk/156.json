@@ -1,0 +1,58 @@
+{
+    "<page title>": "VX2452MH-LED 24 HDMI DVI MM VX2452MH Viewsonic",
+    "aspect ratio": [
+        "Widescreen",
+        "Widescreen - 16:9"
+    ],
+    "backlight life": "30,000 hours",
+    "backlight technology": "WLED",
+    "brightness": [
+        "300 cd/m2",
+        "250 cd/m2"
+    ],
+    "cables included": "1 x VGA cable \u00c2\u00a6 1 x DVI cable \u00c2\u00a6 1 x audio cable",
+    "colour": "Black",
+    "compliant standards": "FCC Class B certified, UL, C-Tick, BSMI, cUL, ICES-003, NOM, SASO, TUV S, CB, CCC, PSB, RoHS, WEEE, GOST-R, UkrSEPRO, ERP",
+    "contrast ratio": "1000:1 / 50000000:1 (dynamic)",
+    "controls  adjustments": "Brightness, contrast, colour balance, input select",
+    "description technical detail": "Viewsonic 24-Inch LED-Lit LCD Monitor, Full HD\nViewSonics VX2452MH is a 24\" (23.6\" viewable) Full HD, glossy-finish display that offers the ultimate visual experience for gaming and multimedia entertainment. The VX2452MH features ClearMotivII technology that delivers 2 ms ultra-fast response time for blur-free images during extreme gaming, and an ultra-high 50M:1 MEGA dynamic contrast ratio for sharp, crisp color performance for enjoying movies. Integrated D-sub, DVI and HDMI inputs provide flexible connectivity for high-definition multimedia devices and gaming consoles, and dual built-in 2-watt stereo speakers complete the package for multimedia enjoyment. With a VESA-mountable design, the VX2452MH offers flexible mounting options for any of your gaming and video entertainment needs.",
+    "diagonal size": "24\"",
+    "dimensions  weight details": "With stand - width: 55.92 cm - depth: 22.25 cm - height: 43.17 cm - weight: 3.8 kg \u00c2\u00a6 Without stand - width: 55.92 cm - depth: 5.3 cm - height: 35.67 cm - weight: 3.5 kg",
+    "dimensions wxdxh": "55.92 cm x 22.25 cm x 43.17 cm - with stand",
+    "display position adjustments": "Tilt",
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "features": [
+        "Security lock slot (cable lock sold separately)",
+        "HDCP, Eco-Mode, ClearMotiv II, game mode, Mega Dynamic Contrast Ratio"
+    ],
+    "flat panel mount interface": "100 x 100 mm",
+    "horizontal refresh rate": "24 - 82 kHz",
+    "horizontal viewing angle": "170",
+    "humidity range operating": "10 - 90% (non-condensing)",
+    "included software": "ViewSonic Wizard",
+    "interfaces": "VGA \u00c2\u00a6 HDMI \u00c2\u00a6 DVI-D ( HDCP ) \u00c2\u00a6 Audio line-in \u00c2\u00a6 Headphones",
+    "manufacturer": "Viewsonic",
+    "manufacturer part ": "VX2452MH",
+    "max operating temperature": "40 \u00c2\u00b0C",
+    "min operating temperature": "0 \u00c2\u00b0C",
+    "native resolution": [
+        "FullHD 1920 x 1080",
+        "1920 x 1080"
+    ],
+    "output power  channel": "2 Watt",
+    "panel type": "A-Si TFT",
+    "power consumption operational": "21.5 Watt",
+    "power supply": "External",
+    "response time": "2 ms (gray-to-gray)",
+    "screen coating": "Anti-glare, 3H Hard Coating",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labour - 3 years \u00c2\u00a6 Limited warranty - backlight - 3 years",
+    "tilt angle": "20",
+    "type": "Speakers - stereo - integrated",
+    "vertical refresh rate": "50 - 75 Hz",
+    "vertical viewing angle": "160",
+    "viewable size": "23.6\"",
+    "voltage required": "AC 120/230 V ( 50/60 Hz )",
+    "weight": "3.8 kg"
+}

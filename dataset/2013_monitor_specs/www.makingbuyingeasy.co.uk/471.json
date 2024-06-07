@@ -1,0 +1,60 @@
+{
+    "<page title>": "Elo TouchSystems 1715L - MBE",
+    "aspect ratio": "5:4",
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Grey",
+        "Grey"
+    ],
+    "compatible operating systems": [
+        "POSReady 2009;\nWindows Vista, XP, 7, 2000, CE;\nLinux;\nMac OSX",
+        "POSReady 2009;\nWindows Vista, XP, 7, 2000, CE;\nLinux;\nMac OSX"
+    ],
+    "contrast ratio typical": "800:1",
+    "dimensions w x d x h with stand": "391 x 203 x 366 mm",
+    "display brightness": "225 cd/m\u00c2\u00b2",
+    "display diagonal": "43.18 cm (17\")",
+    "display resolution": "1280 x 1024 pixels",
+    "display type": "LCD",
+    "glossy display": "No",
+    "input frequency": "50/60 Hz",
+    "input voltage": "12V",
+    "mean time between failures mtbf": [
+        "50000h",
+        "50000h"
+    ],
+    "number of colours": "16.7M",
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "9.6 kg",
+        "9.6 kg"
+    ],
+    "power consumption typical": "36W",
+    "power supply type": [
+        "AC/DC",
+        "AC/DC"
+    ],
+    "response time": "25 ms",
+    "storage relative humidity hh": "10 - 90%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "touch screen type": [
+        "Multi-user",
+        "Multi-user"
+    ],
+    "touchscreen technology": "Surface acoustic wave",
+    "usb required": "Yes",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "160\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight with stand": "6.9 kg"
+}

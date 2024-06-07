@@ -1,0 +1,61 @@
+{
+    "<page title>": "ViewSonic VP2772 27\" 2560x1440 6ms DVI-D HDMI Display Port LED Monitor",
+    "aspect ratio": [
+        "Widescreen - 16:9",
+        "Widescreen"
+    ],
+    "backlight life": "30,000 hours",
+    "backlight technology": "WLED",
+    "brightness": "350 cd/m2",
+    "builtin devices": "USB Hub",
+    "cables included": "1 x DisplayPort cable \u00c2\u00a6 1 x HDMI cable \u00c2\u00a6 1 x DVI cable \u00c2\u00a6 1 x SuperSpeed USB cable",
+    "colour": "Black",
+    "compliant standards": "FCC Class B certified, UL, C-Tick, BSMI, cUL, ICES-003, NOM, TUV S, CB, CCC, PSB, RoHS, WEEE, GOST-R, REACH, UkrSEPRO, ERP, CECP, CEL, TCO Displays 6.0",
+    "contrast ratio": "1000:1 / 20000000:1 (dynamic)",
+    "controls  adjustments": "Brightness, contrast, colour balance, input select",
+    "description technical detail": "ViewSonic VP2772 27\" DVI-D HDMI Display Port Ultra-High Resolution LED Monitor\nViewSonics VP2772 is a 27\" ultra-high resolution display with 2560 x 1440 QHD resolution and 10-bit color. Covering 99% of the Adobe RGB color space, the VP2772 meets the high color standards of photographers, graphic designers, video editors, print departments, and other design professionals. With its advanced 12-bit color engine and 14-bit LUT, the VP2772 smoothly processes, grades, and renders 68.7 billion colors to create stunning images with rich depth and detail. Equipped with dual DisplayPort inputs and one DisplayPort output, it allows one image source to be shown simultaneously on multiple daisy-chained displays without any difference in color. In addition, HDMI and DVI inputs, and four USB 3.0 ports let users connect with multimedia and storage devices. The VP2772 is also ergonomically designed with tilt, pivot, swivel and height adjustments to create a more comfortable and efficient working environment. The ViewSonic VP2772 is the ultimate professional grade display for the most demanding color-critical applications.",
+    "diagonal size": "27\"",
+    "dimensions  weight details": "Without stand - width: 64.26 cm - depth: 5.6 cm - height: 38.1 cm - weight: 5.5 kg \u00c2\u00a6 With stand - width: 64.26 cm - depth: 34.8 cm - height: 46.48 cm - weight: 8.5 kg",
+    "dimensions wxdxh": [
+        "64.26 cm x 34.8 cm x 46.48 cm - with stand",
+        "- with stand"
+    ],
+    "display position adjustments": "Height, pivot (rotation), swivel, tilt",
+    "display type": "LED-backlit LCD monitor / TFT active matrix",
+    "energy star qualified": "Yes",
+    "features": "HDCP, SuperClear, Eco-Mode, 14-bit gamma, 99% Adobe RGB colour gamut",
+    "flat panel mount interface": "100 x 100 mm",
+    "height adjustment": "150 mm",
+    "horizontal refresh rate": "24 - 92 kHz",
+    "horizontal viewing angle": "178",
+    "included software": "ViewSonic Wizard",
+    "interfaces": "HDMI ( HDCP ) \u00c2\u00a6 DVI-D (dual link) ( HDCP ) \u00c2\u00a6 DisplayPort \u00c2\u00a6 Mini DisplayPort \u00c2\u00a6 4 x USB 3.0 downstream \u00c2\u00a6 USB 3.0 upstream \u00c2\u00a6 Audio line-in \u00c2\u00a6 Headphones \u00c2\u00a6 DisplayPort output",
+    "manufacturer": "Viewsonic",
+    "manufacturer part ": "VP2772",
+    "max operating temperature": "40 \u00c2\u00b0C",
+    "min operating temperature": "0 \u00c2\u00b0C",
+    "native resolution": [
+        "QHD 2560 x 1440",
+        "2560 x 1440"
+    ],
+    "panel type": "IPS",
+    "power consumption operational": "65 Watt",
+    "power supply": "External",
+    "response time": [
+        "6 ms",
+        "12 ms"
+    ],
+    "rotation angle": "90",
+    "screen coating": "Anti-glare, 3H Hard Coating",
+    "service  support": "3 years warranty",
+    "service  support details": "Limited warranty - parts and labour - 3 years \u00c2\u00a6 Limited warranty - backlight - 3 years",
+    "swivel angle": "120",
+    "tilt angle": "-5/+23",
+    "vertical refresh rate": "50 - 75 Hz",
+    "vertical viewing angle": "178",
+    "voltage required": [
+        "AC 120/230 V",
+        "AC 120/230 V ( 50 - 60 Hz )"
+    ],
+    "weight": "8.5 kg"
+}

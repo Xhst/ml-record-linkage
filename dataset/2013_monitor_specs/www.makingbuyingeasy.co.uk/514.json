@@ -1,0 +1,71 @@
+{
+    "<page title>": "Iiyama ProLite X2485WS-B1 - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "3000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "21.65 cm",
+    "display": "LCD",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "61.21 cm (24.1\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1200 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy star certified": "Yes",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "height": "44.9 cm",
+    "height adjustment": "No",
+    "horizontal scan range": "30 - 94 kHz",
+    "input frequency": "50/60 Hz",
+    "input voltage": "100 - 240V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "pixel pitch": "0.270 x 0.270 mm",
+    "power consumption typical": "36W",
+    "response time": "5 ms",
+    "rms rated power": [
+        "1.5W",
+        "1.5W",
+        "1.5W"
+    ],
+    "separate hv sync": "Yes",
+    "thin client installed": "No",
+    "tilt angle": "-5 - 22\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vertical scan range": "50 - 75 Hz",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size horizontal": "51.84 cm",
+    "viewable size vertical": "32.4 cm",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.6 kg",
+    "width": "56.1 cm"
+}

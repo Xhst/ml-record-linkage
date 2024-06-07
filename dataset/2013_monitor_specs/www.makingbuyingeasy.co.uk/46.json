@@ -1,0 +1,153 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Viewsonic LED LCD VG2039M-LED - MBE",
+    "ac power in": "Yes",
+    "aspect ratio": "16:9",
+    "audio input": "Yes",
+    "backlight type": "W-LED",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin microphone": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "builtin subwoofer": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cable lock slot": [
+        "Kensington",
+        "Kensington"
+    ],
+    "cables included": [
+        "AC, Audio (3.5mm), DVI, USB, VGA",
+        "AC, Audio (3.5mm), DVI, USB, VGA"
+    ],
+    "card reader integrated": [
+        "No",
+        "No"
+    ],
+    "certification": "UL/cUL, FCC-B, REACH, RoHS",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "compatible memory cards": [
+        "No",
+        "No"
+    ],
+    "contrast ratio dynamic": "20000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "5.9 cm",
+    "depth with stand": "25 cm",
+    "digital horizontal frequency": "24 - 82 kHz",
+    "digital vertical frequency": "50 - 75 Hz",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "50.8 cm (20\")",
+    "display diagonal metric": "50.8 cm",
+    "display resolution": "1600 x 900 pixels",
+    "displayports quantity": "1",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Silver",
+    "ethernet lan": "No",
+    "hdcp": "No",
+    "headphone outputs": "1",
+    "height": "27.4 cm",
+    "height adjustment": [
+        "Yes",
+        "8 cm"
+    ],
+    "height with stand": "38.2 cm",
+    "input voltage": "100 - 240V",
+    "mac operating systems supported": [
+        "Yes",
+        "Yes"
+    ],
+    "microphone in": "No",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "on screen display osd": [
+        "Yes",
+        "Yes"
+    ],
+    "onoff switch": [
+        "Yes",
+        "Yes"
+    ],
+    "operating relative humidity hh": "10 - 90%",
+    "operating temperature tt": "0 - 40 \u00c2\u00b0C",
+    "package weight": [
+        "4.8 kg",
+        "4.8 kg"
+    ],
+    "packaging depth": [
+        "13 cm",
+        "13 cm"
+    ],
+    "packaging height": [
+        "44.5 cm",
+        "44.5 cm"
+    ],
+    "packaging width": [
+        "52.1 cm",
+        "52.1 cm"
+    ],
+    "power consumption max": "17W",
+    "power consumption typical": "15W",
+    "quick start guide": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "separate hv sync": "Yes",
+    "supported graphics resolutions": "1600 x 900, 1280 x 1024 (SXGA)",
+    "swivel angle range": "0 - 360\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 20\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "3",
+    "vesa mounting interfaces compatibility": "100 x 100 mm",
+    "vga dsub ports quantity": "1",
+    "viewable size diagonal": "4.953 cm",
+    "viewable size horizontal": "43.2 cm",
+    "viewable size vertical": "23.9 cm",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "2.6 kg",
+    "weight with stand": "3.7 kg",
+    "width": "46.6 cm",
+    "width with stand": "46.6 cm",
+    "wifi": "No",
+    "windows operating systems supported": [
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64",
+        "Windows 7 Home Basic, Windows 7 Home Basic x64, Windows 7 Home Premium, Windows 7 Home Premium x64, Windows 7 Professional, Windows 7 Professional x64, Windows 7 Starter, Windows 7 Starter x64, Windows 7 Ultimate, Windows 7 Ultimate x64, Windows 8, Windows 8 Enterprise, Windows 8 Enterprise x64, Windows 8 Pro, Windows 8 Pro x64, Windows 8 x64"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "Acer Essential 226WLbmd - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "Yes",
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "AC, VGA",
+        "AC, VGA"
+    ],
+    "certification": "TCO",
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "100000000:1",
+    "depth": "20.7 cm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00c2\u00b2",
+    "display diagonal": "55.88 cm (22\")",
+    "display number of colours": "16.77M",
+    "display resolution": "1680 x 1050 pixels",
+    "display technology": "TN+Film",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "epeat compliance": "Gold",
+    "hd type": "No",
+    "hdcp": "Yes",
+    "height": "41.91 cm",
+    "input voltage": "110 - 220V",
+    "number of loudspeakers": [
+        "2",
+        "2",
+        "2"
+    ],
+    "power consumption off": "3.5W",
+    "power consumption standby": "4.5W",
+    "power consumption typical": "24.2W",
+    "power led": [
+        "Yes",
+        "Yes"
+    ],
+    "response time": "5 ms",
+    "rms rated power": [
+        "4W",
+        "4W",
+        "4W"
+    ],
+    "supported graphics resolutions": "1680 x 1050 (WSXGA+)",
+    "thin client installed": "No",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "170\u00c2\u00b0",
+    "viewing angle vertical": "160\u00c2\u00b0",
+    "weight": "3.09 kg",
+    "weight with stand": "3.52 kg",
+    "width": "50.57 cm"
+}

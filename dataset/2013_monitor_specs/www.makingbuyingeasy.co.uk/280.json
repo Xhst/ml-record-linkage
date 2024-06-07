@@ -1,0 +1,90 @@
+{
+    "<page title>": "HP Z24i - MBE",
+    "aspect ratio": "16:10",
+    "builtin camera": [
+        "No",
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No",
+        "No"
+    ],
+    "cable lock slot": [
+        "Yes",
+        "Yes"
+    ],
+    "cables included": [
+        "DisplayPort, DVI",
+        "DisplayPort, DVI"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "contrast ratio typical": "1000:1",
+    "depth": "6.45 cm",
+    "depth with stand": "23.79 cm",
+    "display": "LCD",
+    "display brightness": "300 cd/m\u00c2\u00b2",
+    "display diagonal": "60.96 cm (24\")",
+    "display diagonal metric": "60.96 cm",
+    "display number of colours": "16.77M",
+    "display resolution": "1920 x 1200 pixels",
+    "display technology": "IPS",
+    "displayports quantity": "1",
+    "dvi port": "Yes",
+    "dvid ports quantity": "1",
+    "energy efficiency class": "Unspecified",
+    "energy star certified": "Yes",
+    "epeat compliance": "Gold",
+    "hdcp": "Yes",
+    "height": "36.5 cm",
+    "height adjustment": [
+        "12 cm",
+        "Yes"
+    ],
+    "height with stand": "52.5 cm",
+    "horizontal scan range": "24 - 94 kHz",
+    "input frequency": "47-63 Hz",
+    "input voltage": "95 - 265V",
+    "nonoperating altitude": "0 - 12192m",
+    "operating altitude": "0 - 5000m",
+    "operating relative humidity hh": "20 - 80%",
+    "operating temperature tt": "5 - 35 \u00c2\u00b0C",
+    "pivot": "Yes",
+    "pivot angle": "0 - 90\u00c2\u00b0",
+    "pixel pitch": "0.27 x 0.27 mm",
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption max": "55W",
+    "power consumption standby": "0.5W",
+    "power consumption typical": "36W",
+    "response time": "8 ms",
+    "storage relative humidity hh": "5 - 95%",
+    "storage temperature tt": "-20 - 60 \u00c2\u00b0C",
+    "supported graphics resolutions": "720 x 400, 1024 x 768 (XGA), 1280 x 1024 (SXGA), 1280 x 720 (HD 720), 1280 x 800 (WXGA), 1440 x 900 (WXGA+), 1600 x 1200 (UXGA), 1680 x 1050 (WSXGA+), 1920 x 1080 (HD 1080), 1920 x 1200 (WUXGA), 640 x 480 (VGA), 800 x 600 (SVGA)",
+    "swivel angle range": "-45 - 45\u00c2\u00b0",
+    "swivelling": "Yes",
+    "thin client installed": "No",
+    "tilt adjustment": "Yes",
+    "tilt angle": "-5 - 30\u00c2\u00b0",
+    "tv tuner integrated": [
+        "No",
+        "No"
+    ],
+    "usb 20 ports quantity": "5",
+    "vertical scan range": "50 - 76 Hz",
+    "vga dsub ports quantity": "1",
+    "viewing angle horizontal": "178\u00c2\u00b0",
+    "viewing angle vertical": "178\u00c2\u00b0",
+    "wall mountable": "Yes",
+    "weight": "4.73 kg",
+    "weight with stand": "6.96 kg",
+    "width": "55.94 cm",
+    "width with stand": "55.94 cm"
+}

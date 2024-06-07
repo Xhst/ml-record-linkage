@@ -1,0 +1,65 @@
+{
+    "3d compatibility": "No",
+    "<page title>": "LG 22EA63V - MrHighTech Shop",
+    "aspect ratio": "16:9",
+    "bluetooth": "No",
+    "builtin camera": [
+        "No",
+        "No"
+    ],
+    "builtin speakers": [
+        "No",
+        "No"
+    ],
+    "builtin subwoofer": [
+        "No",
+        "No"
+    ],
+    "colour of product": [
+        "Black",
+        "Black"
+    ],
+    "contrast ratio dynamic": "5000000:1",
+    "depth": "74 mm",
+    "depth with stand": "178 mm",
+    "display": "LED",
+    "display brightness": "250 cd/m\u00b2",
+    "display diagonal": "546.1 mm (21.5 \")",
+    "display number of colours": "16.77 M",
+    "display resolution": "1920 x 1080 pixels",
+    "display technology": "IPS",
+    "dvi port": "Yes",
+    "energy efficiency class": "Unspecified",
+    "ethernet lan": "No",
+    "hdcp": "Yes",
+    "height": "307 mm",
+    "height with stand": "380 mm",
+    "package weight": "3.92 kg",
+    "packaging depth": "125 mm",
+    "packaging height": "375 mm",
+    "packaging width": "568 mm",
+    "pictureinpicture": [
+        "Yes",
+        "Yes"
+    ],
+    "plug and play": [
+        "Yes",
+        "Yes"
+    ],
+    "power consumption off": "0.3 W",
+    "power consumption standby": "0.3 W",
+    "power consumption typical": "26 W",
+    "response time": "5 ms",
+    "source datasheet": [
+        ".",
+        "."
+    ],
+    "tv tuner integrated": "No",
+    "viewing angle horizontal": "178 \u00b0",
+    "viewing angle vertical": "178 \u00b0",
+    "weight": "2.5 kg",
+    "weight with stand": "2.7 kg",
+    "width": "500 mm",
+    "width with stand": "500 mm",
+    "wifi": "No"
+}
