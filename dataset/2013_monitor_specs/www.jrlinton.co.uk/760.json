@@ -1,0 +1,52 @@
+{
+    "<page title>": "DS42SDI, VIGDS42SDI, Vigilant Vision, Ltd, LCD Monitor, JR Linton",
+    "aspect ratio": "16:9",
+    "backlight technology": "LED",
+    "brand name": "Vigilant",
+    "brightness": "400 cd/m\u00b2",
+    "builtin devices": "Speaker",
+    "certifications  standards": "CE FCC",
+    "colour": "Black",
+    "colour support": "16.7 Million Colours",
+    "contrast ratio": "6,000:1",
+    "features": [
+        "Picture on Picture",
+        "Picture in Picture",
+        "Sleep Timer"
+    ],
+    "green compliance certificateauthority": [
+        "RoHS",
+        "WEEE"
+    ],
+    "green compliant": "Yes",
+    "hdmi": "Yes",
+    "horizontal viewing angle": "176\u00b0",
+    "input voltage": [
+        "220 V AC",
+        "110 V AC"
+    ],
+    "manufacturer": "Vigilant Vision, Ltd",
+    "manufacturer part number": "DS42SDI",
+    "maximum resolution": "1920 x 1080",
+    "mount type": "Desk Mountable",
+    "number of screens": "1",
+    "number of speakers": "2",
+    "operating power consumption": "100 W",
+    "package contents": "42\" (16:9 ) LED Monitor Power Supply Kettle Lead VGA Cable Audio Cable User Manual Remote Control",
+    "platform supported": "PC",
+    "product model": "DS42SDI",
+    "product name": "42\" (16:9 ) LED Monitor",
+    "product type": "LCD Monitor",
+    "response time": "4.50 ms",
+    "screen mode": "Full HD",
+    "screen size": "106.7 cm (42\")",
+    "sdi": "Yes",
+    "sdi standard": "HDSDI",
+    "speakers": "Yes",
+    "standard refresh rate": "75 Hz",
+    "vertical viewing angle": "176\u00b0",
+    "vesa mount compatible": "Yes",
+    "vesa mount standard": "200 x 400",
+    "vga": "Yes",
+    "weight approximate": "24.90 kg"
+}

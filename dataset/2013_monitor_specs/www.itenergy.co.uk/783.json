@@ -1,0 +1,63 @@
+{
+    "<page title>": "190S1CB/00, Philips, LCD Monitor, Itenergy Ltd",
+    "adjustable display angle": "Yes",
+    "adjustable display height": "Yes",
+    "aspect ratio": "16:10",
+    "brand name": "Philips",
+    "brightness": "250 cd/m\u00c2\u00b2",
+    "certifications  standards": "BSMICE MarkFCC Class BGOSTSEMKOTUV ErgoTUV/GSUL/cUL",
+    "colour": "Black",
+    "colour support": "16.7 Million Colours",
+    "contrast ratio": "25,000:1",
+    "depth": "68 mm",
+    "depth with stand": "201 mm",
+    "dvi": "Yes",
+    "features": [
+        "Security Lock",
+        "TrueVision",
+        "SmartImage"
+    ],
+    "green compliance certificateauthority": [
+        "EPEAT Silver",
+        "ENERGY STAR 5.0",
+        "TCO '03",
+        "RoHS"
+    ],
+    "green compliant": "Yes",
+    "hdcp supported": "Yes",
+    "height": "305 mm",
+    "height with stand": "421 mm",
+    "horizontal viewing angle": "176\u00c2\u00b0",
+    "input voltage": [
+        "220 V AC",
+        "110 V AC"
+    ],
+    "manufacturer": "Philips Electronics",
+    "manufacturer part number": "190S1CB/00",
+    "maximum resolution": "1440 x 900",
+    "number of screens": "1",
+    "offmode power consumption": "500 mW",
+    "operating power consumption": "17.10 W",
+    "platform supported": [
+        "PC",
+        "Mac"
+    ],
+    "product line": "Brilliance",
+    "product model": "190S1CB",
+    "product name": "Brilliance LCD Monitor with SmartImage",
+    "product series": "S",
+    "product type": "LCD Monitor",
+    "response time": "5 ms",
+    "screen mode": "WXGA+",
+    "screen size": "48.3 cm (19\")",
+    "standard refresh rate": "60 Hz",
+    "standby power consumption": "800 mW",
+    "vertical viewing angle": "170\u00c2\u00b0",
+    "vesa mount compatible": "Yes",
+    "vesa mount standard": "100 x 100",
+    "vga": "Yes",
+    "weight approximate": "3.40 kg",
+    "weight with stand approximate": "4.50 kg",
+    "width": "436 mm",
+    "width with stand": "436 mm"
+}

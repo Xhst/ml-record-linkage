@@ -1,0 +1,43 @@
+{
+    "<page title>": "MC914B/B, Apple, LCD Monitor, JR Linton",
+    "aspect ratio": "16:9",
+    "backlight technology": "LED",
+    "brand name": "Apple",
+    "brightness": "375 cd/m\u00b2",
+    "builtin devices": [
+        "USB Hub",
+        "Speaker",
+        "Microphone",
+        "Camera"
+    ],
+    "colour support": "16.7 Million Colours",
+    "contrast ratio": "1,000:1",
+    "features": "Security Lock",
+    "firewireilink": "Yes",
+    "horizontal viewing angle": "178\u00b0",
+    "input voltage": [
+        "220 V AC",
+        "110 V AC"
+    ],
+    "limited warranty": "1 Year",
+    "manufacturer": "Apple, Inc",
+    "manufacturer part number": "MC914B/B",
+    "maximum resolution": "2560 x 1440",
+    "network rj45": "Yes",
+    "number of screens": "1",
+    "operating power consumption": "250 W",
+    "package contents": "Thunderbolt Display (27-Inch)AC Power LeadMagSafe to MagSafe 2 ConverterPrinted Documentation",
+    "product name": "Thunderbolt Display (27-Inch)",
+    "product type": "LCD Monitor",
+    "response time": "12 ms",
+    "screen mode": "WQHD",
+    "screen size": "68.6 cm (27\")",
+    "speakers": "Yes",
+    "standby power consumption": "2 W",
+    "thunderbolt": "Yes",
+    "usb": "Yes",
+    "usb standard": "USB 2.0",
+    "vertical viewing angle": "178\u00b0",
+    "vesa mount compatible": "Yes",
+    "weight approximate": "10.80 kg"
+}
