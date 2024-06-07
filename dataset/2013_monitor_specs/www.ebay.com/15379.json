@@ -1,0 +1,8 @@
+{
+    "<page title>": "Allen Bradley 2711-B6C8 /B FRN 4.41 PanelView 600 Color/Touch/Keypad/DH+ *READ!*",
+    "description": "Allen-Bradley 2711-B6C8 PanelView 600 Color Termninal 5.7-inch, Keypad & Touch Screen, DH+ Communication & RS-232 Printer Port, AC Power, Series B",
+    "manufacturer": "Rockwell Automation",
+    "mfr part number": "2711-B6C8/B",
+    "miscellaneous": "Broad range of terminal combinations to fit any operator interface application; Eight display combinations, from 3-inch to 10-inch, in color, grayscale or monochrome, each designed for minimal installation depth with maximum viewing angles; Keypad, touch screen, or keypad/touch screen combinations for convenient and flexible operator input; RS-232 printer port to print alarms, alarm lists, triggered messages, and triggered states of a multistate indicator; Field-replaceable backlights.",
+    "specifications": "Display Area (WxH): 115 mm x 86 mm (4.54 in x 3.4 in); Resolution: 320 x 234; Field replaceable Backlight; Real-time Battery-back Clock time stamps critical data; Keypad/Touchscreen, DH+ Communication & RS-232 Printer Port, AC Power; Application Software: PanelBuilder32; Application Memory: 190 K Application Runtime; 240 K Flash; ATA Memory Card; Input Voltage: 85-264V AC, 47-63 Hz."
+}

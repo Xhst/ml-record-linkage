@@ -1,0 +1,44 @@
+{
+    "<page title>": "Tripp Lite Netcontroller 19 8 Port VGA Console KVM Switch Steel Housing 8 C 037332140296 | eBay",
+    "brand": "Tripp Lite",
+    "cabinet": "Chassis Built-in Devices: 8 port KVM switch",
+    "compatibility": "Mac , PC , Unix",
+    "connector type": [
+        "6 pin mini-DIN (PS/2 style)",
+        "15 pin HD D-Sub (HD-15)"
+    ],
+    "diagonal size metric": "48.3 cm",
+    "display": "Widescreen: Widescreen",
+    "display projector": "Diagonal Size: 19 in",
+    "form factor": "Rack-mountable",
+    "header": "Product Line: Tripp Lite NetController",
+    "image contrast ratio": "800:1",
+    "input device": "Type: Keyboard , Mouse",
+    "interface output": [
+        "Keyboard",
+        "Mouse",
+        "USB",
+        "Keyboard / mouse / video"
+    ],
+    "interface provided": "Qty: 8",
+    "kvm": "Keyboard Mouse Interface: PS/2",
+    "manufacturer": "Tripp Lite",
+    "max resolution": "1366 x 768 , 1600 X 1260",
+    "miscellaneous": "Height (Rack Units): 1",
+    "miscellaneous cdw": "Compatible With: Tripp Lite NetController 19\" VGA Console KVM Switch B040-008-19 Tripp Lite SmartRack 2-post Open Frame Rack Tripp Lite SmartRack 2-Post Rack Tripp Lite SmartRack 4-Post Open Frame Rack Tripp Lite SmartRack SR25UB Tripp Lite SmartRack SR25UBSP1 Tripp Lite SmartRack SR25UBTAA Premium Enclosure Tripp Lite SmartRack SR42UB Tripp Lite SmartRack SR42UBCL Tripp Lite SmartRack SR42UBEXP Tripp Lite SmartRack SR42UBSP1 Tripp Lite SmartRack SR42UBTAA Premium Enclosure Tripp Lite SmartRack SR42UBWD WIDE Premium Enclosure Tripp Lite SmartRack SR42UBWDTAA WIDE Premium Enclosure Tripp Lite SmartRack SR45UBSP1 Premium Enclosure Tripp Lite SmartRack SR45UBTAA Tripp Lite SmartRack SR48UB Tripp Lite SmartRack SR48UBCL Tripp Lite SmartRack SR48UBEXP Premium Enclosure Tripp Lite SmartRack SR48UBSP1 Tripp Lite SmartRack SR48UBTAA Premium Enclosure",
+    "model": "B040-008-19",
+    "networking": "Ports Qty: 8",
+    "packaged quantity": "1",
+    "qty": "1",
+    "service": "Support Details Type: Limited warranty",
+    "service  support": "Type: 1 year warranty",
+    "support details full contract period": "1 year",
+    "system requirements": "Min Operating System: Apple MacOS , FreeBSD , Linux , Microsoft DOS , Microsoft Windows 95/98/ME/NT/2000/XP , Microsoft Windows 98 Second Edition , Microsoft Windows NT , Microsoft Windows Vista , UNIX",
+    "technology": "TFT active matrix",
+    "type": [
+        "KVM console",
+        "KVM switch"
+    ],
+    "video input": "TV Tuner Presence: No",
+    "vsync rate at max res": "60 Hz"
+}
