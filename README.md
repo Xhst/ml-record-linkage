@@ -24,7 +24,7 @@ Finally get the libraries with:
 pip install -r requirements.txt
 ```
 
-### Assignment specification ([Open PDF](assignment-specs.pdf))
+### Assignment specification ([Open PDF](AssignmentATCS.pdf))
 
 ### Overleaf report  
 *insert final PDF here*
