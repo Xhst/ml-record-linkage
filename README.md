@@ -11,7 +11,7 @@ Create the virtual environment with:
 ```
 virtualenv .venv
 ```
-Then activate the virtual environment execute:
+Then activate the virtual environment, execute:
 ```
 . .venv/bin/activate
 ```
