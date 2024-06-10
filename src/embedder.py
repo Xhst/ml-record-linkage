@@ -60,9 +60,9 @@ def count_files(directory_path):
 
 
 def assign_device(device_name):
-    device = torch.device(device_name if torch.cuda.is_available() else "cpu")
     if device_name == "cuda":
         if torch.cuda.is_available():
+            device = torch.device("cuda")
             print("CUDA is available. Using GPU.")
             print(f"CUDA Device Count: {torch.cuda.device_count()}")
             for i in range(torch.cuda.device_count()):
@@ -70,10 +70,20 @@ def assign_device(device_name):
         else:
             print("CUDA is not available. Falling back to CPU.")
             device = torch.device("cpu")
+    elif device_name == "mps":
+        if torch.backends.mps.is_available():
+            device = torch.device("mps")
+            print("MPS is available. Using Apple Silicon GPU.")
+        else:
+            print("MPS is not available. Falling back to CPU.")
+            device = torch.device("cpu")
+    else:
+        device = torch.device("cpu")
     
     # Display available devices
-    print(f"Device: {device_name}")
+    print(f"Device: {device}")
     print(f"CUDA Available: {torch.cuda.is_available()}")
+    print(f"MPS Available: {torch.backends.mps.is_available()}")
    
     return device
             
@@ -93,7 +103,7 @@ def main():
     # Set up argument parsing
     parser = argparse.ArgumentParser(description="Process a directory of JSON files to extract and embed page titles.")
     parser.add_argument("--dir", type=str, help="Path to the directory containing JSON files")
-    parser.add_argument("--device", type=str, choices=["cpu", "cuda"], default="cpu", help="Computing device to use (cpu or cuda)")
+    parser.add_argument("--device", type=str, choices=["cpu", "cuda", "mps"], default="cpu", help="Computing device to use (cpu, cuda, or mps)")
     args = parser.parse_args()
 
     # Determine the directory to process
