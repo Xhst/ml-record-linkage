@@ -21,7 +21,7 @@ Or (on windows):
 ```
 Finally get the libraries with:
 ```
-pip install -r requirements.txt
+pip install -r requirements.txt (remove comments in the file requirements.txt if you have a Windows machine)
 ```
 
 ### Assignment specification ([Open PDF](AssignmentATCS.pdf))
