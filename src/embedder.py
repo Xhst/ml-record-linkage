@@ -25,28 +25,16 @@ def embed_text(text, device):
     return embedding_list
 
 
-def process_json_file(file_path, device):
-    """Extract the page title from the JSON file and return its embedding."""
-    with open(file_path, 'r', encoding='utf-8') as file:
-        data = json.load(file)
-        page_title = data.get("<page title>", "")
-        if page_title:
-            return embed_text(page_title, device)
-    return None
-
-
-def process_directory(directory_path, device):
+def process_embeddings_from_json(item2pagetitle, device):
     """Process all JSON files in the directory and return a list of embeddings."""
-    filepath2embedding = {}
-    for root, _, files in os.walk(directory_path):
-        for file in files:
-            if file.endswith('.json'):
-                file_path = os.path.join(root, file)
-                embedding = process_json_file(file_path, device)
-                if embedding is not None:
-                    relative_path = os.path.relpath(file_path, directory_path)
-                    filepath2embedding[relative_path] = embedding
-    return filepath2embedding
+    item2embedding = {}
+    
+    for item, pagetitle in item2pagetitle.items():
+        embedding = embed_text(pagetitle, device)
+        if embedding is not None:
+            item2embedding[item] = embedding
+                
+    return item2embedding
 
 
 def count_files(directory_path):
@@ -102,38 +90,39 @@ def save_embedding_dictionary(filepath2embedding, output_dir, output_file_name):
 def main():
     # Set up argument parsing
     parser = argparse.ArgumentParser(description="Process a directory of JSON files to extract and embed page titles.")
-    parser.add_argument("--dir", type=str, help="Path to the directory containing JSON files")
+    parser.add_argument("--file", type=str, help="JSON file to process")
     parser.add_argument("--device", type=str, choices=["cpu", "cuda", "mps"], default="cpu", help="Computing device to use (cpu, cuda, or mps)")
     args = parser.parse_args()
 
     # Determine the directory to process
-    if args.dir:
-        ds_dir = args.dir
+    if args.file:
+        file = args.file
     else:
-        ds_dir = "dataset/2013_monitor_specs"
-        print(f"No directory specified. Using default directory: \"{ds_dir}\"")
+        file = "results/preprocessing/truncated_pagetitles.json"
+        print(f"No file specified. Using default file: \"{file}\"")
 
     # Determine the device to use
     device = assign_device(args.device)
 
+    with open(file, encoding='utf-8') as f:
+        item2pagetitles = json.load(f)
+
     # Process the specified directory into a dictionary of embeddings
     start = time.time()
     
-    embeddings = process_directory(ds_dir, device)
+    embeddings = process_embeddings_from_json(item2pagetitles, device)
 
     end = time.time()
     print(f"Processing time (using {device}): {end - start:.2f} seconds")
-    print("Embedded " + str(len(embeddings)) + " jsons out of " + str(count_files(ds_dir)) + " total. \n" + 
-          str(count_files(ds_dir) - len(embeddings)) + " missing") # 16627
     
     print("Saving to json...")
     
-    output_dir = "embeddings_results"
+    output_dir = "results/embeddings/"
     file_name = "embeddings_distilbert_base_uncased.json"
     
     save_embedding_dictionary(embeddings, output_dir, file_name)
     
-    print("Embeddings saved to " + output_dir + "/embeddings_distilbert_base_uncased.json")
+    print("Embeddings saved to " + output_dir + file_name)
 
 
 if __name__ == "__main__":
