@@ -6,13 +6,15 @@ import time
 import torch
 from tqdm import tqdm
 
-def load_embeddings(file_path):
+
+def load_page_titles(file_path):
     """
     Carica gli embedding da un file JSON.
     """
     with open(file_path, 'r') as f:
         embeddings = json.load(f)
     return embeddings
+
 
 def cluster_embeddings(embeddings, min_cluster_size=5, min_samples=1):
     """
@@ -23,7 +25,8 @@ def cluster_embeddings(embeddings, min_cluster_size=5, min_samples=1):
     cluster_labels = clusterer.fit_predict(embeddings_array)
     return cluster_labels
 
-def save_clusters(embeddings, cluster_labels, output_file):
+
+def save_clusters(embeddings, cluster_labels, output_dir, output_file):
     """
     Salva i risultati del clustering in un file JSON.
     """
@@ -38,10 +41,11 @@ def save_clusters(embeddings, cluster_labels, output_file):
     # Convert cluster labels to int (if necessary) for JSON serialization
     clusters = {int(k): v for k, v in clusters.items()}
     
-    with open(output_file, 'w') as f:
+    with open(output_dir + "/" + output_file, 'w') as f:
         json.dump(clusters, f, indent=4)
     
     print(f"Clusters saved successfully to {output_file}")
+
 
 def assign_device(device_name):
     if device_name == "cuda":
@@ -71,30 +75,34 @@ def assign_device(device_name):
    
     return device
 
+
 def main():
     """
     Punto di ingresso principale per il clustering degli embedding e il salvataggio dei risultati.
     """
     parser = argparse.ArgumentParser(description="Cluster embeddings and save the resulting clusters.")
-    parser.add_argument("--embeddings", type=str, required=True, help="Path to the embeddings file")
-    parser.add_argument("--output", type=str, required=True, help="Path to save the clustered output")
     parser.add_argument("--device", type=str, choices=["cpu", "cuda", "mps"], default="cpu", help="Computing device to use (cpu, cuda, or mps)")
     args = parser.parse_args()
     device = assign_device(args.device)
     
-    embeddings = load_embeddings(args.embeddings)
+    embeddings_dir = "results/embeddings/embeddings.json"
+    item2pagetitle = load_page_titles(embeddings_dir)
     print("Embeddings loaded successfully")
+    
     start = time.time()
-
-    with tqdm(total=len(embeddings), desc="Clustering") as pbar:
-        cluster_labels = cluster_embeddings(embeddings)
-        pbar.update(len(embeddings))
+    
+    with tqdm(total=len(item2pagetitle), desc="Clustering") as pbar:
+        cluster_labels = cluster_embeddings(item2pagetitle)
+        pbar.update(len(item2pagetitle))
 
     print("Clustering completed")
-    save_clusters(embeddings, cluster_labels, args.output)
+    output_dir = "results/clustering/"
+    save_clusters(item2pagetitle, cluster_labels, output_dir, "hdbscan_clusters.json")
     print("Clusters saved successfully")
+   
     end = time.time()
     print(f"Processing time (using {device}): {end - start:.2f} seconds")
+
 
 if __name__ == "__main__":
     print("Elaboration starting...")
