@@ -24,13 +24,16 @@ def process_directory(root_dir, source_dir):
             except Exception as e:
                 print(f"Error reading {filepath}: {e}")
                 
-    string_utils.remove_longest_common_prefix_suffix(item2pagetitle.values())
-    
-    for key, value in item2pagetitle.items():
-        new_val = string_utils.replace_special_chars_with_whitespace(value)
-        new_val = string_utils.remove_extra_whitespaces(new_val)
+    prefix = string_utils.find_longest_common_prefix(item2pagetitle.values())
+    suffix = string_utils.find_longest_common_suffix(item2pagetitle.values())
 
-        item2pagetitle[key] = new_val
+    for key, value in item2pagetitle.items():
+        value = value.replace(prefix, '')
+        value = value.replace(suffix, '')
+        value = string_utils.replace_special_chars_with_whitespace(value)
+        value = string_utils.remove_extra_whitespaces(value)
+
+        item2pagetitle[key] = value
         
     return item2pagetitle
 
