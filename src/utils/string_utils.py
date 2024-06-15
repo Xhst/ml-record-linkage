@@ -56,7 +56,7 @@ def find_longest_common_prefix(strings: list[str], min_percentage: float = 0.5) 
 
     shortest_string = min(strings, key=len)
 
-    for length in reversed(range(len(shortest_string))):
+    for length in reversed(range(1, len(shortest_string))):
         sample = shortest_string[:length]
         if sum(1 for string in strings if string.startswith(sample)) >= min_occurrences:
             return sample
@@ -79,26 +79,9 @@ def find_longest_common_suffix(strings: list[str], min_percentage: float = 0.5) 
 
     shortest_string = min(strings, key=len)
 
-    for length in reversed(range(len(shortest_string))):
+    for length in reversed(range(1, len(shortest_string))):
         sample = shortest_string[-length:]
         if sum(1 for string in strings if string.endswith(sample)) >= min_occurrences:
             return sample
 
     return ""
-
-
-def remove_longest_common_prefix_suffix(strings: list[str], min_percentage: float = 0.5) -> list[str]:
-    '''
-    Replace the longest common prefix and suffix among a list of strings by whitespaces.
-
-    Args:
-        strings (List[str]): List of strings.
-        min_percentage (float): Minimum percentage of strings that must contain the prefix and suffix.
-
-    Returns:
-        List[str]: List of strings with the longest common prefix and suffix replaced by whitespaces.
-    '''
-    prefix = find_longest_common_prefix(strings, min_percentage)
-    suffix = find_longest_common_suffix(strings, min_percentage)
-
-    return [string.replace(prefix, '').replace(suffix, '') for string in strings]
