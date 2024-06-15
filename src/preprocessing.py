@@ -32,6 +32,7 @@ def process_directory(root_dir, source_dir):
         value = value.replace(suffix, '')
         value = string_utils.replace_special_chars_with_whitespace(value, ['_', '.'])
         value = string_utils.remove_extra_whitespaces(value)
+        value = value.lower()
 
         item2pagetitle[key] = value
         
