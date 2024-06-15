@@ -37,3 +37,49 @@ def add_whitespace_between_attached_words(s: str) -> str:
         str: String with whitespace added between attached words.
     '''
     return re.sub(r'([a-z])([A-Z0-9])', r'\1 \2', s)
+
+
+def find_longest_common_prefix(strings, min_percentage = 0.5):
+    '''
+    Find the longest common prefix among a list of strings.
+
+    Args:
+        strings (List[str]): List of strings.
+        min_percentage (float): Minimum percentage of strings that must contain the prefix.
+
+    Returns:
+        str: Longest common prefix among the strings.
+    '''
+    min_occurrences = len(strings) * min_percentage
+
+    shortest_string = min(strings, key=len)
+
+    for length in reversed(range(len(shortest_string))):
+        sample = shortest_string[:length]
+        if sum(1 for string in strings if string.startswith(sample)) >= min_occurrences:
+            return sample
+    
+    return ""
+            
+
+def find_longest_common_suffix(strings, min_percentage = 0.5):
+    '''
+    Find the longest common suffix among a list of strings.
+
+    Args:
+        strings (List[str]): List of strings.
+        min_percentage (float): Minimum percentage of strings that must contain the suffix.
+
+    Returns:
+        str: Longest common suffix among the strings.
+    '''
+    min_occurrences = len(strings) * min_percentage
+
+    shortest_string = min(strings, key=len)
+
+    for length in reversed(range(len(shortest_string))):
+        sample = shortest_string[-length:]
+        if sum(1 for string in strings if string.endswith(sample)) >= min_occurrences:
+            return sample
+
+    return ""
