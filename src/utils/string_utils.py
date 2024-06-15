@@ -10,3 +10,16 @@ def replace_special_chars_with_whitespace(s: str) -> str:
         str: String with special characters replaced by whitespaces.
     '''
     return ''.join(' ' if not e.isalnum() and not e.isspace() else e for e in s)
+
+
+def remove_extra_whitespaces(s: str) -> str:
+    '''
+    Remove extra whitespaces from a string.
+
+    Args:
+        s (str): Input string.
+
+    Returns:
+        str: String with extra whitespaces removed.
+    '''
+    return ' '.join(s.split())
