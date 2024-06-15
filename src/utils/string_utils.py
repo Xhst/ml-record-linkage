@@ -1,4 +1,6 @@
 
+import re
+
 def replace_special_chars_with_whitespace(s: str) -> str:
     '''
     Replace special characters with whitespaces in a string.
@@ -85,7 +87,7 @@ def find_longest_common_suffix(strings: list[str], min_percentage: float = 0.5) 
     return ""
 
 
-def replace_longest_common_prefix_suffix(strings: list[str], min_percentage: float = 0.5) -> list[str]:
+def remove_longest_common_prefix_suffix(strings: list[str], min_percentage: float = 0.5) -> list[str]:
     '''
     Replace the longest common prefix and suffix among a list of strings by whitespaces.
 
