@@ -1,17 +1,18 @@
 
 import re
 
-def replace_special_chars_with_whitespace(s: str) -> str:
+def replace_special_chars_with_whitespace(s: str, exclude: list[str] = []) -> str:
     '''
-    Replace special characters with whitespaces in a string.
+    Replace special characters with whitespace in a string.
 
     Args:
         s (str): Input string.
+        exclude (List[str]): List of characters to exclude from replacement.
 
     Returns:
-        str: String with special characters replaced by whitespaces.
+        str: String with special characters replaced with whitespace.
     '''
-    return ''.join(' ' if not e.isalnum() and not e.isspace() else e for e in s)
+    return ''.join(c if c.isalnum() or c in exclude else ' ' for c in s)
 
 
 def remove_extra_whitespaces(s: str) -> str:
