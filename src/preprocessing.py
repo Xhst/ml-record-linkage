@@ -1,37 +1,10 @@
 import os
 import json
 import torch
-import os
-import json
 import paths
-from difflib import SequenceMatcher 
+import utils.string_utils as string_utils
 from collections import defaultdict
 
-
-from collections import defaultdict
-from difflib import SequenceMatcher
-
-def common_prefix_two_strings(str1, str2):
-    matcher = SequenceMatcher(None, str1, str2)
-    match = matcher.find_longest_match(0, len(str1), 0, len(str2))
-    return str1[match.a: match.a + match.size]
-
-def find_longest_common_string(strings, percentage=0.2):
-    if not strings or percentage <= 0:
-        return ""
-
-    num_to_consider = int(len(strings) * percentage)
-    strings_to_compare = strings[:num_to_consider] 
-
-    if not strings_to_compare:
-        return ""
-
-    prefix = strings_to_compare[0]
-    for string in strings_to_compare[1:]:
-        prefix = common_prefix_two_strings(prefix, string)
-        if not prefix:
-            break
-    return prefix
 
 def process_directory(root_dir, source_dir):
     item2pagetitle = {}
@@ -51,10 +24,13 @@ def process_directory(root_dir, source_dir):
             except Exception as e:
                 print(f"Error reading {filepath}: {e}")
                 
-    longest_common_string = find_longest_common_string(list(item2pagetitle.values()))
+    string_utils.remove_longest_common_prefix_suffix(item2pagetitle.values())
     
     for key, value in item2pagetitle.items():
-            item2pagetitle[key] = value.replace(longest_common_string, '')
+        new_val = string_utils.replace_special_chars_with_whitespace(value)
+        new_val = string_utils.remove_extra_whitespaces(new_val)
+
+        item2pagetitle[key] = new_val
         
     return item2pagetitle
 
