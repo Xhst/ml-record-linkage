@@ -42,7 +42,7 @@ def process_sources(root_dir):
             item2pagetitle.update(process_directory(root_dir, dirname))
             
     try:
-        output_filepath = os.path.join(paths.RESULTS_DIR + '/preprocessing/truncated_pagetitles.json')
+        output_filepath = os.path.join(paths.RESULTS_DIR + '/preprocessing/preprocessed_pagetitle.json')
         with open(output_filepath, 'w', encoding='utf-8') as f:
             json.dump(item2pagetitle, f, ensure_ascii=False, indent=4)
         print(f"Written to {output_filepath}")
