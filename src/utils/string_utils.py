@@ -39,7 +39,7 @@ def add_whitespace_between_attached_words(s: str) -> str:
     return re.sub(r'([a-z])([A-Z0-9])', r'\1 \2', s)
 
 
-def find_longest_common_prefix(strings, min_percentage = 0.5):
+def find_longest_common_prefix(strings: list[str], min_percentage: float = 0.5) -> str:
     '''
     Find the longest common prefix among a list of strings.
 
@@ -62,7 +62,7 @@ def find_longest_common_prefix(strings, min_percentage = 0.5):
     return ""
             
 
-def find_longest_common_suffix(strings, min_percentage = 0.5):
+def find_longest_common_suffix(strings: list[str], min_percentage: float = 0.5) -> str:
     '''
     Find the longest common suffix among a list of strings.
 
