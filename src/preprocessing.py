@@ -72,6 +72,20 @@ def get_relevant_text(data: dict) -> str:
     return data['<page title>']
 
 
+def try_find_model_name(item2pagetitle: dict[str, str]):
+    '''
+    Tries to find the model name in the page titles.
+
+    Args:
+        item2pagetitle (Dict[str, str]): Dictionary containing item names and their corresponding page titles.
+    '''
+    for key, value in item2pagetitle.items():
+        model_name = string_utils.find_longest_alphanumeric_word(value)
+        if model_name:
+            print(f"Model name found for {key}: {model_name}")
+            item2pagetitle[key] = model_name
+
+
 def process_directory(root_dir, source_dir):
     item2pagetitle = {}
     word_counter = Counter()
@@ -96,7 +110,8 @@ def process_directory(root_dir, source_dir):
             except Exception as e:
                 print(f"Error reading {filepath}: {e}")
 
-    remove_common_words(source_dir, item2pagetitle, word_counter)      
+    remove_common_words(source_dir, item2pagetitle, word_counter)
+    try_find_model_name(item2pagetitle)     
         
     return item2pagetitle
 
