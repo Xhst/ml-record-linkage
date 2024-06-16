@@ -100,3 +100,16 @@ def find_longest_common_suffix(strings: list[str], min_percentage: float = 0.5) 
             return sample
 
     return ""
+
+
+def remove_whitespaces_between_letters_and_numbers(s: str) -> str:
+    '''
+    Remove whitespaces between letters and numbers in a string.
+
+    Args:
+        s (str): Input string.
+
+    Returns:
+        str: String with whitespaces removed between letters and numbers.
+    '''
+    return re.sub(r'(\D)\s+(\d)', r'\1\2', s)
