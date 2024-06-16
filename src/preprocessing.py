@@ -81,8 +81,7 @@ def try_find_model_name(item2pagetitle: dict[str, str]):
     '''
     for key, value in item2pagetitle.items():
         model_name = string_utils.find_longest_alphanumeric_word(value)
-        if model_name:
-            print(f"Model name found for {key}: {model_name}")
+        if model_name and len(model_name) > 4:
             item2pagetitle[key] = model_name
 
 
