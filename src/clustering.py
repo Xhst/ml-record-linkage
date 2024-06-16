@@ -41,7 +41,7 @@ def save_clusters(item2embedding, cluster_labels, output_dir, output_file):
         clusters[label].append(filename)
     
     # Convert cluster labels to int (if necessary) for JSON serialization
-    #clusters = {int(k): v for k, v in clusters.items()}
+    clusters = {int(k): v for k, v in clusters.items()}
     
     with open(output_dir + "/" + output_file, 'w') as f:
         json.dump(clusters, f, indent=4)
