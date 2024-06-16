@@ -18,13 +18,13 @@ def clean_text_data(text: str) -> str:
         str: The cleaned text data.
     '''
     text = text.lower()
-    text = string_utils.replace_special_chars_with_whitespace(text, ['_', '.'])
+    text = string_utils.replace_special_chars_with_whitespace(text)
     text = string_utils.remove_extra_whitespaces(text)
 
     return text
 
 
-def remove_common_words(source: str, item2pagetitle: dict[str, str], word_counter: Counter, min_percentage: float = 0.945):
+def remove_common_words(source: str, item2pagetitle: dict[str, str], word_counter: Counter, min_percentage: float = 0.1):
     '''
     Removes common words from the page titles based on the minimum percentage of occurrences.
 
@@ -51,6 +51,27 @@ def remove_common_words(source: str, item2pagetitle: dict[str, str], word_counte
             item2pagetitle[key] = value
 
 
+def get_relevant_text(data: dict) -> str:
+    '''
+    Extracts the relevant text from the JSON data.
+
+    Args:
+        data (Dict): JSON data.
+
+    Returns:
+        str: Relevant text from the JSON data.
+    '''
+    relevant_labels = ['model', 'model name', 'product model', 'model number', 'product name']
+
+    for label in relevant_labels:
+        if data.get(label):
+            if isinstance(data[label], list):
+                return data[label][0]
+            return data[label]
+    
+    return data['<page title>']
+
+
 def process_directory(root_dir, source_dir):
     item2pagetitle = {}
     word_counter = Counter()
@@ -63,12 +84,13 @@ def process_directory(root_dir, source_dir):
                     data = json.load(f)
                     if data:
                         item_name = source_dir + '//' + file.replace('.json', '')
-                        page_title = data['<page title>']
 
-                        cleaned_page_title = clean_text_data(page_title)
-                        word_counter.update(cleaned_page_title.split())
+                        text_to_process = get_relevant_text(data)
 
-                        item2pagetitle[item_name] = cleaned_page_title
+                        cleaned_text = clean_text_data(text_to_process)
+                        word_counter.update(cleaned_text.split())
+
+                        item2pagetitle[item_name] = cleaned_text
                     else:
                         print(f"Empty JSON file: {filepath}")
             except Exception as e:
@@ -86,7 +108,7 @@ def process_sources(root_dir):
             item2pagetitle.update(process_directory(root_dir, dirname))
     
     try:
-        output_filepath = os.path.join(paths.RESULTS_DIR + '/preprocessing/preprocessed_pagetitle.json')
+        output_filepath = os.path.join(paths.RESULTS_DIR + '/preprocessing/preprocessed_dataset.json')
         with open(output_filepath, 'w', encoding='utf-8') as f:
             json.dump(item2pagetitle, f, ensure_ascii=False, indent=4)
         print(f"Written to {output_filepath}")

@@ -98,7 +98,7 @@ def main():
     if args.file:
         file = args.file
     else:
-        file = "results/preprocessing/preprocessed_pagetitle.json"
+        file = "results/preprocessing/preprocessed_dataset.json"
         print(f"No file specified. Using default file: \"{file}\"")
 
     # Determine the device to use
