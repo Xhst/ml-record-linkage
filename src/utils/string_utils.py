@@ -15,6 +15,20 @@ def replace_special_chars_with_whitespace(s: str, exclude: list[str] = []) -> st
     return ''.join(c if c.isalnum() or c in exclude else ' ' for c in s)
 
 
+def remove_special_chars(s: str, exclude: list[str] = []) -> str:
+    '''
+    Remove special characters from a string.
+
+    Args:
+        s (str): Input string.
+        exclude (List[str]): List of characters to exclude from removal.
+
+    Returns:
+        str: String with special characters removed.
+    '''
+    return ''.join(c for c in s if c.isalnum() or c in exclude)
+
+
 def remove_extra_whitespaces(s: str) -> str:
     '''
     Remove extra whitespaces from a string.
