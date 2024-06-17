@@ -16,10 +16,11 @@ def clean_text_data(text: str) -> str:
         str: The cleaned text data.
     '''
     text = text.lower()
+    text = string_utils.remove_websites(text)
     text = string_utils.replace_special_chars_with_whitespace(text)
-    #text = string_utils.remove_whitespaces_between_letters_and_numbers(text)
-    #text = string_utils.remove_whitespaces_between_numbers(text)
     text = remove_non_relevant_words(text)
+    #text = string_utils.remove_whitespaces_between_letters_and_numbers(text)
+    text = string_utils.remove_whitespaces_between_numbers(text)
     text = string_utils.remove_extra_whitespaces(text)
 
     return text
@@ -27,18 +28,18 @@ def clean_text_data(text: str) -> str:
 
 def remove_non_relevant_words(string: str) -> str:
     # remove words containing numbers followed by units of measurement
-    string = re.sub(r'\d+(?:\.\d+)?(?:inch|in|cm|mm|ms|dc)', '', string)
+    string = re.sub(r'\b\d+\s*(?:\.\d+)?(?:inch|in|cm|mm|ms|dc|kg|gb|g?hz|days?|months?|years?)\s*\b', '', string)
 
     # remove words representing resolutions (like 1920x1080)
-    string = re.sub(r'\d+x\d+', '', string)
+    string = re.sub(r'\b\d+\s*x\s*\d+\b', '', string)
 
-    # remove frequent words like led, lcd, monitor
-    string = re.sub(r'\b(?:led|lcd|monitor|monitors|vga|hdmi|led|display|tft|tv|cable|cables)', '', string)
+    # remove frequent words
+    string = re.sub(r'\b(?:led|lcd|monitor|vga|hdmi|led|(windows|win)\s*(\d{1,2}|vista|xp)*|pixel|display|touch|touchscreen|touchmonitor|screen|widescreen|tft|tv|cable|port|desktop|ios|apple|ebay|new|shop|free|item|colou?r)s?', '', string)
 
     return string
 
 
-def remove_common_words(source: str, item2pagetitle: dict[str, str], word_counter: Counter, min_percentage: float = 0.1):
+def remove_common_words(source: str, item2pagetitle: dict[str, str], word_counter: Counter, min_percentage: float = 0.02):
     '''
     Removes common words from the page titles based on the minimum percentage of occurrences.
 
@@ -75,7 +76,7 @@ def get_relevant_text(data: dict) -> str:
     Returns:
         str: Relevant text from the JSON data.
     '''
-    relevant_labels = ['model', 'model name', 'product model', 'model number', 'product name', 'part']
+    relevant_labels = ['model', 'model name', 'product model', 'model number', 'product name', 'part', 'product description']
 
     for label in relevant_labels:
         if data.get(label):
