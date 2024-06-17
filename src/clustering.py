@@ -4,7 +4,7 @@ import time
 import torch
 from sklearn.cluster import DBSCAN, KMeans
 from hdbscan import HDBSCAN
-from tqdm import tqdm
+from sklearn.cluster import AgglomerativeClustering
 
 def load_embeddings(file_dir, file_name):
     """
@@ -27,6 +27,9 @@ def cluster_embeddings(embeddings, algorithm, **kwargs):
         cluster_labels = clusterer.fit_predict(embeddings_array.numpy())
     elif algorithm == 'dbscan':
         clusterer = DBSCAN(metric='euclidean', **kwargs)
+        cluster_labels = clusterer.fit_predict(embeddings_array.numpy())
+    elif algorithm == 'agglomerative':
+        clusterer = AgglomerativeClustering(metric='euclidean', **kwargs)
         cluster_labels = clusterer.fit_predict(embeddings_array.numpy())
     else:
         raise ValueError(f"Algoritmo di clustering non valido: {algorithm}")
@@ -56,7 +59,7 @@ def main():
     parser = argparse.ArgumentParser(description='Clustering di embedding')
     parser.add_argument('--embeddings_dir', default='results/embeddings/', help='Directory degli embedding')
     parser.add_argument('--embeddings_file', default='embeddings_distilbert_base_uncased.json', help='File degli embedding')
-    parser.add_argument('--algorithm', default='hdbscan', choices=['hdbscan', 'kmeans', 'dbscan'], help='Algoritmo di clustering')
+    parser.add_argument('--algorithm', default='hdbscan', choices=['hdbscan', 'kmeans', 'dbscan', 'agglomerative'], help='Algoritmo di clustering')
     parser.add_argument('--output_dir', default='results/clustering/', help='Directory di output')
     parser.add_argument('--output_file', default='clusters.json', help='File di output')
     args = parser.parse_args()
@@ -72,6 +75,8 @@ def main():
         cluster_labels = cluster_embeddings(item2embedding, args.algorithm, n_clusters=5)
     elif args.algorithm == 'dbscan':
         cluster_labels = cluster_embeddings(item2embedding, args.algorithm, eps=0.5, min_samples=10)
+    elif args.algorithm == 'agglomerative':
+        cluster_labels = cluster_embeddings(item2embedding, args.algorithm, n_clusters=5)
 
     print("Clustering completed")
 
