@@ -102,6 +102,19 @@ def find_longest_common_suffix(strings: list[str], min_percentage: float = 0.5) 
     return ""
 
 
+def remove_websites(s: str) -> str:
+    '''
+    Remove websites from a string.
+
+    Args:
+        s (str): Input string.
+
+    Returns:
+        str: String with websites removed.
+    '''
+    return re.sub(r'(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)', '', s)
+
+
 def remove_whitespaces_between_letters_and_numbers(s: str) -> str:
     '''
     Remove whitespaces between letters and numbers in a string.
