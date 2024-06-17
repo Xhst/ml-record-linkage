@@ -8,7 +8,7 @@ def generate_entity2clusters():
     # Group by entity_id and get a list of spec_id
     group_by_entity_id = ground_truth.groupby('entity_id')['spec_id'].apply(list)
 
-    clusters: dict[str, list[str]] = json.load(open(paths.RESULTS_DIR + "/clustering/hdbscan_clusters.json"))
+    clusters: dict[str, list[str]] = json.load(open(paths.RESULTS_DIR + "/clustering/dbscan/dbscan_clusters.json"))
 
     entity2clusters: dict[str, dict[str, list[str]]] = {}
 
