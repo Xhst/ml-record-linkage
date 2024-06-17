@@ -1,16 +1,14 @@
 import os
 import json
-import torch
+import re
 import paths
 import utils.string_utils as string_utils
+from concurrent.futures import ThreadPoolExecutor
 from collections import Counter
 
 
 def clean_text_data(text: str) -> str:
-    '''
-    Cleans the text data by converting it to lowercase, replacing special characters with whitespaces 
-    and removing extra whitespaces.
-    
+    '''    
     Args:
         text (str): The text data to be cleaned.
     
@@ -19,9 +17,25 @@ def clean_text_data(text: str) -> str:
     '''
     text = text.lower()
     text = string_utils.replace_special_chars_with_whitespace(text)
+    #text = string_utils.remove_whitespaces_between_letters_and_numbers(text)
+    #text = string_utils.remove_whitespaces_between_numbers(text)
+    text = remove_non_relevant_words(text)
     text = string_utils.remove_extra_whitespaces(text)
 
     return text
+
+
+def remove_non_relevant_words(string: str) -> str:
+    # remove words containing numbers followed by units of measurement
+    string = re.sub(r'\d+(?:\.\d+)?(?:inch|in|cm|mm|ms|dc)', '', string)
+
+    # remove words representing resolutions (like 1920x1080)
+    string = re.sub(r'\d+x\d+', '', string)
+
+    # remove frequent words like led, lcd, monitor
+    string = re.sub(r'\b(?:led|lcd|monitor|monitors|vga|hdmi|led|display|tft|tv|cable|cables)', '', string)
+
+    return string
 
 
 def remove_common_words(source: str, item2pagetitle: dict[str, str], word_counter: Counter, min_percentage: float = 0.1):
@@ -61,7 +75,7 @@ def get_relevant_text(data: dict) -> str:
     Returns:
         str: Relevant text from the JSON data.
     '''
-    relevant_labels = ['model', 'model name', 'product model', 'model number', 'product name']
+    relevant_labels = ['model', 'model name', 'product model', 'model number', 'product name', 'part']
 
     for label in relevant_labels:
         if data.get(label):
@@ -72,17 +86,12 @@ def get_relevant_text(data: dict) -> str:
     return data['<page title>']
 
 
-def try_find_model_name(item2pagetitle: dict[str, str]):
-    '''
-    Tries to find the model name in the page titles.
-
-    Args:
-        item2pagetitle (Dict[str, str]): Dictionary containing item names and their corresponding page titles.
-    '''
-    for key, value in item2pagetitle.items():
-        model_name = string_utils.find_longest_alphanumeric_word(value)
-        if model_name and len(model_name) > 4:
-            item2pagetitle[key] = model_name
+def try_find_model_name(string: str) -> str:
+    alphanumeric_words = string_utils.find_alphanumeric_words(string)
+    val = ' '.join(word if len(word) > 3 else '' for word in alphanumeric_words)
+    val = string_utils.remove_extra_whitespaces(val)
+    
+    return val
 
 
 def process_directory(root_dir, source_dir):
@@ -101,6 +110,12 @@ def process_directory(root_dir, source_dir):
                         text_to_process = get_relevant_text(data)
 
                         cleaned_text = clean_text_data(text_to_process)
+
+                        if len(cleaned_text.split()) > 1:
+                            model = try_find_model_name(cleaned_text)
+                            if model != '':
+                                cleaned_text = model
+
                         word_counter.update(cleaned_text.split())
 
                         item2pagetitle[item_name] = cleaned_text
@@ -109,17 +124,23 @@ def process_directory(root_dir, source_dir):
             except Exception as e:
                 print(f"Error reading {filepath}: {e}")
 
-    remove_common_words(source_dir, item2pagetitle, word_counter)
-    try_find_model_name(item2pagetitle)     
+    remove_common_words(source_dir, item2pagetitle, word_counter)  
         
     return item2pagetitle
 
 
 def process_sources(root_dir):
     item2pagetitle = {}
-    for _, dirnames, _ in os.walk(root_dir):
-        for dirname in dirnames:
-            item2pagetitle.update(process_directory(root_dir, dirname))
+
+    # Process each directory in a different thread
+    with ThreadPoolExecutor() as executor:
+        futures = []
+        for _, dirnames, _ in os.walk(root_dir):
+            for dirname in dirnames:
+                futures.append(executor.submit(process_directory, root_dir, dirname))
+
+        for future in futures:
+            item2pagetitle.update(future.result())
     
     try:
         output_filepath = os.path.join(paths.RESULTS_DIR + '/preprocessing/preprocessed_dataset.json')
