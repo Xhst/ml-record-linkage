@@ -27,6 +27,7 @@ nest-asyncio==1.6.0
 networkx==3.3
 numpy==1.26.4
 packaging==24.0
+pandas==2.2.2
 parso==0.8.4
 pexpect==4.9.0
 platformdirs==4.2.2
@@ -36,6 +37,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 Pygments==2.18.0
 python-dateutil==2.9.0.post0
+pytz==2024.1
 PyYAML==6.0.1
 pyzmq==26.0.3
 regex==2024.5.15
@@ -54,5 +56,6 @@ tqdm==4.66.4
 traitlets==5.14.3
 transformers==4.41.2
 typing_extensions==4.12.2
+tzdata==2024.1
 urllib3==2.2.1
 wcwidth==0.2.13
