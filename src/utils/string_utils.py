@@ -115,7 +115,47 @@ def remove_whitespaces_between_letters_and_numbers(s: str) -> str:
     return re.sub(r'(\D)\s+(\d)', r'\1\2', s)
 
 
-def find_longest_alphanumeric_word(s):
+def remove_whitespaces_between_numbers(s: str) -> str:
+    '''
+    Remove whitespaces between numbers in a string.
+
+    Args:
+        s (str): Input string.
+
+    Returns:
+        str: String with whitespaces removed between numbers.
+    '''
+    return re.sub(r'(\d)\s+(\d)', r'\1\2', s)
+
+
+def find_alphanumeric_words(s: str) -> list[str]:
+    '''
+    Find all alphanumeric words in a string.
+
+    Args:
+        s (str): Input string.
+
+    Returns:
+        List[str]: List of alphanumeric words in the string.
+    '''
+    words = re.findall(r'\w+', s)
+    return [word for word in words if re.search(r'[A-Za-z]', word) and re.search(r'\d', word)]
+
+
+def remove_non_alphanumeric_words(s: str) -> str:
+    '''
+    Remove non-alphanumeric words from a string.
+
+    Args:
+        s (str): Input string.
+
+    Returns:
+        str: String with non-alphanumeric words removed.
+    '''
+    return ' '.join(find_alphanumeric_words(s))
+
+
+def find_longest_alphanumeric_word(s: str) -> str:
     '''
     Find the longest alphanumeric word in a string.
 
@@ -125,9 +165,7 @@ def find_longest_alphanumeric_word(s):
     Returns:
         str: Longest alphanumeric word in the string.
     '''
-    words = re.findall(r'\w+', s)
-    
-    alphanumeric_words = [word for word in words if re.search(r'[A-Za-z]', word) and re.search(r'\d', word)]
+    alphanumeric_words = find_alphanumeric_words(s)
     
     if alphanumeric_words:
         return max(alphanumeric_words, key=len)
