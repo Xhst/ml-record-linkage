@@ -4,11 +4,11 @@ import paths
 
 ground_truth = pd.read_csv(paths.GROUND_TRUTH_DIR + "/monitor_entity_resolution_gt(in).csv")
 
-def generate_entity2clusters():
+def generate_entity2clusters(algorithm: str = "hdbscan"):
     # Group by entity_id and get a list of spec_id
     group_by_entity_id = ground_truth.groupby('entity_id')['spec_id'].apply(list)
 
-    clusters: dict[str, list[str]] = json.load(open(paths.RESULTS_DIR + "/clustering/agglomerative/agglomerative_clusters.json"))
+    clusters: dict[str, list[str]] = json.load(open(paths.RESULTS_DIR + "/clustering/" + algorithm + "/" + algorithm + "_clusters.json"))
 
     entity2clusters: dict[str, dict[str, list[str]]] = {}
 
@@ -34,5 +34,5 @@ def generate_entity2clusters():
     # order by enitity_id
     entity2clusters = {k: v for k, v in sorted(entity2clusters.items(), key=lambda item: item[0])}
 
-    json.dump(entity2clusters, open(paths.RESULTS_DIR + "/evaluation/entity2clusters.json", 'w'), indent=4)
+    json.dump(entity2clusters, open(paths.RESULTS_DIR + "/evaluation/" + algorithm + "_entity2clusters.json", 'w'), indent=4)
         
