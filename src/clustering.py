@@ -60,8 +60,8 @@ def main():
     parser.add_argument('--embeddings_dir', default='results/embeddings/', help='Directory degli embedding')
     parser.add_argument('--embeddings_file', default='embeddings_distilbert_base_uncased.json', help='File degli embedding')
     parser.add_argument('--algorithm', default='hdbscan', choices=['hdbscan', 'kmeans', 'dbscan', 'agglomerative'], help='Algoritmo di clustering')
-    parser.add_argument('--output_dir', default='results/clustering/', help='Directory di output')
-    parser.add_argument('--output_file', default='clusters.json', help='File di output')
+    parser.add_argument('--output_dir', default='results/clustering/hdbscan/', help='Directory di output')
+    parser.add_argument('--output_file', default='hdbscan_clusters.json', help='File di output')
     args = parser.parse_args()
 
     item2embedding = load_embeddings(args.embeddings_dir, args.embeddings_file)
