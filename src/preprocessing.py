@@ -189,10 +189,10 @@ def process_sources(root_dir):
         print(f"Error writing {preprossed_filepath}: {e}")
         
     try:
-        item2pagetitles_filepath = os.path.join(paths.RESULTS_DIR + '/preprocessing/item2pagetites.json')
-        with open(item2pagetitles_filepath, 'w', encoding='utf-8') as f:
+        item2pagetitle_filepath = os.path.join(paths.RESULTS_DIR + '/preprocessing/item2pagetite.json')
+        with open(item2pagetitle_filepath, 'w', encoding='utf-8') as f:
             json.dump(item2pagetitle, f, ensure_ascii=False, indent=4)
-        print(f"Written to {item2pagetitles_filepath}")
+        print(f"Written to {item2pagetitle_filepath}")
     except Exception as e:
-        print(f"Error writing {item2pagetitles_filepath}: {e}")
+        print(f"Error writing {item2pagetitle_filepath}: {e}")
     
