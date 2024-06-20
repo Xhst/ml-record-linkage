@@ -17,9 +17,10 @@ def load_item2pagetitle(file_path):
 
 
 def query_llama3(llm, title1, title2, begin: bool):
+    prompt = ""
     if begin:
-      prompt = "<|begin_of_text|>"
-    prompt = f'''<|start_header_id|>system<|end_header_id|>
+      prompt += "<|begin_of_text|>"
+    prompt += f'''<|start_header_id|>system<|end_header_id|>
     You are an helful assistant that can tell if two monitors are the same object just by analyzing their product webpage title.
     To help yourself search for model names or alphanumerical strings and try to ignore the webpage name in the webpage titles.
     If the page titles represent the same entity your answer MUST BE "yes".
