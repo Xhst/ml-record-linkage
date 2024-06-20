@@ -51,6 +51,13 @@ def pairwise_matching(clusters: dict[str, list[str]], item2pagetitle: dict[str,s
     
     llm = Llama(model_path="../models/Llama3-70B/L3-70B-Euryale-v2.1-Q5_K_M.gguf")
     
+    # Move model to GPU if available
+    if torch.cuda.is_available():
+        device = torch.device('cuda')
+        llm = llm.to(device)
+    else:
+        device = torch.device('cpu')
+    
     begin = True
     
     for cluster_id, items in clusters.items():
@@ -63,7 +70,7 @@ def pairwise_matching(clusters: dict[str, list[str]], item2pagetitle: dict[str,s
             title1 = item2pagetitle[item1]
             title2 = item2pagetitle[item2]
             match_status = query_llama3(llm, title1, title2, begin)
-            matches[cluster_id].append(item1, item2, match_status)
+            matches[cluster_id].append((item1, item2, match_status))
             begin = False
         num_clusters_to_analyze -= 1
     
