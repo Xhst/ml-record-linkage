@@ -43,6 +43,7 @@ def query_llama3(llm, title1, title2, begin: bool):
 
     output = llm(prompt, max_tokens=30, temperature=0.15, echo=False )
     response = output['choices'][0]['text']
+    print(response)
     return response
 
 
@@ -50,14 +51,7 @@ def pairwise_matching(clusters: dict[str, list[str]], item2pagetitle: dict[str,s
     # for each cluster we have a list of tuples (page_title1, page_title2, match_result)
     matches: dict[str, list[tuple[str,str,str]]] = {}
     
-    llm = Llama(model_path="../models/Llama3-70B/L3-70B-Euryale-v2.1-Q5_K_M.gguf")
-    
-    # Move model to GPU if available
-    if torch.cuda.is_available():
-        device = torch.device('cuda')
-        llm = llm.to(device)
-    else:
-        device = torch.device('cpu')
+    llm = Llama(model_path= paths.MODELS_DIR + "/Llama3-70B/L3-70B-Euryale-v2.1-Q5_K_M.gguf")
     
     begin = True
     
