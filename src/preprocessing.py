@@ -87,6 +87,19 @@ def get_relevant_text(data: dict) -> str:
     return data['<page title>']
 
 
+def get_page_title(data: dict) -> str:
+    '''
+    Extracts the page title from the JSON data.
+
+    Args:
+        data (Dict): JSON data.
+
+    Returns:
+        str: Page title from the JSON data.
+    '''
+    return data['<page title>']
+
+
 def try_find_model_name(string: str) -> str:
     alphanumeric_words = string_utils.find_alphanumeric_words(string)
     val = ' '.join(word if len(word) > 3 else '' for word in alphanumeric_words)
@@ -130,7 +143,29 @@ def process_directory(root_dir, source_dir):
     return item2pagetitle
 
 
+def process_directory_page_titles(root_dir, source_dir):
+    item2pagetitle = {}
+
+    for _, _, files in os.walk(root_dir + '/' + source_dir):
+        for file in files:
+            filepath = os.path.join(root_dir + '/' + source_dir, file)
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    if data:
+                        item_name = source_dir + '//' + file.replace('.json', '')
+                        page_title = get_page_title(data)
+                        item2pagetitle[item_name] = page_title
+                    else:
+                        print(f"Empty JSON file: {filepath}")
+            except Exception as e:
+                print(f"Error reading {filepath}: {e}")
+
+    return item2pagetitle
+
+
 def process_sources(root_dir):
+    item2processed = {}
     item2pagetitle = {}
 
     # Process each directory in a different thread
@@ -139,15 +174,25 @@ def process_sources(root_dir):
         for _, dirnames, _ in os.walk(root_dir):
             for dirname in dirnames:
                 futures.append(executor.submit(process_directory, root_dir, dirname))
+                futures.append(executor.submit(process_directory_page_titles, root_dir, dirname))
 
         for future in futures:
+            item2processed.update(future.result())
             item2pagetitle.update(future.result())
     
     try:
-        output_filepath = os.path.join(paths.RESULTS_DIR + '/preprocessing/preprocessed_dataset.json')
-        with open(output_filepath, 'w', encoding='utf-8') as f:
+        preprossed_filepath = os.path.join(paths.RESULTS_DIR + '/preprocessing/preprocessed_dataset.json')
+        with open(preprossed_filepath, 'w', encoding='utf-8') as f:
             json.dump(item2pagetitle, f, ensure_ascii=False, indent=4)
-        print(f"Written to {output_filepath}")
+        print(f"Written to {preprossed_filepath}")
     except Exception as e:
-        print(f"Error writing {output_filepath}: {e}")
+        print(f"Error writing {preprossed_filepath}: {e}")
+        
+    try:
+        item2pagetitles_filepath = os.path.join(paths.RESULTS_DIR + '/preprocessing/item2pagetites.json')
+        with open(item2pagetitles_filepath, 'w', encoding='utf-8') as f:
+            json.dump(item2pagetitle, f, ensure_ascii=False, indent=4)
+        print(f"Written to {item2pagetitles_filepath}")
+    except Exception as e:
+        print(f"Error writing {item2pagetitles_filepath}: {e}")
     
