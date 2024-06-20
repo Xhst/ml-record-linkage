@@ -3,7 +3,7 @@ import requests
 import paths
 import torch
 from itertools import combinations
-from llm_cpp import Llama
+from llama_cpp import Llama
 
 def load_clusters(file_path):
     with open(file_path, 'r') as f:
