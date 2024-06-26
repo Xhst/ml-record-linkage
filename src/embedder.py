@@ -88,6 +88,8 @@ def save_embedding_dictionary(filepath2embedding, output_dir, output_file_name):
 
 
 def main():
+
+    print(f"{count_files("dataset/2013_monitor_specs/")} files found in dataset/2013_monitor_specs/")
     # Set up argument parsing
     parser = argparse.ArgumentParser(description="Process a directory of JSON files to extract and embed page titles.")
     parser.add_argument("--file", type=str, help="JSON file to process")
