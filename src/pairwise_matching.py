@@ -91,7 +91,7 @@ def main():
     
     del clusters["-1"]
     
-    print(f"Calcolo delle combinazioni da effettuare: {calculate_combinations_for_clusters(clusters)}")
+    print(f"Calcolo delle combinazioni da effettuare (su {str(len(clusters))} cluster): {calculate_combinations_for_clusters(clusters)}")
     
     item2pagetitle_file = paths.RESULTS_DIR + "/preprocessing/item2pagetitle.json"
     item2pagetitle: dict[str,str] = load_item2pagetitle(item2pagetitle_file)
