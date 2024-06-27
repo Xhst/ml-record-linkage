@@ -2,7 +2,7 @@
 
 
 ## 🔎 About
-### Our approach on record linkage
+### ⚡ Our approach on record linkage
 Our approach consist in solving the problem of record linkage using **deep learning techniques** and **Large Language Models** (LLMs). 
 
 The methodology can be summarized into four main activities: **dataset preprocessing**, **embedding data** items into a vector space, clustering for the **blocking** step and **pairwise matching** to find related entities.
@@ -21,10 +21,24 @@ the data. However, when using an LLM for pairwise matching, having more contextu
 
 ![process](docs/images/process.png)
 
-### DI2KG Dataset
+### 📒 DI2KG Dataset
 The dataset used is the Monitor Specifications from the challenge [DI2KG](http://di2kg.inf.uniroma3.it/datasets.html). It has 26 sources with 16662 products, it exhibits high degree of heterogeneity both across and within sources.
 This dataset consist of a set of products specifications in JSON format, automatically extracted from multiple e-commerce websites.
 Each specification has been extracted from a web page and refers to a real-world product. A specification consists of a list of pairs and is stored in a file. Files are organized into directories, each directory corresponds to a web source. 
+
+### 🛠️ Technologies
+For the emmedding we used **DistilBERT**, that offers a significant reduction in size and computational overhead
+while retaining a substantial portion of BERT’s performance capabilities.
+
+For the blocking we used different clustering algorithms, that can be found in [scikit-learn clustering](https://scikit-learn.org/stable/api/sklearn.cluster.html):
+- **Agglomerative**
+- **DBSCAN**
+- **HDBSCAN**
+- **K-means**
+
+In the pairwise matching step we used **LLAMA3 70B** and **ChatGPT-4o**.
+
+
 
 ## ⬇️ Setup
 To execute the project you need the necessary libraries, in the following step we install the libraries using virtualenv but you can use a different environment.
