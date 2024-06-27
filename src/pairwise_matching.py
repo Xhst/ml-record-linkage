@@ -1,7 +1,5 @@
 import json
-import requests
 import paths
-import torch
 from itertools import combinations
 from llama_cpp import Llama
 
@@ -29,7 +27,7 @@ def query_llama3(llm, title1, title2, begin: bool):
     Example 1:
     first page title: "Hp Hewlett Packard HP Z22i D7Q14AT ABB Planet Computer.it"
     second page title: "HP Z22i - MrHighTech Shop"
-    "yes"
+    "yes" 
     Example 2:
     first page title: "Hp Hewlett Packard HP Z22i D7Q14AT ABB Planet Computer.it"
     second page title: "C4D33AA#ABA - Hp Pavilion 20xi Ips Led Backlit Monitor - PC-Canada.com"
@@ -51,7 +49,7 @@ def pairwise_matching(clusters: dict[str, list[str]], item2pagetitle: dict[str,s
     # for each cluster we have a list of tuples (page_title1, page_title2, match_result)
     matches: dict[str, list[tuple[str,str,str]]] = {}
     
-    llm = Llama(model_path= paths.MODELS_DIR + "/Llama3-70B/L3-70B-Euryale-v2.1-Q5_K_M.gguf")
+    llm = Llama(model_path= paths.MODELS_DIR + "/Llama3-70B/L3-70B-Euryale-v2.1-IQ3_XXS.gguf")
     
     begin = True
     
@@ -65,7 +63,9 @@ def pairwise_matching(clusters: dict[str, list[str]], item2pagetitle: dict[str,s
             title1 = item2pagetitle[item1]
             title2 = item2pagetitle[item2]
             match_status = query_llama3(llm, title1, title2, begin)
-            matches[cluster_id].append((item1, item2, match_status))
+            result = (item1, item2, match_status)
+            print(result)
+            matches[cluster_id].append(result)
             begin = False
         num_clusters_to_analyze -= 1
     
