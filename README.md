@@ -1,7 +1,9 @@
 # linkage-project
 
+
+
 ## ⬇️ Setup
-The following steps are used to setup the virtual environment with the necessary libraries.
+To execute the project you need the necessary libraries, in the following step we install the libraries using virtualenv but you can use a different environment.
 
 If you don't have the virtualenv installed:
 ```
@@ -23,11 +25,3 @@ Finally get the libraries with:
 ```
 pip install -r requirements.txt (remove comments in the file requirements.txt if you have a Windows machine)
 ```
-
-### Assignment specification ([Open PDF](AssignmentATCS.pdf))
-
-### Overleaf report  
-*insert final PDF here*
-
-### Description  
-Very cool record linkage repo
