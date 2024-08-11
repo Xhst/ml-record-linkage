@@ -52,3 +52,16 @@ class ContrastiveLoss(nn.Module):
         return loss_contrastive
 
 
+class SiameseDataset(Dataset):
+    def __init__(self, pairs, labels):
+        self.pairs = pairs
+        self.labels = labels
+
+
+    def __len__(self):
+        return len(self.pairs)
+
+
+    def __getitem__(self, idx):
+        return self.pairs[idx], self.labels[idx]
+    
