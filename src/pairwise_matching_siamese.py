@@ -88,3 +88,33 @@ class SiameseTraining:
                 print(f'Epoch [{epoch + 1}/{epochs}], Loss: {loss.item():.4f}')
     
 
+def generate_pairs(entity2clusters, embeddings):
+    pairs = []
+    labels = []
+    
+    for entity_id, clusters in entity2clusters.items():
+        for _, items in clusters.items():
+            for i in range(len(items)):
+                for j in range(i + 1, len(items)): 
+                    pair1 = torch.tensor(embeddings[items[i]]).float()
+                    pair2 = torch.tensor(embeddings[items[j]]).float()
+                    pairs.append((pair1, pair2))
+                    labels.append(1)
+                    
+            for other_entity_id, other_clusters in entity2clusters.items():
+                if other_entity_id == entity_id:
+                    continue
+                
+                for _, other_items in other_clusters.items():
+                    for item in items:
+                        for other_item in other_items:
+                            pair1 = torch.tensor(embeddings[item]).float()
+                            pair2 = torch.tensor(embeddings[other_item]).float()
+                            pairs.append((pair1, pair2))
+                            labels.append(0)
+    
+    return pairs, labels
+
+
+
+
