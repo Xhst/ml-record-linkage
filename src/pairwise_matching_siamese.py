@@ -65,3 +65,26 @@ class SiameseDataset(Dataset):
     def __getitem__(self, idx):
         return self.pairs[idx], self.labels[idx]
     
+
+class SiameseTraining:
+    def __init__(self, model, dataloader, criterion, optimizer):
+        self.model = model
+        self.dataloader = dataloader
+        self.criterion = criterion
+        self.optimizer = optimizer
+        
+
+    def train(self, epochs):
+        for epoch in range(epochs):
+            for data in self.dataloader:
+                (input1, input2), label = data
+                
+                self.optimizer.zero_grad()
+                output1, output2 = self.model(input1, input2)
+                loss = self.criterion(output1, output2, label)
+                loss.backward()
+                self.optimizer.step()
+                
+                print(f'Epoch [{epoch + 1}/{epochs}], Loss: {loss.item():.4f}')
+    
+
