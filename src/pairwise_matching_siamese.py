@@ -98,17 +98,19 @@ class ContrastiveLoss(nn.Module):
 
 
 class SiameseDataset(Dataset):
-    def __init__(self, pairs: list[tuple[torch.Tensor, torch.Tensor]], labels: list[int]):
+    def __init__(self, pairs: list[tuple[str, str]], labels: list[int], embeddings: dict):
         self.pairs = pairs
         self.labels = labels
+        self.embeddings = embeddings
 
 
     def __len__(self):
         return len(self.pairs)
 
 
-    def __getitem__(self, idx: int) -> tuple[torch.Tensor, torch.Tensor]:
-        return self.pairs[idx], self.labels[idx]
+    def __getitem__(self, idx: int) -> tuple[tuple[torch.Tensor, torch.Tensor], int]:
+        pair = (torch.Tensor(self.embeddings[self.pairs[idx][0]]).float(), torch.Tensor(self.embeddings[self.pairs[idx][1]]).float())
+        return pair, self.labels[idx]
     
 
 class SiameseTraining:
@@ -119,7 +121,7 @@ class SiameseTraining:
         self.optimizer = optimizer
         
 
-    def train(self, epochs: int):
+    def train(self, epochs: int, enable_prints: bool = True, print_every: int = 10):
         '''
         Train the siamese network
 
@@ -129,7 +131,7 @@ class SiameseTraining:
         print("Starting training")
 
         for epoch in range(epochs):
-            for data in self.dataloader:
+            for i, data in enumerate(self.dataloader):
                 (input1, input2), label = data
                 
                 self.optimizer.zero_grad()
@@ -138,23 +140,26 @@ class SiameseTraining:
                 loss.backward()
                 self.optimizer.step()
                 
-                print(f'Epoch [{epoch + 1}/{epochs}], Loss: {loss.item():.4f}')
+                if enable_prints and i % print_every == 0:
+                    print(f'Epoch [{epoch + 1}/{epochs}], Item [{i}/{len(self.dataloader)}], Loss: {loss.item():.4f}')
     
 
-def generate_pairs(entity2clusters: dict, embeddings: dict) -> tuple[list[tuple[torch.Tensor, torch.Tensor]], list[int]]:
+def generate_pairs(entity2clusters: dict) -> tuple[list[tuple[str, str]], list[int]]:
     '''
     Generate pairs of entities and labels for the siamese network
     
     Args:
         entity2clusters (dict): dictionary containing clusters of entities
-        embeddings (dict): dictionary containing embeddings of entities
         
     Returns:
-        pairs (list[tuple[torch.Tensor, torch.Tensor]]): list of pairs of entities
+        pairs (list[tuple[str, str]]): list of pairs of entities
         labels (list[int]): list of labels
     '''
     pairs = []
     labels = []
+
+    positive_pairs = 0
+    negative_pairs = 0
     
     for entity_id, clusters in entity2clusters.items():
         
@@ -162,10 +167,9 @@ def generate_pairs(entity2clusters: dict, embeddings: dict) -> tuple[list[tuple[
         for _, items in clusters.items():
             for i in range(len(items)):
                 for j in range(i + 1, len(items)): 
-                    pair1 = torch.tensor(embeddings[items[i]]).float()
-                    pair2 = torch.tensor(embeddings[items[j]]).float()
-                    pairs.append((pair1, pair2))
+                    pairs.append((items[i], items[j]))
                     labels.append(1)
+                    positive_pairs += 1
 
         # Generate negative pairs     
         for other_entity_id, other_clusters in entity2clusters.items():
@@ -175,12 +179,11 @@ def generate_pairs(entity2clusters: dict, embeddings: dict) -> tuple[list[tuple[
             for _, other_items in other_clusters.items():
                 for item in items:
                     for other_item in other_items:
-                        pair1 = torch.tensor(embeddings[item]).float()
-                        pair2 = torch.tensor(embeddings[other_item]).float()
-                        pairs.append((pair1, pair2))
+                        pairs.append((item, other_item))
                         labels.append(0)
+                        negative_pairs += 1
 
-    print(f"Generated {len(pairs)} pairs")
+    print(f"Generated {len(pairs)} pairs: {positive_pairs} positive pairs and {negative_pairs} negative pairs")
     
     return pairs, labels
 
@@ -189,9 +192,9 @@ if __name__ == "__main__":
     entity2clusters = json.load(open(paths.RESULTS_DIR + "/evaluation/entity2clusters.json"))
     embeddings = json.load(open(paths.RESULTS_DIR + "/embeddings/embeddings_distilbert_base_uncased.json"))
 
-    pairs, labels = generate_pairs(entity2clusters, embeddings)
+    pairs, labels = generate_pairs(entity2clusters)
 
-    dataset = SiameseDataset(pairs, labels)
+    dataset = SiameseDataset(pairs, labels, embeddings)
     dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
 
     model = SiameseNetwork(768, 256)
