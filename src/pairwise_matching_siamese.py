@@ -116,5 +116,32 @@ def generate_pairs(entity2clusters, embeddings):
     return pairs, labels
 
 
+if __name__ == "__main__":
+    entity2clusters = json.load(open(paths.RESULTS_DIR + "/evaluation/entity2clusters.json"))
+    embeddings = json.load(open(paths.RESULTS_DIR + "/embeddings/embeddings_distilbert_base_uncased.json"))
+
+    pairs, labels = generate_pairs(entity2clusters, embeddings)
+
+    dataset = SiameseDataset(pairs, labels)
+    dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
+
+    model = SiameseNetwork(768, 256)
+
+    criterion = ContrastiveLoss()
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.0005)
+
+    training = SiameseTraining(model, dataloader, criterion, optimizer)
+    training.train(10)
+
+    # Print model's state_dict
+    print("Model's state_dict:")
+    for param_tensor in model.state_dict():
+        print(param_tensor, "\t", model.state_dict()[param_tensor].size())
+
+    # Print optimizer's state_dict
+    print("Optimizer's state_dict:")
+    for var_name in optimizer.state_dict():
+        print(var_name, "\t", optimizer.state_dict()[var_name])
+
 
 
