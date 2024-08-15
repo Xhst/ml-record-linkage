@@ -123,7 +123,6 @@ def main():
     print("Saving to json...")
     
     output_dir = "results/embeddings/"
-    output_file_name = "embeddings_distilbert_base_uncased.json"
     
     save_embedding_dictionary(embeddings, output_dir, output_file_name)
     
