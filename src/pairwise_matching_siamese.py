@@ -5,6 +5,7 @@ import paths
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader, Dataset
+from embedder import assign_device
 
 
 class SiameseNetwork(nn.Module):
@@ -125,12 +126,20 @@ class SiameseTraining:
         print("Starting training")
         for epoch in range(epochs):
             for i, data in enumerate(self.dataloader):
-                (input1, input2), label = data
+                (input1, input2), labels = data
+                
+                input1 = input1.to(device)
+                input2 = input2.to(device)
+                labels = labels.to(device)
+                
                 self.optimizer.zero_grad()
+                
                 output1, output2 = self.model(input1, input2)
-                loss = self.criterion(output1, output2, label)
+                loss = self.criterion(output1, output2, labels)
+                
                 loss.backward()
                 self.optimizer.step()
+                
                 if enable_prints and i % print_every == 0:
                     print(f'Epoch [{epoch + 1}/{epochs}], Item [{i}/{len(self.dataloader)}], Loss: {loss.item():.6f}')
             
@@ -186,15 +195,19 @@ def generate_pairs(entity2clusters: dict) -> tuple[list[tuple[str, str]], list[i
 
 if __name__ == "__main__":
     entity2clusters = json.load(open(paths.RESULTS_DIR + "/evaluation/entity2clusters.json"))
-    embeddings = json.load(open(paths.RESULTS_DIR + "/embeddings/embeddings_distilbert_base_uncased.json"))
+    embeddings = json.load(open(paths.RESULTS_DIR + "/embeddings/embeddings_distilbert_base_uncased_preprocessed.json"))
 
     parser = argparse.ArgumentParser(description="Process a directory of JSON files to extract and embed page titles.")
     parser.add_argument("--load_epoch", type=int, help="Load the model and optimizer state from the specified epoch to continue training")
     parser.add_argument("--num_epochs", type=int, default=10, help="Number of epochs to train the model (default: 10)")
+    parser.add_argument("--device", type=str, choices=["cpu", "cuda", "mps"], default="cpu", help="Computing device to use (cpu, cuda, or mps)")
     args = parser.parse_args()
+    
+    # Determine the device to use
+    device = assign_device(args.device)
 
     model = SiameseNetwork(768, 256)
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.0005)
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
     
     if args.load_epoch is not None:
         try:
@@ -205,18 +218,19 @@ if __name__ == "__main__":
             print("\033[31m!!! --- Error loading model and optimizer states. Make sure model and optimizer state files exist in model directory --- !!!\033[0m")
             print(f"Error details: {e}")
             sys.exit(1)
-
+    
     pairs, labels = generate_pairs(entity2clusters)
 
     dataset = SiameseDataset(pairs, labels, embeddings)
-    dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
+    dataloader = DataLoader(dataset, batch_size=64, shuffle=True)
 
     model.train()  # Set the model to training mode (only necessary if you had previously set it to eval mode)
-
+    model.to(device) # Move the model to the device
+    
     criterion = ContrastiveLoss()
 
     training = SiameseTraining(model, dataloader, criterion, optimizer)
-    training.train(epochs=args.num_epochs)
+    training.train(epochs=args.num_epochs, print_every=1000)
 
     # Save the final trained model and optimizer state
     torch.save(model.state_dict(), paths.MODELS_DIR + "/siamese_net/siamese_model_final.pth")
