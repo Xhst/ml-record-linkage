@@ -64,7 +64,7 @@ def predict_match_using_distance(output1: torch.Tensor, output2: torch.Tensor, t
     return matches, euclidean_distances
 
 
-def evaluate_siamese_model(model, dataloader, threshold=0.5):
+def evaluate_siamese_model(model, dataloader, threshold=0.5, enable_prints=False):
     '''
     Evaluate the Siamese model on a validation set and calculate precision, recall, and F1-score.
     
@@ -95,9 +95,13 @@ def evaluate_siamese_model(model, dataloader, threshold=0.5):
             for i in range(len(matches)):
                 # True Positive: Model predicts match and the label is 1
                 if matches[i] == 1 and labels[i] == 1:
+                    if enable_prints:
+                        print(f"true positive: {matches[i], labels[i], distances[i]}")
                     TP += 1
                 # False Positive: Model predicts match but the label is 0
                 elif matches[i] == 1 and labels[i] == 0:
+                    if enable_prints and i % 10000:
+                        print(f"false positive: {matches[i], labels[i], distances[i]}")
                     FP += 1
                 # False Negative: Model predicts no match but the label is 1
                 elif matches[i] == 0 and labels[i] == 1:
