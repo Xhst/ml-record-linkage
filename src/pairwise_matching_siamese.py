@@ -141,7 +141,17 @@ class SiameseTraining:
                 self.optimizer.step()
                 
                 if enable_prints and i % print_every == 0:
-                    print(f'Epoch [{epoch + 1}/{epochs}], Item [{i}/{len(self.dataloader)}], Loss: {loss.item():.4f}')
+                    print(f'Epoch [{epoch + 1}/{epochs}], Item [{i}/{len(self.dataloader)}], Loss: {loss.item():.6f}')
+        
+            # Print model's state_dict for epoch
+            print("Model's state_dict:")
+            for param_tensor in model.state_dict():
+                print(param_tensor, "\t", model.state_dict()[param_tensor].size())
+
+            # Print optimizer's state_dict for epoch
+            print("Optimizer's state_dict:")
+            for var_name in optimizer.state_dict():
+                print(var_name, "\t", optimizer.state_dict()[var_name])
     
 
 def generate_pairs(entity2clusters: dict) -> tuple[list[tuple[str, str]], list[int]]:
