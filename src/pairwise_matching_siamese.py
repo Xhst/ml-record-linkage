@@ -1,4 +1,6 @@
+import argparse
 import json
+import sys
 import paths
 import torch
 import torch.nn as nn
@@ -101,15 +103,13 @@ class SiameseDataset(Dataset):
     def __init__(self, pairs: list[tuple[str, str]], labels: list[int], embeddings: dict):
         self.pairs = pairs
         self.labels = labels
-        self.embeddings = embeddings
-
+        self.embeddings = {key: torch.tensor(value, dtype=torch.float) for key, value in embeddings.items()}
 
     def __len__(self):
         return len(self.pairs)
 
-
     def __getitem__(self, idx: int) -> tuple[tuple[torch.Tensor, torch.Tensor], int]:
-        pair = (torch.Tensor(self.embeddings[self.pairs[idx][0]]).float(), torch.Tensor(self.embeddings[self.pairs[idx][1]]).float())
+        pair = (self.embeddings[self.pairs[idx][0]], self.embeddings[self.pairs[idx][1]])
         return pair, self.labels[idx]
     
 
@@ -122,36 +122,22 @@ class SiameseTraining:
         
 
     def train(self, epochs: int, enable_prints: bool = True, print_every: int = 10):
-        '''
-        Train the siamese network
-
-        Args:
-            epochs (int): number of epochs
-        '''
         print("Starting training")
-
         for epoch in range(epochs):
             for i, data in enumerate(self.dataloader):
                 (input1, input2), label = data
-                
                 self.optimizer.zero_grad()
                 output1, output2 = self.model(input1, input2)
                 loss = self.criterion(output1, output2, label)
                 loss.backward()
                 self.optimizer.step()
-                
                 if enable_prints and i % print_every == 0:
                     print(f'Epoch [{epoch + 1}/{epochs}], Item [{i}/{len(self.dataloader)}], Loss: {loss.item():.6f}')
-        
-            # Print model's state_dict for epoch
-            print("Model's state_dict:")
-            for param_tensor in model.state_dict():
-                print(param_tensor, "\t", model.state_dict()[param_tensor].size())
-
-            # Print optimizer's state_dict for epoch
-            print("Optimizer's state_dict:")
-            for var_name in optimizer.state_dict():
-                print(var_name, "\t", optimizer.state_dict()[var_name])
+            
+            # Save the model at the end of each epoch
+            torch.save(self.model.state_dict(), paths.MODELS_DIR + f"/siamese_net/siamese_model_epoch_{epoch}.pth")
+            torch.save(self.optimizer.state_dict(), paths.MODELS_DIR + f"/siamese_net/siamese_optimizer_epoch_{epoch}.pth")
+            print(f"\033[32mSaved model and optimizer state for epoch {epoch}\033[0m")
     
 
 def generate_pairs(entity2clusters: dict) -> tuple[list[tuple[str, str]], list[int]]:
@@ -202,28 +188,41 @@ if __name__ == "__main__":
     entity2clusters = json.load(open(paths.RESULTS_DIR + "/evaluation/entity2clusters.json"))
     embeddings = json.load(open(paths.RESULTS_DIR + "/embeddings/embeddings_distilbert_base_uncased.json"))
 
+    parser = argparse.ArgumentParser(description="Process a directory of JSON files to extract and embed page titles.")
+    parser.add_argument("--load_epoch", type=int, help="Load the model and optimizer state from the specified epoch to continue training")
+    parser.add_argument("--num_epochs", type=int, default=10, help="Number of epochs to train the model (default: 10)")
+    args = parser.parse_args()
+
+    model = SiameseNetwork(768, 256)
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.0005)
+    
+    if args.load_epoch is not None:
+        try:
+            model.load_state_dict(torch.load(paths.MODELS_DIR + f"/siamese_net/siamese_model_epoch_{args.load_epoch}.pth"))
+            optimizer.load_state_dict(torch.load(paths.MODELS_DIR + f"/siamese_net/siamese_optimizer_epoch_{args.load_epoch}.pth"))
+            print(f"\033[32mModel and optimizer loaded from epoch {args.load_epoch}\033[0m")
+        except Exception as e:
+            print("\033[31m!!! --- Error loading model and optimizer states. Make sure model and optimizer state files exist in model directory --- !!!\033[0m")
+            print(f"Error details: {e}")
+            sys.exit(1)
+
     pairs, labels = generate_pairs(entity2clusters)
 
     dataset = SiameseDataset(pairs, labels, embeddings)
     dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
 
-    model = SiameseNetwork(768, 256)
+    model.train()  # Set the model to training mode (only necessary if you had previously set it to eval mode)
 
     criterion = ContrastiveLoss()
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.0005)
 
     training = SiameseTraining(model, dataloader, criterion, optimizer)
-    training.train(10)
+    training.train(epochs=args.num_epochs)
 
-    # Print model's state_dict
-    print("Model's state_dict:")
-    for param_tensor in model.state_dict():
-        print(param_tensor, "\t", model.state_dict()[param_tensor].size())
+    # Save the final trained model and optimizer state
+    torch.save(model.state_dict(), paths.MODELS_DIR + "/siamese_net/siamese_model_final.pth")
+    torch.save(optimizer.state_dict(), paths.MODELS_DIR + "/siamese_net/siamese_optimizer_final.pth")
 
-    # Print optimizer's state_dict
-    print("Optimizer's state_dict:")
-    for var_name in optimizer.state_dict():
-        print(var_name, "\t", optimizer.state_dict()[var_name])
+    print("\033[32mFinal model and optimizer states have been saved.\033[0m")
 
 
 
