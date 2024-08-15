@@ -89,18 +89,21 @@ def save_embedding_dictionary(filepath2embedding, output_dir, output_file_name):
 
 def main():
 
-    print(f"{count_files("dataset/2013_monitor_specs/")} files found in dataset/2013_monitor_specs/")
+    print(f"{count_files('dataset/2013_monitor_specs/')} files found in dataset/2013_monitor_specs/")
     # Set up argument parsing
     parser = argparse.ArgumentParser(description="Process a directory of JSON files to extract and embed page titles.")
     parser.add_argument("--file", type=str, help="JSON file to process")
     parser.add_argument("--device", type=str, choices=["cpu", "cuda", "mps"], default="cpu", help="Computing device to use (cpu, cuda, or mps)")
     args = parser.parse_args()
 
+    output_file_name = "embeddings_distilbert_base_uncased.json"
+    
     # Determine the directory to process
     if args.file:
         file = args.file
     else:
         file = "results/preprocessing/preprocessed_dataset.json"
+        output_file_name = "embeddings_distilbert_base_uncased_preprocessed.json"
         print(f"No file specified. Using default file: \"{file}\"")
 
     # Determine the device to use
@@ -120,11 +123,11 @@ def main():
     print("Saving to json...")
     
     output_dir = "results/embeddings/"
-    file_name = "embeddings_distilbert_base_uncased.json"
+    output_file_name = "embeddings_distilbert_base_uncased.json"
     
-    save_embedding_dictionary(embeddings, output_dir, file_name)
+    save_embedding_dictionary(embeddings, output_dir, output_file_name)
     
-    print("Embeddings saved to " + output_dir + file_name)
+    print("Embeddings saved to " + output_dir + output_file_name)
 
 
 if __name__ == "__main__":
