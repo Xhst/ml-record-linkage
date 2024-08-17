@@ -247,7 +247,7 @@ def generate_pairs(file_path: str) -> tuple[list[tuple[str, str]], list[tuple[st
     network from the ground truth csv.
     
     Args:
-        entity2clusters (dict): dictionary containing clusters of entities
+        file_path (str): path to the ground truth CSV file
         
     Returns:
         positive_pairs (list[tuple[str, str]]): list of positive pairs of entities
@@ -281,14 +281,12 @@ def generate_pairs(file_path: str) -> tuple[list[tuple[str, str]], list[tuple[st
 
 
 if __name__ == "__main__":
-    entity2clusters = json.load(open(paths.RESULTS_DIR + "/evaluation/entity2clusters.json"))
-    embeddings = json.load(open(paths.RESULTS_DIR + "/embeddings/embeddings_distilbert_base_uncased_preprocessed.json"))
-
     parser = argparse.ArgumentParser(description="Train a siamese network for pairwise entity matching")
     parser.add_argument("--load_epoch", type=int, help="Load the model and optimizer state from the specified epoch to continue training")
     parser.add_argument("--num_epochs", type=int, default=10, help="Number of epochs to train the model (default: 10)")
     parser.add_argument("--device", type=str, choices=["cpu", "cuda", "mps"], default="cpu", help="Computing device to use (cpu, cuda, or mps)")
     parser.add_argument("--train_data", type=str, help="Path to training data JSON file")
+    parser.add_argument("--pre", type=str, choices=["y","n","N","Y"], default="y", help="'y/Y' if you want to train with the preprocessed embeddings, 'n/N' otherwise")
     args = parser.parse_args()
     
     # Determine the device to use
@@ -297,6 +295,15 @@ if __name__ == "__main__":
     model = SiameseNetwork(768, 256)
     optimizer = torch.optim.Adam(model.parameters(), lr=0.0005)
     
+    # Load the embeddings
+    if args.pre.lower() == "n":
+        embeddings = json.load(open(paths.RESULTS_DIR + "/embeddings/embeddings_distilbert_base_uncased.json"))
+        print("\033[33mLoaded raw embeddings\033[0m")
+    else:
+        embeddings = json.load(open(paths.RESULTS_DIR + "/embeddings/embeddings_distilbert_base_uncased_preprocessed.json"))
+        print("\033[33mLoaded preprocessed embeddings\033[0m")
+    
+    # Load the model and optimizer states if specified
     if args.load_epoch is not None:
         try:
             model.load_state_dict(torch.load(paths.MODELS_DIR + f"/siamese_net/siamese_model_epoch_{args.load_epoch}.pth"))
@@ -307,6 +314,7 @@ if __name__ == "__main__":
             print(f"Error details: {e}")
             sys.exit(1)
 
+    # Load training and test data or create it
     if args.train_data:
         # Load pre-saved pairs and labels
         train_pairs, train_labels = load_pairs_from_file(args.train_data)
@@ -317,6 +325,7 @@ if __name__ == "__main__":
         pairs_output_dir = paths.DATASET_DIR + "/../siamese_splits/"
         save_pairs_to_file(train_pairs, train_labels, pairs_output_dir + 'train_pairs.json')
         save_pairs_to_file(test_pairs, test_labels, pairs_output_dir + 'test_pairs.json')
+    
     
     model.train()  # Set the model to training mode (only necessary if you had previously set it to eval mode)
     model.to(device) # Move the model to the device
