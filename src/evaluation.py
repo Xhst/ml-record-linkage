@@ -78,7 +78,6 @@ def evaluate_siamese_model(model, dataloader, threshold=0.5, enable_prints=False
         recall (float): recall score
         f1_score (float): F1 score
     '''
-    model.eval()  # Set the model to evaluation mode
     TP, FP, FN = 0, 0, 0  # Initialize true positives, false positives, false negatives
     
     with torch.no_grad():  # Disable gradient calculation for evaluation
@@ -100,7 +99,7 @@ def evaluate_siamese_model(model, dataloader, threshold=0.5, enable_prints=False
                     TP += 1
                 # False Positive: Model predicts match but the label is 0
                 elif matches[i] == 1 and labels[i] == 0:
-                    if enable_prints and i % 10000:
+                    if enable_prints and i % 10000 == 0:
                         print(f"false positive: {matches[i], labels[i], distances[i]}")
                     FP += 1
                 # False Negative: Model predicts no match but the label is 1

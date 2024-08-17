@@ -3,7 +3,6 @@ from itertools import combinations
 import random
 import json
 import sys
-
 import pandas as pd
 from sklearn.model_selection import train_test_split
 import paths
@@ -60,8 +59,6 @@ class SiameseNetwork(nn.Module):
         x = self.relu(x)
         x = self.output_layer(x)
         
-        return x
-
         return x
     
 
@@ -336,15 +333,18 @@ if __name__ == "__main__":
     
     scheduler = ReduceLROnPlateau(optimizer, 'min', patience=3, factor=0.5)
     
+    save_every = 5
+    
     for epoch in range(args.num_epochs):
         # Generate fresh pairs for the current epoch
         
         training.train(current_epoch=epoch, epochs=args.num_epochs, enable_prints=False, print_every=100)  # Train for 1 epoch
         
-        # Save the model at the end of each epoch
-        torch.save(model.state_dict(), paths.MODELS_DIR + f"/siamese_net/siamese_model_epoch_{epoch}.pth")
-        torch.save(optimizer.state_dict(), paths.MODELS_DIR + f"/siamese_net/siamese_optimizer_epoch_{epoch}.pth")
-        print(f"\033[32mSaved model and optimizer state for epoch {epoch}\033[0m")
+        if epoch % save_every == 0:
+            # Save the model at the end of each epoch
+            torch.save(model.state_dict(), paths.MODELS_DIR + f"/siamese_net/siamese_model_epoch_{epoch}.pth")
+            torch.save(optimizer.state_dict(), paths.MODELS_DIR + f"/siamese_net/siamese_optimizer_epoch_{epoch}.pth")
+            print(f"\033[32mSaved model and optimizer state for epoch {epoch}\033[0m")
         
         # Generate new pairs for the next epoch
         filt_pairs, filt_labels = filter_negative_pairs(train_pairs, train_labels, neg_pos_ratio=2.0)
