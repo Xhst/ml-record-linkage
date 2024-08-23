@@ -3,7 +3,7 @@
 
 ## 🔎 About
 ### ⚡ Our approach on record linkage
-Our approach consist in solving the problem of record linkage using **deep learning techniques** and **Large Language Models** (LLMs). 
+Our approach consist in solving the problem of record linkage using **deep learning techniques**, **Large Language Models** (LLMs) and **Siamese Networks**. 
 
 The methodology can be summarized into four main activities: **dataset preprocessing**, **embedding data** items into a vector space, clustering for the **blocking** step and **pairwise matching** to find related entities.
 This combination aims to address the inherent challenges of record linkage, particularly its scalability and accuracy.
@@ -18,6 +18,7 @@ Clustering is used to implement the blocking step, which is essential for the sc
 The final step is pairwise matching, where we compare pairs of records within each block to verify if they represent
 the same entity. This stage leverages LLMs to perform the comparisons, using the context provided by the discriminant field used for embedding (e.g., page titles). Initially, most of the information in the discriminant field is reduced during preprocessing to standardize
 the data. However, when using an LLM for pairwise matching, having more contextual information is beneficial. Therefore, we retain the raw discriminant field data before pre-processing to provide the LLM with richer context during matching. 
+We also used Siamese neural networks, that is, a network composed of two networks with the same weights working on two different inputs and then comparing the output to determine the similarity of the two objects represented by the input vectors. The Siamese network was trained using contrastive loss.
 
 ![process](docs/images/process.png)
 
@@ -36,7 +37,7 @@ For the blocking we used different clustering algorithms, that can be found in [
 - **HDBSCAN**
 - **K-means**
 
-In the pairwise matching step we used **LLAMA3 70B** and **ChatGPT-4o**.
+In the pairwise matching step we used **LLAMA3 70B** and **ChatGPT-4o** and a **Siamese Network**.
 
 
 
