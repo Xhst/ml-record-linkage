@@ -1,4 +1,4 @@
-# ML and DL approaches for Record Linkage with unstructured data
+# Machine Learning and Deep Learning approaches for Record Linkage with unstructured data
 Group project on Record Linkage with unstructured data in the context of Big Data Integration.
 
 ## 🔎 About
