@@ -45,7 +45,7 @@ For the blocking we used different clustering algorithms, that can be found in [
 
 In the pairwise matching step we used **LLAMA3 70B** and **ChatGPT-4o** and a **Siamese Network**.
 
-### Project Structure
+### 🧬 Project Structure
 - `dataset/` Contains the raw data used for the project.
   - `2013_monitor_specs/`: Subdirectories with data from various sources of monitor specifications.
   - `ground_truth/`: Contains ground truth data for evaluation.
