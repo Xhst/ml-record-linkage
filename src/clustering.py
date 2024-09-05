@@ -8,7 +8,7 @@ from sklearn.cluster import AgglomerativeClustering
 
 def load_embeddings(file_dir, file_name):
     """
-    Carica gli embedding da un file JSON.
+    Load embeddings from a JSON file.
     """
     with open(file_dir + "/" + file_name, 'r') as f:
         embeddings = json.load(f)
@@ -16,7 +16,7 @@ def load_embeddings(file_dir, file_name):
 
 def cluster_embeddings(embeddings, algorithm, **kwargs):
     """
-    Esegue il clustering sugli embedding utilizzando l'algoritmo specificato.
+    Perform clustering on the embeddings using the specified algorithm.
     """
     embeddings_array = torch.tensor([value for value in embeddings.values()])
     if algorithm == 'hdbscan':
@@ -32,12 +32,12 @@ def cluster_embeddings(embeddings, algorithm, **kwargs):
         clusterer = AgglomerativeClustering(metric='euclidean', **kwargs)
         cluster_labels = clusterer.fit_predict(embeddings_array.numpy())
     else:
-        raise ValueError(f"Algoritmo di clustering non valido: {algorithm}")
+        raise ValueError(f"Invalid clustering algorithm: {algorithm}")
     return cluster_labels
 
 def save_clusters(item2embedding, cluster_labels, output_dir, output_file):
     """
-    Salva i risultati del clustering in un file JSON.
+    Save the clustering results to a JSON file.
     """
     print("Saving clusters to JSON...")
     clusters = {}
@@ -56,12 +56,12 @@ def save_clusters(item2embedding, cluster_labels, output_dir, output_file):
     print(f"Clusters saved successfully to " + output_dir + "/" + output_file)
 
 def main():
-    parser = argparse.ArgumentParser(description='Clustering di embedding')
-    parser.add_argument('--embeddings_dir', default='results/embeddings/', help='Directory degli embedding')
-    parser.add_argument('--embeddings_file', default='embeddings_distilbert_base_uncased.json', help='File degli embedding')
-    parser.add_argument('--algorithm', default='hdbscan', choices=['hdbscan', 'kmeans', 'dbscan', 'agglomerative'], help='Algoritmo di clustering')
-    parser.add_argument('--output_dir', default='results/clustering/hdbscan/', help='Directory di output')
-    parser.add_argument('--output_file', default='hdbscan_clusters.json', help='File di output')
+    parser = argparse.ArgumentParser(description='Embedding Clustering')
+    parser.add_argument('--embeddings_dir', default='results/embeddings/', help='Directory of embeddings')
+    parser.add_argument('--embeddings_file', default='embeddings_distilbert_base_uncased.json', help='Embeddings file')
+    parser.add_argument('--algorithm', default='hdbscan', choices=['hdbscan', 'kmeans', 'dbscan', 'agglomerative'], help='Clustering algorithm')
+    parser.add_argument('--output_dir', default='results/clustering/hdbscan/', help='Output directory')
+    parser.add_argument('--output_file', default='hdbscan_clusters.json', help='Output file')
     args = parser.parse_args()
 
     item2embedding = load_embeddings(args.embeddings_dir, args.embeddings_file)
