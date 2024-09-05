@@ -15,6 +15,21 @@ def load_item2pagetitle(file_path):
 
 
 def query_llama3(llm, title1, title2, begin: bool):
+    '''
+    Queries the LLAMA model to determine if two webpage titles represent the same object.
+    
+    Args:
+        llm (LLMModel): The LLAMA model used for inference.
+        title1 (str): The first webpage title.
+        title2 (str): The second webpage title.
+        begin (bool): Flag indicating whether to include the "<|begin_of_text|>" token in the prompt.
+    
+    Returns:
+        str: The model's response indicating whether the webpage titles represent the same object ("yes" or "no").
+    '''
+    # Construct the prompt
+    # Generate response from the LLAMA model
+    output = llm(prompt, max_tokens=30, temperature=0.15, echo=False)
     prompt = ""
     if begin:
       prompt += "<|begin_of_text|>"
@@ -46,6 +61,17 @@ def query_llama3(llm, title1, title2, begin: bool):
 
 
 def pairwise_matching(clusters: dict[str, list[str]], item2pagetitle: dict[str,str], num_clusters_to_analyze: int):
+    '''
+    Perform pairwise matching between items in the clusters.
+
+    Args:
+        clusters (dict[str, list[str]]): A dictionary containing the clusters of items.
+        item2pagetitle (dict[str,str]): A dictionary mapping item IDs to webpage titles.
+        num_clusters_to_analyze (int): The number of clusters to analyze.
+    
+    Returns:
+        dict[str, list[tuple[str,str,str]]]: A dictionary containing the matches for each cluster.
+    '''
     # for each cluster we have a list of tuples (page_title1, page_title2, match_result)
     matches: dict[str, list[tuple[str,str,str]]] = {}
     
@@ -88,10 +114,11 @@ def calculate_combinations_for_clusters(clusters):
 def main():
     clusters_file = paths.RESULTS_DIR + "/clustering/hdbscan/hdbscan_clusters.json"
     clusters: dict[str, list[str]] = load_clusters(clusters_file)
-    
+  
+    # Remove the cluster with ID "-1" because it's the cluster of outliers
     del clusters["-1"]
     
-    print(f"Calcolo delle combinazioni da effettuare (su {str(len(clusters))} cluster): {calculate_combinations_for_clusters(clusters)}")
+    print(f"Calculating the number of combinations to be performed (on {str(len(clusters))} clusters): {calculate_combinations_for_clusters(clusters)}")
     
     item2pagetitle_file = paths.RESULTS_DIR + "/preprocessing/item2pagetitle.json"
     item2pagetitle: dict[str,str] = load_item2pagetitle(item2pagetitle_file)
