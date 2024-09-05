@@ -1,7 +1,13 @@
-# linkage-project
-
+# ML and DL approaches for Record Linkage with unstructured data
+Group project on Record Linkage with unstructured data in the context of Big Data Integration.
 
 ## 🔎 About
+In the ever-expanding field of data management, one of the most critical and complex challenges is the accurate integration of datasets from multiple sources. This process, known
+as data integration, is essential for enabling comprehensive data analysis and decision-making. A fundamental step within data integration is record linkage (also known as entity resolution or entity matching), which aims to identify and merge records that refer
+to the same real-world entity despite possible differences in data format, structure, or
+quality. The accuracy of record linkage directly impacts the quality of data integration
+and, consequently, the reliability of insights derived from the data.
+
 ### ⚡ Our approach on record linkage
 Our approach consist in solving the problem of record linkage using **deep learning techniques**, **Large Language Models** (LLMs) and **Siamese Networks**. 
 
