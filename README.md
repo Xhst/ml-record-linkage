@@ -45,7 +45,19 @@ For the blocking we used different clustering algorithms, that can be found in [
 
 In the pairwise matching step we used **LLAMA3 70B** and **ChatGPT-4o** and a **Siamese Network**.
 
-
+### Project Structure
+- `dataset/` Contains the raw data used for the project.
+  - `2013_monitor_specs/`: Subdirectories with data from various sources of monitor specifications.
+  - `ground_truth/`: Contains ground truth data for evaluation.
+- `models/` Contains pre-trained models.
+  - `Llama3-70B/`: Directory for the Llama model files.
+- `results/` Contains the results of various stages of the project.
+  - `clustering/`: Results from the clustering step.
+  - `evaluation/`: Results from the evaluation step.
+  - `pairwise_matching/`: Results from the pairwise matching step.
+  - `preprocessing/`: Results from the preprocessing step.
+- `src/` Contains the source code for the project.
+  - `utils/`: Contains utility functions and scripts.
 
 ## ⬇️ Setup
 To execute the project you need the necessary libraries, in the following step we install the libraries using virtualenv but you can use a different environment.
