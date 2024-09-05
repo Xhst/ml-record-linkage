@@ -119,9 +119,21 @@ class SiameseDataset(Dataset):
         self.embeddings = {key: torch.tensor(value, dtype=torch.float) for key, value in embeddings.items()}
 
     def __len__(self):
+        '''
+        Returns the total number of samples in the dataset.
+        '''
         return len(self.pairs)
 
     def __getitem__(self, idx: int) -> tuple[tuple[torch.Tensor, torch.Tensor], int]:
+        '''
+        Fetches a single sample (pair and label) from the dataset.
+
+        Args:
+            idx (int): Index of the sample to retrieve.
+        
+        Returns:
+            tuple: A tuple containing the input tensors for the pair and the corresponding label.
+        '''
         try:
             pair = (self.embeddings[self.pairs[idx][0]], self.embeddings[self.pairs[idx][1]])
         except KeyError as e:
@@ -134,6 +146,15 @@ class SiameseDataset(Dataset):
 
 class SiameseTraining:
     def __init__(self, model: nn.Module, dataloader: DataLoader, criterion: nn.Module, optimizer: torch.optim.Optimizer):
+        '''
+        Initializes the training procedure for the siamese network.
+
+        Args:
+            model (nn.Module): The siamese network model.
+            dataloader (DataLoader): DataLoader for training data.
+            criterion (nn.Module): Loss function to use during training.
+            optimizer (torch.optim.Optimizer): Optimizer to update model parameters.
+        '''
         self.model = model
         self.dataloader = dataloader
         self.criterion = criterion
@@ -141,41 +162,75 @@ class SiameseTraining:
         
 
     def train(self, current_epoch: int, epochs: int, enable_prints: bool = True, print_every: int = 10):
+        '''
+        Train the siamese network for one epoch.
+
+        Args:
+            current_epoch (int): The current epoch number.
+            epochs (int): Total number of epochs to train the model.
+            enable_prints (bool): If True, print loss during training.
+            print_every (int): Print the loss every 'print_every' steps.
+        '''
         total_loss = 0.0
         for i, data in enumerate(self.dataloader):
             (input1, input2), labels = data
             
+             # Move data to the selected device (CPU/GPU)
             input1 = input1.to(device)
             input2 = input2.to(device)
             labels = labels.to(device)
             
+            # Reset gradients
             self.optimizer.zero_grad()
             
+            # Forward pass through the model
             output1, output2 = self.model(input1, input2)
+            
+            # Compute loss
             loss = self.criterion(output1, output2, labels)
             
+            # Backward pass and optimization
             loss.backward()
             self.optimizer.step()
             
             total_loss += loss.item()
             
+            # Print loss at intervals if enabled
             if enable_prints and i % print_every == 0:
                 print(f'Epoch [{current_epoch + 1}/{epochs}], Item [{i}/{len(self.dataloader)}], Loss: {loss.item():.6f}')
         
         avg_loss = total_loss / len(self.dataloader)
         
+        # Adjust learning rate based on loss
         scheduler.step(avg_loss)
         
         print(f'\033[32mEpoch [{current_epoch + 1}/{epochs}], Avg Loss: {avg_loss:.6f}\033[0m')
 
 
 def load_pairs_from_file(file_path: str) -> tuple[list[tuple[str, str]], list[int]]:
+    '''
+    Load pairs of entities and their labels from a JSON file.
+
+    Args:
+        file_path (str): Path to the JSON file containing pairs and labels.
+    
+    Returns:
+        tuple: Tuple containing lists of pairs and their labels.
+    '''
     with open(file_path, 'r') as f:
         data = json.load(f)
     return data['pairs'], data['labels']
 
 
 def save_pairs_to_file(pairs: list[tuple[str, str]], labels: list[int], file_path: str):
+    '''
+    Save pairs of entities and their labels to a JSON file.
+
+    Args:
+        pairs (list[tuple[str, str]]): List of pairs of entities.
+        labels (list[int]): List of labels corresponding to the pairs.
+        file_path (str): Path to save the JSON file.
+    '''
     with open(file_path, 'w') as f:
         json.dump({'pairs': pairs, 'labels': labels}, f, indent=4)
 
@@ -218,6 +273,22 @@ def filter_negative_pairs(pairs: list[tuple[str, str]], labels: list[int], neg_p
 
 
 def split_data(pos_pairs: list[tuple[str, str]], neg_pairs: list[tuple[str, str]], test_size=0.2) -> tuple[list[tuple[str, str]], list[int], list[tuple[str, str]], list[int]]:
+    '''
+    Splits the positive and negative pairs into training and testing sets, maintaining 
+    a balance between positive and negative examples in both sets.
+
+    Args:
+        pos_pairs (list[tuple[str, str]]): List of positive pairs (e.g., similar entities).
+        neg_pairs (list[tuple[str, str]]): List of negative pairs (e.g., dissimilar entities).
+        test_size (float): Fraction of the dataset to be used as the test set. Default is 0.2.
+
+    Returns:
+        tuple: 
+            - train_pairs (list[tuple[str, str]]): List of training pairs.
+            - train_labels (list[int]): List of labels corresponding to training pairs (1 for positive, 0 for negative).
+            - test_pairs (list[tuple[str, str]]): List of test pairs.
+            - test_labels (list[int]): List of labels corresponding to test pairs (1 for positive, 0 for negative).
+    '''
     # Split positive pairs
     pos_train, pos_test = train_test_split(pos_pairs, test_size=test_size, random_state=42)
     # Split negative pairs
