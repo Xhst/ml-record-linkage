@@ -1,7 +1,7 @@
 # Machine Learning and Deep Learning approaches for Record Linkage with unstructured data
 Group project on Record Linkage with unstructured data in the context of Big Data Integration.
 
-**[📄 Learn more reading the project paper (PDF)](ML_and_DL_approaches_for_Record_Linkage_with_unstructured_data.pdf)**
+**[📄 Read the project paper (PDF)](ML_and_DL_approaches_for_Record_Linkage_with_unstructured_data.pdf)**
 
 ## 🔎 About
 In the ever-expanding field of data management, one of the most critical and complex challenges is the accurate integration of datasets from multiple sources. This process, known
